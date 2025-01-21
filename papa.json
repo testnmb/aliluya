@@ -2,9 +2,7 @@
 "spider": "./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",   
 "sites":[
-{"key":"Taohuazu","name":"🇨🇳🍑🌸族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"./jar/pg-18.jar"}, 
-{"key": "BtSearch","name": "🇨🇳BT搜索","type": 3,"api": "csp_BtSearch","searchable": 1,"changeable": 1,"timeout": 60,"ext": "null$$$null$$$1","jar":"./jar/pg-18.jar"},
-{"key": "BtSow","name": "🇨🇳BTSow","type": 3,"api": "csp_BtSow","searchable": 1,"changeable": 1,"timeout": 60,"ext": "null$$$null$$$1","jar":"./jar/pg-18.jar"}, 
+
 {"key": "jable",
             "name": "💃jable| XBPQ",
             "type": 3,
