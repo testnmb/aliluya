@@ -32,6 +32,57 @@
             "嗅探词":".m3u8#.mp4",
             "页面代理":"127.0.0.1:10072"
              }},
+			 
+			 
+		{"key":"duominiao","name":"多米尼奥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+     
+        "主页url":"https://dmnio.com/dmnshow/20-----------.html",
+        "数组": "<div class=\"v-pic&&</a >",
+        "图片": "data-src=\"&&\"",
+        "图片代理": "1",
+        "标题": "title=\"&&\"",
+        "副标题": "v-tips\">&&</div>",
+        "简介": "description\" content=\"&&\"",
+        "链接": "href=\"/dmndetail/&&.html\"",
+        "链接前缀": "https://dmnio.com/dmnplay/",
+        "链接后缀": "-1-1.html",
+        "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+        "搜索url": "https://dmnio.com/dmnsearch/{wd}----------{pg}---.html",
+        "分类url": "https://dmnio.com/dmnshow/{cateId}--{by}------{catePg}---.html;;z",
+        "分类": "新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#素人视角$27#动漫卡通$28#山寨明星$29"}},	 
+			 
+			 
+			 
+		{"key":"xijingren","name":"西京热","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+     
+        "主页url":"https://xikyo.com/xikyshow/20-.html",
+        "数组": "<div class=\"v-pic&&</a >",
+        "图片": "data-src=\"&&\"",
+        "图片代理": "1",
+        "标题": "title=\"&&\"",
+        "副标题": "v-tips\">&&</div>",
+        "简介": "description\" content=\"&&\"",
+        "链接": "href=\"/xikydetail/&&.html\"",
+        "链接前缀": "https://dmnio.com/xikyplay/",
+        "链接后缀": "-1-1.html",
+        "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+        "搜索url": "https://xikyo.com/xikysearch/{wd}-{pg}.html",
+        "分类url": "https://xikyo.com/xikyshow/{cateId}-{catePg}/by/{by}.html;;z",
+        "分类": "新品日韩$20#中文字幕$21#本土风情$22#豪乳大胸$23#剧情好片$24#完美制服$25#风情人妻$26#无码一区$27#动漫卡通$28#名人系列$29"}},	 		 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
 {"key": "四虎","name": "🔞四虎影院","type": 3,"api": "csp_XBPQ","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
                 "站名": "四虎影院",
                 "主页url": "https://www.u49ab4.com/Enter/home.html",
@@ -254,7 +305,6 @@
 			
 			
 			
-			
 	{"key":"东京淫朕","name":"东京淫朕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
             "发布地址":"https://xn--di-wu2c.diwang02.top/123/?referrer=https%3A%2F%2Fyise23.xyz%2F",
              "请求头": "User-Agent$MOBILE_UA",
@@ -430,7 +480,7 @@
 //{"key": "ROU223","name": "🔞223ROU | 视频","type": 3,"api": "csp_ROU223","searchable": 0,"filterable": 1,"jar": "./jar/182.jar"},
 {"key": "Theporn","name": "🔞Theporn","type": 3,"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","searchable": 1,"changeable": 1,"timeout": 60,"style": {"type": "rect","ratio": 1.5},"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/theporn.js"},
 
-{"key":"努可影院","name":"🔞多米尼奥","type":3,"api":"csp_XBPQ","jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://dmnio.com/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://dmnio.com/dmnsearch/{wd}----------{catePg}---.html","分类url":"https://dmnio.com/dmnshow/{cateId}--{by}------{catePg}---.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#素人视角$27#动漫卡通$28#名人系列$29"}},
+//{"key":"努可影院","name":"🔞多米尼奥","type":3,"api":"csp_XBPQ","jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://dmnio.com/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://dmnio.com/dmnsearch/{wd}----------{catePg}---.html","分类url":"https://dmnio.com/dmnshow/{cateId}--{by}------{catePg}---.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#素人视角$27#动漫卡通$28#名人系列$29"}},
 
 {"key":"沙咖影院","name":"🔞沙咖影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://sar.sarga.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
 
