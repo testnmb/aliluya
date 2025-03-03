@@ -74,12 +74,7 @@
 			 
 			 
 			 
-			 
-			 
-			 
-			 
-			 
-			 
+	 
 			 
 			 
 			 
@@ -153,16 +148,7 @@
                 "链接": "href=\"&&\"",
                 "分类url": "https://777080.xyz/category/{cateId}/page/{catePg}/?filter={by};;z",
                 "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"}},
-  {"key": "wantav","name": "🔞wantav","type": 3,"api": "csp_XBPQ","style":{"type": "rect","ratio": 1.5},"ext": {
-                "主页url": "https://www.wantav.com/",
-                "数组": "class=\"video-img-box&&</p>",
-                "图片": "data-src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "</i>&&</span>",
-                "链接": "href=\"&&\"",
-                "简介": "少看点，再看你就废了！！！",
-                "分类url": "https://www.wantav.com/index/getStyleMvs/id/{cateId}/sort/{by}/page/{catePg}",
-                "分类": "角色剧情$2#中午字幕$3#主奴調教$7#直接開啪$5#無碼解放$11#中字動漫$中字動漫"}},
+ 
 {"key": "NiceAv","name": "🔥NiceAv","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
         "主页url": "https://www.nicetv820.cyou/",
         "图片": "src=\"&&\"",
@@ -381,6 +367,28 @@
         //"分类ID":"/vod/type/id/&&/",
 		"分类ID":"/vod/type/id/&&/",
         "分类url":"https://www.ttdao6613.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}},
+		
+		
+{"key": "乱伦","name": "🔞乱伦伊甸园","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {  
+       
+	  "主页url": "https://yang.llydycc10.lat/rk.php?shareName=tr54xsf2",  
+	  "数组": "<div class=\"item&&</a",  
+	  "图片": "data-src=\"&&\"",  
+	  "标题": "<strong>&&</strong>",  
+	  "副标题": "<em>&&</em", 
+	  "简介": "description\" content=\"&&剧情", 
+	  "链接": "https://yang.llydycc10.lat/rk.php/vod/play/id/+href=\"/rk.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+	  "跳转播放链接": "urlDecode(var player_*url\":\"&&\")", 
+	  "搜索模式": "1", 
+	  "搜索url": "https://yang.llydycc10.lat/rk.php/vod/search/wd/{wd}.html",
+	   //"搜索url": "https://yudiewfed-82.luanlxsf001.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
+	  "分类数组": "<a&&/a", 
+	  "分类标题": ">&&<",  
+	  "分类ID": "/index.php/vod/type/id/&&.html", 
+	  "分类url": "https://yang.llydycc10.lat/rk.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},	
+		
+		
+		
 
 {"key": "暗网色库","name": "🔞暗网","type": 3,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
     "主页url": "https://awjqub.sbs/layout.html",
