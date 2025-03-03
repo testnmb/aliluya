@@ -395,7 +395,7 @@
        
 	  "主页url": "https://omoav.com/",  
 	  "数组": "<div class=\"item thumb&&</a",  
-	  "图片": "data-src=\"&&\"",  
+	  "图片": "data-original=\"&&\"",  
 	  "标题": "title=\"&&\"",  
 	  "副标题": "class=\"icon-calendar&&</span>", 
 	  "简介": "description\" content=\"&&剧情", 
