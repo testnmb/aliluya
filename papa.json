@@ -34,8 +34,9 @@
              }},
 			 
 			 
-		{"key":"duominiao","name":"多米尼奥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-     
+		{"key":"duominiao","name":"多米尼奥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+		"ext":
+		{
         "主页url":"https://dmnio.com/dmnshow/20-----------.html",
         "数组": "<div class=\"v-pic&&</a>",
         "图片": "img data-src=\"&&\"",
@@ -69,7 +70,7 @@
         "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/;;a",
         "分类": "中国$china-av#日本$japan-producer#素人自拍$amateur#台湾$taiwan#野外露出$exhibitionists#无码$uncensored#主播$streamer"
       }
-    }	 
+    },	 
 			 
 		{"key":"xijingren","name":"西京热","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
      
@@ -192,8 +193,8 @@
         "简介": "⚠️慢点撸，皮要掉了！！！",
         "分类url": "https://www.nicetv820.cyou/index.php/vod/type/id/{cateId}.html",
         "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"}},
-		{
-			"key": "AVgle",
+		
+		{"key": "AVgle",
 			"name": "🔞AVgle",
 			"type": 3,
 			"api": "csp_XBPQ",
@@ -206,9 +207,8 @@
 				"主页url": "https://av.gl/",
 				"数组": "<a&&/a",
 				"分类url": "https://av.gl/avtype/{cateId}-{catePg}.html;;z",
-				"分类": "日本有码$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
-			}
-		},
+				"分类": "日本有码$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"}},
+
 {"key": "csp_XYQHiker_pornlulu","name": "pornlulu(科学上网)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
     "规则名": "PPT",
     "请求头参数": "MOBILE_UA",
@@ -282,6 +282,7 @@
   "分类标题":">&&<",
   "分类ID":"/t/&&/",
   "分类url":"https://51heiliaofulishe.com/t/{cateId}-{catePg}/;;z"}},
+  
 {"key":"91黑料福利社","name":"91高清黑料","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
             "发布地址":"https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
             "主页url":"https://fwir--mooghoiviequ.91gaoqingheiliao-0ddd000.click/map",
@@ -574,7 +575,18 @@
 
 //{"key":"努可影院","name":"🔞多米尼奥","type":3,"api":"csp_XBPQ","jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://dmnio.com/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://dmnio.com/dmnsearch/{wd}----------{catePg}---.html","分类url":"https://dmnio.com/dmnshow/{cateId}--{by}------{catePg}---.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#素人视角$27#动漫卡通$28#名人系列$29"}},
 
-{"key":"沙咖影院","name":"🔞沙咖影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://sar.sarga.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
+{"key":"沙咖影院","name":"🔞沙咖影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":{"数组":"stui-vodlist__thumb lazyload&&</a",
+"图片":"data-original=\"&&\"","图片代理":"1",
+"副标题":"pic-text text-right\">&&</span>",
+"简介":"description\" content=\"&&\"",
+"链接":"href=\"/voddetail/&&.html\"",
+"链接前缀":"https://sar.sarga.cc/vodplay/",
+"链接后缀":"-1-1.html",
+"跳转播放链接":"urlDecode(var player*url\":\"&&\")",
+"搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html",
+"分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z",
+"分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
 
 
 
@@ -748,7 +760,15 @@
 "分类url":"https://equohj-fo9quie-equohj.qoqavideo7y1m2w.xyz/vodtype/{cateId}-{catePg}/"}},
           
     
-  {"key":"花影视","name":"🔞色花堂","type":3,"api":"csp_XBPQ","jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","ext":{"数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>","图片": "data-original=\"&&\"","标题": "<h6 class=\"title\"><a href=*>&&</a>","播放数组":"class=\"item line\">&&</div>","线路数组":"class=\"item line\">&&</div>","分类url":"https://www.2mrb4d.com/typegaokk/{cateId}_{catePg}.html[https://www.2mrb4d.com/typegaokk/{cateId}.html]","分类":"日韩$2#巨乳$7#中文$4#口交$8#制服$9#无码$11#精品女优$18#人妻$19#独家$22#潮吹$24#三级综艺$12#首次少女$23"}},
+  {"key":"花影视","name":"🔞色花堂","type":3,"api":"csp_XBPQ",
+  "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+  "ext":{"数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>",
+  "图片": "data-original=\"&&\"",
+  "标题": "<h6 class=\"title\"><a href=*>&&</a>",
+  "播放数组":"class=\"item line\">&&</div>",
+  "线路数组":"class=\"item line\">&&</div>",
+  "分类url":"https://www.2mrb4d.com/typegaokk/{cateId}_{catePg}.html[https://www.2mrb4d.com/typegaokk/{cateId}.html]",
+  "分类":"日韩$2#巨乳$7#中文$4#口交$8#制服$9#无码$11#精品女优$18#人妻$19#独家$22#潮吹$24#三级综艺$12#首次少女$23"}},
   
        
         
