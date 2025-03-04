@@ -70,7 +70,22 @@
         "分类url": "https://xikyo.com/xikyshow/{cateId}-{catePg}/by/{by}.html;;z",
         "分类": "新品日韩$20#中文字幕$21#本土风情$22#豪乳大胸$23#剧情好片$24#完美制服$25#风情人妻$26#无码一区$27#动漫卡通$28#名人系列$29"}},	 		 
 			 
-			 
+	  {
+      "key": "yubanghanzhu",
+      "name": "🔞玉蚌含珠",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://m3n4o5p6.ybhz20.buzz/vodtype/{cateId}-{catePg}/",
+        "分类": "国产传媒$1#国产剧情$2#中文字幕$15#日本有码$43#中文字幕$41#AV解说$55#欧美无码$45#天美传媒$23#无码中文$144#伦理三级$54",
+        "搜索模式": "1",
+        "数组": "class=\"video-pic loading\"&&</a>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "副标题": "note text-bg-r\">&&<",
+        "直接播放":"1"
+      }
+    },		 
 			 
 			 
 			 
@@ -330,7 +345,7 @@
 			
 			
 {"key":"18yiren.tv","name":"18伊人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-"主页url":"https://www.66rrqq.com/",
+"主页url":"https://www.66rrpp.com/",
 "数组":"class=\"thumbnail\"&&</a></h5>",
 //"数组":"<a&&</a>",
 "图片":"src=\"&&\"",
@@ -344,11 +359,33 @@
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
 "简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
-"搜索url":"https://www.66rrqq.com/se/seach/index.php;post;keyboard={wd}",
+"搜索url":"https://www.66rrpp.com/se/seach/index.php;post;keyboard={wd}",
 "分类":"中文字幕$zhongwenzimu#亚洲无码$yazhouqingseAV#欧美情色$oumeiqingseAV#卡通动漫$katongdongman#自拍视频$zipaishipin#同性人妖$tongxingAV",
-"分类url":"https://www.66rrqq.com/se/{cateId}/index_{catePg}.html[https://www.66rrqq.com/se/{cateId}/]"}},
+"分类url":"https://www.66rrpp.com/se/{cateId}/index_{catePg}.html[https://www.66rrpp.com/se/{cateId}/]"}},
 				
 			
+{"key":"i18av","name":"I18AV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+"主页url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/oaoaoa/",
+"数组":"class=\"thumbnail\"&&</a></h5>",
+//"数组":"<a&&</a>",
+"图片":"src=\"&&\"",
+"标题":"alt=\"&&\"",
+"副标题":" <p>&&</p>",
+"链接":"href=\"&&\"",
+"线路数组":"<div class=\"video-info\">&&\">",
+"线路标题":"title=\"&&",
+"播放数组":"<ul class=\"detail-play-list&&</li>",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+"播放链接":"href=\"&&\"",
+"简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
+"搜索url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodsearch/----------{pg}---/?wd={wd}",
+"分类":"中文字幕$52#日本无码$50#日本有码$51#国产情色$49#强奸乱伦$55#童颜巨乳$59",
+"分类url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodtype/{cateId}-{catePg}/[https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodtype/{cateId}/]"}},
+
+
+
+
 			
 			
 			
