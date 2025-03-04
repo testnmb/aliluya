@@ -38,13 +38,13 @@
      
         "主页url":"https://dmnio.com/dmnshow/20-----------.html",
         "数组": "<div class=\"v-pic&&</a >",
-        "图片": "data-src=\"&&\"",
+        "图片": "img data-src=\"&&\"",
         "图片代理": "1",
-        "标题": "title=\"&&\"",
+        "标题": "alt=\"&&\"",
         "副标题": "v-tips\">&&</div>",
         "简介": "description\" content=\"&&\"",
         "链接": "href=\"/dmndetail/&&.html\"",
-        "链接前缀": "https://dmnio.com/dmnplay/",
+        "链接前缀": "https://dmnio.com",
         "链接后缀": "-1-1.html",
         "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
         "搜索url": "https://dmnio.com/dmnsearch/{wd}----------{pg}---.html",
@@ -360,7 +360,7 @@
 "播放链接":"href=\"&&\"",
 "简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
 "搜索url":"https://www.66rrpp.com/se/seach/index.php;post;keyboard={wd}",
-"分类":"中文字幕$zhongwenzimu#亚洲无码$yazhouqingseAV#欧美情色$oumeiqingseAV#卡通动漫$katongdongman#自拍视频$zipaishipin#同性人妖$tongxingAV",
+"分类":"中文字幕$zhongwenzimu#亚洲无码$yazhouqingseAV#欧美情色$oumeiqingseAV#卡通动漫$katongdongman#自拍视频$zipaishipin",
 "分类url":"https://www.66rrpp.com/se/{cateId}/index_{catePg}.html[https://www.66rrpp.com/se/{cateId}/]"}},
 				
 			
