@@ -82,7 +82,7 @@
         "副标题": "v-tips\">&&</div>",
         "简介": "description\" content=\"&&\"",
         "链接": "href=\"/xikydetail/&&.html\"",
-        "链接前缀": "https://dmnio.com/xikyplay/",
+        "链接前缀": "https://dmnio.com",
         "链接后缀": "-1-1.html",
         "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
         "搜索url": "https://xikyo.com/xikysearch/{wd}-{pg}.html",
@@ -103,12 +103,8 @@
         "图片": "data-original=\"&&\"",
         "副标题": "note text-bg-r\">&&<",
         "直接播放":"1"
-      }
-    },		 
+      } },		 
 			 
-			 
-			 
-	 
 			 
 			 
 			 
@@ -159,6 +155,7 @@
     "分类标题": ">&&<",
     "分类ID": "/go/index.php/vod/type/id/&&.html",
     "分类url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+	
 //{"key": "XMVideo","name": "🔞熊猫视频","type": 3,"api": "csp_XMVideo","searchable": 1,"filterable": 1,"jar": "./jar/182.jar"},
 {"key": "av影视","name": "🔞av影视|XBPQ","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
       "图片": "data-src=\"&&\"",
@@ -432,7 +429,7 @@
         "分类url":"https://www.ttdao6613.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}},
 		
 		
-{"key": "乱伦","name": "🔞乱伦伊甸园","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {  
+{"key": "伊甸园","name": "🔞伊甸园","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {  
        
 	  "主页url": "https://yang.llydycc10.lat/rk.php",  
 	  "数组": "<div class=\"item&&</a",  
@@ -451,7 +448,7 @@
 	  "分类url": "https://yang.llydycc10.lat/rk.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},	
 	  
 	  
-	  {"key": "乱伦11","name": "🔞omoav","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {  
+	  {"key": "omoav","name": "🔞omoav","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {  
        
 	  "主页url": "https://omoav.com/",  
 	  "数组": "<div class=\"item thumb&&</a",  
