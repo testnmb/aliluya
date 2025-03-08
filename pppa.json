@@ -440,10 +440,10 @@
 
     {"key":"房中秘术","name":"房中秘术","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
 "主页url":"https://c9d0e1f2.fzms54.buzz/topic/",
-"数组":"class=\"thumbnail\"&&</a>",
+"数组":"class=\"thumbnail\"&&</a></h5>",
 //"数组":"<a&&</a>",
-"图片":"src=\"&&\"",
-"标题":"alt=\"&&\"",
+"图片":"data-original=\"&&\"",
+"标题":">&&</a>",
 "副标题":"video-grade\">&&</span>",
 "链接":"href=\"&&\"",
 "线路数组":"<ul class=\"detail-tab&&</ul>",
