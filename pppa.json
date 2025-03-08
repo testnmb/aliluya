@@ -438,7 +438,24 @@
 "分类url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodtype/{cateId}-{catePg}/[https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodtype/{cateId}/]"}},
 
 
-
+    {"key":"房中秘术","name":"房中秘术","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+"主页url":"https://c9d0e1f2.fzms54.buzz/topic/",
+"数组":"class=\"thumbnail\"&&</a>",
+//"数组":"<a&&</a>",
+"图片":"src=\"&&\"",
+"标题":"alt=\"&&\"",
+"副标题":"video-grade\">&&</span>",
+"链接":"href=\"&&\"",
+"线路数组":"<ul class=\"detail-tab&&</ul>",
+"线路标题":"<a&&/a>",
+"播放数组":"<ul class=\"detail-play-list&&</ul>",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+"播放链接":"href=\"&&\"",
+"简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
+"搜索url":"https://c9d0e1f2.fzms54.buzz/vodsearch/-------------.html?wd={wd}",
+"分类":"国产传媒$1#国产剧情$2#必射精选$3#精品资源$4#特色仓库$5#中文字幕$6",
+"分类url":"https://c9d0e1f2.fzms54.buzz/vodtype/{cateId}-{catePg}.html"}},
 
 			
 			
@@ -499,93 +516,9 @@
 	  "分类": "精品视频$1#日韩精品$2#国产视频$20#中文字幕$13#日本有码$14#AV解说$16#国产精品$26", 
 	  "分类url": "https://omoav.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"}},	
 		
-	{
-      "key": "lijav",
-      "name": "💕LiJav",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      },
-      "ext": {
-        "直接播放": 1,
-        "主页url": "https://lijav.com/",
-        "数组": "div[class=\"swiper-slide common_video_swiper_item\"]&&</div>",
-        "图片": "div[class=\"withRatio _cover\"]&&",
-        "标题": "div[class=\"homecoverheader_1_title\"]&&</div>",
-        "链接": "a[class=\"homecoverheader_1_item\"] href=\"&&\"",
-        "简介": "div[class=\"homecoverheader_1_overlay\"]&&",
-        "发布日期": "div[class=\"homecoverheader_1_date\"]&&</div>",
-        "线路数组": "div[class=\"swiper-slide common_video_swiper_item\"]&&</div>",
-        "线路标题": "div[class=\"homecoverheader_1_title\"]&&</div>",
-        "分类url": "https://lijav.com/{cateId}/{catePg}.html",
-        "分类": "主頁$home/1#最受歡迎$popular/2#搜尋$search/3#全部$all/4#有碼影片$coded/5#無碼影片$uncoded/6#中文字幕$subtitles/7#類別$categories/8#女優$actresses/9#我的片單$mylist/10"
-      }
-    },  
-	  
-	  {
-      "key": "AVTOP10",
-      "name": "🔞AVTOP10",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "页面代理": "127.0.0.1:10172",
-        "主页url": "https://avtop10.com/",
-        "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#authority$avtop10.com#referer$https://avtop10.com/",
-        "分类": "最新影片&热门影片&高清影片&日本AV&欧美AV&动漫AV&中文字幕AV&无码AV&偷拍自拍&制服诱惑&人妻熟女&巨乳美乳&制服诱惑&学生校园&SM调教&网络红人&3P群交&乱伦家庭&强奸迷奸&性爱技巧&自慰诱惑",
-        "分类值": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&21",
-        "分类url": "https://avtop10.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
-        "数组二次截取": "list\":[&&]",
-        "数组": "{&&}",
-        "图片": "vod_pic\"*\"&&\"",
-        "标题": "vod_name\"*\"&&\"",
-        "副标题": "vod_remarks\"*\"&&\"",
-        "链接": "https://avtop10.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
-        "搜索url": "https://avtop10.com/api.php/provide/vod/?ac=detail&wd={wd}",
-        "搜索模式": "1",
-        "搜索二次截取": "list\":[&&]",
-        "搜索数组": "{&&}",
-        "搜索图片": "vod_pic\"*\"&&\"",
-        "搜索标题": "vod_name\"*\"&&\"",
-        "搜索副标题": "vod_remarks\"*\"&&\"",
-        "搜索链接": "https://avtop10.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
-        "影片类型": "vod_class\"*\"&&\"",
-        "导演": "vod_director\"*\"&&\"",
-        "主演": "vod_actor\"*\"&&\"",
-        "简介": "vod_content\"*\"&&\"",
-        "线路二次截取": "\"list\":[&&]",
-        "线路数组": "\"vod_play_from\":&&,",
-        "线路标题": "\"&&\"",
-        "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
-        "播放二次截取": "",
-        "播放列表": "表&&表",
-        "播放标题": "题&&题",
-        "播放链接": "链&&链+?sku=OWY3ZDA4ZjVjYzY3YmRhYjM5NTUwYzEyZWRjNjUyZWM1NjQ2ZGRjYTVhMGVkM2Nh&p=1&sign=9a69d1563936ead3677623722660c4d9",
-        "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://avtop10.com/#Cookie$PHPSESSID=t9a0fl2ngh4t175j3995v2669d",
-        "嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com"
-      }
-    }, 
+	
 		
-	 {
-      "key": "2028天天看",
-      "name": "🔞2028天天看",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "简介": "class=\"active\" style=\"width:70%;\">&&</li>",
-        "链接": "href=\"&&\"",
-        "直接播放": "1",
-        "搜索url": "http://2028p.com/vodsearch/----------{pg}---.html?wd={wd}&submit=;;RC",
-        "分类": "无码$1#中文av$6#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#有码$4#日韩$9#自拍自慰$10#动漫$5#3P和sm$11#口交颜射$12#写真伦理$13",
-        "分类url": "http://2028p.com/vodtype/{cateId}-{catePg}/[http://2028p.com/vodtype/{cateId}/]"
-      }
-    },	
-		
+	
 
 {"key": "暗网色库","name": "🔞暗网","type": 3,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
     "主页url": "https://awjqub.sbs/layout.html",
