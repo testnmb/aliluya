@@ -504,12 +504,12 @@
 	  {"key": "omoav","name": "🔞omoav","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {  
        
 	  "主页url": "https://omoav.com/",  
-	  "数组": "<div class=\"item thumb&&</a",  
+	  "数组": "<div class=\"item thumb&&</div>",  
 	  "图片": "data-original=\"&&\"",  
 	  "标题": "title=\"&&\"",  
-	  "副标题": "class=\"icon-calendar&&</span>", 
+	  "副标题": "<span>&&</span>", 
 	  "简介": "description\" content=\"&&剧情", 
-	  "链接": "https://omoav.com/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+	  "链接": "https://omoav.com/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
 	  "跳转播放链接": "urlDecode(var player_*url\":\"&&\")", 
 	  "搜索模式": "1", 
 	  "搜索url": "https://omoav.com/index.php/vod/search.html?wd=",
