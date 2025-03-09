@@ -173,7 +173,7 @@
                 "数组": "<dt class=\"preview-item&&</dl>",
                 "二次截取": "",
                 //"图片": "data-original=\"&&.txt\"+.jpg",
-				 "图片": "data-original=\"&&"",
+			      "图片": "data-original=\"&&\"",
                 "标题": "Base64((d('&&'));</script>",
 			
                 "副标题": "",
