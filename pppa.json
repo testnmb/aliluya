@@ -149,14 +149,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "数组": "class=\"col-6 col-sm-4 col-lg-12\&&</div>",
+        "数组": "class=\"col-6 col-sm-4 col-lg-12\">&&</div>",
         "图片": "data-src=\"&&\"",
         "链接": "href=\"&&\"",
-		
+		"副标题":"<div class=\"duration\">&&</div>",
         "链接前缀": "https://123av.com/zh/",
         "简介": "class=\"detail\">&&</a>",
         "播放数组": "class=\"col&&</div>",
-        "播放链接": "iframe*src=\"&&\"",
+        "播放链接": "src=\"&&\"",
         "直接播放": "1",
         "搜索url": "https://123av.com/zh/search?keyword={wd}",
         "分类url": "https://123av.com/zh/{cateId}?page={catePg}",
