@@ -115,6 +115,30 @@
       } },		 
 			 
 	
+    {
+      "key": "我爱AV",
+      "name": "WO❤️AV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
+        "副标题": "span class=\"pic-text text-right\">&&</p",
+        "线路数组": "<li&&</li>",
+        "线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
+        "播放标题": ">&&</a",
+        "搜索模式": "1",
+        "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+        "分类数组": "<li&&</li>",
+        "分类标题": ">&&</a",
+        "分类ID": "/vodtype/&&.html",
+        "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
+      }
+    },
 	 
 			 
 			 
@@ -195,13 +219,24 @@
                 "分类url": "https://soav888.cfd/{cateId}/page/{catePg}/?filter={by};;z",
                 "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"}},
  
-{"key": "NiceAv","name": "🔥NiceAv","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
+{"key": "NiceAv1","name": "🔥NiceAv-a","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
         "主页url": "https://www.nicetv820.cyou/",
         "图片": "data-src=\"&&\"",
         "简介": "⚠️慢点撸，皮要掉了！！！",
-        //"分类url": "https://www.nicetv820.cyou/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+        
 		"分类url": "https://www.nicetv820.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
         "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"}},
+		
+		{"key": "NiceAv2","name": "🔥NiceAv-b","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
+        "主页url": "https://www.nicetv820.cyou/",
+        "图片": "data-src=\"&&\"",
+        "简介": "⚠️慢点撸，皮要掉了！！！",
+        "分类url": "https://www.nicetv820.cyou/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+	
+        "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"}},
+		
+		
+		
 		
 		{"key": "AVgle",
 			"name": "🔞AVgle",
