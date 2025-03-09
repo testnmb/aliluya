@@ -140,6 +140,29 @@
       }
     },
 	 
+	 {
+      "key": "csp_njav",
+      "name": "🔞123av",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "数组": "class=\"col-6 col-sm-4 col-lg-12\">&&</div>",
+        "图片": "data-src=\"&&\"",
+        "链接": "href=\"&&\"",
+		"副标题":"<div class=\"duration\">&&</div>",
+        "链接前缀": "https://123av.com/zh/",
+        "简介": "class=\"detail\">&&</a>",
+        "播放数组": "class=\"col&&</div>",
+        "播放链接": "iframe*src=\"&&\"",
+        "直接播放": "1",
+        "搜索url": "https://123av.com/zh/search?keyword={wd}",
+        "分类url": "https://123av.com/zh/{cateId}?page={catePg}",
+        "分类": "全新上市$dm2/new-release#最近更新$dm2/recent-update#推荐影片$dm2/recommended#vr影片$dm2/vr#今日热门$dm2/oday-hot#本周热门$dm2/weekly-hot#本月热门$dm2/monthly-hot"
+      }
+    },
 			 
 			 
 			 
