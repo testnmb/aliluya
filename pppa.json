@@ -52,7 +52,7 @@
       "播放链接": "href=\"&&\"",
       "播放标题": ">&&</a>",
 
-    
+       "跳转播放链接": "var player_*\"url\":\"&&\"",
         "搜索url": "https://dmnio.com/dmnsearch/-------------.html",
         "分类url": "https://dmnio.com/dmnshow/{cateId}--{by}------{catePg}---.html;;z",
         "分类": "新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#素人视角$27#动漫卡通$28#山寨明星$29"}},	 
@@ -149,15 +149,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "数组": "class=\"col-6 col-sm-4 col-lg-12\">&&</div>",
+		 "主页url":"https://123av.com/zh/dm5",
+        "数组": "class=\"box-item\">&&</div></div>",
         "图片": "data-src=\"&&\"",
         "链接": "href=\"&&\"",
 		"副标题":"<div class=\"duration\">&&</div>",
         "链接前缀": "https://123av.com/zh/",
         "简介": "class=\"detail\">&&</a>",
-        "播放数组": "class=\"col&&</div>",
-        "播放链接": "src=\"&&\"",
-        "直接播放": "1",
+        "播放数组": "class=\"mr-3&&</div>",
+		"播放标题": "<h1>&&</h1>",
+        //"播放链接": "src=\"&&\"",
+        //"直接播放": "1",
         "搜索url": "https://123av.com/zh/search?keyword={wd}",
         "分类url": "https://123av.com/zh/{cateId}?page={catePg}",
         "分类": "全新上市$dm2/new-release#最近更新$dm2/recent-update#推荐影片$dm2/recommended#vr影片$dm2/vr#今日热门$dm2/oday-hot#本周热门$dm2/weekly-hot#本月热门$dm2/monthly-hot"
