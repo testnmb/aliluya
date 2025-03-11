@@ -156,7 +156,7 @@
         "链接": "href=\"&&\"",
 		"标题":"<div class=\"detail\">&&</a>",
 		"副标题":"<div class=\"duration\">&&</div>",
-        //"链接前缀": "https://123av.com/",
+        "链接前缀": "https://123av.com/",
         "简介": "class=\"detail\">&&</a>",
 		"线路数组": "<div  class=\"dropdown-menu dropdown-menu-right\">&&</a>",
         "线路标题": "<span>&&</span>",
