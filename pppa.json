@@ -160,11 +160,11 @@
         "简介": "class=\"detail\">&&</a>",
 		"线路数组": "<a class=\"dropdown-item\</a>",
         "线路标题": "<span>&&</span>",
-        "播放数组": "<div class=\"dropdown-item&&</a>",
+        //"播放数组": "<div class=\"dropdown-item&&</a>",
 		//"播放列表": "<a&&/a>",
 		//"播放标题": "<span>&&</span>",
         "播放链接": "href=\"&&\"",
-        "直接播放": "1",
+        //"直接播放": "1",
     
         "搜索url": "https://123av.com/zh/search?keyword={wd}",
         "分类url": "https://123av.com/zh/{cateId}?page={catePg}",
