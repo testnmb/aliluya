@@ -1018,7 +1018,7 @@
        "type":3,
        "api":"csp_XBPQ",
        "filterable": 1,
-       // "jar": "./XBPQ/最新.jar",
+        "jar": "./XBPQ/最新.jar",
        "ext":{
        "分类url":"https://web.toupaiqun16.xyz/tpq/index.php/vod/show/id/{cateId}/page/{catePg}.html",
        "直接播放":"1",
@@ -1033,7 +1033,7 @@
        "type":3,
        "api":"csp_XBPQ",
        "filterable": 1,
-       // "jar": "./XBPQ/最新.jar",
+        "jar": "./XBPQ/最新.jar",
        "ext":{
        "分类url":"https://html.jjsp14.top/jj/index.php/vod/type/id/{cateId}/page/{catePg}.html",
        "直接播放":"1",
