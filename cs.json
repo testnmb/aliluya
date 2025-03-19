@@ -560,70 +560,8 @@
             "filterable": 0,
             "ext": "./XBPQ/AV解说.json"
         },
-        {
-      "key": "csp_xBPQ_香蕉超清",
-      "name": "🏆香蕉超清",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/新香蕉超清资源.json"
-      },
-        
-        {
-       "key": "csp_xBPQ_香蕉国产",
-       "name": "🏆香蕉国产",
-       "type": 3,
-       "api": "csp_xBPQ",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-        "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/新香蕉国产传媒.json"
-     },
-     {
-       "key": "csp_xBPQ_香蕉久久热",
-       "name": "🏆香蕉久久热",
-       "type": 3,
-       "api": "csp_xBPQ",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/新香蕉久久热.json"
-      },
-      {
-        "key": "csp_xBPQ_香蕉废柴",
-        "name": "🏆香蕉废柴",
-        "type": 3,
-        "api": "csp_xBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,    
-        "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/新香蕉废柴网.json "
-      },
-      {
-      "key": "csp_香蕉资源",
-      "name": "🏆香蕉中文",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/香蕉资源中文.json"
-      },
-   
-  
-   
+      
     
-        {
-        "key": "csp_xBPQ_香蕉搜索",
-        "name": "🏆麻豆女优",
-        "type": 3,
-        "api": "csp_xBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-          "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/XBPQ/香蕉搜索-女优.json"},
           
           {
       "key": "csp_麻豆映画",
@@ -659,7 +597,7 @@
          "quickSearch":1,
          "filterable":0,
          "ext":{"站名":"天天综合",
-         "主页url":"https://28jjkk.vip/",
+         "主页url":"https://13kkuu.vip/",
          "直接播放":"1",
          "图片":"data-original=\"&&\"",
          "标题":"title=\"&&\"",
@@ -667,7 +605,7 @@
          "副标题":"<div class=\"duration\">&&</div>",
          "简介":"<title>&&</title>",
          "搜索模式":"1",
-         "搜索url":"https://28jjkk.vip/vod/search/page/{pg}/wd/{wd}/",
+         "搜索url":"https://13kkuu.vip/vod/search/page/{pg}/wd/{wd}/",
          "搜索图片":"data-original=\"&&\"",
          "搜索标题":"title=\"&&\"",
          "搜索链接":"href=\"&&\"",
@@ -675,7 +613,7 @@
          "免嗅":"0",
          "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
          "分类":"天天综合$/xjzy/cn-zhongwenhushi",
-         "分类url":"https://28jjkk.vip/{cateId}/{catePg}.html",
+         "分类url":"https://13kkuu.vip/{cateId}/{catePg}.html",
          "筛选":{"/xjzy/cn-zhongwenhushi":[
          {"key":"cateId","name":"中文字幕", "value":[
          {"n":"无码中文","v":"/xjzy/cn-zhongwenwuma"},
