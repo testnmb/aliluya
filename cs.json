@@ -985,7 +985,14 @@
         "jar": "./XBPQ/最新.jar",
        "ext":{
        "分类url":"https://hei.hlq23.xyz/hlq/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-       "直接播放":"1",
+       
+	   
+	   "主页url": "https://html.hlq25.xyz/hlq/",
+         "数组": "<div class=\"vod\">&&</div>",
+         "标题": "target=\"_self\">&&</a>",
+         "图片": "data-original=\"&&\"",
+	   
+	   "直接播放":"1",
        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
        "分类":"黄黄资源&155资源&仓仓资源&GG资源&奥斯卡资源&国产精品&探花&有码&无码&中文&日本乱伦&特色&国产乱伦",
        "分类值":"86&244&206&225&119&87&89&109&110&121&118&116&90"}
