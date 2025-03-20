@@ -924,7 +924,14 @@
        "filterable": 0,
        "style":{"type":"rect","ratio":1.333},
        "ext":{
-	     "图片": "data-original=\"&&\"",
+		   
+		"数组": "class=\"stui-vodlist__box\"&&</h4>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+		"副标题": "<time>&&</time>",
+        "链接": "href=\"&&\"",  
+		   
+	  
 	   //"分类url":"https://fenbynvwo3.buzz/type/id/{cateId}/{catePg}.html",
 	  "分类url":"https://fbynv7.buzz/type/id/{cateId}/{catePg}.html",
        "线路数组":"<span class=\"title\"&&</span>",
