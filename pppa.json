@@ -70,9 +70,10 @@
         "图片": "data-original=\"&&\"",
         "副标题": "note text-bg-r\">&&<",
 		 "播放数组":"class=\"item line\">&&</div>",
+		 
          "线路数组":"class=\"item line\">&&</div>",
 		 "线路标题":">&&</a>",
-		 "播放列表":"<a&&/a>",
+		"播放列表":"<a&&/a>",
          "播放标题":">&&<",
         "播放链接":"href=\"&&\""
         //"直接播放":"1"
@@ -625,7 +626,7 @@
 		"线路名二次截取": "play_source_tab clearfix\">&&/ul>",
 	    "线路数组": "<i&&</i>",
 
-	    "播放数组": "play_num_list clearfix hide show\"&&</ul>",
+	    "播放数组": "xjn_ul play-list\"&&</ul>",
 		"播放列表":"<li&&/li>",
         "播放标题":">点击播放<",
        "播放链接":"href=\"&&\"",
