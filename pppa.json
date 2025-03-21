@@ -310,6 +310,7 @@
 		
 
 
+
 			
 			
 	{"key":"adultporna-av001","name":"adultporna-av001","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
@@ -606,20 +607,26 @@
       "name": "🔞多米尼奥",
       "type": 3,
       "api": "csp_XBPQ",
-	  "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+	  //"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "数组": "<div class=\"v-pic&&</a >",
+        "数组": "<div class=\"v-pic\">&&</li>",
         "图片": "data-src=\"&&\"",
         "图片代理": "1",
         "标题": "title=\"&&\"",
-        "副标题": "v-tips\">&&</div>",
+      
         "简介": "description\" content=\"&&\"",
-        "链接": "href=\"/dmnplay/&&.html\"",
-        "链接前缀": "https://dmnio.com/dmnplay/",
-        "链接后缀": "-1-1.html",
+        //"链接": "href=\"/dmnplay/&&.html\"",
+        //"链接前缀": "https://dmnio.com/dmnplay/",
+        //"链接后缀": "-1-1.html",
+		
+		"线路名二次截取": "play_source_tab clearfix\">&&/ul>",
+	    "线路数组": "<i&&</i>",
+
+	    "播放数组": "play_num_list clearfix hide show\"&&</ul>",
+		
 		 "直接播放": "1",
          "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
         "跳转播放链接": "var player*url\":\"&&\"",
