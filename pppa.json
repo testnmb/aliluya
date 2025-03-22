@@ -792,9 +792,10 @@
                 "搜索url": "https://www.xiaoyg3.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
                 "嗅探词": ".m3u8#.mp4",
                 "分类url": "https://www.xiaoyg3.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "分类数组": "<li&&</li>",
-                "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
-                "分类ID": "/index.php/vod/type/id/&&.html"
+				 "分类": "国产一区$117#国产二区$76#国产传媒$98#日韩区$87#精品$78#必看$80#宅男$107#特色福利$126"
+               // "分类数组": "<li&&</li>",
+               // "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
+                //"分类ID": "/index.php/vod/type/id/&&.html"
             }
         },
 {"key":"csp_xBP顶级国产","name":"🔞顶级国产〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
@@ -828,24 +829,7 @@
     
 
   
-       
-        
-
-
- {"key":"csp_njav11","name":"🔞njavtv1.com","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-"数组":"class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
-"图片":"data-preview=\"&&\"",
-"链接":"href=\"&&\"",
-"链接前缀":"https://njavtv.com/dm42",
-"简介":"class=\"detail\">&&</a>",
-"播放数组":"class=\"col&&</div>",
-"播放链接":"iframe*src=\"&&\"",
-"直接播放":"1",
-"搜索url":"https://njavtv.com/search/",
-"分类url":"https://njavtv.com/{cateId}?page={catePg}",
-"分类":"中文$chinese-subtitle#类型$genres#全新上市$release#最近更新$new#推荐影片$recommended#女优一览$actresses#今日热门$oday-hot#本周热门$weekly-hot#本月热门$monthly-hot#无码流出$uncensored-leak#排名$actresses/ranking"}},
-
-
+      
 
  
 
