@@ -371,13 +371,11 @@
 "链接":"href=\"&&\"",
 //"线路数组":"<li class=\"media-info\">&&</li>",
 //"线路标题":"title=\"&&",
-//"播放数组":"<li class=\"media-info\">&&</li>",
-//"播放列表":"<a&&/a>",
-//"播放标题":">&&<",
-//"播放链接":"href=\"&&\"",
-  "跳转播放链接": "var playUrl = '&&'",
-    "直接播放": "1",
-    "嗅探词": "index.m3u8",
+"播放数组":"<li class=\"media-info\">&&</li>",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+"播放链接":"href=\"&&\"",
+
 "搜索url":"https://sssenba1.buzz/hunt/{wd}",
  "分类数组": "<a&&a>",
  "分类标题": ">&&</",
@@ -749,10 +747,45 @@
                 "分类ID": "href=\"/L/&&.html\"",
                 "分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"}},
 
+
+  {
+  "key": "小幺女",
+  "name": "🔞小幺女B",
+  "type": 3,
+  "playerType": 2,
+  "api": "csp_XBPQ",
+ //"jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+    "站名": "小幺女",
+    "主页url": "https://xxynhkaa1.buzz/sort/id/245.html",
+    "数组": "class=\"vod_box\">&&</li>",
+    "图片": "url('&&'",
+    "标题": "title=\"&&\"",
+	"线路数组":"<div class=\"player_title\">&&</div>",
+"线路标题":"title=\"&&",
+"播放数组":"<div class=\"player_title\">&&</div>",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+"播放链接":"href=\"&&\"",
+    //"链接": "https://xxynhkaa1.buzz/detail+href='/display&&'",
+    //"跳转播放链接": "var playUrl = '&&'",
+    //"直接播放": "1",
+    //"嗅探词": "index.m3u8",
+    "分类数组": "<a&&</a",
+    "分类标题": "target=\"_blank\">&&</a[不包含:<h3>伦理作品</h3>#<h3>成人动漫</h3>#<h3>国产主播</h3>#<h3>自拍专区</h3>]",
+    "分类ID": "href=\"/sort/id/&&.html\"",
+    "分类url": "https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"
+  }
+},
+
+
   
   {
-  "key": "小幺女|床吧",
-  "name": "🔞小幺女",
+  "key": "小幺女|床吧Q",
+  "name": "🔞小幺女A",
   "type": 3,
   "playerType": 2,
   "api": "csp_XBPQ",
