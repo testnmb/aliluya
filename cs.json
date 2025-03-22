@@ -820,9 +820,9 @@
                 "数组": "<li class=\"content-item\">&&</a></h5>",
                 "标题": "title=\"&&\"",
                 "图片": "data-original=\"&&\"",
-                "线路数组":"class=\"nav$$</ul>",
-               //"线路数组":"data-toggle=\"tab\"$$/a>", 
-	           "播放数组":"class=\"hy-play-list$$</td>",
+                "线路数组二次截取":"class=\"nav$$</ul>",
+           
+	            "播放数组":"<table class=\"playlistlink-4 list-15256 clearfix\">&&</td></tr>",
        
                 "播放列表":"<a$$/a>",
                 "播放标题":">$$<",

@@ -642,7 +642,7 @@
 
 {"key":"沙咖影院","name":"🔞沙咖影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":{"数组":"stui-vodlist__thumb lazyload&&</a",
-"图片":"data-original=\"&&\"","图片代理":"1",
+"图片":"data-original=\"&&\"",//"图片代理":"1",
 "副标题":"pic-text text-right\">&&</span>",
 "简介":"description\" content=\"&&\"",
 "链接":"href=\"/voddetail/&&.html\"",
@@ -770,7 +770,7 @@
 },
   {
             "key": "csp_顶级网曝",
-            "name": "🔞顶级网曝",
+            "name": "🔞顶级网曝-小淫棍",
             "type": 3,
             "api": "csp_XBPQ",            
             "playerType": 2,
@@ -780,8 +780,8 @@
             "ext": {
                 "请求头": "手机",
                 "站名": "顶级网曝",
-                "主页url": "https://www.dingjiwb5.buzz/",
-                "数组": "<li class=\"content-item\">&&</a>",
+                "主页url": "https://www.xiaoyg3.sbs/",
+                "数组": "<li class=\"content-item\">&&</a></h5>",
                 "标题": "title=\"&&\"",
                 "图片": "data-original=\"&&\"",
                 "播放数组": "<td>&&</td>",
@@ -789,9 +789,9 @@
                 //"跳转播放链接": "urlDecode(var player*url\":\"&&\")",
                 //"免嗅": "0",
                 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-                "搜索url": "https://www.dingjiwb5.buzz/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "搜索url": "https://www.xiaoyg3.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
                 "嗅探词": ".m3u8#.mp4",
-                "分类url": "https://www.dingjiwb5.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类url": "https://www.xiaoyg3.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
                 "分类数组": "<li&&</li>",
                 "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
                 "分类ID": "/index.php/vod/type/id/&&.html"
@@ -802,7 +802,7 @@
 //"发布url":"https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
 "主页url":"https://faequeim-ub2za-faequeim.qoqavideo7y3m1.com/aovaov",
 "直接播放":"1",
-"数组":"class=\"thumbnail\"&&</a></h5>",
+"数组":"class=\"thumbnail\"&&</div></li>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
@@ -832,7 +832,7 @@
         
 
 
-{"key":"csp_njav","name":"🔞njavtv.com","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+ {"key":"csp_njav11","name":"🔞njavtv1.com","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
 "数组":"class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
 "图片":"data-preview=\"&&\"",
 "链接":"href=\"&&\"",
@@ -847,27 +847,9 @@
 
 
 
-  {"key":"csp_xBP女优","name":"🔞女优TV〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-"站名":"黄瓜TV",
-"主页url":"https://mcerslkb.xyz/main.html",
-"直接播放":"1",
-"分类":"美谷朱里$345#素人$11528#小岛南$11534#古川伊织$3282#向井兰$2265#织田真子$3299#星奈爱$43014#枢木葵$3030#波多野吉衣$322#高衫麻里$321#京香$1959#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#欧美艳星$欧美",
-"数组":"class=\"listpic&&</a>",
-"图片":"data-original=\"&&\"",
-"标题":"class=\"vodname\">&&</div>",
-"链接":"href=\"&&\"",
-"副标题":"style=\"color:red\">&&</span>",
-"简介":"title=\"&&\"",
-//"链接前缀":"https://mcerslkb.xyz",
-//"链接后缀":".html",
-//"分类url":"https://mcerslkb.xyz/vod/list.html?type_id={cateId}&page={catePg}",
-"分类url":"https://mcerslkb.xyz/star/detail.html?id={cateId}&area=%e6%97%a5%e6%9c%ac&page={catePg}",
-//"免嗅":"0",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
-}},
+ 
 
-
-  {"key":"花影视","name":"🔞色花堂","type":3,"api":"csp_XBPQ",
+  {"key":"花影视","name":"🔞色花堂❀","type":3,"api":"csp_XBPQ",
   "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
   "ext":{"数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>",
   "图片": "data-original=\"&&\"",
@@ -880,7 +862,7 @@
 
 
 
-{"key":"csp_xBP色花堂","name":"🔞色花堂〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
+{"key":"csp_xBP色花堂","name":"🔞色花堂❀〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"站名":"色花堂",
 "主页url":"https://www.0dzm3d.com/index.html",
 "数组":"<div class=\"img-box cover-md\">&&</h6>",
@@ -905,7 +887,7 @@
 "播放链接前缀":"https://www.0dzm3d.com",
 "分类":"国产精品&日韩亚洲&自拍偷拍&欧美激情&主播视频&中文字幕&日韩无码&动漫成人&推荐视频&同性人妖&巨乳颜射&口交自慰&制服淫穴&换脸AI区&三级综艺&重味3P&强奸乱伦&精品女优&人妻系列&极骚萝莉&HEYZO&独家诱惑&首次少女&高潮喷吹",
 "分类值":"1&2&15&3&16&4&11&14&5&6&7&8&9&10&12&13&17&18&19&20&21&22&23&24",
-"分类url":"https://www.0dzm3d.com/typegaokk/{cateId}-{catePg}.html"}},
+"分类url":"https://www.0dzm3d.com/typegaokk/{cateId}_{catePg}.html"}},
  
 {"key":"csp_xBPGAOAB","name":"GAOAB〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"name": "*GAOAB",
