@@ -362,7 +362,7 @@
     "分类ID": "/type/&&.html\"",
     "分类url": "https://av77.com/type/{cateId}/{catePg}.html;;z"}},		
 			
-	{"key":"https://sssenba1.buzz/","name":"色女儿","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+	{"key":"https://sssenba1.buzz/","name":"色女儿♀","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
 "主页url":"https://sssenba1.buzz/",
 "数组":"<li id=\"li1\"&&</li>",
 //"数组":"<a&&</a>",
@@ -375,9 +375,11 @@
 "播放列表":"<a&&/a>",
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
-
 "搜索url":"https://sssenba1.buzz/hunt/{wd}",
-"分类":"精品推荐$224#国产情色$225#亚洲无码$229#亚洲有码$231",
+ "分类数组": "<a&&a>",
+ "分类标题": ">&&</",
+ "分类ID": "/type/&&.html\"",
+//"分类":"精品推荐$224#国产情色$225#亚洲无码$229#亚洲有码$231",
 "分类url":"https://sssenba1.buzz/type/{cateId}/{catePg}.html"}},		
 			
 			
@@ -400,7 +402,7 @@
 "简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
 "搜索url":"https://www.66rrpp.com/se/seach/index.php;post;keyboard={wd}",
 "分类":"自拍视频$zipaishipin#中文字幕$zhongwenzimu#亚洲无码$yazhouqingseAV#欧美情色$oumeiqingseAV#卡通动漫$katongdongman#国产AV$guochanav",
-"分类url":"https://www.66rrpp.com/se/{cateId}/index_{catePg}.html[https://www.66rrpp.com/se/{cateId}/]"}},
+"分类url":"https://www.66rrpp.com/se/{cateId}/index_{catePg}.html"}},
 				
 				
 {"key":"i18av","name":"I18AV","type":3,"api":"csp_XBPQ",
