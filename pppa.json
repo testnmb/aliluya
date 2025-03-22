@@ -687,8 +687,8 @@
     "请求头": "手机",
     "站名": "比卡比卡",
     "主页url": "https://pika.bikaq.cc/",
-    //"数组": "hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2\">&&</i>",
-	 "数组": "hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w\">&&</i>",
+    "数组": "hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2\">&&</i>",
+	
     "标题": "title=\"&&\"",
     "图片": "data-original=\"&&\"",
     "免嗅": "1",
