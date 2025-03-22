@@ -362,7 +362,23 @@
     "分类ID": "/type/&&.html\"",
     "分类url": "https://av77.com/type/{cateId}/{catePg}.html;;z"}},		
 			
-			
+	{"key":"https://sssenba1.buzz/","name":"色女儿","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+"主页url":"https://sssenba1.buzz/",
+"数组":"<li id=\"li1\"&&</li>",
+//"数组":"<a&&</a>",
+"图片":"src=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"线路数组":"<li class=\"media-info\">&&</li>",
+"线路标题":"title=\"&&",
+"播放数组":"<li class=\"media-info\">&&</li>",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+"播放链接":"href=\"&&\"",
+
+"搜索url":"https://sssenba1.buzz/hunt/{wd}",
+"分类":"精品推荐$224#国产情色$225#亚洲无码$229#亚洲有码$231",
+"分类url":"https://sssenba1.buzz/type/{cateId}/{catePg}.html"}},		
 			
 			
 			
@@ -386,8 +402,9 @@
 "分类":"自拍视频$zipaishipin#中文字幕$zhongwenzimu#亚洲无码$yazhouqingseAV#欧美情色$oumeiqingseAV#卡通动漫$katongdongman#国产AV$guochanav",
 "分类url":"https://www.66rrpp.com/se/{cateId}/index_{catePg}.html[https://www.66rrpp.com/se/{cateId}/]"}},
 				
-			
-{"key":"i18av","name":"I18AV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+				
+{"key":"i18av","name":"I18AV","type":3,"api":"csp_XBPQ",
+"searchable":1,"quickSearch":1,"filterable":1,"ext":{
 "主页url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/oaoaoa/",
 "数组":"class=\"thumbnail\"&&</a></h5>",
 //"数组":"<a&&</a>",
@@ -407,26 +424,6 @@
 "搜索url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodsearch/----------{pg}---/?wd={wd}",
 "分类":"中文字幕$52#日本无码$50#日本有码$51#国产情色$49#强奸乱伦$55#童颜巨乳$59",
 "分类url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodtype/{cateId}-{catePg}/[https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/vodtype/{cateId}/]"}},
-
-
-    {"key":"房中秘术","name":"房中秘术","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-"主页url":"https://c9d0e1f2.fzms54.buzz/topic/",
-"数组":"class=\"thumbnail\"&&</a></h5>",
-//"数组":"<a&&</a>",
-"图片":"data-original=\"&&\"",
-"标题":">&&</a>",
-"副标题":"video-grade\">&&</span>",
-"链接":"href=\"&&\"",
-"线路数组":"<ul class=\"detail-tab&&</ul>",
-"线路标题":"<a&&/a>",
-"播放数组":"<ul class=\"detail-play-list&&</ul>",
-"播放列表":"<a&&/a>",
-"播放标题":">&&<",
-"播放链接":"href=\"&&\"",
-"简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
-"搜索url":"https://c9d0e1f2.fzms54.buzz/vodsearch/-------------.html?wd={wd}",
-"分类":"国产传媒$1#国产剧情$2#必射精选$3#精品资源$4#特色仓库$5#中文字幕$6",
-"分类url":"https://c9d0e1f2.fzms54.buzz/vodtype/{cateId}-{catePg}.html"}},
 
 			
 			
@@ -536,13 +533,18 @@
                 "标题": "title=\"&&\"",
                 "链接": "href=\"&&\"",
                 "分类url": "https://rourou.co/index.php/vod/type/id/{cateId}/page/{carePg}.html",
-                "分类": "麻豆视频$1#中文字幕$2#日本无码$3#日本有码$4#童颜巨乳$5#校园萝莉$6#女优明星$7#角色扮演$8#制服诱惑$9#强奸乱伦$31#AI换脸$32#黑料泄密$33#主播直播$34#国产精品$35#探花视频$36#女同性恋$37#SM调教$38#人妻熟女$40"}},
+     	    "分类": "麻豆视频$1#中文字幕$2#日本无码$3#日本有码$4#童颜巨乳$5#校园萝莉$6#女优明星$7#角色扮演$8#制服诱惑$9#强奸乱伦$31#AI换脸$32#黑料泄密$33#主播直播$34#国产精品$35#探花视频$36#女同性恋$37#SM调教$38#人妻熟女$40"}},
+
+
 {"key": "亚色影库","name": "🔞亚瑟影库","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://www.yasetube.com/",
                 "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
                 "分类url": "https://www.yasetube.com/video/category/{cateId}/page/{catePg}",
                 "分类": "女厕偷拍$nvce#海角系列$hj#FC2 PPV$fc2-ppv#Mesubuta系列$me#MILF人妻无码$milf#偷拍自拍$dalu#品牌传媒$madou"}},
+
+
+
 {"key": "色最色","name": "🔞色最色","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://xn--zovv42dba.com/",
                 "直接播放": "1",
@@ -572,8 +574,8 @@
 		            
         "分类": "最近加入$1#最新发行$2#今日热门$3#本周熱門$4#本月熱門$5#总浏览数$6"}},
 
-{"key": "19麻豆","name": "🔞19麻豆","type": 3,"api": "csp_XBPQ","ext": {
-      "站名": "19麻豆",
+{"key": "19麻豆","name": "🔞台湾传媒全","type": 3,"api": "csp_XBPQ","ext": {
+      "站名": "麻豆视频",
       "主页url": "https://19q.cc/",
       "分类url": "https://19q.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html", 
       "分类":"麻豆视频&91制片厂&天美传媒&蜜桃传媒&皇家华人&星空传媒&精东影业&乐播传媒&成人头条&乌鸦传媒&兔子先生&杏吧原创&玩偶姐姐&mini传媒&大象传媒&开心鬼传媒&萝莉社&PsychoPorn&性世界&糖心Vlog&性视界",
@@ -599,7 +601,11 @@
   "分类url":"https://iboa.346684.xyz/cx/{cateId}-{catePg}.html;;z",
   "分类":"国产$1#黑料$2#三级$3#其他$4#日本$5#动漫$6"}},
 //{"key": "ROU223","name": "🔞223ROU | 视频","type": 3,"api": "csp_ROU223","searchable": 0,"filterable": 1,"jar": "./jar/182.jar"},
-{"key": "Theporn","name": "🔞Theporn","type": 3,"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","searchable": 1,"changeable": 1,"timeout": 60,"style": {"type": "rect","ratio": 1.5},"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/theporn.js"},
+
+ {"key": "Theporn","name": "🔞Theporn","type": 3,
+ "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+ "searchable": 1,"changeable": 1,"timeout": 60,"style": {"type": "rect","ratio": 1.5},
+ "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/theporn.js"},
 
 
 
@@ -665,25 +671,22 @@
         "分类标题":"classfont\">&&</p>",
         "分类ID":"index.php/vodtype/&&.html",
         "分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"}},
-{ "key": "麻豆","name": "🔞麻豆","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": { 
+		
+		
+{ "key": "麻豆","name": "🔞麻豆传媒映画","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,
+             "filterable": 1,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": { 
             "搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-            "分类": "日本视频$1#麻豆视频$2",
+            "分类": "日本视频$1#麻豆视频$2#国产视频$3",
             "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
             "直接播放":"1"}},
-{"key":"黄色仓库","name":"🔞黄色仓库6107","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext": {
-        "搜索链接":"http://6234ck.cc/vodsearch/-------------.html?wd=&submit=",
-        "主页url":"http://6234ck.cc/",
-        "链接":"http://6234ck.cc/hs1.php?u=+href=\"&&\"[替换:?>>&]",
-        "简介":"时间：&&<",
-        "副标题":"❤️+fa fa-heart\"></i>&&<+🔥+\"fa fa-eye\"></i>&&<",
-         "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
-        "分类url": "http://6234ck.cc/vodtype/{cateId}-{catePg}.html;;zm"}},
+
 
 {"key": "csp_XYBQ","name": "🔞比卡|比卡","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
     "请求头": "手机",
     "站名": "比卡比卡",
     "主页url": "https://pika.bikaq.cc/",
-    "数组": "hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2\">&&</i>",
+    //"数组": "hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2\">&&</i>",
+	 "数组": "hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w\">&&</i>",
     "标题": "title=\"&&\"",
     "图片": "data-original=\"&&\"",
     "免嗅": "1",
@@ -792,7 +795,7 @@
                 "搜索url": "https://www.xiaoyg3.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
                 "嗅探词": ".m3u8#.mp4",
                 "分类url": "https://www.xiaoyg3.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-				 "分类": "国产一区$117#国产二区$76#国产传媒$98#日韩区$87#精品$78#必看$80#宅男$107#特色福利$126"
+				 "分类": "国产二区$76#国产传媒$98#日韩区$87#精品推荐$78#必看福利$80#宅男必看$107"
                // "分类数组": "<li&&</li>",
                // "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
                 //"分类ID": "/index.php/vod/type/id/&&.html"
