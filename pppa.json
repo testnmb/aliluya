@@ -394,6 +394,9 @@
 "标题":"alt=\"&&\"",
 "副标题":"video-grade\">&&</span>",
 "链接":"href=\"&&\"",
+"线路数组":"<ul class=\"detail-tab&&</ul>",
+"线路标题":">&&</a>",
+
 //"线路数组":"<div class=\"video-info\">&&\">",
 //"线路标题":"title=\"&&",
 "播放数组":"<ul class=\"detail-play-list&&</li>",
