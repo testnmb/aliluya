@@ -34,7 +34,31 @@
             "页面代理":"127.0.0.1:10072"
              }},
 			 
-	
+	 {"key":"ipornbase",
+       "name":"🏆AV空投军团",
+       "type":3,
+       "api":"csp_XBPQ",
+       
+       "filterable": 1,
+       "style":{"type":"rect","ratio":1.333},
+       "ext":{"分类url":"https://ipornbase.xyz/ch/{cateId}?page={catePg}",
+	   "分类": "国产AV$local#日本AV$jp#日本无码$jp-uncensored"
+	    "数组":"<div class=\"imgbox\">&&</time></div>",
+		"图片":"src=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "链接":"href=\"&&\"",
+           
+        "副标题":"class=\"datetime\">&&</time>",
+       
+	   "线路二次截取":"class=\"nav$$</ul>",
+       "线路数组":"data-toggle=\"tab\"$$/a>[排序:線路1>線路2>線路3]",
+       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	   
+	   //"播放数组":"class=\"stui-content__playlist$$</ul>",
+       
+      //"播放列表":"<a$$/a>",
+      //"播放标题":">$$<",
+       //"播放链接":"href=\"$$\"",
+       "搜索url":"https://ipornbase.xyz/se/result?keyword={wd}.html",
 
 		
 		 {"key": "ppp",
@@ -510,6 +534,8 @@
         "标题": "title=\"&&\"",
       
         "简介": "description\" content=\"&&\"",
+		 "链接": "/dmnplay/+href=\"/dmndetail/&&.html\"+-1-1.html",
+   
 		// "链接":"https://dmnio.com/dmnplay/+href=\"/dmndetail/&&/\"+-1-1.html",
         
         //"链接": "href=\"/dmnplay/&&.html\"",
@@ -525,7 +551,7 @@
        //"播放链接":"href=\"&&\"",
 		 "直接播放": "1",
          "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "跳转播放链接": "var player*url\":\"&&\"",
+        //"跳转播放链接": "var player*url\":\"&&\"",
         "搜索url": "https://dmnio.com/dmnsearch/{wd}----------{pg}---.html",
         "分类url": "https://dmnio.com/dmnshow/{cateId}--{by}------{catePg}---.html;;z",
         "分类": "新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#素人视角$27#动漫卡通$28#名人系列$29"
