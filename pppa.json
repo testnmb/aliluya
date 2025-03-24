@@ -35,23 +35,25 @@
              }},
 			 
 	 {"key":"ipornbase",
-       "name":"🏆AV空投军团",
+       "name":"🏆AV空投军团🏆",
        "type":3,
        "api":"csp_XBPQ",
        
        "filterable": 1,
        "style":{"type":"rect","ratio":1.333},
-       "ext":{"分类url":"https://ipornbase.xyz/ch/{cateId}?page={catePg}",
-	   "分类": "国产AV$local#日本AV$jp#日本无码$jp-uncensored",
+       "ext":{
+		"主页url":"https://ipornbase.xyz/",
+		"分类url":"https://ipornbase.xyz{cateId}?page={catePg}",
+	   "分类": "国产近更$/ch/local/latest#国产新发行$/ch/local/news#日本近更$/ch/jp/latest#日本新发行$/ch/jp/news#日本今日🔥$/ch/local/today#日本本周🔥$/ch/local/weekly#日本今月🔥$/ch/local/month#日本2025🔥$/ch/local/year#日本无码近更$/ch/jp-uncensored#日本新发行$/ch/jp-uncensored/news#日本今日🔥$/ch/jp-uncensored/today#日本本周🔥$/ch/jp-uncensored/weekly#日本本月🔥$/ch/jp-uncensored/month#日本2025🔥$/ch/jp-uncensored/year",
 	    "数组":"<div class=\"imgbox\">&&</time></div>",
 		"图片":"src=\"&&\"",
         "标题": "alt=\"&&\"",
         "链接":"href=\"&&\"",
            
         "副标题":"class=\"datetime\">&&</time>",
-       
-	   "线路二次截取":"class=\"nav$$</ul>",
-       "线路数组":"data-toggle=\"tab\"$$/a>[排序:線路1>線路2>線路3]",
+         "直接播放": "1",
+	  // "线路二次截取":"class=\"nav$$</ul>",
+       //"线路数组":"data-toggle=\"tab\"$$/a>[排序:線路1>線路2>線路3]",
        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	   
 	   //"播放数组":"class=\"stui-content__playlist$$</ul>",
        
@@ -355,7 +357,7 @@
 			
 			
 			
-	{"key":"东京淫朕","name":"东京淫朕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+	{"key":"东京淫朕","name":"🏦京东淫联🏦","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
             "发布地址":"https://xn--di-wu2c.diwang02.top/123/?referrer=https%3A%2F%2Fyise23.xyz%2F",
              "请求头": "User-Agent$MOBILE_UA",
     "主页url": "https://o3p4q5r6.djyz51.buzz/topic/",
@@ -520,38 +522,22 @@
 	
 
     { "key": "多米尼奥",
-      "name": "🔞多米尼奥",
+      "name": "🔞多米尼奥💗",
       "type": 3,
       "api": "csp_XBPQ",
-	  //"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+	 
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "数组": "<div class=\"v-pic\">&&</li>",
         "图片": "data-src=\"&&\"",
-
         "标题": "title=\"&&\"",
-      
-        "简介": "description\" content=\"&&\"",
+       "简介": "description\" content=\"&&\"",
 		 "链接": "/dmnplay/+href=\"/dmndetail/&&.html\"+-1-1.html",
-   
-		// "链接":"https://dmnio.com/dmnplay/+href=\"/dmndetail/&&/\"+-1-1.html",
-        
-        //"链接": "href=\"/dmnplay/&&.html\"",
-        //"链接前缀": "https://dmnio.com/dmnplay/",
-        //"链接后缀": "-1-1.html",
-		
-		//"线路名二次截取": "play_source_tab clearfix\">&&/ul>",
-	   // "线路数组": "<i&&</i>",
-
-	   // "播放数组": "xjn_ul play-list\"&&</ul>",
-		//"播放列表":"<li&&/li>",
-        //"播放标题":">点击播放<",
-       //"播放链接":"href=\"&&\"",
 		 "直接播放": "1",
          "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        //"跳转播放链接": "var player*url\":\"&&\"",
+        
         "搜索url": "https://dmnio.com/dmnsearch/{wd}----------{pg}---.html",
         "分类url": "https://dmnio.com/dmnshow/{cateId}--{by}------{catePg}---.html;;z",
         "分类": "新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#素人视角$27#动漫卡通$28#名人系列$29"
