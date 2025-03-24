@@ -43,8 +43,8 @@
        "style":{"type":"rect","ratio":1.333},
        "ext":{
 		"主页url":"https://ipornbase.xyz/",
-		"分类url":"https://ipornbase.xyz{cateId}?page={catePg}",
-	   "分类": "国产近更$/ch/local/latest#国产新发行$/ch/local/news#日本近更$/ch/jp/latest#日本新发行$/ch/jp/news#日本今日🔥$/ch/local/today#日本本周🔥$/ch/local/weekly#日本今月🔥$/ch/local/month#日本2025🔥$/ch/local/year#日本无码近更$/ch/jp-uncensored#日本新发行$/ch/jp-uncensored/news#日本今日🔥$/ch/jp-uncensored/today#日本本周🔥$/ch/jp-uncensored/weekly#日本本月🔥$/ch/jp-uncensored/month#日本2025🔥$/ch/jp-uncensored/year",
+		"分类url":"https://ipornbase.xyz/ch/{cateId}?page={catePg}",
+	   "分类": "国产近更$local/latest#国产新发行$local/news#日本近更$jp/latest#日本新发行$jp/news#日本今日🔥$jp/today#日本本周🔥$jp/weekly#日本今月🔥$jp/month#日本2025🔥$jp/year#日本无码近更$jp-uncensored/latest#日本新发行$jp-uncensored/news#日本今日🔥$jp-uncensored/today#日本本周🔥$jp-uncensored/weekly#日本本月🔥$jp-uncensored/month#日本2025🔥$jp-uncensored/year",
 	    "数组":"<div class=\"imgbox\">&&</time></div>",
 		"图片":"src=\"&&\"",
         "标题": "alt=\"&&\"",
@@ -52,14 +52,10 @@
            
         "副标题":"class=\"datetime\">&&</time>",
          "直接播放": "1",
-	  // "线路二次截取":"class=\"nav$$</ul>",
-       //"线路数组":"data-toggle=\"tab\"$$/a>[排序:線路1>線路2>線路3]",
+		// "链接播放界面":"https://ipornbase.xyz/+href=\"/vidoe/&&\"+/",
+	 
        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	   
-	   //"播放数组":"class=\"stui-content__playlist$$</ul>",
-       
-      //"播放列表":"<a$$/a>",
-      //"播放标题":">$$<",
-       //"播放链接":"href=\"$$\"",
+	  
        "搜索url":"https://ipornbase.xyz/se/result?keyword={wd}.html" }},
 
 		
@@ -347,7 +343,7 @@
             "图片":"src=\"&&\"",
             "副标题":"<!-- <small>&&</small> -->",
             "简介":"description\" content=\"&&|全站免费",
-            "链接":"https://ray-ship-toy.adultporna-av001.com/v/+href=\"/voddetail/&&/\"+/",
+            "链接播放界面":"https://ray-ship-toy.adultporna-av001.com/v/+href=\"/voddetail/&&/\"+/",
             "搜索模式":"1",
             "搜索url":"https://ray-ship-toy.adultporna-av001.com/s/?wd=",
             "分类数组":"<a&&/a",
