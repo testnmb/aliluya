@@ -115,14 +115,16 @@
         "标题": "title=\"&&\"",
         "图片": "data-original=\"&&\"",
         "副标题": "note text-bg-r\">&&<",
-		 "播放数组":"class=\"item line\">&&</div>",
+		// "播放数组":"class=\"item line\">&&</div>",
+		
+		 "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
 		 
-         "线路数组":"class=\"item line\">&&</div>",
-		 "线路标题":">&&</a>",
-		"播放列表":"<a&&/a>",
-         "播放标题":">&&<",
-        "播放链接":"href=\"&&\""
-        //"直接播放":"1"
+        // "线路数组":"class=\"item line\">&&</div>",
+		// "线路标题":">&&</a>",
+		//"播放列表":"<a&&/a>",
+        // "播放标题":">&&<",
+       // "播放链接":"href=\"&&\""
+        "直接播放":"1"
       } },		 
 			 
 	
@@ -182,28 +184,28 @@
 			 
 {"key": "四虎","name": "🔞四虎影院","type": 3,"api": "csp_XBPQ","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
                 "站名": "四虎影院",
-                "主页url": "https://www.9f3a.com/Enter/home.html",
+                "主页url": "https://www.7ac8.com/Enter/home.html",
                 "简介": "名称：&&</h3>",
-                "数组": "<dt class=\"preview-item&&</dl>",
+                "数组": "<dt class=\"preview-item\">&&</script></h3>",
                 "二次截取": "",
                 //"图片": "data-original=\"&&.txt\"+.jpg",
 			      "图片": "data-original=\"&&\"",
-                "标题": "Base64((d('&&'));</script>",
-			
+                //"标题": "Base64((d('&&'));</script>",
+			   "标题": "document.write((d('&&'));</script>",
                 "副标题": "",
                 "链接": "href=\"&&\"",
-                "线路数组": "target=\"_blank&&</a[排序:线路一>线路二>线路三]",
-                "线路标题": "Base64(d('&&'));</script>",
-                "播放数组": "<div class=\"item&&</div>",
+                "线路数组": "target=\"_blank&&</a>[排序:线路一>线路二>线路三]",
+                "线路标题": "document.write(d('&&'));</script>",
+                "播放数组": "<div class=\"item\">&&</div>",
                 "状态": "分类：</span>&&</p>",
                 "导演": "导演：</span>&&</p>",
                 "主演": "主演：</span>&&</p>",
                 "搜索模式": "1",
-                "搜索url": "https://www.9f3a.com/searchs/index.php?page={pg}&keyboard={wd}&classid=0",
+                "搜索url": "https://www.7ac8.com/searchs/index.php?page={pg}&keyboard={wd}&classid=0",
                 "搜索数组": "<dt>&&</dt>",
                 "搜索标题": "_blank\"&&<",
-                "分类": "国产$video#自拍$video/zipai#淫妻作乐$video/fuqi#开放青年$video/kaifang#JVID专区$video/jvid#台湾SWAG$video/swg#动漫卡通$video/dongman#经典三级$video/sanji#onlyfans主播$onlyfans#女优$av#女性向纯爱$av/nxx#GIGA女战士$av/giga#波多野结衣$av/bdyjy#深田咏美$av/stym#桥本有菜$av/qbyc#苍井空$av/cjk#三上悠亚$av/ssyy#吉泽明步$av/jzmb#电影$movie#无码中字$movie/wuma#SM系列$movie/sm#高清无码$movie/gaoqing#熟女人妻$movie/shunv#美颜巨乳$movie/meiyan#丝袜制服$movie/siwa#中文有码$movie/youma#欧美系列$movie/oumei",
-                "分类url": "https://www.9f3a.com/{cateId}/index_{catePg}.html[firstPage=https://www.9f3a.com/{cateId}/{class}/]"}},
+                "分类": "国产自拍$video/zipai#淫妻作乐$video/fuqi#开放青年$video/kaifang#JVID专区$video/jvid#台湾SWAG$video/swg#动漫卡通$video/dongman#经典三级$video/sanji#onlyfans主播$onlyfans#女优$av#女性向纯爱$av/nxx#GIGA女战士$av/giga#波多野结衣$av/bdyjy#深田咏美$av/stym#桥本有菜$av/qbyc#苍井空$av/cjk#三上悠亚$av/ssyy#吉泽明步$av/jzmb#电影$movie#无码中字$movie/wuma#SM系列$movie/sm#高清无码$movie/gaoqing#熟女人妻$movie/shunv#美颜巨乳$movie/meiyan#丝袜制服$movie/siwa#中文有码$movie/youma#欧美系列$movie/oumei",
+                "分类url": "https://www.7ac8.com/{cateId}/index_{catePg}.html[firstPage=https://www.7ac8.com/{cateId}/{class}/]"}},
 
 
 
@@ -531,10 +533,9 @@
 	  "标题": "alt=\"&&\"",  
 	  "副标题": "class=\"icon-calendar\"&&</span>", 
 	  "简介": "description\" content=\"&&剧情", 
-	  //"链接前缀":"https://omoav.com"
-	  //"链接后缀": /index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
-	    //"链接": "https://omoav.com/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
-	  "链接": "https://omoav.com/index.php/vod/play/id/&&/\"+/sid/1/nid/1.html", 
+	
+	    "链接": "https://omoav.com/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
+	  //"链接": "https://omoav.com/index.php/vod/play/id/&&/\"+/sid/1/nid/1.html", 
 	  "跳转播放链接": "urlDecode(var player_*url\":\"&&\")", 
 	  "搜索模式": "1", 
 	  "直接播放": "1",
