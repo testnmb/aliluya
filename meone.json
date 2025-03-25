@@ -1,8 +1,8 @@
 {
-"spider": "./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
+"spider": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",   
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
-"sites":
+"sites":[
 
 {"key": "jable",
             "name": "💃jable| XBPQ💃",
@@ -49,14 +49,13 @@
 		"图片":"src=\"&&\"",
         "标题": "alt=\"&&\"",
         "链接":"href=\"&&\"",
-           
         "副标题":"class=\"datetime\">&&</time>",
          "直接播放": "1",
 		// "链接播放界面":"https://ipornbase.xyz/+href=\"/vidoe/&&\"+/",
 	 
        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	   
 	  
-       "搜索url":"https://ipornbase.xyz/se/result?keyword={wd}.html" }},
+       "搜索url":"https://ipornbase.xyz/se/result?keyword={wd}.html"}},
 
 
 
@@ -222,7 +221,7 @@
                 "分类url": "https://soav888.cfd/{cateId}/page/{catePg}/?filter={by};;z",
                 "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"}},
  
-{"key": "NiceAv1","name": "🔥NiceAv-a🔞","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
+{"key": "NiceAv1","name": "🔥NiceAv-A🔞","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
         "主页url": "https://www.nicetv820.cyou/",
         "图片": "data-src=\"&&\"",
         "简介": "⚠️慢点撸，皮要掉了！！！",
@@ -232,7 +231,7 @@
 		"分类url": "https://www.nicetv820.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
         "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"}},
 		
-		{"key": "NiceAv2","name": "🔥NiceAv-b🔞","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
+		{"key": "NiceAv2","name": "🔥NiceAv-B🔞","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
         "主页url": "https://www.nicetv820.cyou/",
         "图片": "data-src=\"&&\"",
         "简介": "⚠️慢点撸，皮要掉了！！！",
@@ -649,7 +648,7 @@
 
 
 
-{"key":"沙咖影院","name":"🔞沙咖影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"沙咖影院","name":"🔞沙咖影院🪜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":{"数组":"stui-vodlist__thumb lazyload&&</a",
 "图片":"data-original=\"&&\"",//"图片代理":"1",
 "副标题":"pic-text text-right\">&&</span>",
@@ -664,7 +663,7 @@
 
 
 
-{"key":"溏心次元","name":"🔞溏心次元","type":3,"api":"csp_XBPQ","style":{"ratio":2.0},"ext": {
+{"key":"溏心次元","name":"🔞溏心次元🏆","type":3,"api":"csp_XBPQ","style":{"ratio":2.0},"ext": {
         "数组":"<li&&</li>",
         "搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
         "副标题":"添加时间:&&</span>",
