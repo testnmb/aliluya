@@ -160,10 +160,10 @@
         "链接": "href=\"&&\"",
 		"标题":"<div class=\"detail\">&&</a>",
 		"副标题":"<div class=\"duration\">&&</div>",
-        //"链接前缀": "https://123av.com/",
+        "链接前缀": "https://123av.com/",
         "简介": "class=\"detail\">&&</a>",
         "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-		"链接":"https://123av.com/zh/v/&&",
+		
 	   "直接播放": "1",
         //"嗅探词":"m3u8#.m3u8",
         //"嗅探过滤词":".html#=http",
