@@ -110,7 +110,8 @@
         "分类url": "https://m5n6o7p8.ybhz21.buzz/vodtype/{cateId}-{catePg}/",
         "分类": "国产传媒$1#国产剧情$2#旧中文字幕$15#日本有码$43#中文字幕$41#AV解说$55#欧美无码$45#天美传媒$23#无码中文$144#伦理三级$54",
         "搜索模式": "1",
-        "数组": "class=\"video-pic loading\"&&</a>[不包含:' + myWord + ']",
+        //"数组": "class=\"video-pic loading\"&&</a>[不包含:'+ myWord +']",
+		"数组": "class=\"video-pic loading\"&&</a>",
         "标题": "title=\"&&\"",
         "图片": "data-original=\"&&\"",
         "副标题": "note text-bg-r\">&&<",
@@ -161,7 +162,8 @@
 		"副标题":"<div class=\"duration\">&&</div>",
         //"链接前缀": "https://123av.com/",
         "简介": "class=\"detail\">&&</a>",
-        "免嗅": "0",
+        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+		"链接":"https://123av.com/zh/v/&&",
 	   "直接播放": "1",
         //"嗅探词":"m3u8#.m3u8",
         //"嗅探过滤词":".html#=http",
@@ -372,7 +374,7 @@
 			
 
 				
-	{"key":"av77.com/","name":"av77.com","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+	{"key":"av77.com/","name":"AV7️⃣ 7️⃣","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
             "发布地址":"https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
             "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -429,7 +431,7 @@
 "分类url":"https://www.66rroo.com/se/{cateId}/index_{catePg}.html"}},
 				
 				
-{"key":"i18av","name":"I18AV","type":3,"api":"csp_XBPQ",
+{"key":"i18av","name":"I🔟8️⃣ AV ","type":3,"api":"csp_XBPQ",
 "searchable":1,"quickSearch":1,"filterable":1,"ext":{
 "主页url":"https://uwj-chekeeh4lu.po18avoa7y2m2.xyz/oaoaoa/",
 "数组":"class=\"thumbnail\"&&</a></h5>",
@@ -438,7 +440,7 @@
 "标题":"alt=\"&&\"",
 //"副标题":" <p>&&</p>",
 "链接":"href=\"&&\"",
-"链接": "/vodplay/+href=\"/voddetail/&&/.html\"+-1-1.html",
+"链接": "/vodplay+href=\"/voddetail/&&/.html\"+-1-1.html",
  "直接播放": "1",
  "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	
 //"线路数组":"<ul class=\"detail-tab&&</ul>",
@@ -470,8 +472,8 @@
         "跳转播放链接":"var player_*\"url\":\"&&\"",
         "搜索模式":"1",
         "搜索url":"https://www.ttdao6613.buzz/vod/search/page/{pg}/wd/{wd}/",
-        "分类数组":"<a&&/a",
-        "分类标题":">&&<",
+        "分类数组":"<li>&&</li>",
+        "分类标题":">&&</a>",
         //"分类ID":"/vod/type/id/&&/",
 		"分类ID":"/vod/type/id/&&/",
         "分类url":"https://www.ttdao6613.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}},
@@ -497,7 +499,7 @@
 	  "搜索url": "https://omoav.com/index.php/vod/search.html?wd=",
 	   //"搜索url": "https://yudiewfed-82.luanlxsf001.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
 	 
-	  "分类": "精品视频$1#日韩精品$2#国产视频$20#中文字幕$13#日本有码$14#AV解说$16#国产精品$26", 
+	  "分类": "精品推荐$1#日韩精品$2#国产视频$20#中文字幕$13#日本有🐎$14#日本🈚️🐎$15#AV解说$16#国产精品$26#网暴泄密$21#伦理三级$27#传媒影像$22#探花🥉$7#网暴泄密$21#伦理三级$27", 
 	  "分类url": "https://omoav.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"}},	
 		
 	
@@ -544,7 +546,7 @@
 
 
 		 
-{"key":"传媒二区","name":"🍁传媒二区","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"传媒二区","name":"🍁传媒二区🎬","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":{
   "主页url":"https://www.34gaobk.com/index.html",
   "数组":"<div class=\"card mb-0\">&&</a",
@@ -581,13 +583,13 @@
 
 
 
-{"key": "色最色","name": "🔞色最色","type": 3,"api": "csp_XBPQ","ext": {
+{"key": "色最色","name": "🔞色最色😍","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://xn--zovv42dba.com/",
                 "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
                 "分类url": "https://xn--zovv42dba.com/list-read-id-{cateId}-p-{catePg}",
                 "分类": "国产精品$19#偷拍自拍$20#欧美成人$26#中文无码$23#中文字幕$22#亚洲情色$21#卡通动漫$24#成人伦理$25"}},
-{"key": "18j.tv","name": "🔞18j.tv","type": 3,"api": "csp_XBPQ","ext": {
+{"key": "18j.tv","name": "🔞18j.tv🌳","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://18j.tv/",
                 "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
@@ -596,7 +598,7 @@
                 "链接": "href=\"&&\"",
                 "分类url": "https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/",
                 "分类": "国产$1#日韩$2#欧美$3#伦理$4#动漫$16"}},
-{"key": "airav","name": "💕AirAv","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
+{"key": "airav","name": "💕AirAv🚗","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
         "直接播放": 1,
         "主页url": "https://airav.io/list",
         "数组": "div class=\"oneVideo-top\"&&</a>",
@@ -610,7 +612,7 @@
 		            
         "分类": "最近加入$1#最新发行$2#今日热门$3#本周熱門$4#本月熱門$5#总浏览数$6"}},
 
-{"key": "19麻豆","name": "🔞台湾传媒全","type": 3,"api": "csp_XBPQ","ext": {
+{"key": "19麻豆","name": "🔞台湾传媒全🎬","type": 3,"api": "csp_XBPQ","ext": {
       "站名": "麻豆视频",
       "主页url": "https://19q.cc/",
       "分类url": "https://19q.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html", 
@@ -638,7 +640,7 @@
   "分类":"国产$1#黑料$2#三级$3#其他$4#日本$5#动漫$6"}},
 //{"key": "ROU223","name": "🔞223ROU | 视频","type": 3,"api": "csp_ROU223","searchable": 0,"filterable": 1,"jar": "./jar/182.jar"},
 
- {"key": "Theporn","name": "🔞Theporn","type": 3,
+ {"key": "Theporn","name": "🔞Theporn😍","type": 3,
  "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
  "searchable": 1,"changeable": 1,"timeout": 60,"style": {"type": "rect","ratio": 1.5},
  "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/theporn.js"},
@@ -812,7 +814,8 @@
 //"发布url":"https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
 "主页url":"https://faequeim-ub2za-faequeim.qoqavideo7y3m1.com/aovaov",
 "直接播放":"1",
-"数组":"class=\"thumbnail\"&&</div></li>",
+"数组":"class=\"thum&&</a></h5>",
+"数组二次截取":"<li>&&</li>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
@@ -829,7 +832,8 @@
 //"列表二次截取": "",
 //"播放列表": "<li class=&&</a></li>",
 //"播放标题": ">&&<",
-"播放链接": "href=\"&&\"",
+//"播放链接": "href=\"&&\"",
+"链接": "/vodplay/+href=\"/voddetail/&&/\"+-1-1",
 "免嗅":"0",
 //"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "分类":"AV解说$1#中文字幕$3#国产传媒$4#日本有码$20#日本无码$21#素人搭讪$23#强奸乱伦$24#国产青色$47#黑料$29#三级$28#美巨乳$56#熟女人妻$58#自拍偷拍$60#精选日本$84#探花$80#黑料$79#cosplay$77#门事件$82#AI换脸$79#女优明星$83",
@@ -885,10 +889,10 @@
  
 {"key":"csp_xBPGAOAB","name":"GAOAB〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"name": "*GAOAB",
-  "url": "https://www.47gaoab.com/index.html",
+  "url": "https://www.7gaoak.com/index.html",
   "User": "空",
   "shouye": "1",
-  "fenlei": "国产视频$/gaotype/25_#日本无码$/gaotype/20_#日本有码$/gaotype/9_#中文字幕$/gaotype/2_#三级电影$/gaotype/1_#巨乳系列$/gaotype/3_#人妻激情$/gaotype/8_#欧美极品$/gaotype/18_#制服诱惑$/gaotype/16_#自拍偷拍$/gaotype/17_#强奸乱伦$/gaotype/14_#绝美少女$/gaotype/13_#首次亮相$/gaotype/12_#HEY诱惑$/gaotype/5_#独家DMM$/gaotype/4_#网红主播$/gaotype/6_#日韩精品$/gaotype/10_#激情口交$/gaotype/11_#动漫电影$/gaotype/15_#极骚萝莉$/gaotype/19_#HEYZO$/gaotype/21_#高潮喷吹$/gaotype/22_#自慰颜射$/gaotype/23_",
+  "fenlei": "国产视频$/gaotype/25#日本无码$/gaotype/20#日本有码$/gaotype/9#中文字幕$/gaotype/2#三级电影$/gaotype/1#巨乳系列$/gaotype/3#人妻激情$/gaotype/8#欧美极品$/gaotype/18#制服诱惑$/gaotype/16#自拍偷拍$/gaotype/17#强奸乱伦$/gaotype/14#绝美少女$/gaotype/13#首次亮相$/gaotype/12#HEY诱惑$/gaotype/5#独家DMM$/gaotype/4#网红主播$/gaotype/6#日韩精品$/gaotype/10#激情口交$/gaotype/11#动漫电影$/gaotype/15#极骚萝莉$/gaotype/19#HEYZO$/gaotype/21#高潮喷吹$/gaotype/22#自慰颜射$/gaotype/23",
   "houzhui": ".html",
   "shifouercijiequ": "1",
   "jiequqian": "blank\">百人牛牛，美女陪干！不爽就来干</a>",
