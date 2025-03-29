@@ -35,23 +35,6 @@
              }},
 			 
 			 
-				 
-	  {"key": "600老司机","name": "🏃‍♀600老司机🏃‍♀️","type": 3,  "api":"csp_XBPQ",
-       "filterable": 1,
-	  "style":{"type":"rect","ratio":1.333},
-	"ext": {
-                "主页url": "https://lsj53291.600gc.top/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组":"<a class=\"cover\">&&</a>",
-                "图片": "src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "链接": "href=\"&&\"",
-		"搜索url": "https://lsj53291.600gc.top/index.php/vodsearch/{wd}----------{pg}---.html",
-                "分类url": "https://lsj53291.600gc.top/index.php/vodtype/{cateId}-{catePg}.html",
-     	    "分类": "麻豆$1#其他传媒$4#中文$5#星空无限$3#兔子$2#国产精品$20#精品素人$21"}},
-			 
-			 
 			 
 			 
 	 {"key":"AV空投军团",
