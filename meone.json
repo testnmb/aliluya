@@ -165,11 +165,11 @@
         "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 		
 	     "直接播放": "1",
-        //"嗅探词":"m3u8#.m3u8",
-        //"嗅探过滤词":".html#=http",
+      
+        "嗅探过滤词":".html#=http",
         "搜索url": "https://123av.com/zh/search?keyword={wd}",
         "分类url": "https://123av.com/zh/{cateId}?page={catePg}",
-        "分类": "全新上市$dm2/new-release#最近更新$dm2/recent-update#vr影片$dm2/vr#今日热门$dm2/today-hot#本周热门$dm2/weekly-hot#本月热门$dm2/monthly-hot"
+        "分类": "全新上市$dm2/new-release#最近更新$dm2/recent-update#vr影片$dm2/vr#今日热门$dm3/today-hot#本周热门$dm2/weekly-hot#本月热门$dm2/monthly-hot"
       }
     },
 			 
@@ -372,7 +372,8 @@
     "分类ID": "/type/&&.html\"",
     "分类url": "https://av77.com/type/{cateId}/{catePg}.html;;z"}},		
 			
-	{"key":"萝莉少女","name":"👧色女儿👧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+	{"key":"萝莉少女","name":"👧色女儿👧","type":3,"api":"csp_XBPQ","searchable":1,
+	"quickSearch":1,"filterable":1,"ext":{
 "主页url":"https://sssenba1.buzz/",
 "数组":"<li id=\"li1\"&&</li>",
 //"数组":"<a&&</a>",
@@ -406,15 +407,14 @@
 "标题":"alt=\"&&\"",
 //"副标题":" <p>&&</p>",
 "链接":"href=\"&&\"",
-"链接": "/vodplay+href=\"/voddetail/&&/.html\"+-1-1.html",
- "直接播放": "1",
- "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	
+"链接": "/vodplay+href=\"/voddetail/&&/\"+-1-1",
+"免嗅":"1",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"过滤词":"=http#.jpg#.png#.ico#.gif#.js",	
 //"线路数组":"<ul class=\"detail-tab&&</ul>",
 //"线路标题":">&&</a>",
-//"线路数组":"<div class=\"video-info\">&&\">",
-//"线路标题":"title=\"&&",
-//"播放数组":"<ul class=\"detail-play-list&&</li>",
-//"播放列表":"<a&&/a>",
+//"播放数组":"<ul class=\"detail-play-list clearfix&&</ul>",
+//"播放列表":"<li><a&&/a>",
 //"播放标题":">&&<",
 //"播放链接":"href=\"&&\"",
 "简介":"<ul class=\"detail-actor clearfix\">&&VIP[替换:</li>>>💞]",
@@ -448,8 +448,8 @@
 	
 	
 	  {
-            "key": "路透社",
-            "name": "🏆路透射🐍",
+            "key": "路透射",
+            "name": "🏆路透社🐍",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./XBPQ/最新.jar",
@@ -466,8 +466,8 @@
                "播放数组": "stui-content__playlist clearfix&&</ul>",
 	            "播放列表": "<a&&a>",
 	           "播放链接": "href=\"&&\"",
-	          "播放标题": ">&&</",
-	          "嗅探词": "index.m3u8",
+	           "播放标题": ">&&</",
+	           "嗅探词": "index.m3u8",
                
                 "搜索url": "https://lu-tou-she.381112.com/vod/search.html",
                 "分类数组": "<li&&</li>",
@@ -479,53 +479,12 @@
   
   
   
-       {
-            "key": "色🐒",
-            "name": "🏆😍猴🐒",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./XBPQ/最新.jar",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "数组": "<div class=\"card-container&&<div class=\"card-bottom",
-				 "图片": "src=\"&&\"",
-                "链接": "href=\"&&\"",
-				  "标题": ">&&</a></p>",
-                "副标题": "class=\"fas fa-clock icon-bottom-left\">&nbsp;&&</i>",
-                "直接播放": "1",
-	            "嗅探词": "index.m3u8",
-               
-                "搜索url": "https://lu-tou-she.381112.com/vod/search.html",
-                "分类数组": "<a&&</a>",
-                "分类标题": ">&&</a",
-                "分类ID": "/?fenlei=&&",
-                "分类链接": "https://vr.17888555.xyz/?fenlei={cateId}&p={catePg}&rq={by}"
-            }
-        },
   
   
   
   
   
   
-  
-  {"key": "https://www.jb9551.sbs/","name": "🏃‍♀JBTV🏃‍♀️","type": 3, 
-	  "jar": "./XBPQ/最新.jar",
-	"api": "csp_XBPQ","ext": {
-                "主页url": "https://www.jb9551.sbs/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组": "class=\"vod\">&&</div></div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "target=\"_blank\">&&</a>",
-                "链接": "href=\"&&\"",
-				"搜索url": "https://www.jb9551.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "分类url": "https://www.jb9551.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-     	    "分类": "国产情色$1#中文字幕$4#日本无码$2#日本有码$3#网红主播$5#动漫$6#欧美$7#国模私拍$8#长腿丝袜$9#邻家人妻$10#三级伦理$11#精品推荐$12"}},
-	  
 	  
 	  {"key": "omoav","name": "🏠OMO😍🏠","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {  
        
