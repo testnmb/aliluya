@@ -637,6 +637,22 @@
       "链接": "href=\"&&\"",
       "副标题": "<strong>&&</strong>"}},
 
+  {"key": "https://avhd101.com/","name": "🎬avhd101🎬","type": 3,"api": "csp_XBPQ","ext": {
+     
+      "主页url": "https://avhd101.com/",
+      "分类url": "https://avhd101.com/{cateId}?page={catePg}", 
+      "分类":"高清&中文字幕&🈚️🐎",
+      "分类值": "hd&chinese&uncensored",
+      "直接播放": "1",
+      "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+      "数组": "<li><article>&&</article></li>",
+      "图片": "src=\"&&\"",
+      "标题": "alt=\"&&\"",
+      "链接": "href=\"&&\""
+     }},
+
+
+
 
 
 //{"key": "ROU223","name": "🔞223ROU | 视频","type": 3,"api": "csp_ROU223","searchable": 0,"filterable": 1,"jar": "./jar/182.jar"},
