@@ -53,14 +53,11 @@
         "图片":"src=\"&&\"",
         "标题":"alt=\"&&\"",
         "副标题":"<div class=\"volume\">&&</div>",
-        
-         "链接": "href=\"&&\"",
-		  "线路二次截取":"<div class=\"list\">&&</div></div>",
-		  "线路数组": "<span class=\"name\">&&</span>",
-        //"跳转播放链接":"var player_*\"url\":\"&&\"",
-		"直接播放": "1",
-       //"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        //"搜索模式":"1",
+        "链接": "href=\"&&\"",
+		"线路二次截取":"<div class=\"list\">&&</div></div>",
+		"线路数组": "<div class=\"item&&</div>",
+		 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+		//"直接播放": "1",
        "搜索url":"https://javtree.com/s/{wd}.html",
        
 		 "分类": "高清$82b8fe56ba#單體作品$8e98a0e1da#獨家作品$df310a6b46#數位作品$4eda492acb#出轨$329824663d#劇情$8c8d0c398f#近親相姦$de4da9e7ff#淫乱$17015550a7#淩辱,羞辱$2b0b315224
