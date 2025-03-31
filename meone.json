@@ -56,6 +56,7 @@
         "链接": "href=\"&&\"",
 		"线路二次截取":"<div class=\"list\">&&</div></div>",
 		"线路数组": "<div class=\"item&&</div>",
+		 "线路标题": ">&&</span>",
 		 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 		//"直接播放": "1",
        "搜索url":"https://javtree.com/s/{wd}.html",
