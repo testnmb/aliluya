@@ -3,10 +3,6 @@
  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",   
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
-
-
-
-
  				
 {"key":"i18av","name":"I🔟8️⃣ AV ","type":3,"api":"csp_XBPQ",
 "searchable":1,"quickSearch":1,"filterable":1,"ext":{
@@ -60,13 +56,12 @@
         //"跳转播放链接":"var player_*\"url\":\"&&\"",
 		"直接播放": "1",
        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        //"搜索模式":"1",
-       // "搜索url":"https://www.ttdao6613.buzz/vod/search/page/{pg}/wd/{wd}/",
+        
         "分类数组":"<a>&&</a>",
         "分类标题":"</b>&&<small>",
         "分类ID":"/tag/&&.html",
-		 //"分类": "日韩有码$41#日韩🈚️🐎$42#日韩乱伦$43#中文字幕$44#制服诱惑$45#童颜巨乳$46#日韩素人$47#日韩素人$48#AV解说$51",
-        "分类url":"https://javtree.com/tag/{cateId}-{catePg}.html;;z"}},
+        "分类url":"https://javtree.com/tag/{cateId}-{catePg}.html;;z"
+}},
 				
 			
 
