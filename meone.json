@@ -228,10 +228,10 @@
 		"主页url":"https://123av.com/zh/dm5",
         "数组": "class=\"box-item\">&&</div></div>",
         "图片": "data-src=\"&&\"",
-        //"链接": "href=\"&&\"",
+        "链接": "href=\"&&\"",
 		"标题":"<div class=\"detail\">&&</a>",
 		"副标题":"<div class=\"duration\">&&</div>",
-        "链接": "https://123av.com/zh/dm2/v/&&",
+        
         "直接播放": "1",
         "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
         //"嗅探过滤词":".html#=http",
@@ -517,12 +517,6 @@
                 "分类链接": "https://lu-tou-she.381112.com/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"
             }
         },
-  
-  
-  
-  
-  
-  
   
   
   
@@ -935,28 +929,7 @@
 "分类值":"1&2&15&3&16&4&11&14&5&6&7&8&9&10&12&13&17&18&19&20&21&22&23&24",
 "分类url":"https://www.0dzm3d.com/typegaokk/{cateId}_{catePg}.html[https://www.0dzm3d.com/typegaokk/{cateId}.html]"}},
  
-   { "key": "GAOAK",
-      "name": "💌GAOAK💌",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://www.7gaoak.com/gaotype/{cateId}_{catePg}.html",
-		
-        "分类": "国产视频$25#制服诱惑$16#日本🈚️🐎$20#强奸乱伦$46#日本🈶️🐎$9#日韩精品$10#天使萌$26#亚洲$39#唯美清纯$37#中文字幕$2#绝美少女$13#萝莉$19#人妻$8#首次$12",
-        "搜索模式": "1",
-		"数组": "class=\"video-pic loading\"&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "class=\"content-img lazy\" data-original=\"&&\"",
-        "副标题": "note text-bg-r\">&&<",
-        //"链接": "/gaoplay/+href=\"+-1-1.html",
-		"线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]",
-		"线路标题":">&&</a>",
-		"播放数组":"class=\"item line\">&&</div>",
-		"播放列表":"<a&&/a>",
-       "播放标题":">&&<",
-       "播放链接":"href=\"&&\""
-       // "直接播放":"1"
-      } },		
+ 
 
 {"key": "csp_xBPQ_香蕉AV解说","name": "🍌香蕉AV解说🍌","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":
 {"站名":"AV解说",
