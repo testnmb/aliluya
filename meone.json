@@ -37,7 +37,7 @@
         "直接播放":"1"
       } },		
 
-  
+    
  			
 				
 {"key":"javtree","name":"📀javtree📀","type":3,"api":"csp_XBPQ",
@@ -62,7 +62,16 @@
         "分类url":"https://javtree.com/tag/{cateId}-{catePg}.html;;z"}},
 				
 			
-
+  {"key": "爱看色情","name": "😄爱看lol😄","type": 3,"api": "csp_XBPQ","ext": {
+                "主页url": "https://iporn5.life/",
+                "直接播放": "1",
+                "数组": "class=\"colVideoList\">&&</div></div>",
+                "图片": "background-image: url('&&')",
+                "标题":"target=\"_self\">&&</a>",
+                "链接": "href=\"&&\"",
+				"跳转播放链接":"var player_*\"url\":\"&&\"",
+                "分类url": "https://iporn5.life/vodshow/{cateId}--{by}------{catePg}---.html",
+                "分类": "日韩$6#国产$4#🈚️🐎$5#中文$8#欧美$7"}},
 
 
 
@@ -216,31 +225,7 @@
         "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
       } },
 	 
-	 {
-      "key": "csp_njav",
-      "name": "🔥123😍",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-		"主页url":"https://123av.com/zh/dm5",
-        "数组": "class=\"box-item\">&&</div></div>",
-        "图片": "data-src=\"&&\"",
-        "链接": "href=\"&&\"",
-		"标题":"<div class=\"detail\">&&</a>",
-		"副标题":"<div class=\"duration\">&&</div>",
-        
-        "直接播放": "1",
-        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        //"嗅探过滤词":".html#=http",
-        "搜索url": "https://123av.com/zh/search?keyword={wd}",
-        "分类url": "https://123av.com/zh/{cateId}?page={catePg}",
-        "分类": "全新上市$dm2/new-release#最近更新$dm2/recent-update#vr影片$dm2/vr#今日热门$dm3/today-hot#本周热门$dm2/weekly-hot#本月热门$dm2/monthly-hot"
-      }
-    },
-			 
+	 
 
 
 
