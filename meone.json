@@ -66,11 +66,12 @@
                 "主页url": "https://iporn5.life/",
                 "直接播放": "1",
                 "数组": "class=\"colVideoList\">&&</div></div>",
-                "图片": "background-image: url('&&')",
+                "图片": "style=\"background-image: url(&&);\"",
                 "标题":"target=\"_self\">&&</a>",
                 "链接": "href=\"&&\"",
 				"跳转播放链接":"var player_*\"url\":\"&&\"",
-                "分类url": "https://iporn5.life/vodshow/{cateId}--{by}------{catePg}---.html",
+                //"分类url": "https://iporn5.life/vodshow/{cateId}--{by}------{catePg}---.html",
+				 "分类url": "https://iporn5.life/vodtype/{cateId}-{catePg}.html",
                 "分类": "日韩$6#国产$4#🈚️🐎$5#中文$8#欧美$7"}},
 
 
