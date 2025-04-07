@@ -39,6 +39,19 @@
       } },		
 
    
+   
+    {"key": "avstime","name": "💕avstime💕","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
+        "直接播放": 1,
+        "主页url": "https://avstime.com/",
+        "数组": "class=\"videoBox\"&&</a>",
+        "图片": "data-original=\"&&\"",
+        "链接": "a href=\"&&\"",
+        "线路标题": " <h4 class=\"title\">&&</h4>",
+		 "搜索模式": "1",
+		"搜索url": "https://avstime.com/vodsearch/-------------/?wd={wd}",
+        "分类url": "https://avstime.com/vodtype/{cateId}-{catePg}/",
+		  "直接播放":"1"           
+        "分类": "中文$28#有码$21#🈚️🐎$22#欧美$23#动漫$24#伦理$25"}},
 	
 	
 	
