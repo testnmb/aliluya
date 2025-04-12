@@ -75,15 +75,16 @@
         "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
 		"主页url": "https://javbus.sbs/",
     "数组": "class=\"myui-vodlist__box&&</div>",
-    "图片": "style=\"background: url(&&);\"",
+     "图片": "style=\"background: url(&&);\"",
     "标题": "title=\"&&\"",
     "简介": "description\"*content=\"&&火热",
     "链接":"https://javbus.sbs/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
     "搜索模式": "1",
     "搜索url": "https://javbus.sbs/vod/search/?wd={wd}&submit=",
-    "分类": "中字1️⃣区$1#中字2️⃣区$2#中字3️⃣区$3#中字4️⃣区$4#中字5️⃣区$5#传媒印画$6#日本AV$7",
-    "子分类": "中文字幕#中文字幕#中文字幕#强奸中文$巨乳中文$乱伦中文$制服中文$人妻中文$调教中文$出轨中文#中文字幕#空#中文字幕",
-    "分类url": "https://javbus.sbs/vod/show/by/{by}/class/{class}/id/{cateId}/letter/{letter}/page/{catePg}/"
+    "分类": "中字1️⃣区$1#中字2️⃣区$2#中字3️⃣区$3#中字4️⃣区$4#中字5️⃣区$5#传媒印画$6#日本$7",
+    //"类型": "中文字幕#中文字幕#中文字幕#强奸中文$巨乳中文$乱伦中文$制服中文$人妻中文$调教中文$出轨中文#中文字幕#空#中文字幕",
+   // "分类url": "https://javbus.sbs/vod/show/by/{by}/class/{class}/id/{cateId}/letter/{letter}/page/{catePg}/"
+   "分类url": "https://javbus.sbs/vod/show/id/{cateId}/page/{catePg}/"
 }},
 	
 	
