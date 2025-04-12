@@ -172,7 +172,7 @@
     
 				
   {"key": "猛男影院","name": "🚪猛男电影🚪","type": 3,"api": "csp_XBPQ","ext": {
-                "主页url": "https://xn--u0s.mnyy109.lat/index.php/vod/type/id/751/",
+               // "主页url": "https://xn--u0s.mnyy109.lat/index.php/vod/type/id/751/",
                 "直接播放": "1",
                 "数组": "class=\"thumb-videos flex v_list2023\">&&</a></div>",
 				"图片":"original=\"&&\"",
