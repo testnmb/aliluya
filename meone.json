@@ -100,7 +100,7 @@
     "标题": "title=\"&&\"",
     "简介": "description\"*content=\"&&",
      "链接": "href=\"&&\"",
-	 "线路名二次截取":"class=\"nav&&</ul>",
+	// "线路名二次截取":"class=\"nav&&</ul>",
                 "线路数组":"data-toggle=\"tab\"&&/a>",
                 "线路名标题":">&&<",
                "播放数组": "myui-content__list&&</ul>",
