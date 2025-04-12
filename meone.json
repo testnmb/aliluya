@@ -75,7 +75,7 @@
         "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
 		"主页url": "https://javbus.sbs/",
     "数组": "class=\"myui-vodlist__box&&</div>",
-    "图片": "style=\"background: url('&&')",
+    "图片": "style=\"background: url(&&);",
     "标题": "title=\"&&\"",
     "简介": "description\"*content=\"&&火热",
     "链接":"https://javbus.sbs/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
