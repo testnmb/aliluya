@@ -284,14 +284,14 @@
 		"主页url":"https://ipornbase.xyz/ch/local",
 		"分类url":"https://ipornbase.xyz/ch/{cateId}?page={catePg}",
 	   "分类": "国产所有$local#国产今日🔥$local/today#国产本周🔥$local/weekly#国产本月🔥$local/month#国产2025🔥$local/year#日本新发行$jp/latest#日本所有$jp#日本今日🔥$jp/today#日本本周🔥$jp/weekly#日本今月🔥$jp/month#日本2025🔥$jp/year#日本无码所有$jp-uncensored#日本今日🔥$jp-uncensored/today#日本本周🔥$jp-uncensored/weekly#日本本月🔥$jp-uncensored/month#日本2025🔥$jp-uncensored/year",
-	    "数组":"<div class=\"imgcover\">&&</a></div>",
+	    "数组":"<div class=\"imgbox\">&&</a></div>",
 		"图片":"src=\"&&\"",
-        //"标题": "alt=\"&&\"",
+      
 		"标题": "hreflang=\"zh-hant\">&&</a>",
         "链接":"href=\"&&\"",
         "副标题":"class=\"datetime\">&&</time>",
          "直接播放": "1",
-		// "链接播放界面":"https://ipornbase.xyz/+href=\"/vidoe/&&\"+/",
+		
 	 
        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	   
 	  
@@ -310,17 +310,18 @@
 		"主页url":"https://bjav.xyz/",
 		"分类url":"https://bjav.xyz/{cateId}?page={catePg}",
 	   "分类": "国产今日🔥$china/today#国产本周🔥$china/weekly#国产本月🔥$china/month#国产T100🔥$china-top100#日本新发行$japan/release#日本新入库$japan/news#日本中文$japan/cht-sub#日本今日🔥$japan/today#日本本周🔥$japan/weekly#日本今月🔥$japan/month#日本TOO🔥$jp-top100#日本无码$japan/uncensored#AV 解說視頻$commentary#中指通推薦$japan/youtuber",
-	    "数组":"<div class=\"col-6 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3\">&&</a></div>",
+	   // "数组":"<div class=\"col-6 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3\">&&</a></div>",
+		 "数组":"<div class=\"imgbox\">&&</div>",
 		"图片":"src=\"&&\"",
         "标题": "alt=\"&&\"",
         "链接":"href=\"&&\"",
-       
+        "副标题":"class=\"datetime\">&&</time>",
          "直接播放": "1",
-		// "链接播放界面":"https://bjav.xyz/+href=\"/vd/&&\"+/",
+		
 	 
        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	   
 	  
-       "搜索url":"https://ipornbase.xyz/se/result?keyword={wd}.html" }},
+       "搜索url":"https://bjav.xyz/search?fulltext={wd}" }},
 		
 		 {"key": "ppp",
       "name": "🌳PPP┃影视🌳",
@@ -784,7 +785,7 @@
 		            
         "分类": "最近加入$1#最新发行$2#今日热门$3#本周熱門$4#本月熱門$5#总浏览数$6"}},
 
-{"key": "19麻豆","name": "🎬台湾传媒全🎬","type": 3,"api": "csp_XBPQ","ext": {
+{"key": "19麻豆","name": "🐒台湾传媒全🐒","type": 3,"api": "csp_XBPQ","ext": {
       "站名": "麻豆视频",
       "主页url": "https://19q.cc/",
       "分类url": "https://19q.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html", 
@@ -814,7 +815,7 @@
 
 
 
-{"key":"沙咖影院","name":"🎬沙咖影院🎬","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"沙咖影院","name":"🥉沙咖影院🥉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":{"数组":"stui-vodlist__thumb lazyload&&</a",
 "图片":"data-original=\"&&\"",//"图片代理":"1",
 "副标题":"pic-text text-right\">&&</span>",
@@ -841,7 +842,7 @@
         "分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"}},
 		
 		
-{ "key": "麻豆","name": "🎬麻豆传媒映画🎬","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,
+{ "key": "麻豆","name": "🥈麻豆传媒映画🥈","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,
              "filterable": 1,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": { 
             "搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
             "分类": "日本视频$1#麻豆视频$2#国产视频$3",
@@ -959,36 +960,7 @@
                 //"分类ID": "/index.php/vod/type/id/&&.html"
             }
         },
-{"key":"csp_xBP顶级国产","name":"📀顶级国产〔xBPQ〕📀","type":3,"api":"csp_XBPQ", "jar": "./XBPQ/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":
-{"站名":"顶级国产",
-//"发布url":"https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
-"主页url":"https://faequeim-ub2za-faequeim.qoqavideo7y3m1.com/aovaov",
-"直接播放":"1",
-"数组":"class=\"thum&&</a></h5>",
-"数组二次截取":"<li>&&</li>",
-"图片":"data-original=\"&&\"",
-"标题":"title=\"&&\"",
-"链接":"href=\"&&\"",
-"副标题":"<span class=\"video-grade\">&&</span>",
-"搜索url": "https://faequeim-ub2za-faequeim.qoqavideo7y3m1.com/vodsearch/-------------/?wd=",
-"搜索模式":"0",
-"搜索数组":"<div class=\"myui-vodlist__box&&</h4>",
-"搜索图片":"data-original=\"&&\"",
-"搜索标题":"title=\"&&\"",
-"搜索链接":"href=\"&&\"",
-"搜索副标题":"<span class=\"score\">&&</span>",
-"搜索后缀":"/playgaokk/",
-//"播放数组": "<a class=\"myui-vodlist__thumb lazyload\">&&<h4",
-//"列表二次截取": "",
-//"播放列表": "<li class=&&</a></li>",
-//"播放标题": ">&&<",
-//"播放链接": "href=\"&&\"",
-"链接": "/vodplay/+href=\"/voddetail/&&/\"+-1-1",
-"免嗅":"0",
-//"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-"分类":"AV解说$1#中文字幕$3#国产传媒$4#日本有码$20#日本无码$21#素人搭讪$23#强奸乱伦$24#国产青色$47#黑料$29#三级$28#美巨乳$56#熟女人妻$58#自拍偷拍$60#精选日本$84#探花$80#黑料$79#cosplay$77#门事件$82#AI换脸$79#女优明星$83",
-"分类url":"https://faequeim-ub2za-faequeim.qoqavideo7y3m1.com/vodtype/{cateId}-{catePg}/"}},
-          
+
     
 
    {
