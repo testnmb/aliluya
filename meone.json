@@ -22,7 +22,7 @@
 	  
 	  
 	    {"key": "猛男影院","name": "🎬猛男影院🎬","type": 3,"api": "csp_XBPQ","ext": {
-                "主页url": "https://xn--u0s.mnyy109.lat/index.php/vod/type/id/751/",
+               
                 "直接播放": "1",
                 "数组": "class=\"thumb\">&&</a></div>",
 				"图片":"original=\"&&\"",
@@ -411,7 +411,7 @@
     "分类url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
 	
 
-{"key": "av影视","name": "🎬vv影视🎬|XBPQ","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
+{"key": "AV影视","name": "🎬vv影视🎬","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
       "图片": "data-src=\"&&\"",
       "直接播放": "1",
       "分类url":"https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
@@ -1021,7 +1021,7 @@
 
  
 
-  {"key":"花影视","name":"❀色花堂❀","type":3,"api":"csp_XBPQ",
+  {"key":"花影视","name":"🌸色花堂🌸A版","type":3,"api":"csp_XBPQ",
   "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
   "ext":{"数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>",
   "图片": "data-original=\"&&\"",
@@ -1034,7 +1034,7 @@
 
 
 
-{"key":"csp_xBP色花堂","name":"❀色花堂❀〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
+{"key":"csp_xBP色花堂","name":"🌸色花堂🌸B版","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"站名":"色花堂",
 "主页url":"https://www.0dzm3d.com/index.html",
 //"数组":"<div class=\"img-box cover-md\">&&</h6>",
