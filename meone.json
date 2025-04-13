@@ -284,7 +284,7 @@
 		"主页url":"https://ipornbase.xyz/ch/local",
 		"分类url":"https://ipornbase.xyz/ch/{cateId}?page={catePg}",
 	   "分类": "国产所有$local#国产今日🔥$local/today#国产本周🔥$local/weekly#国产本月🔥$local/month#国产2025🔥$local/year#日本新发行$jp/latest#日本所有$jp#日本今日🔥$jp/today#日本本周🔥$jp/weekly#日本今月🔥$jp/month#日本2025🔥$jp/year#日本无码所有$jp-uncensored#日本今日🔥$jp-uncensored/today#日本本周🔥$jp-uncensored/weekly#日本本月🔥$jp-uncensored/month#日本2025🔥$jp-uncensored/year",
-	    "数组":"<div class=\"imgbox\">&&</a></div>",
+	    "数组":"<div class=\"imgcover\">&&</a></div>",
 		"图片":"src=\"&&\"",
       
 		"标题": "hreflang=\"zh-hant\">&&</a>",
@@ -311,7 +311,7 @@
 		"分类url":"https://bjav.xyz/{cateId}?page={catePg}",
 	   "分类": "国产今日🔥$china/today#国产本周🔥$china/weekly#国产本月🔥$china/month#国产T100🔥$china-top100#日本新发行$japan/release#日本新入库$japan/news#日本中文$japan/cht-sub#日本今日🔥$japan/today#日本本周🔥$japan/weekly#日本今月🔥$japan/month#日本TOO🔥$jp-top100#日本无码$japan/uncensored#AV 解說視頻$commentary#中指通推薦$japan/youtuber",
 	   // "数组":"<div class=\"col-6 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3\">&&</a></div>",
-		 "数组":"<div class=\"imgbox\">&&</div>",
+		 "数组":"<div class=\"imgcover\">&&</a></div>",
 		"图片":"src=\"&&\"",
         "标题": "alt=\"&&\"",
         "链接":"href=\"&&\"",
