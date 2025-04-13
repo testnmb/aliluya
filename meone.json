@@ -194,7 +194,7 @@
                 "主页url": "https://ass.dabaobei.sbs/",
                 "数组": "<div class=\"puremag-list-post-thumbnail\">&&</div></div>",
                 "图片": "src=\"&&\"",
-                "标题": "title=\"&&\"",
+                "标题": "rel=\"bookmark\">&&</a>",
                 "副标题": "<span class=\"puremag-list-post-date puremag-list-post-meta\">&&</span> ",
                 "简介": "少看点，再看你就废了！！！",
                 "链接": "href=\"&&\"",
@@ -204,30 +204,19 @@
                 "分类": "美乳巨乳$美乳巨乳#萝莉少女$萝莉少女#强奸乱伦$强奸乱伦#麻豆传媒$麻豆传媒#AV解说$AV解说#中文字幕$中文字幕#制服诱惑$制服诱惑"}},
 
 
-	      {"key":"凸凹不平点",
-       "name":"🚄凸凹不平点🚄",
-       "type":3,
-       "api":"csp_XBPQ",
-       "filterable": 1,
-       "style":{"type":"rect","ratio":1.333},
-       "ext":{
-		"主页url":"https://xn--0413-1com-qc6ny85ama7362bhq5c.tutu17.cfd/",
-		"分类url":"https://xn--0413-1com-qc6ny85ama7362bhq5c.tutu17.cfd/?m=list&u=ls&k={cateId}&p={catePg}",
-	   "分类": "中文字幕$2#东京热$5#一本道$6#HeyZo$4#XXX-AV$12#人妻斩$13#TWAV$24",
-	   "数组":"<ul>&&</ul>",
-		 
-		"图片":"src=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接":"href=\"&&\"",
-        "副标题":"<i class=\"icon icon-time\"></i>&&</span>",
-         "直接播放": "1",
-		
 	 
-       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	   
-	  
-       "搜索url":"https://xn--0413-1com-qc6ny85ama7362bhq5c.tutu17.cfd/?m=search&u=ls&k={wd}&p={pg}" }},
-	
-  
+            {"key": "骑行者","name": "🚲骑行者🚲","type": 3,"api": "csp_XBPQ","style":{"type": "rect","ratio": 1.5},"ext": {
+                "主页url": "https://qxsp.qixingsp.fun/",
+                "数组": "\"video__container\"&&\"video__container\"",
+                "图片": "src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "<span class=\"video__meta--last-update\">&&</span>",
+                "简介": "少看点，再看你就废了！！！",
+                "链接": "href=\"&&\"",
+				"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+		        "直接播放": "1",
+                "分类url": "https://qxsp.qixingsp.fun/type/{cateId}-{catePg}.html;;z",
+                "分类": "视频一区$1#视频二区$29#视频三区$47#视频四区$68#视频五区$96#视频六区$115#视频七区$129#视频八区$190#视频九区$146#日本有码$34#中文$35"}},
     
  			
 				
