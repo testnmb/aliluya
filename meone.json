@@ -5,20 +5,7 @@
 "sites":[
 
        
-  {"key": "https://www.jb9551.sbs/","name": "🏃‍♀JBTV🏃‍♀️","type": 3, 
-	   
-	"api": "csp_XBPQ","ext": {
-                "主页url": "https://www.jb9551.sbs/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组":" <div class=\"vod\">&&</div></div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "target=\"_blank\">&&</a>",
-                "链接": "href=\"&&\"",
-				"搜索url": "https://www.jb9551.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "分类url": "https://www.jb9551.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-     	    "分类": "国产情色$1#中文字幕$4#日本无码$2#日本有码$3#网红主播$5#动漫$6#欧美$7#国模私拍$8#长腿丝袜$9#邻家人妻$10#三级伦理$11#精品推荐$12"}},
-	  
+  
 	  
 	  
 	    {"key": "猛男影院","name": "🎬猛男影院🎬","type": 3,"api": "csp_XBPQ","ext": {
@@ -190,7 +177,7 @@
 
     
 	 
-               {"key": "dabaobei","name": "📚大宝贝📚","type": 3,"api": "csp_XBPQ","style":{"type": "rect","ratio": 1.5},"ext": {
+               {"key": "dabaobei","name": "🐚大宝贝🐚","type": 3,"api": "csp_XBPQ","style":{"type": "rect","ratio": 1.5},"ext": {
                 "主页url": "https://ass.dabaobei.sbs/",
                 "数组": "<div class=\"puremag-list-post-thumbnail\">&&</div></div>",
                 "图片": "src=\"&&\"",
@@ -205,13 +192,13 @@
 
 
 	 
-            {"key": "骑行者","name": "🚲骑行者🚲","type": 3,"api": "csp_XBPQ","style":{"type": "rect","ratio": 1.5},"ext": {
+            {"key": "骑行者AV","name": "🚲骑行者🚲","type": 3,"api": "csp_XBPQ","style":{"type": "rect","ratio": 1.5},"ext": {
                 "主页url": "https://qxsp.qixingsp.fun/",
                 "数组": "\"video__container\"&&\"video__container\"",
                 "图片": "src=\"&&\"",
                 "标题": "alt=\"&&\"",
                 "副标题": "<span class=\"video__meta--last-update\">&&</span>",
-                "简介": "少看点，再看你就废了！！！",
+                "简介": "看多了好爽 ！！！",
                 "链接": "href=\"&&\"",
 				"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 		        "直接播放": "1",
@@ -366,7 +353,7 @@
 			 
 			 
 	  { "key": "yubanghanzhu",
-      "name": "🔥玉蚌含珠🔥",
+      "name": "👀玉蚌含珠👀",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -700,7 +687,7 @@
 	
 
     { "key": "多米尼奥",
-      "name": "💗多米尼奥💗",
+      "name": "🚬多米尼奥🚬",
       "type": 3,
       "api": "csp_XBPQ",
 	 
