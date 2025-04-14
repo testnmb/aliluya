@@ -11,14 +11,14 @@
        "type":3,
        "api":"csp_XBPQ",
        "searchable":1,
-    
+      
        "quickSearch":1,
        "filterable":1,
        "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
-	  "图片": "style=\"background-image: url(&&)",
+	  "图片": "style=\"background-image: url(&&) no-repeat;",
       "标题":"title=\"&&\"",
        "链接":"href=\"&&\"",
-       "副标题":"sub\">&&</p>[不包含:次播放]",
+       "副标题":"sub\">&&</p>",
 	   "搜索url":"https://oicyienj.9cai.online/search/-------------.html?wd={wd}&submit=",
        "搜索模式":"1",
 	   "分类url":"https://oicyienj.9cai.online/9cai/{cateId}-{catePg}.html",
@@ -30,25 +30,6 @@
   
   
   
-  
-  
-	  
-	  
-	    {"key": "猛男影院","name": "🎬猛男影院🎬","type": 3,"api": "csp_XBPQ","ext": {
-               
-                "直接播放": "1",
-                "数组": "class=\"thumb\">&&</a></div>",
-				"图片":"original=\"&&\"",
-                "标题":"<p>&&</p>",
-				 "副标题": "</svg>&&</span>",
-                "链接": "href=\"&&\"",
-				"搜索模式":"1",
-                "搜索url":"https://xn--u0s.mnyy109.lat/index.php/vod/search/class/{wd}/",
-				 "分类url": "https://xn--u0s.mnyy109.lat/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "分类": "中文$752#解说$760#🈚️🐎$753#有码$754#人妻$758#制服$9716#巨乳$9718#少女$9719"}},
-	  
-	  
-	  
 	  
 	  
 
