@@ -15,7 +15,7 @@
        "quickSearch":1,
        "filterable":1,
        "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
-	  "图片": "style=\"background-image: url(&&) no-repeat;",
+	  "图片": "style=\"background: url(&&) no-repeat;",
       "标题":"title=\"&&\"",
        "链接":"href=\"&&\"",
        "副标题":"sub\">&&</p>",
