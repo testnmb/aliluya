@@ -18,7 +18,7 @@
 	  "图片": "style=\"background: url(&&) no-repeat;",
       "标题":"title=\"&&\"",
        "链接":"href=\"&&\"",
-       "副标题":"sub\">&&</p>",
+       "副标题":"</span>&&</p>",
 	   "搜索url":"https://oicyienj.9cai.online/search/-------------.html?wd={wd}&submit=",
        "搜索模式":"1",
 	   "分类url":"https://oicyienj.9cai.online/9cai/{cateId}-{catePg}.html",
