@@ -6,6 +6,32 @@
 
        
   
+    {"key":"韭菜视频",
+       "name":"🌶割韭菜啦🌶",
+       "type":3,
+       "api":"csp_XBPQ",
+       "searchable":1,
+      // "jar": "./lib/XBPQ.jar",
+       "quickSearch":1,
+       "filterable":1,
+       "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
+	  "图片": "style=\"background-image: url(&&) no-repeat; background-position:50% 50%; background-size: cover;\"",
+      "标题":"title=\"&&\"",
+       "链接":"href=\"&&\"",
+       "副标题":"sub\">&&</p>[不包含:次播放]",
+	   "搜索url":"https://oicyienj.9cai.online/search/-------------.html?wd={wd}&submit=",
+       "搜索模式":"1",
+	   "分类url":"https://oicyienj.9cai.online/9cai/{cateId}-{catePg}.html",
+      "分类":"传媒精品$1#中字$30#国产$3#日韩🈚️🐎$44#伦理$5",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1"  
+   }
+    },
+  
+  
+  
+  
+  
 	  
 	  
 	    {"key": "猛男影院","name": "🎬猛男影院🎬","type": 3,"api": "csp_XBPQ","ext": {
