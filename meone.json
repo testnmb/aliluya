@@ -12,7 +12,8 @@
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
-       "ext":{"数组":"<p class=\"img\">&&</li>",
+       "ext":{"主页url": "https://lwj.hsyh7.monster/cn/home/web/",
+		   "数组":"<p class=\"img\">&&</li>",
 	  "图片": "src=\"&&\"",
       "标题":"alt=\"&&\"",
        "链接":"href=\"&&\"",
@@ -39,7 +40,7 @@
 	  "图片": "style=\"background: url(&&) no-repeat;",
       "标题":"title=\"&&\"",
        "链接":"href=\"&&\"",
-       "副标题":"</span>&&</p>",
+        "副标题":"<p class=\"sub\">&&</p>[不包含:次播放]",
 	   "搜索url":"https://oicyienj.9cai.online/search/-------------.html?wd={wd}&submit=",
        "搜索模式":"1",
 	   "分类url":"https://oicyienj.9cai.online/9cai/{cateId}-{catePg}.html",
@@ -50,18 +51,18 @@
   
   
      {"key":"媚人AV",
-       "name":"🥒媚人影视🥒",
+       "name":"🥬媚人影视🥬",
        "type":3,
        "api":"csp_XBPQ",
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
        "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
-	    "主页url": "https://crf.mrav4.cyou/cn/home/web/",
+	   
 	   "图片": "data-original=\"&&\"",
       "标题":"title=\"&&\"",
        "链接":"href=\"&&\"",
-       "副标题":"<span class=\"pic-text text-right\">&&</span>",
+      // "副标题":"<span class=\"pic-text text-right\">&&</span>",
 	   "搜索url":"https://crf.mrav4.cyou/cn/home/web/index.php/vod/search.html",
        "搜索模式":"1",
 	   "分类url":"https://crf.mrav4.cyou/cn/home/web/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
@@ -73,7 +74,7 @@
  
  
      {"key":"黄精影院",
-       "name":"🎬黄精影院🎬",
+       "name":"🌼黄精影院🌼",
        "type":3,
        "api":"csp_XBPQ",
        "searchable":1,
@@ -87,7 +88,7 @@
 	   "搜索url":"https://szo.hjyy6.skin/s/index.html?wd={wd}",
        "搜索模式":"1",
 	   "分类url":"https://szo.hjyy6.skin/vodtype/{cateId}-{catePg}.html",
-       "分类":"自拍$20#波霸$21#乱伦$22#人妻$23#制服$24#花季$25#🈚️🐎$26#日韩$30#三级$33",
+       "分类":"自拍$20#波霸$21#乱++$22#人妻$23#制服$24#花季$25#🈚️🐎$26#日韩$30#其它$33",
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1" }},
   
@@ -107,7 +108,7 @@
 	   "搜索url":"https://esj.pcyy6.pics/s/index.html?wd={wd}",
        "搜索模式":"1",
 	   "分类url":"https://esj.pcyy6.pics/vodtype/{cateId}-{catePg}.html",
-       "分类":"亚洲$20#强伦$21#风骚$23#制服$24#jav高清$26#🈚️🐎$28#偷拍$22#🈶️🐎$29#国产$30",
+       "分类":"亚洲$20#强++$21#风骚$23#制服$24#jav高清$26#🈚️🐎$28#偷拍$22#🈶️🐎$29#国产$30",
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1" }},
 	  
@@ -134,7 +135,7 @@
    
       {
       "key": "12av",
-      "name": "©️12AV┃影视©️",
+      "name": "©️12┃影视©️",
       "type": 3,
       "api": "csp_XBPQ",
      
@@ -180,7 +181,7 @@
 	
 	
 	
-		 {"key":"javbus.sbs-b","name":"🚌javbus B版🚌","type":3,"api":"csp_XBPQ",
+		 {"key":"javbus.sbs-b","name":"🚗javbus B版🚗","type":3,"api":"csp_XBPQ",
         "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
 		"主页url": "https://javbus.sbs/",
     "数组": "class=\"myui-vodlist__box&&</div>",
@@ -376,7 +377,8 @@
 		"主页url":"https://ipornbase.xyz/ch/local",
 		"分类url":"https://ipornbase.xyz/ch/{cateId}?page={catePg}",
 	   "分类": "国产所有$local#国产今日🔥$local/today#国产本周🔥$local/weekly#国产本月🔥$local/month#国产2025🔥$local/year#日本新发行$jp/latest#日本所有$jp#日本今日🔥$jp/today#日本本周🔥$jp/weekly#日本今月🔥$jp/month#日本2025🔥$jp/year#日本无码所有$jp-uncensored#日本今日🔥$jp-uncensored/today#日本本周🔥$jp-uncensored/weekly#日本本月🔥$jp-uncensored/month#日本2025🔥$jp-uncensored/year",
-	    "数组":"<div class=\"imgcover\">&&</a></div>",
+	    //"数组":"<div class=\"imgcover\">&&</a></div>",
+		"数组":"\"imgcover\"&&\"imgcover\"",
 		"图片":"src=\"&&\"",
       
 		"标题": "hreflang=\"zh-hant\">&&</a>",
@@ -402,12 +404,12 @@
 		"主页url":"https://bjav.xyz/",
 		"分类url":"https://bjav.xyz/{cateId}?page={catePg}",
 	   "分类": "国产今日🔥$china/today#国产本周🔥$china/weekly#国产本月🔥$china/month#国产T100🔥$china-top100#日本新发行$japan/release#日本新入库$japan/news#日本中文$japan/cht-sub#日本今日🔥$japan/today#日本本周🔥$japan/weekly#日本今月🔥$japan/month#日本TOO🔥$jp-top100#日本无码$japan/uncensored#AV 解說視頻$commentary#中指通推薦$japan/youtuber",
-	   "数组":"<div class=\"col-6 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3\">&&</a></div>",
+	   "数组":"<div class=\"col-6 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3\">&&</a></div>[不包含:AdProvider]",
 		 
 		"图片":"src=\"&&\"",
         "标题": "alt=\"&&\"",
         "链接":"href=\"&&\"",
-        "副标题":"class=\"datetime\">&&</time>",
+       
          "直接播放": "1",
 		
 	 
@@ -946,7 +948,8 @@
 	// "分类ID": "新片日韩AV$20#字幕精选$21#短片国产$22#酥胸外露$23#剧情强暴$24#制服扮演$25#熟女御姐$26#无码转载$27"
 	}},
 
-{"key": "纤纤影视福利版","name": "©️纤纤影视😍版©️","type": 3,"api": "csp_XBPQ","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
+{"key": "纤纤影视福利版","name": "©️纤纤影视😍版©️","type": 3,"api": "csp_XBPQ","playerType": 1,"searchable": 1,
+                "quickSearch": 1,"filterable": 1,"ext": {
                 "主页url": "https://m.xian372.top/L/26.html",
                 "请求头": "手机",
                 "编码": "gb2312",
@@ -974,37 +977,7 @@
                 "分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"}},
 
 
-    
-		
-
-
-  
-  {
-  "key": "小幺女|床吧",
-  "name": "👧小幺女👧",
-  "type": 3,
-  "playerType": 2,
-  "api": "csp_XBPQ",
- "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-    "站名": "小幺女",
-    "主页url": "https://xxynhkaa1.buzz/sort/id/245.html",
-    "数组": "class=\"vod_box\">&&</li>",
-    "图片": "url('&&'",
-    "标题": "title=\"&&\"",
-    "链接": "https://xxynhkaa1.buzz/detail+href='/display&&'",
-    "跳转播放链接": "var playUrl = '&&'",
-    "直接播放": "1",
-    "嗅探词": "index.m3u8",
-    "分类数组": "<a&&</a",
-    "分类标题": "target=\"_blank\">&&</a[不包含:<h3>伦理作品</h3>#<h3>成人动漫</h3>#<h3>国产主播</h3>#<h3>自拍专区</h3>]",
-    "分类ID": "href=\"/sort/id/&&.html\"",
-    "分类url": "https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"
-  }
-},
+   
   {
             "key": "csp_顶级网曝",
             "name": "🧒顶级网曝-小淫棍🧒",
