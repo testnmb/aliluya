@@ -11,7 +11,6 @@
        "type":3,
        "api":"csp_XBPQ",
        "searchable":1,
-      
        "quickSearch":1,
        "filterable":1,
        "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
@@ -28,9 +27,28 @@
    }
     },
   
+ 
+ 
+     {"key":"黄精影院",
+       "name":"🎬黄精影院🎬",
+       "type":3,
+       "api":"csp_XBPQ",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "ext":{"数组":"vid_thumbainl\">&&</div>",
+	   "图片": "src=\"&&\"",
+      "标题":"title=\"&&\"",
+       "链接":"href=\"&&\"",
+      
+	   "搜索url":"https://szo.hjyy6.skin/s/index.html?wd={wd}",
+       "搜索模式":"1",
+	   "分类url":"https://szo.hjyy6.skin/vodtype/{cateId}-{catePg}.html",
+       "分类":"自拍$20#波霸$21#乱伦$22#人妻$23#制服$24#花季$25#🈚️🐎$26#日韩$30#三级$33",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1" }},
   
-  
-	  
+   
 	  
 
    	   { "key": "今日热门",
