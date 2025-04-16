@@ -57,7 +57,7 @@
 	   
 	   "图片": "data-original=\"&&\"",
       "标题":"alt=\"&&\"",
-       "链接":"href=\"&&\"",
+      "链接": "https://www.ccav10544.sbs/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
       "副标题":"<p class=\"vod-class has-text-grey\">&&</p>",
 	   "搜索url":"https://www.ccav10544.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
        "搜索模式":"1",
