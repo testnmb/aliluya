@@ -6,32 +6,28 @@
 
     
 	
-	 {"key":"www.6av.co","name":"🦶6️⃣ 影视©️.CO🦶","type":3,"api":"csp_XBPQ",
-        "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
-		"主页url": "https://www.6av.co/",
+	 {"key":"樱桃视频","name":"樱桃🍒©影视","type":3,"api":"csp_XBPQ",
+      "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
+	"主页url": "https://www.6av.co/",
     "数组": "class=\"myui-vodlist__box&&</div>",
-    
-	   "图片":"data-original=\"&&\"",
+	  "图片":"data-original=\"&&\"",
     "标题": "title=\"&&\"",
 	  "副标题":"<p class=\"text text-overflow text-muted\"><span>&&</span>",
     "简介": "description\"*content=\"&&",
      "链接": "href=\"&&\"",
-	 "线路数组":"class=\"nav nav-tabs active &&</ul>",
-	 
-     "线路名标题":">&&</a>",
+	 //"线路数组":"class=\"nav nav-tabs active &&</ul>",
+     //"线路名标题":">&&</a>",
 	 "播放数组":"class=\"nav nav-tabs active &&</ul>",
 	 "播放列表": "<a&&a>",
 	 "播放链接": "href=\"&&\"",
 	 "播放标题": ">&&</",
     "搜索模式": "1",
     "搜索url": "https://www.6av.co/vodsearch/-.html?wd={wd}&submit=",
-    //"分类": "中字1️⃣区$1#中字2️⃣区$2#中字3️⃣区$3#中字4️⃣区$4#中字5️⃣区$5#传媒印画$6#日本$7",
      "分类数组": "<li&&</li>",
-        "分类标题": ">&&</a",
-        "分类ID": "/vodtype/&&.html",
+     "分类标题": ">&&</a",
+    "分类ID": "/vodtype/&&.html",
    "分类url": "https://www.6av.co/vodtype/{cateId}-{catePg}.html"
-   
-}},
+   }},
 	
 	
 	
