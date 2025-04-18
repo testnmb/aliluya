@@ -44,7 +44,7 @@
             "搜索url":"https://go.yoziav.fun/ss.html?wd={wd}",
             "数组":"<div class=\"img-box cover-md\">&&</h6>",
             "图片":"data-src=\"&&\"",
-            "标题":"class=\"title\">&&</a>",
+            //"标题":"class=\"title\">&&</a>",
             "链接":"href=\"&&\"",
             "链接前缀":"https://go.yoziav.fun/",
             
