@@ -77,7 +77,7 @@
        "播放数组": "<div class=\"v_con_box\">&&</div>",
 	  "播放列表": "<a&&a>",
 	  "播放标题": ">&&</",
-	  "播放链接": "href=\"&&\""
+	  "播放链接": "href=\"&&\"",
 	    "搜索模式":"1",
         "搜索url":"https://www.125av.cc/vodsearch/-.html?wd={wd}",
        "分类url": "https://www.125av.cc/vodtype/{cateId}-{catePg}.html;;a",
