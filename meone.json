@@ -104,9 +104,27 @@
    "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/spider.jar"},
 	
 	
-	
+	  
+     {"key":"啪啪AV",
+       "name":"爱啪影视",
+       "type":3,
+       "api":"csp_XBPQ",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "ext":{"数组":"<li class=\"mb15&&</li>",
+	   "图片": "data-original=\"&&\"",
+      "标题":"title=\"&&\"",
+       "链接":"href=\"&&\"",
+	  
+	   "分类url":"https://www.avavalive.com/{cateId}p{catePg}.html",
+      "分类":"步兵$9#中字$10#正妹$2#探花$3#传媒$5#综艺$7#角色$11#制服$13#丝袜$15#解说$16",
+	   "直接播放":"1"  
+   }
+    },
 	
 
+	
 	
 	
 	
