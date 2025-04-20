@@ -1053,20 +1053,21 @@
 
 {"key":"沙咖影院","name":"🥉沙咖影院🥉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":{"数组":"stui-vodlist__thumb lazyload&&</a",
+ "标题": "title=\"&&\"",
 "图片":"data-original=\"&&\"",//"图片代理":"1",
 "副标题":"pic-text text-right\">&&</span>",
 "简介":"description\" content=\"&&\"",
-"链接":"href=\"/voddetail/&&.html\"",
-"链接前缀":"https://sarga.cc/vodplay/",
+"链接":"href=\"/sagydetail/&&.html\"",
+"链接前缀":"https://sarga.cc/sagyplay/",
 "链接后缀":"-1-1.html",
 "跳转播放链接":"urlDecode(var player*url\":\"&&\")",
-"搜索url":"https://sarga.cc/vodsearch/{wd}----------{pg}---.html",
-"分类url":"https://sagya.cc/sagyshow/{cateId}-p{catePg}/by/{by}.html;;z",
+"搜索url":"https://sagya.cc/sagysearch/{wd}-p-1.html",
+"分类url":"https://sagya.cc/sagytype/{cateId}-{catePg}.html;;z",
 "分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
 
 
 
-{"key":"溏心次元","name":"🏆溏心次元🏆","type":3,"api":"csp_XBPQ","style":{"ratio":2.0},"ext": {
+{"key":"溏心次元","name":"🏆溏心次元 🏆","type":3,"api":"csp_XBPQ","style":{"ratio":2.0},"ext": {
         "数组":"<li&&</li>",
         "搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
         "副标题":"添加时间:&&</span>",
