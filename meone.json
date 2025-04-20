@@ -113,7 +113,7 @@
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
-       "ext":{"数组":"<li>&&</li>",
+       "ext":{"数组":"<a class=\"thumbnail random-list&&\"video-info\">&&</li>",
 	   "图片": "data-original=\"&&\"",
       "标题":">&&</a></h5>",
       "链接": "href=\"&&\"", 
