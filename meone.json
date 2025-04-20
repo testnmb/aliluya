@@ -113,7 +113,7 @@
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
-       "ext":{"数组":"<a class=\"thumbnail random-list&&\"video-info\">&&</li>",
+       "ext":{"数组":"<li>&&</li>",
 	   "图片": "data-original=\"&&\"",
       "标题":">&&</a></h5>",
       "链接": "href=\"&&\"", 
@@ -183,6 +183,7 @@
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
+	    "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/XBPQ.jar",
        "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
 	   
 	   "图片": "data-original=\"&&\"",
