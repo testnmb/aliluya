@@ -125,13 +125,13 @@
        "分类":"骑兵$censored#步兵$uncensored#欧美$western#FCTV$fc2",
 	    "搜索url":"https://freejavbt05.cc/search?wd={wd}",
        "搜索模式":"1",
-	  //"播放数组二次截取": "<ul class=\"nav&&</ul>",
+	  "播放数组二次截取": "<ul class=\"nav&&</ul>",
 	  "播放数组": "<li class=\"nav-item\">&&</li>",
 	  "播放列表": "<a&&a>",
 	  "播放标题": ">&&</",
-	  "播放链接": "href=\"&&\""
-       //"嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   //"直接播放":"1"  
+	  "播放链接": "href=\"&&\"",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1"  
 	   }},
   
 
