@@ -311,7 +311,7 @@
     },
    
 	
-	 {"key":"javbus.sbs-","name":"🚌javbus A版🚌","type":3,"api":"csp_XBPQ",
+	 {"key":"javbus.sbs-","name":"🚌javbus 🚌","type":3,"api":"csp_XBPQ",
         "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
 		"主页url": "https://javbus.sbs/",
     "数组": "class=\"myui-vodlist__box&&</div>",
@@ -331,29 +331,6 @@
 	
 	
 	
-		 {"key":"javbus.sbs-b","name":"🚗javbus B版🚗","type":3,"api":"csp_XBPQ",
-        "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
-		"主页url": "https://javbus.sbs/",
-    "数组": "class=\"myui-vodlist__box&&</div>",
-    
-	   "图片":"data-original=\"&&\"",
-    "标题": "title=\"&&\"",
-    "简介": "description\"*content=\"&&",
-     "链接": "href=\"&&\"",
-	    "线路名二次截取":"class=\"nav&&</ul>",
-        "线路数组":"data-toggle=\"tab\"&&/a>",
-         "线路名标题":">&&<",
-       "播放数组": "myui-content__list&&</ul>",
-	   "播放列表": "<a&&a>",
-	   "播放链接": "href=\"&&\"",
-	    "播放标题": ">&&</",
-    "搜索模式": "1",
-    "搜索url": "https://javbus.sbs/vod/search/?wd={wd}&submit=",
-    "分类": "中字1️⃣区$1#中字2️⃣区$2#中字3️⃣区$3#中字4️⃣区$4#中字5️⃣区$5#传媒印画$6#日本骑兵$7",
-   
-   "分类url": "https://javbus.sbs/vod/show/by/{by}/id/{cateId}/page/{catePg}/"
-   
-}},
 	
 
 
