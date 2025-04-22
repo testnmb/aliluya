@@ -41,7 +41,7 @@
         "分类url": "https://lhrmtt5.cangjimv.xyz/cang/{cateId}-{catePg}/",
 	     "分类数组": "<a&&</a>",
         "分类标题": ">&&<",
-        "分类ID": "/cang/&&.html"
+        "分类ID": "/cang/&&.html",
 		
         "搜索模式": "1",
 		"搜索url": "https://lhrmtt5.cangjimv.xyz/vodsearch/-------------.html?wd={wd}",
