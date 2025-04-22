@@ -146,7 +146,7 @@
 	  
 	  
 	  	
-    {"key": "探探视频","name": "🎹探探影院🎹","type": 3,"api": "csp_XBPQ",
+    {"key": "探探视频","name": "探探⚡️影院","type": 3,"api": "csp_XBPQ",
 
 	"filterable": 1,
 	"ext": { 
@@ -154,7 +154,7 @@
 	"数组": "<a class=\"thumbnail&&</li>", 
 	"图片": "data-original=\"&&\"", 
 	"标题": "<h5>&&</a></h5>", 
-	"副标题": "<p>&&</p>", 
+	"副标题": "<span class=\"title\">&&</span></p>", 
 	"简介": "description\" content=\"&&剧情",  
 	"链接": "/play/+href=\"/tan/&&.html\"+-1-1.html",  
 	 "分类数组": "<a&&</a>",
