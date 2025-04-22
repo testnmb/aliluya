@@ -34,18 +34,16 @@
 	
 	
 	  { "key": "藏姬阁视频",
-      "name": "🚄藏姬阁视频🚄",
+      "name": "藏姬阁🧍‍♂️视频",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://lhrmtt5.cangjimv.xyz/cang/{cateId}-{catePg}/",
-	     "分类数组": "<a&&</a>",
+	    "分类数组": "<a&&</a>",
         "分类标题": ">&&<",
         "分类ID": "/cang/&&.html",
-		
         "搜索模式": "1",
 		"搜索url": "https://lhrmtt5.cangjimv.xyz/vodsearch/-------------.html?wd={wd}",
-      
 		"数组": "<dl>&&</dl>",
         "标题": "<h3>&&</h3>",
         "图片": "data-src=\"&&\"",
@@ -147,28 +145,28 @@
 	   "直接播放":"1" }},
 	  
 	  
-	  
+	  	
+    {"key": "探探视频","name": "🎹探探影院🎹","type": 3,"api": "csp_XBPQ",
+
+	"filterable": 1,
+	"ext": { 
+	"主页url": "https://ttttav.tantan666.xyz/", 
+	"数组": "<a class=\"thumbnail&&</li>", 
+	"图片": "data-original=\"&&\"", 
+	"标题": "<h5>&&</a></h5>", 
+	"副标题": "<p>&&</p>", 
+	"简介": "description\" content=\"&&剧情",  
+	"链接": "/play/+href=\"/tan/&&.html\"+-1-1.html",  
+	 "分类数组": "<a&&</a>",
+     "分类标题": ">&&<",
+     "分类ID": "/tantan/&&.html",
+	 "直接播放":"1", 
+	"搜索模式": "1", 
+	"搜索url": "https://ttttav.tantan666.xyz/vodsearch/-------------.html?wd={wd}",
+	 
+	"分类url":"https://ttttav.tantan666.xyz/tantan/{cateId}-{catePg}.html"}},
 	    
-	    {"key":"风流视频",
-       "name":"👨风流倜傥👨",
-       "type":3,
-       "api":"csp_XBPQ",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "ext":{"主页url": "https://cpcovx.flsp2.homes/cn/home/web/",
-		"数组":"cateimg\">&&</div>",
-	   "图片":"title=\"&&\"",
-       "标题":"alt=\"&&\"",
-       "链接":"href=\"&&\"",
-      
-	   "搜索url":"https://cpcovx.flsp2.homes/s/index.html?wd={wd}",
-       "搜索模式":"1",
-	   "分类url":"https://cpcovx.flsp2.homes/vodtype/{cateId}-{catePg}.html",
-       "分类":"日韩$20#偷拍$21#步兵$22#自拍$23#乳乳$24#嫩模$26#华人$25#剧情$27#熟女$29#丝袜$30#骑兵$33#制服$34#三级$31",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1" }},
-	  
+	
 	  
 	  
 
