@@ -163,7 +163,6 @@
 	 "直接播放":"1", 
 	"搜索模式": "1", 
 	"搜索url": "https://ttttav.tantan666.xyz/vodsearch/-------------.html?wd={wd}",
-	 
 	"分类url":"https://ttttav.tantan666.xyz/tantan/{cateId}-{catePg}.html"}},
 	    
 	
@@ -392,8 +391,23 @@
 }},
 	
 	
-	
-	
+	{"key":"jav36","name":"📀JAV㊱㊱📀","type":3,"api":"csp_XBPQ",
+        "searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"ext":{
+        "数组":"<div class=\"item&&</a",
+        "图片":"data-original=\"&&\"",
+        "标题":"title=\"&&\"",
+        "副标题":"<div class=\"duration\">&&</div>",
+        "链接": "href=\"&&\"",
+		"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+		"直接播放": "1",
+       "搜索url":"https://jav36.com/search/{wd}",
+	   "分类": "最新🆕$latest-updates#最火🔥$top-rated#最多人👀$most-popular",
+       "分类url": "https://jav36.com/{cateId}/{catePg}/"
+   
+}},
 	
 
 
@@ -466,7 +480,9 @@
 
 
 	 
-            {"key": "骑行者","name": "🚲骑行者🚲","type": 3,"api": "csp_XBPQ","style":{"type": "rect","ratio": 1.5},"ext": {
+            {"key": "骑行者","name": "🚲骑行者🚲","type": 3,"api": "csp_XBPQ",
+			"style":{"type": "rect","ratio": 1.5},
+			  "ext": {
                 "主页url": "https://qxsp.qixingsp.fun/",
                 "数组": "\"video__container\"&&\"video__container\"",
                 "图片": "src=\"&&\"",
@@ -477,7 +493,7 @@
 				"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 		        "直接播放": "1",
                 "分类url": "https://qxsp.qixingsp.fun/type/{cateId}-{catePg}.html;;z",
-                "分类": "视频一区$1#视频二区$29#视频三区$47#视频四区$68#视频五区$96#视频六区$115#视频七区$129#视频八区$190#视频九区$146#日本有🐎$34#中文$35"}},
+                "分类": "视频一区$1#视频二区$29#视频三区$47#视频四区$68#视频五区$96#视频六区$115#视频七区$129#视频八区$190#视频九区$146#日本骑兵$34#中字$35"}},
     
  			
 				
@@ -503,19 +519,16 @@
         "分类url":"https://javtree.com/tag/{cateId}-{catePg}.html;;z"}},
 				
 			
-  {"key": "爱看色情","name": "😄爱看lol😄","type": 3,"api": "csp_XBPQ","ext": {
+  {"key": "爱看视频","name": "😄爱看lol😄","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://iporn5.life/",
                 "直接播放": "1",
                 "数组": "class=\"colVideoList\">&&</div></div>",
-                //"图片": "style=\"background-image: url(&&);\"",
 				 "图片":"data-original=\"&&\"",
-                //"标题":"target=\"_self\">&&</a>",
                 "标题":"alt=\"&&\"",
                 "链接": "href=\"&&\"",
 				"跳转播放链接":"var player_*\"url\":\"&&\"",
-                //"分类url": "https://iporn5.life/vodshow/{cateId}--{by}------{catePg}---.html",
-				 "分类url": "https://iporn5.life/vodtype/{cateId}-{catePg}.html",
-                "分类": "日韩$6#国产$4#🈚️🐎$5#中文$8#欧美$7"}},
+				"分类url": "https://iporn5.life/vodtype/{cateId}-{catePg}.html",
+                "分类": "骑兵$6#国产$4#步兵$5#中文$8#欧美$7"}},
 
 
 
