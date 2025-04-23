@@ -11,7 +11,7 @@
 	"数组": "<a class=\"thumbnail&&</li>", 
 	"图片": "data-original=\"&&\"", 
 	"标题": "<h5>&&</a></h5>", 
-    "链接":"https://www.aote104.xyz/?m=video_conter*+href=\"/video_detail*&&/\"+/",
+    "链接":"https://www.aote104.xyz/?m=video_conter+href=\"/video_detail&&/\"+/",
 	"副标题": "<span class=\"title\">&&</span></p>", 
 	"简介": "description\" content=\"&&剧情",
 	
