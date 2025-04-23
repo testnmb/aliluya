@@ -4,6 +4,43 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
   
+      {"key": "24HJAV","name": "24HJ🍇影视",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { "主页url": "https://24hjav.com/", 
+	 "数组": "\"video-thumb\"&&\"video-thumb\"",
+	 "图片": "data-original=\"&&\"",
+     "标题":"alt=\"&&\"",
+	"副标题": "<div class=\"video-duration\">&&</div>", 
+	"简介": "description\" content=\"&&\"",  
+	"链接": "href=\"&&\"",
+    "直接播放":"1",
+	"分类":"骑兵$676#步兵$677#中字$679#FC2-PPV$680", 
+	"搜索模式": "1", 
+	"搜索url": "https://24hjav.com/search?keyword={wd}",
+	"分类url":"https://24hjav.com/videos/category/{cateId}?page_id={catePg}"}},
+  
+   
+    { "key": "popjav","name": "popjav影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://popjav.in/",
+       "数组": "<a&&</span></a>",
+       "标题": "alt=\"&&\"",
+       "图片": "src=\"&&\"",
+       "副标题": "<div class=\"post-list-time\">&&</div>",
+       "链接": "href=\"&&\"",
+       "直接播放":"1",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+       "分类url": "https://popjav.in/{cateId}/page/{catePg}/",
+        "分类": "PLAYLIST$playlist#CENSORED$censored#UNCENSORED$uncensored#AMATURE$amature"
+      }
+    },
+  
+  
+  
+  
   
     { "key": "橙子视频","name": "橙子🍊影视",
       "type": 3,"api": "csp_XBPQ",
@@ -16,7 +53,6 @@
        "图片": "data-original=\"&&\"",
        "副标题": "note text-bg-r\">&&<",
        "链接": "href=\"&&\"",
-       "标题": "title=\"&&\"",
        "直接播放":"1",
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
        "分类url": "https://www.cztv1419.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
