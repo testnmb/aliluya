@@ -3,25 +3,6 @@
  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",   
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
-
-    
-	 {"key": "AOTE AV","name": "AOTE🍂影院",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { "主页url": "https://ttttav.tantan666.xyz/", 
-	"数组": "<a class=\"thumbnail&&</li>", 
-	"图片": "data-original=\"&&\"", 
-	"标题": "<h5>&&</a></h5>", 
-    "链接": "href='&&'[替换:video_conter>>video_detail]",
-	"副标题": "<span class=\"title\">&&</span></p>", 
-	"简介": "description\" content=\"&&剧情",
-	
-	 "分类数组": "<a&&</a>",
-     "分类标题": ">&&<",
-     "分类ID": "/?m=video_list*&&*1",
-	"搜索模式": "1", 
-	"搜索url": "https://www.aote104.xyz/?m=video_search*{wd}",
-	"分类url":"https://www.aote104.xyz/?m=video_list*{cateId}*{catePg}"}},
-	    
   
   
     { "key": "橙子视频","name": "橙子🍊影视",
@@ -36,12 +17,10 @@
        "副标题": "note text-bg-r\">&&<",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
-       "播放数组": "<div class=\"item line\">&&</div>",
-	   "播放列表": "<a&&a>",
-	   "播放标题": ">&&</",
-	   "播放链接": "href=\"&&\"",
+       "直接播放":"1",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
        "分类url": "https://www.cztv1419.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "步兵$35#骑兵$34#🀄️字$33#精品素人$36#怀旧$39#解说$40#探花$8"
+        "分类": "步兵$35#骑兵$34#🀄️字$33#素人$36#怀旧$39#解说$40#探花$8"
       }
     },
   
@@ -52,11 +31,10 @@
 	 "数组":"stui-vodlist__box\">&&</div></div>",
 	 "图片": "data-original=\"&&\"",
      "标题":"title=\"&&\"",
-	"副标题": "</i>&nbsp;&&</span>", 
 	"简介": "description\" content=\"&&剧情",  
 	"链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
     "直接播放":"1",
-	"分类":"中字骑兵$6#日本骑兵$7中字步兵$8#日本步兵$9#国产传媒$11#糖心vlog$13#国产精品$10", 
+	"分类":"中字骑兵$6#日本骑兵$7#中字步兵$8#日本步兵$9#国产传媒$11#糖心vlog$13#国产精品$10", 
 	"搜索模式": "1", 
 	"搜索url": "https://huaduys.com/vodsearch/-------------.html?wd={wd}",
 	//"分类url":"https://huaduys.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html"
@@ -69,12 +47,13 @@
 	"ext": { "主页url": "https://junmatv.com/", 
 	 "数组":"stui-vodlist__box\">&&</div></div>",
 	 "图片": "data-original=\"&&\"",
+	 "图片代理":"1",
      "标题":"title=\"&&\"",
 	"副标题": "<span class=\"pic-text text-right\">&&</span>", 
 	"简介": "description\" content=\"&&剧情",  
 	"链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
     "直接播放":"1",
-	"分类":"字幕好片$20#本土对白$21日本步兵$24#分级电影$25", 
+	"分类":"字幕好片$20#本土对白$21#日本步兵$24#分级电影$25", 
 	"搜索模式": "1", 
 	"搜索url": "https://junmatv.com/vodsearch/-------------.html",
 	//"分类url":"https://huaduys.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html"
