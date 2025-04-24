@@ -41,10 +41,10 @@
       }},
   
   
-     {"key":"视色","name":"⌛️视色","type":3,"api":"csp_XBPQ",
+     {"key":"视色","name":"⌛️视色⌛️","type":3,"api":"csp_XBPQ",
 	 "playerType":"0","searchable":1,"quickSearch":1,
 	 "filterable":1,"ext":{"嗅探词":"https://s1.playhls.com/m3u8.php?",
-	 "数组":"class=\"video-cover&&class=\"tags",
+	 "数组":"class=\"title\">&&class=\"tags",
 	 "图片":"style=\"background-image: url('&&');\"",
 	 "标题":"href=\"*\">&&</a>",
 	 "副标题":"duration\">&&</div>",
