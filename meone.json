@@ -14,10 +14,13 @@
 	"简介": "description\" content=\"&&\"",  
 	"链接": "href=\"&&\"",
     "直接播放":"1",
+	"播放链接前缀":"https://24hjav.com/watch/",
+
 	"分类":"骑兵$676#步兵$677#中字$679#FC2-PPV$680", 
 	"搜索模式": "1", 
 	"搜索url": "https://24hjav.com/search?keyword={wd}",
-	"分类url":"https://24hjav.com/videos/category/{cateId}?page_id={catePg}"}},
+	"分类url":"https://24hjav.com/videos/category/{cateId}?page_id={catePg}"
+	}},
   
    
     { "key": "popjav","name": "popjav影视",
@@ -35,10 +38,27 @@
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
        "分类url": "https://popjav.in/{cateId}/page/{catePg}/",
         "分类": "PLAYLIST$playlist#CENSORED$censored#UNCENSORED$uncensored#AMATURE$amature"
-      }
-    },
+      }},
   
   
+     {"key":"视色","name":"⌛️视色","type":3,"api":"csp_XBPQ",
+	 "playerType":"0","searchable":1,"quickSearch":1,
+	 "filterable":1,"ext":{"嗅探词":"https://s1.playhls.com/m3u8.php?",
+	 "数组":"class=\"video-cover&&class=\"tags",
+	 "图片":"style=\"background-image: url('&&');\"",
+	 "标题":"href=\"*\">&&</a>",
+	 "副标题":"duration\">&&</div>",
+	 "简介":"简介：</div>&&</div>",
+	 "链接":"player.html?id=+href=\"video.html?id=&&\"",
+	 "链接前缀":"https://shise.me/",
+	 "线路数组":"class=\"title\"> &&</a>",
+	 "线路标题":"<h1>&&<h1>",
+	 "播放二次截取":"class=\"player-container\">&&</div>",
+	 "播放数组":"",
+	 "播放链接":"src=\"&&\"",
+	 "播放链接前缀":"https://shise.me/",
+	 "分类url":"https://shise.me/series.html?id={cateId}&page={catePg};;z",
+	 "分类":"情色电影$61c4d9b653b6d#中文AV$63824a975d8ae#日本AV$6206216719462#模特私拍$6030196781d85#业余拍摄$617d3e7acdcc8#糖心Vlog$61014080dbfde#其他影片$60192e83c9e05"}},
   
   
   
@@ -57,8 +77,7 @@
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
        "分类url": "https://www.cztv1419.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
         "分类": "步兵$35#骑兵$34#🀄️字$33#素人$36#怀旧$39#解说$40#探花$8"
-      }
-    },
+      }},
   
     
 	{"key": "花都影视发布页地址：a.hdys.top a.hdys.xyz","name": "花都🌸影视",
@@ -73,18 +92,17 @@
 	"分类":"中字骑兵$6#日本骑兵$7#中字步兵$8#日本步兵$9#国产传媒$11#糖心vlog$13#国产精品$10", 
 	"搜索模式": "1", 
 	"搜索url": "https://huaduys.com/vodsearch/-------------.html?wd={wd}",
-	//"分类url":"https://huaduys.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html"
-	"分类url":"https://huaduys.com/vodshow/{cateId}--{by}------{catePg}---.html"}},
+	"分类url":"https://huaduys.com/vodshow/{cateId}--{by}------{catePg}---.html"
+	}},
 	
 	
   
     {"key": "骏马影院","name": "骏马🐎影视",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { "主页url": "https://junmatv.com/", 
-	 "数组":"stui-vodlist__box\">&&</div></div>",
-	 "图片": "data-original=\"&&\"",
-	 "图片代理":"1",
-     "标题":"title=\"&&\"",
+	"数组":"stui-vodlist__box\">&&</div></div>",
+	"图片": "data-original=\"&&\"",
+    "标题":"title=\"&&\"",
 	"副标题": "<span class=\"pic-text text-right\">&&</span>", 
 	"简介": "description\" content=\"&&剧情",  
 	"链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
@@ -92,12 +110,9 @@
 	"分类":"字幕好片$20#本土对白$21#日本步兵$24#分级电影$25", 
 	"搜索模式": "1", 
 	"搜索url": "https://junmatv.com/vodsearch/-------------.html",
-	//"分类url":"https://huaduys.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html"
 	"分类url":"https://junmatv.com/vodtype/{cateId}-{catePg}.html"}},
 	
-  
-  
-  
+ 
   
 	
 	 {"key": "125av","name": "🌁125┃影视🌁",
@@ -118,8 +133,7 @@
         "搜索url":"https://www.125av.cc/vodsearch/-.html?wd={wd}",
        "分类url": "https://www.125av.cc/vodtype/{cateId}-{catePg}.html",
         "分类": "步兵$20#骑兵$21#🀄️字$24#国产精品$17#制服$28#国产自拍$18#美乳$31#熟女$26#潮吹$20#强伦$27"
-      }
-    },
+      }},
 	
 	
 	  { "key": "藏姬阁视频","name": "藏姬阁🧍‍♂️视频",
@@ -432,7 +446,7 @@
    
       {
       "key": "12av",
-      "name": "⑫©️©️影视",
+      "name": "⑿影视",
       "type": 3,
       "api": "csp_XBPQ",
    
@@ -443,7 +457,6 @@
         "主页url": "https://www.12av.me/",
 		  "数组": "class=\"col-style d-4 m-2 lazy loaded\">&&</div></a>",
 		  "副标题":"number\">&&</span>",
-      
 		"跳转播放链接": "var player_aaaa*url\":\"&&\"",
         "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
