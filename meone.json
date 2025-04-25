@@ -4,29 +4,6 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
   
-  
-     { "key": "jav名优馆","name": "名优🚎影视",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://mygzyz.com/",
-       "数组": "<div class=\"grid_item\">&&</a></div>",
-       "标题": "<p class=\"description\">&&</p>",
-       "图片": "data-src=\"&&\"",
-       "链接": "href=\"&&\"",
-       "直接播放":"1",
-	   "搜索模式": "1", 
-	   "搜索url": "https://mygzyz.com/search/?searchtypeval=&keyword={wd}&page=1",
-	   "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-       "分类url": "https://mygzyz.com/8/{cateId}.html?page={catePg}",
-        "分类": "中文字幕$250#步兵典藏$224#骑马精品$275#国产片商$276"
-      }},
-  
-  
-  
-  
-  
       {"key": "24HJAV","name": "24HJ🍇影视",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { "主页url": "https://24hjav.com/", 
@@ -134,7 +111,30 @@
 	"分类url":"https://junmatv.com/vodtype/{cateId}-{catePg}.html"}},
 	
  
+    
+    {"key": "骏马影院","name": "69🎦影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { "主页url": "https://69.69avw9.buzz/69/", 
+	"数组":"stui-vodlist__thumb lazyload\">&&</a>",
+	"图片": "data-original=\"&&\"",
+    "标题":"title=\"&&\"",
+	"简介": "description\" content=\"&&剧情",  
+	"线路数组": "<ul class=\"tab-top play-tab clearfix\">&&</ul>",
+	"线路标题": ">&&</a>",
+	"播放数组": "<ul class=\"stui-play__list clearfix\">&&</ul>",
+    "播放列表": "<a&&a>",
+	"播放标题": ">&&</",
+	"播放链接": "href=\"&&\"",
+	 "分类数组": "<a&&/a>",
+     "分类标题": ">&&<",
+     "分类ID": "/69/index.php/vod/show/id/&&.html", 
+	"搜索模式": "1", 
+	"搜索url": "https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
+	"分类url":"https://69.69avw9.buzz/69/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+    
+	
   
+   
 	
 	 {"key": "125av","name": "🌁125┃影视🌁",
       "type": 3,"api": "csp_XBPQ",
