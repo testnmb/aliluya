@@ -3,26 +3,7 @@
  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",   
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
-  
-  
-     { "key": "jav名优馆","name": "名优🚎影视",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://mygzyz.com/",
-       "数组": "<div class=\"grid_item\">&&</a>",
-       "标题": "<p class=\"description\"></span>&&</p>",
-       "图片": "data-src=\"&&\"",
-       "链接": "href=\"&&\"",
-       "直接播放":"1",
-	   "搜索模式": "1", 
-	   "搜索url": "https://mygzyz.com/search/?searchtypeval=&keyword={wd}&page=1",
-	   "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-       "分类url": "https://mygzyz.com/8/{cateId}.html?page={catePg}",
-        "分类": "中文字幕$250#步兵典藏$224#骑马精品$275#国产片商$276"
-      }},
-  
+
   
   
   
