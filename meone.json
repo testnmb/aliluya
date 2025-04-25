@@ -4,6 +4,29 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
   
+  
+     { "key": "jav名优馆","name": "名优🚎影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://mygzyz.com/",
+       "数组": "<div class=\"grid_item\">&&</a>",
+       "标题": "<p class=\"description\"></span>&&</p>",
+       "图片": "data-src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "直接播放":"1",
+	   "搜索模式": "1", 
+	   "搜索url": "https://mygzyz.com/search/?searchtypeval=&keyword={wd}&page=1",
+	   "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+       "分类url": "https://mygzyz.com/8/{cateId}.html?page={catePg}",
+        "分类": "中文字幕$250#步兵典藏$224#骑马精品$275#国产片商$276"
+      }},
+  
+  
+  
+  
+  
       {"key": "24HJAV","name": "24HJ🍇影视",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { "主页url": "https://24hjav.com/", 
@@ -12,10 +35,8 @@
      "标题":"alt=\"&&\"",
 	"副标题": "<div class=\"video-duration\">&&</div>", 
 	"简介": "description\" content=\"&&\"",  
-	"链接":"href=\"https://24hjav.com/watch/&&.html\",
- 
+	 "链接": "href=\"&&\"",
     "直接播放":"1",
-
 	"分类":"骑兵$676#步兵$677#中字$679#FC2-PPV$680", 
 	"搜索模式": "1", 
 	"搜索url": "https://24hjav.com/search?keyword={wd}",
