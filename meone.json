@@ -85,6 +85,8 @@
        "图片": "data-original=\"&&\"",
        "副标题": "note text-bg-r\">&&<",
        "链接": "href=\"&&\"",
+	    "搜索模式": "1", 
+	   "搜索url": "https://www.zuixinav.shop/index.php/vod/search/page/1/wd/{wd}",
        "直接播放":"1",
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
        "分类url": "https://www.cztv1419.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
@@ -92,7 +94,25 @@
       }},
   
   
-  
+        { "key": "春凤楼视频","name": "春凤🪁影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://tanspastudio.cfd/",
+       "数组": "class=\"video-pic loading\"&&</a>",
+       "标题": "title=\"&&\"",
+       "图片": " style=\"background: url(&&) no-repeat;",
+       "副标题": "<div align=\"left\">&&</div>",
+       "链接": "href=\"&&\"",
+       "直接播放":"1",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "分类数组": "<a&&</a>",
+        "分类标题": ">&&<",
+        "分类ID": "/index.php/vod/type/id/&&.html",
+       "分类url": "https://tanspastudio.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+       
+      }},
   
   
   
@@ -112,16 +132,66 @@
 	   "搜索url": "https://wwww.69av.my/index.php/vod/search.html?wd={wd}",
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
        "分类url": "https://wwww.69av.my/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "在线电影$2#国产传媒$1#🀄️字$5#日韩$12#精选$4#女优$3#偷拍$9"
+        "分类": "国产传媒$1#🀄️字$5#日韩$12#精选$4#女优$3#偷拍$9"
       }},
   
     
-	 			
+	   { "key": "胖虎视频","name": "胖虎👲影院",
+      "type": 3,"api": "csp_XBPQ",
+      "ext": {"主页url": "https://www.panghuhu.fun/",
+        "分类url": "https://vwzla77x.panghusp.fun/pang/{cateId}-{catePg}/",
+	    "分类数组": "<a&&</a>",
+        "分类标题": ">&&<",
+        "分类ID": "/pang/&&.html",
+        "搜索模式": "1",
+		"搜索url": "https://vwzla77x.panghusp.fun/vodsearch/-------------.html?wd={wd}",
+		"数组": "<dl>&&</dl>",
+        "标题": "<h3>&&</h3>",
+        "图片": "data-src=\"&&\"",
+		 "副标题": "<i>&&</i>",
+		"链接": "href=\"&&\"",
+		 "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+		 "跳转播放链接": "var player_aaaa*url\":\"&&\"",
+        "直接播放":"1"
+      } },		
 
-		
+
+	  {"key": "夜色资源网","name": "夜色🌃影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<a class=\"thumbnail&&</li>", 
+	"图片": "src=\"&&\"", 
+	  "标题": "alt=\"&&\"", 
+	"副标题": "<p>&&</p>", 
+	 "链接": "href=\"&&\"",
+	"直接播放":"1", 
+	"搜索模式": "1", 
+	 "分类数组": "<a&&</a>",
+     "分类标题": ">&&<",
+     "分类ID": "/shenma/&&.html",
+	"搜索url": "https://se.yesezyw.fun/search/-------------.html?wd={wd}",
+	"分类url":"https://se.yesezyw.fun/shenma/{cateId}-{catePg}.html"}},
 	
 	
-	
+	  {"key": "鲨鱼视频","name": "鲨鱼🦈影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<li class=\"multi\">&&</li>", 
+	"图片": "src=\"&&\"", 
+	  "标题": "alt=\"&&\"", 
+	"副标题": "class=\"continu\">&&</i>", 
+	 "链接": "href=\"&&\"",
+	"播放数组": "<DIV class=play-list>&&</li>",
+    "播放列表": "<a&&a>",
+	"播放标题": ">&&</",
+	"播放链接": "href=\"&&\"",
+	"搜索模式": "1", 
+	 "分类数组": "<a&&</a>",
+     "分类标题": ">&&<",
+     "分类ID": "/mv/&&.html",
+	 //"直接播放":"1",
+	"搜索url": "https://shayug.shayusp.fun/search/{wd}----------1---.html",
+	"分类url":"https://shayug.shayusp.fun/mv/{cateId}-{catePg}.html"}},
 	
 	
 	
@@ -204,8 +274,8 @@
       "type": 3,"api": "csp_XBPQ",
       "ext": {
         "分类url": "https://lhrmtt5.cangjimv.xyz/cang/{cateId}-{catePg}/",
-	    "分类数组": "<a&&</a>",
-        "分类标题": ">&&<",
+	    "分类数组": "<a&&a>",
+        "分类标题": ">&&</",
         "分类ID": "/cang/&&.html",
         "搜索模式": "1",
 		"搜索url": "https://lhrmtt5.cangjimv.xyz/vodsearch/-------------.html?wd={wd}",
@@ -216,7 +286,21 @@
         "直接播放":"1"
       } },		
 
-	
+	    { "key": "羞涩视频","name": "涩涩😍影视",
+      "type": 3,"api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://lvxssp.xiusese.fun/vod/{cateId}-{catePg}.html",
+	    "分类数组": "<a&&a>",
+        "分类标题": ">&&</",
+        "分类ID": "/vod/&&.html",
+        "搜索模式": "1",
+		"搜索url": "https://lvxssp.xiusese.fun/search/{wd}----------1---.html",
+		"数组": "<a class=\"uzimg&&</a>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+		"链接": "href=\"&&\"",
+        "直接播放":"1"
+      } },		
 	
 	
 	
