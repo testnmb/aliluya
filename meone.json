@@ -126,7 +126,7 @@
      "分类ID": "/69/index.php/vod/show/id/&&.html", 
 	"搜索模式": "1", 
 	"搜索url": "https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
-	"分类url":"https://69.69avw9.buzz/69/index.php/vod/show/type/id/{cateId}/page/{catePg}.html"}},
+	"分类url":"https://69.69avw9.buzz/69/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"}},
     
 	
   
