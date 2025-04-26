@@ -129,7 +129,7 @@
 		 "链接": "href=\"&&\"",
         "直接播放":"1",
         "搜索模式":"1",
-        "搜索url":"https://www.ttdao6613.buzz/vod/search/page/{pg}/wd/{wd}/",
+        "搜索url":"https://xn--fjq226l.langyou362.lat/index.php/vod/search/wd/{wd}.html",
         "分类数组":"<li>&&</li>",
         "分类标题":">&&</a>",
         "分类ID":"/index.php/vod/type/id/&&.html",
@@ -527,7 +527,7 @@
    
       {
       "key": "12av",
-      "name": "⑿影视",
+      "name": "12影视",
       "type": 3,
       "api": "csp_XBPQ",
    
