@@ -111,7 +111,22 @@
 	"分类url":"https://junmatv.com/vodtype/{cateId}-{catePg}.html"}},
 	
  
-   
+   {"key": "69avwang","name": "69🎦影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	
+	"ext": { "主页url": "https://69.69avw9.buzz/69/", 
+	"数组":"stui-vodlist__box\">&&</a>",
+	"图片": "data-original=\"&&\"",
+    "标题":"title=\"&&\"",
+	"简介": "description\" content=\"&&剧情",  
+	 "嗅探词":".m3u8#.mp4",
+	  "直接播放":"1",
+	 "分类数组": "<a&&/a>",
+     "分类标题": ">&&<",
+     "分类ID": "/69/index.php/vod/show/id/&&.html", 
+	"搜索模式": "1", 
+	"搜索url": "https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
+	"分类url":"https://69.69avw9.buzz/69/index.php/vod/show/type/id/{cateId}/page/{catePg}.html"}},
     
 	
   
