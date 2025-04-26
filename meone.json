@@ -191,7 +191,7 @@
 	 "分类数组": "<a&&</a>",
      "分类标题": ">&&<",
      "分类ID": "/mv/&&.html",
-	 //"直接播放":"1",
+	 "直接播放":"1",
 	"搜索url": "https://shayug.shayusp.fun/search/{wd}----------1---.html",
 	"分类url":"https://shayug.shayusp.fun/mv/{cateId}-{catePg}.html"}},
 	
