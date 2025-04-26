@@ -93,22 +93,6 @@
   
   
   
-         { "key": "红桃🍑影视","name": "红桃🐣影视",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://www.htkt106.vip:9527/",
-       "数组": "\"v-item\"&&\"v-item\"",
-       "标题": " vclass=\"v-title\">&&</a>",
-       "图片": "data-original=\"&&\"",
-       "链接": "href=\"&&\"",
-       "直接播放":"1",
-	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-       "分类url": "https://www.htkt106.vip:9527/type/{cateId}/--{by}-{catePg}",
-        "分类": "传媒$chuanmei#日韩$rihan#解说$zongyi"
-      }},
-  
   
   
   
@@ -132,24 +116,27 @@
       }},
   
     
+	 			
+{"key":"狼友影院","name":"狼友🐺影院","type":3,
+         "api":"csp_XBPQ","searchable":1,
+        "quickSearch":1,"filterable":1,"ext":{
+        "主页url":"https://xn--fjq226l.langyou362.lat/",
+        "数组":"<div class=\"item&&</a>",
+        "图片":"data-original=\"&&\"",
+        "标题":"class=\"title\">&&</strong>",
+        "副标题":"<em>&&</em",
+        "简介":"description\" content=\"&&",
+		 "链接": "href=\"&&\"",
+        "直接播放":"1",
+        "搜索模式":"1",
+        "搜索url":"https://www.ttdao6613.buzz/vod/search/page/{pg}/wd/{wd}/",
+        "分类数组":"<li>&&</li>",
+        "分类标题":">&&</a>",
+        "分类ID":"/index.php/vod/type/id/&&.html",
+		 //"分类": "日韩有码$41#日韩🈚️🐎$42#日韩乱伦$43#中文字幕$44#制服诱惑$45#童颜巨乳$46#日韩素人$47#日韩素人$48#AV解说$51",
+        "分类url":"https://xn--fjq226l.langyou362.lat/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+		
 	
-	
-    { "key": "五狼🐺传媒","name": "五狼🐺传媒",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://www.wulangcm.buzz/",
-       "数组": "class=\"video-pic loading\"&&</a>",
-       "标题": "title=\"&&\"",
-       "图片": "data-original=\"&&\"",
-      "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
-      "直接播放":"1",
-	  "分类":"国外剧场$2#中字$20#日本步兵$13#强乱$14#精品$16#大咪咪$15", 
-	  "搜索模式": "1", 
-	    "搜索url": "https://www.wulangcm.buzz/vodsearch/-------------/?wd={wd}",
-	"分类url":"https://www.wulangcm.buzz/vodtype/{cateId}-{catePg}.html"
-      }},
 	
 	
 	
