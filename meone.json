@@ -74,12 +74,7 @@
 	"搜索url": "https://www.zuixinav.shop/index.php/vod/search/page/1/wd/{wd}",
 	"分类url":"https://www.zuixinav.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
 	    
-  
-  
-  
-  
-  
-    { "key": "橙子视频","name": "橙子🍊影视",
+     { "key": "橙子视频","name": "橙子🍊影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -96,7 +91,70 @@
         "分类": "步兵$35#骑兵$34#🀄️字$33#素人$36#怀旧$39#解说$40#探花$8"
       }},
   
+  
+  
+         { "key": "红桃🍑影视","name": "红桃🐣影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://www.htkt106.vip:9527/",
+       "数组": "\"v-item\"&&\"v-item\"",
+       "标题": " vclass=\"v-title\">&&</a>",
+       "图片": "data-original=\"&&\"",
+       "链接": "href=\"&&\"",
+       "直接播放":"1",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+       "分类url": "https://www.htkt106.vip:9527/type/{cateId}/--{by}-{catePg}",
+        "分类": "传媒$chuanmei#日韩$rihan#解说$zongyi"
+      }},
+  
+  
+  
+  
+    { "key": "猛男专属","name": "猛男📱专属",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://wwww.69av.my/",
+       "数组": "class=\"video-pic loading\"&&</a>",
+       "标题": "title=\"&&\"",
+       "图片": "data-original=\"&&\"",
+       "副标题": "note text-bg-r\">&&<",
+       "链接": "/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
+       "直接播放":"1",
+	   "搜索模式": "1", 
+	   "搜索url": "https://wwww.69av.my/index.php/vod/search.html?wd={wd}",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+       "分类url": "https://wwww.69av.my/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "在线电影$2#国产传媒$1#🀄️字$5#日韩$12#精选$4#女优$3#偷拍$9"
+      }},
+  
     
+	
+	
+    { "key": "五狼🐺传媒","name": "五狼🐺传媒",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://www.wulangcm.buzz/",
+       "数组": "class=\"video-pic loading\"&&</a>",
+       "标题": "title=\"&&\"",
+       "图片": "data-original=\"&&\"",
+      "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
+      "直接播放":"1",
+	  "分类":"国外剧场$2#中字$20#日本步兵$13#强乱$14#精品$16#大咪咪$15", 
+	  "搜索模式": "1", 
+	    "搜索url": "https://www.wulangcm.buzz/vodsearch/-------------/?wd={wd}",
+	"分类url":"https://www.wulangcm.buzz/vodtype/{cateId}-{catePg}.html"}},
+      }},
+	
+	
+	
+	
+	
 	{"key": "花都影视发布页地址：a.hdys.top a.hdys.xyz","name": "花都🌸影视",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { "主页url": "https://huaduys.com/", 
@@ -120,7 +178,7 @@
 	"数组":"stui-vodlist__box\">&&</div></div>",
 	"图片": "data-original=\"&&\"",
     "标题":"title=\"&&\"",
-	"副标题": "<span class=\"pic-text text-right\">&&</span>", 
+	"副标题": "<p class=\"date-text-bg text-bg-r\">&&</p>", 
 	"简介": "description\" content=\"&&剧情",  
 	"链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
     "直接播放":"1",
