@@ -87,6 +87,30 @@
   
   
   
+  
+      {"key":"69avwang","name":"🎬69影院🎬",
+     "type":3, "api":"csp_XBPQ",
+    "searchable":1,
+   
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
+	 "图片": "data-original=\"&&\"",
+     "标题":"title=\"&&\"",
+    "简介":"description\" content=\"&&",
+	"播放数组": "<ul class=\"stui-play__list clearfix\">&&</ul>",
+    "播放列表": "<a&&a>",
+	"播放标题": ">&&</",
+	"播放链接": "href=\"&&\"",
+   "搜索模式":"1",
+   "搜索url":"https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
+   "分类url":"https://69.69avw9.buzz/69/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+    "分类数组": "<a&&</a>",
+    "分类标题": ">&&<",
+    "分类ID": "/69/index.php/vod/show/id/&&.html"}},
+  
+  
+  
      {"key":"视色","name":"⌛️视色⌛️","type":3,"api":"csp_XBPQ",
 	 "playerType":"0","searchable":1,"quickSearch":1,
 	 "filterable":1,"ext":{"嗅探词":"https://s1.playhls.com/m3u8.php?",
