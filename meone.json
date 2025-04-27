@@ -50,16 +50,16 @@
        "标题": "title=\"&&\"",
       "图片":"style=\"background: url('&&') no-repeat;",
        "副标题": "<time>&&</time>",
-       "链接": "https://swdivazxwfsd.buzz/play/id/+href=\"/info/id/&&.html\", 
+       "链接": "/play/id/+href=\"/info/id/&&.html\"",
 	    "搜索模式": "1", 
 	   "搜索url": "https://swdivazxwfsd.buzz/lookup/{wd}/L/{pg}.html",
        "分类url": "https://swdivazxwfsd.buzz/type/id/{cateId}/{catePg}.html",
 	    "分类数组": "<a&&/a>",
         "分类标题": ">&&<",
         "分类ID": "/type/id/&&.html",
-		 "跳转播放链接": "var playUrl = '&&'",
-         "直接播放": "1",
-         "嗅探词": "index.m3u8"
+		"跳转播放链接": "var playUrl='&&'",
+        "直接播放": "1",
+        "嗅探词": "index.m3u8"
       }},
   
   
