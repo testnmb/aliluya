@@ -48,7 +48,7 @@
       "ext": {"主页url": "https://swdivazxwfsd.buzz/",
        "数组": "class=\"video-pic loading\"&&</a>",
        "标题": "title=\"&&\"",
-      "图片":"style=\"background: url('&&') no-repeat;\"",
+      "图片":"style=\"background: url('&&') no-repeat;"",
        "副标题": "<time>&&</time>",
        "链接": "href=\"&&\"",
 	    "搜索模式": "1", 
@@ -57,10 +57,8 @@
 	    "分类数组": "<a&&/a>",
         "分类标题": ">&&<",
         "分类ID": "/type/id/&&.html",
-       "播放数组": "<div class=\"box-title\">&&</div>",
-       "播放列表": "<a&&a>",
-	   "播放标题": ">&&</",
-	    "播放链接": "href=\"&&\""
+		"链接": "/play/id/+href=\"/info/id/&&.html\"",
+		"直接播放":"1",
       }},
   
   
@@ -258,22 +256,6 @@
 	"分类url":"https://junmatv.com/vodtype/{cateId}-{catePg}.html"}},
 	
  
-   {"key": "69avwang","name": "69🎦影院",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	
-	"ext": { 
-	"数组":"stui-vodlist__box\">&&</div></div>",
-	"图片": "data-original=\"&&\"",
-    "标题":"title=\"&&\"",
-	"简介": "description\" content=\"&&剧情",  
-	"播放数组": "<ul class=\"stui-play__list clearfix\">&&</ul>",
-    "播放列表": "<a&&a>",
-	"播放标题": ">&&</",
-	"播放链接": "href=\"&&\"",
-	 "分类": "全站$76#步兵中字$26#骑兵中字$31#强轮$33#制服$65#中字$69#女优$72#素人$73#角色$85#萝莉$84#熟女$83#汝汝$82#骑兵$81",
-	"搜索模式": "1", 
-	"搜索url": "https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
-	"分类url":"https://69.69avw9.buzz/69/index.php/vod/show/id/{cateId}/page/{catePg}.html"}},
     
 	
   
