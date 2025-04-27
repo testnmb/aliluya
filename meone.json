@@ -65,6 +65,27 @@
   
   
   
+    {"key":"问天影院","name":"🎬问天影院🎬",
+     "type":3, "api":"csp_XBPQ",
+    "searchable":1,
+   
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
+	 "图片": "data-original=\"&&\"",
+     "标题":"title=\"&&\"",
+   "副标题":"pic-text text-right\">&&</span>",
+    "简介":"description\" content=\"&&剧情",
+	"播放数组": "<ul class=\"stui-play__list clearfix\">&&</ul>",
+    "播放列表": "<a&&a>",
+	"播放标题": ">&&</",
+	"播放链接": "href=\"&&\"",
+   "搜索模式":"1",
+   "搜索url":"https://askdy.net/vodsearch/{wd}----------{pg}---.html",
+   "分类url":"https://askdy.net/vodtype/{cateId}-{catePg}.html;;z",
+   "分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码精选$27#动漫卡通$28#换脸系列$29#欧美大片$30"}},
+  
+  
   
      {"key":"视色","name":"⌛️视色⌛️","type":3,"api":"csp_XBPQ",
 	 "playerType":"0","searchable":1,"quickSearch":1,
