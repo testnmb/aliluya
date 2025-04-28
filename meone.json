@@ -563,8 +563,11 @@
         "标题":"alt=\"&&\"",
         "副标题":"<em>&&</em>",
         "链接": "href=\"&&\"",
-		"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-		"直接播放": "1",
+		"嗅探词": "m3u8#.m3u8#p.mp4",
+		 "播放数组":"<div class=\"player\">&&</div></div>",
+         "播放列表":"<div class=\"player-holder\">&&</div>",
+         "播放标题":"video_title:'&&'",
+		"播放链接": "video_alt_url: '&&/'",
        "搜索url":"https://tktube.com/zh/search/{wd}",
 	   "分类": "FC2-PPV$fc2#日本步兵$7c26fad3901898582e98669f503d20de#破坏版$454545388bfe05b5b43cdc4fb9496ac6#国产$dcfdf51a95d382c8d30e69a5c11a8d91#日本骑兵$d7925a1dc9f80c4da5a47d8bf0ffb1d6#中文字幕$8a0059a17039887e9a354fe90e91c1c8",
        "分类url": "https://tktube.com/zh/categories/{cateId}/{catePg}/"
