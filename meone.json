@@ -79,21 +79,7 @@
   
   
   
-       { "key": "偷偷啪","name": "偷偷啪😱影视",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://ttp224.shop",
-       "数组": "<a class=\"link&&</a>",
-       "标题": "title=\"&&\"",
-       "图片": "data-src=\"&&\"",
-       "副标题":"<i class=\"time icon p16\">&&</i>",
-       "链接": "href=\"&&\"",
-      "直接播放":"1",
-       "分类url": "https://ttp224.shop/videolist/{cateId}-{catePg}.html",
-        "分类": "国产视频$6#字幕视频$4#中文字幕$3#高清欧美$1#性吧视频$7"
-      }},
+   
   
   
      
@@ -106,7 +92,7 @@
        "数组": "<ul><a title=&&</ul>",
        "标题": "<li class=\"title\">&&</li>",
        "图片": "img=\"&&\"",
-       "副标题":"<span class=\"time\">>&&</span>",
+       "副标题":"<span class=\"time\">&&</span>",
        "链接": "href=\"&&\"",
        "直接播放":"1",
        "分类url": "https://www.qinav.com/home/site-{cateId}-{catePg}.html",
@@ -565,6 +551,26 @@
 	"分类url":"https://ttttav.tantan666.xyz/tantan/{cateId}-{catePg}.html"}},
 	    
 	
+	  
+	
+	{"key":"TK-TUBE","name":"TK🈴TUBE","type":3,"api":"csp_XBPQ",
+        "searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"ext":{
+        "数组":"<div class=\"item&&</a",
+        "图片":"src=\"&&\"",
+        "标题":"alt=\"&&\"",
+        "副标题":"<em>&&</em>",
+        "链接": "href=\"&&\"",
+		"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+		"直接播放": "1",
+       "搜索url":"https://tktube.com/zh/search/{wd}",
+	   "分类": "FC2-PPV$fc2#日本步兵$7c26fad3901898582e98669f503d20de#破坏版$454545388bfe05b5b43cdc4fb9496ac6#国产$dcfdf51a95d382c8d30e69a5c11a8d91#日本骑兵$d7925a1dc9f80c4da5a47d8bf0ffb1d6#中文字幕$8a0059a17039887e9a354fe90e91c1c8",
+       "分类url": "https://tktube.com/zh/categories/{cateId}/{catePg}/"
+   
+}},  
+	  
 	  
 	  
 
