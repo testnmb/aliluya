@@ -4,6 +4,27 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
   
+  
+   
+      { "key": "javday.app","name": "✈javday.app✈️",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://javday.app/label/new/",
+       "数组": "class=\"col-style d-4 m-2 lazy loaded\"&&</a>",
+       "标题": "<span class=\"title\">&&</span>",
+      "图片":"style=\"background-image: url(&&);\"",
+	    "搜索模式": "1", 
+	   "搜索url": "https://javday.app/search/page/1/wd/{wd}/",
+       "分类url": "https://javday.app/{cateId}/page/{catePg}/",
+	    "分类": "新作上市$category/new-release#骑兵$category/censored#國產AV$category/chinese-av#步兵$category/uncensored-leaked#糖心VLOG$category/txvlog#蘿莉社$category/luolisheus#HongKongDoll$category/hongkongdoll",
+        "直接播放": "1",
+        "嗅探词": "index.m3u8"
+      }},
+  
+  
+  
       {"key": "24HJAV","name": "24HJ🍇影视",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { "主页url": "https://24hjav.com/", 
