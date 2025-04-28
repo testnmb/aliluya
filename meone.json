@@ -79,6 +79,28 @@
   
   
   
+  
+      {"key": "motv.app","name": "🌁MOTV┃影视🌁",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://motv.app",
+       "数组":"<section class=\"movie-list-item\">&&</a>",
+        "图片":"style=\"background-image: url('&&')",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	   "播放数组":"<ul class=\"content_playlist flex wrap\">&&</ul>",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://motv.app/vodsearch/-------------/?wd={wd}",
+       "分类url": "https://motv.app/vodshow/{cateId}--{by}------{catePg}---/",
+        "分类": "HD步兵$51#HD欧美$52#骑兵$20#日本步兵$50#欧美风情$25#国产原创$41#水果解说$35#雜燴(字幕不全)$30#经典4️⃣4️⃣ $47"
+      }},
+	
+  
    
   
   
@@ -396,8 +418,10 @@
        "图片":"src=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
-	  "播放标题": ">&&</",
-	  "播放链接": "href=\"&&\"",
+	   "播放数组":"<div class=\"v_con_box\">&&</div>",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
 	    "搜索模式":"1",
         "搜索url":"https://www.125av.cc/vodsearch/-.html?wd={wd}",
        "分类url": "https://www.125av.cc/vodtype/{cateId}-{catePg}.html",
