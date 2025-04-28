@@ -96,6 +96,22 @@
       }},
   
   
+     
+       { "key": "qinav.com","name": "QINAV📚影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://www.qinav.com",
+       "数组": "<ul><a title=&&</ul>",
+       "标题": "<li class=\"title\">&&</li>",
+       "图片": "img=\"&&\"",
+       "副标题":"<span class=\"time\">>&&</span>",
+       "链接": "href=\"&&\"",
+       "直接播放":"1",
+       "分类url": "https://www.qinav.com/home/site-{cateId}-{catePg}.html",
+        "分类": "一站$1#二站$2#三站$3#四站$4#五站$5#六站$6#七站$7#八站$8#九站$9#十站$10"
+      }},
   
   
   
