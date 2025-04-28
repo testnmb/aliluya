@@ -54,7 +54,7 @@
        "副标题": "<div class=\"post-list-time\">&&</div>",
        "链接": "href=\"&&\"",
 	  
-       "播放数组": "<div id=\"player&&</div>",
+       "播放数组": "<div id=\"player\&&</div>",
 	   
        "播放标题":"alt=\"&&\"",
        "分类url": "https://popjav.in/{cateId}/page/{catePg}/",
@@ -88,7 +88,8 @@
       "filterable": 1,
       "ext": {"主页url": "https://motv.app",
        "数组":"<div class=\"movie-list-item\">&&</a>",
-        "图片":"style=\"background-image: url('&&')\"",
+        //"图片":"style=\"background-image: url('&&')\"",
+		"图片": "data-original=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&gt;&&\"",
 	    "嗅探词":"index.m3u8#.m3u8#p.m3u8#.m3u8?#.mp4?#.m4a#.mp4",
@@ -153,8 +154,8 @@
        "标题": "title=\"&&\"",
       "图片":"style=\"background: url('&&') no-repeat;",
        "副标题": "<time>&&</time>",
-	     "链接": "href='&&'[替换:play>>info]",
-       //"链接": "/play/id/+href=\"/info/id/&&.html\"",
+	   "链接":"href=\"&&\"[替换:play>>info]",
+       //"链接":"https://swdivazxwfsd.buzz/piay/+href=\"/info/&&/\"+/",
 	    "搜索模式": "1", 
 	   "搜索url": "https://swdivazxwfsd.buzz/lookup/{wd}/L/{pg}.html",
        "分类url": "https://swdivazxwfsd.buzz/type/id/{cateId}/{catePg}.html",
@@ -452,7 +453,7 @@
       "type": 3,"api": "csp_XBPQ",
       "ext": {
         "分类url": "https://lvxssp.xiusese.fun/vod/{cateId}-{catePg}.html",
-	    "分类数组二次截取":" <div class=\"mycate\">&&</div>",
+	    
 		"分类数组": "<a&&a>",
         "分类标题": ">&&</",
         "分类ID": "/vod/&&.html",
@@ -460,6 +461,7 @@
 		"搜索url": "https://lvxssp.xiusese.fun/search/{wd}----------1---.html",
 		"数组": "<a class=\"uzimg&&</a>",
         "标题": "title=\"&&\"",
+		"副标题":"class=\"title\">&&</span>",
         "图片": "data-original=\"&&\"",
 		"链接": "href=\"&&\"",
         "直接播放":"1"
