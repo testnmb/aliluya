@@ -86,7 +86,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"主页url": "https://motv.app",
-       "数组":"<section class=\"movie-list-item\">&&</a>",
+       "数组":"<div class=\"movie-list-item\">&&</a>",
         "图片":"style=\"background-image: url('&&')",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
