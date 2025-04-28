@@ -39,6 +39,40 @@
         "分类": "PLAYLIST$playlist#CENSORED$censored#UNCENSORED$uncensored#AMATURE$amature"
       }},
   
+     
+    { "key": "kiss99","name": "kiss99影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://www.kiss99.cc",
+       "数组": "\"post-container\"&&\"post-container\"",
+       "标题": " rel=\"bookmark\">&&</a></h2>",
+       "图片": "src=\"&&\"",
+       "副标题":"class=\"post-date\"><a href=\"*\">&&</a>",
+       "链接": "href=\"&&\"",
+      "直接播放":"1",
+       "分类url": "https://www.kiss99.cc/category/{cateId}/page/{catePg}/",
+        "分类": "日本同步$jpav#中文字幕$subtitle#台灣女優$twav#台灣自拍$amateur"
+      }},
+  
+  
+         { "key": "hornyjav","name": "hornyjav影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://hornyjav.com/",
+       "数组": "<article data-video-uid=&&</article>",
+       "标题": "title=\"&&\"",
+       "图片": "data-src=\"&&\"",
+       "链接": "href=\"&&\"",
+      "直接播放":"1",
+       "分类url": "https://hornyjav.com/{cateId}/page/{catePg}/",
+        "分类": "actors$actors#studios$studios#骑兵$category/censored#reducing-mosaic$category/reducing-mosaic#english$category/english-subtitle"
+      }},
+  
+  
   
       { "key": "Diva在线","name": "🪁Diva在线🪁",
       "type": 3,"api": "csp_XBPQ",
