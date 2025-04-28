@@ -564,7 +564,7 @@
         "链接": "href=\"&&\"",
 		
 		"嗅探词": "m3u8#.m3u8#p.mp4",
-		"线路数组":"<div class=\block-video\">&&</div>",
+		"线路数组":"<div class=\"block-video\">&&</div>",
         "线路标题":"",
 		 "播放数组":"<div class=\"player\">&&</div>",
         "播放列表":"<div class=\"player-holder\">&&</div>",
