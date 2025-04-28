@@ -6,7 +6,7 @@
   
   
    
-      { "key": "javday.app","name": "✈javday.app✈️",
+      { "key": "javday.app","name": "✈javday.app✈",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -85,7 +85,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"主页url": "https://ttp224.shop",
-       "数组": "\"grid_item\"&&\"grid_item\"",
+       "数组": "<a class=\"link&&</a>",
        "标题": "title=\"&&\"",
        "图片": "data-src=\"&&\"",
        "副标题":"<i class=\"time icon p16\">&&</i>",
