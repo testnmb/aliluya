@@ -54,7 +54,8 @@
        "副标题": "<div class=\"post-list-time\">&&</div>",
        "链接": "href=\"&&\"",
 	  
-       "播放数组": "<div id=\"iframe\">&&</div>",
+       "播放数组": "<div id=\"player\&&</div>",
+	   
        "播放标题":"alt=\"&&\"",
        "分类url": "https://popjav.in/{cateId}/page/{catePg}/",
         "分类": "PLAYLIST$playlist#CENSORED$censored#UNCENSORED$uncensored#AMATURE$amature"
@@ -89,12 +90,10 @@
        "数组":"<div class=\"movie-list-item\">&&</a>",
         "图片":"style=\"background-image: url('&&')\"",
        "链接": "href=\"&&\"",
-       "标题": "title=\"&&\"",
-	   "播放数组":"<ul class=\"content_playlist flex wrap\">&&</ul>",
-	    "播放列表": "<a&&a>",
-	    "播放标题": ">&&</",
-	   "播放链接": "href=\"&&\"",
-	       "直接播放":"1",
+       "标题": "title=\"&gt;&&\"",
+	    "嗅探词":"index.m3u8#.m3u8#p.m3u8#.m3u8?#.mp4?#.m4a#.mp4"
+		"跳转播放链接": "var player_*\"url\":\"&&\"",
+	   // "直接播放":"1",
 	    "搜索模式":"1",
         "搜索url":"https://motv.app/vodsearch/-------------/?wd={wd}",
        "分类url": "https://motv.app/vodshow/{cateId}--{by}------{catePg}---/",
@@ -111,13 +110,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {"主页url": "https://www.qinav.com",
+      "ext": {
        "数组": "<ul><a title=&&</ul>",
        "标题": "<li class=\"title\">&&</li>",
        "图片": "img=\"&&\"",
        "副标题":"<span class=\"time\">&&</span>",
        "链接": "href=\"&&\"",
-       "直接播放":"1",
+	   "播放数组": "<div class=\"player\">&&</div>",
+	   "跳转播放链接": "<iframe*src=\"&&\"",
+       //"直接播放":"1",
        "分类url": "https://www.qinav.com/home/site-{cateId}-{catePg}.html",
         "分类": "一站$1#二站$2#三站$3#四站$4#五站$5#六站$6#七站$7#八站$8#九站$9#十站$10"
       }},
@@ -161,7 +162,7 @@
         "分类ID": "/type/id/&&.html",
 		"跳转播放链接": "var playUrl='&&'",
         "直接播放": "1",
-        "嗅探词": "index.m3u8"
+         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
       }},
   
   
