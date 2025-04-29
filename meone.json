@@ -42,7 +42,7 @@
 	 //"播放列表": "<h1&&h1>",
     // "播放标题":" itemprop=\"title\">&&</",
 	// "播放链接": "",
-    "直接播放":"1",
+    //"直接播放":"1",
 	"分类":"骑兵$676#步兵$677#中字$679#FC2-PPV$680", 
 	"搜索模式": "1", 
 	"搜索url": "https://24hjav.com/search?keyword={wd}",
@@ -162,8 +162,8 @@
        "标题": "title=\"&&\"",
       "图片":"style=\"background: url('&&') no-repeat;",
        "副标题": "<time>&&</time>",
-
-       "链接":"https://swdivazxwfsd.buzz/piay/id/+href=\"/info/id/&&\"",
+ 
+       "链接":"https://swdivazxwfsd.buzz/piay/id/+href=\"/info/id/&&\",
 	    "搜索模式": "1", 
 	   "搜索url": "https://swdivazxwfsd.buzz/lookup/{wd}/L/{pg}.html",
        "分类url": "https://swdivazxwfsd.buzz/type/id/{cateId}/{catePg}.html",
@@ -1298,7 +1298,7 @@
 			
 {"key":"天堂岛","name":"📀天堂岛📀","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
         "主页url":"https://www.ttdao6613.buzz/",
-        "数组":"<div class=\"item&&</a",
+        "数组":" <div class=\"item  \">&&</a></div>",
         "图片":"data-original=\"&&\"",
         "标题":"title=\"&&\"",
         "副标题":"<em>&&</em",
@@ -1319,7 +1319,7 @@
 	  { "key": "路透射","name": "📰路透社📰",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./XBPQ/最新.jar",
+           // "jar": "./XBPQ/最新.jar",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
