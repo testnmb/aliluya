@@ -4,6 +4,30 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
   
+       
+      { "key": "风流视频","name": "✅风流影视✅",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+       "数组": "<div class=\"itemtopimg\">&&</li>",
+       "标题":"title=\"&&\"",
+       "图片": "src=\"&&\"",
+	   "搜索模式": "1", 
+	   "搜索url": "https://cpcovx.flsp2.homes/s/index.html?wd={wd}",
+       "分类url": "https://cpcovx.flsp2.homes/vodtype/{cateId}-{catePg}.html",
+       "分类数组": "<a&&/a>",
+       "分类标题": ">&&<",
+       "分类ID": "/vodtype/&&.html",
+	   "播放链接地址": "vod_play_url=\'&&\'",
+       "嗅探词": "index.m3u8"
+      }},
+  
+  
+  
+  
+  
   
    
       { "key": "javday.app","name": "✈javday.app✈",
@@ -88,13 +112,13 @@
       "filterable": 1,
       "ext": {"主页url": "https://motv.app",
        "数组":"<div class=\"movie-list-item\">&&</a>",
-        //"图片":"style=\"background-image: url('&&')\"",
+        
 		"图片": "data-original=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&gt;&&\"",
 	    "嗅探词":"index.m3u8#.m3u8#p.m3u8#.m3u8?#.mp4?#.m4a#.mp4",
 		"跳转播放链接": "var player_*\"url\":\"&&\"",
-	   // "直接播放":"1",
+	   "直接播放":"1",
 	    "搜索模式":"1",
         "搜索url":"https://motv.app/vodsearch/-------------/?wd={wd}",
        "分类url": "https://motv.app/vodshow/{cateId}--{by}------{catePg}---/",
