@@ -155,7 +155,7 @@
       "图片":"style=\"background: url('&&') no-repeat;",
        "副标题": "<time>&&</time>",
 
-       "链接":"https://swdivazxwfsd.buzz/piay/+href=\"/info/&&/\"+/",
+       "链接":"https://swdivazxwfsd.buzz/piay/id/+href=\"/info/id/&&\"",
 	    "搜索模式": "1", 
 	   "搜索url": "https://swdivazxwfsd.buzz/lookup/{wd}/L/{pg}.html",
        "分类url": "https://swdivazxwfsd.buzz/type/id/{cateId}/{catePg}.html",
@@ -1265,7 +1265,7 @@
 "图片":"src=\"&&\"",
 "标题":"title=\"&&\"",
 "链接": "https://sssenba1.buzz/info/+href=/play/&&",
-"跳转播放链接": "var playUrl = \'&&\'",
+"跳转播放链接": "var playUrl = '&&'",
         "直接播放": "1",
         "嗅探词": "index.m3u8",
 //"线路数组":"<li class=\"media-info\">&&</li>",
