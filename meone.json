@@ -11,7 +11,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-       "数组": "<div class=\"catename\">&&</a></div>",
+       "数组": "<li class=\"multi cate2 auth1\">&&</li>",
        "标题":"title=\"&&\"",
        "图片": "src=\"&&\"",
 	   "搜索模式": "1", 
