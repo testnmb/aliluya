@@ -4,26 +4,6 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
   
-       
-      { "key": "风流视频","name": "✅风流影视✅",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-       "数组": "<li class=\"multi cate2 auth1\">&&</li>",
-       "标题":"title=\"&&\"",
-       "图片": "src=\"&&\"",
-	   "搜索模式": "1", 
-	   "搜索url": "https://cpcovx.flsp2.homes/s/index.html?wd={wd}",
-       "分类url": "https://cpcovx.flsp2.homes/vodtype/{cateId}-{catePg}.html",
-       "分类数组": "<a&&/a>",
-       "分类标题": ">&&<",
-       "分类ID": "/vodtype/&&.html",
-	   "播放链接地址": "vod_play_url=\'&&\'",
-       "嗅探词": "index.m3u8"
-      }},
-  
   
   
   
@@ -53,12 +33,16 @@
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { "主页url": "https://24hjav.com/", 
 	 "数组": "\"video-thumb\"&&\"video-thumb\"",
-	 "图片": "data-original=\"&&\"",
+	 "图片": "src=\"&&\"",
      "标题":"alt=\"&&\"",
 	"副标题": "<div class=\"video-duration\">&&</div>", 
 	"简介": "description\" content=\"&&\"",  
-	 "链接": "href=\"/watch/&&.html\"",
-    "直接播放":"1",
+	 "链接": "href=\"&&\"",
+	 "播放数组": "<div class=\"video-big-title\">&&</div>",
+	 "播放列表": "<h1&&h1>",
+     "播放标题":" itemprop=\"title\">&&</",
+	 "播放链接": "",
+    //"直接播放":"1",
 	"分类":"骑兵$676#步兵$677#中字$679#FC2-PPV$680", 
 	"搜索模式": "1", 
 	"搜索url": "https://24hjav.com/search?keyword={wd}",
