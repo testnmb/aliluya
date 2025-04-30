@@ -13,7 +13,7 @@
         "分类ID": "/index.php/vodtype/&&.html",
         "搜索模式": "1",
 		"搜索url": "https://lsj5430.600gc.top/index.php/vodsearch/{wd}----------1---.html",
-		"数组": " <li><article>&&</li></article>",
+		"数组": "<li><article><a class=\"cover&&</li></article>",
         "标题": "alt=\"&&\"",
         "图片": "src=\"&&\"",
 		"链接": "href=\"&&\"",
@@ -38,7 +38,7 @@
       "搜索模式":"1",
     "线路数组":"<ul class=\"detail-tab&&</ul>",
     "线路标题":">&&</a>",
-   "播放数组":"<ul class=\"detail-play-list clearfix&&</ul>",
+    "播放数组":"<ul class=\"detail-play-list clearfix&&</ul>",
     "播放列表":"<li><a&&/a>",
     "播放标题":">&&<",
     "播放链接":"href=\"&&\"",
@@ -50,24 +50,6 @@
       }},
   
   
-      { "key": "绅士影院","name": "绅士🙂影院",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-       "数组": " <div class=\"mdui-col&&</div></div>",
-       "标题": "class=\"mdui-text-center mdui-p-y-1 mdui-m-x-1 mdui-text-truncate\">&&<br/>",
-       "图片": " data-original=\"&&\"",
-       "副标题":"class=\"mdui-typo-caption-opacity\">&&</span>",
-       "链接": "href=\"&&\"",
-      "直接播放":"1",
-       "分类url": "https://xn--fy2a65v.admin44.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-	    "分类数组": "<a&&/a>",
-        "分类标题": ">&&<",
-        "分类ID": "/index.php/vod/type/id/&&/"
-       
-      }},
   
    
    
