@@ -32,7 +32,29 @@
       }},
   
   
+      { "key": "绅士影院","name": "绅士🙂影院",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+       "数组": "\"mdui-col catid_718_list\"&&\"mdui-col catid_718_list\"",
+       "标题": "  class=\"mdui-text-center mdui-p-y-1 mdui-m-x-1 mdui-text-truncate\">&&<br/>",
+       "图片": " data-original=\"&&\"",
+       "副标题":"class=\"mdui-typo-caption-opacity\">&&</span>",
+       "链接": "href=\"&&\"",
+      "直接播放":"1",
+       "分类url": "https://xn--fy2a65v.admin44.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+	    "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/index.php/vod/type/id/&&/"
+       
+      }},
   
+   
+   
+        
+      
   
   
   
