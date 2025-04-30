@@ -217,11 +217,29 @@
 	    "分类数组": "<a&&/a>",
         "分类标题": ">&&<",
         "分类ID": "/type/id/&&.html",
-     "跳转播放链接": "var playUrl=\'&&\'",
-        "直接播放": "1",
+		"跳转播放链接": "var playUrl=\'&&\'",
+        //"直接播放": "1",
          "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
       }},
  
+ 
+ 
+     	{"key":"色女儿","name":"👧女儿国👧","type":3,
+	"api":"csp_XBPQ","searchable":1,
+	"quickSearch":1,"filterable":1,"ext":{
+      "主页url":"https://wosesenvwo1.sbs/",
+     "数组":"<li id=\"li1\"&&</li>",
+     "图片":"src=\"&&\"",
+     "标题":"title=\"&&\"",
+	 "链接": "https://wosesenvwo1.sbs/play/+/info/&&.html",
+    "跳转播放链接": "var playUrl='&&'",
+    //"直接播放": "1",
+    "嗅探词": "index.m3u8",
+     "搜索url":"https://wosesenvwo1.sbs/hunt/{wd}",
+  "分类数组": "<a&&a>",
+   "分类标题": ">&&</",
+     "分类ID": "/type/&&.html\"",
+   "分类url":"https://wosesenvwo1.sbs/type/{cateId}/{catePg}.html"}},		
   
   
   
@@ -1311,31 +1329,7 @@
     "分类ID": "/type/&&.html\"",
     "分类url": "https://av77.com/type/{cateId}/{catePg}.html;;z"}},		
 			
-	{"key":"色女儿","name":"👧女儿国👧","type":3,
-	"api":"csp_XBPQ","searchable":1,
-	"quickSearch":1,"filterable":1,"ext":{
-"主页url":"https://sssenba1.buzz/",
-"数组":"<li id=\"li1\"&&</li>",
-//"数组":"<a&&</a>",
-"图片":"src=\"&&\"",
-"标题":"title=\"&&\"",
-"链接": "https://sssenba1.buzz/info/+href=/play/&&.html",
-"跳转播放链接": "var playUrl='&&'",
- //"直接播放": "1",
- "嗅探词": "index.m3u8",
-//"线路数组":"<li class=\"media-info\">&&</li>",
-//"线路标题":"title=\"&&",
-//"播放数组":"<li class=\"media-info\">&&</li>",
-//"播放列表":"<a&&/a>",
-//"播放标题":">&&<",
-//"播放链接":"href=\"&&\"",
 
-"搜索url":"https://sssenba1.buzz/hunt/{wd}",
- "分类数组": "<a&&a>",
- "分类标题": ">&&</",
- "分类ID": "/type/&&.html\"",
-//"分类":"精品推荐$224#国产情色$225#亚洲无码$229#亚洲有码$231",
-"分类url":"https://sssenba1.buzz/type/{cateId}/{catePg}.html"}},		
 			
 	
 	
@@ -1549,7 +1543,7 @@
 
 
 
-{"key":"溏心次元","name":"🏆溏心次元 🏆","type":3,"api":"csp_XBPQ","style":{"ratio":2.0},"ext": {
+{"key":"溏心次元","name":"🏆溏心次元网站失效 🏆","type":3,"api":"csp_XBPQ","style":{"ratio":2.0},"ext": {
         "数组":"<li&&</li>",
         "搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
         "副标题":"添加时间:&&</span>",
