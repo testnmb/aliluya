@@ -10,7 +10,7 @@
   
   
    
-      { "key": "javday.app","name": "✈javday.app✈",
+      { "key": "javday.app","name": "💰javdayapp💰",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -126,7 +126,7 @@
        "链接": "href=\"&&\"",
 	   "播放数组": "<div class=\"player\">&&</div>",
 	   "跳转播放链接": "<iframe*src=\"&&\"",
-       //"直接播放":"1",
+       "直接播放":"1",
        "分类url": "https://www.qinav.com/home/site-{cateId}-{catePg}.html",
         "分类": "一站$1#二站$2#三站$3#四站$4#五站$5#六站$6#七站$7#八站$8#九站$9#十站$10"
       }},
@@ -151,7 +151,7 @@
   
   
   
-      { "key": "Diva在线","name": "🪁Diva在线🪁",
+      {"key": "Diva在线","name": "🪁Diva在线🪁",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -161,16 +161,15 @@
        "标题": "title=\"&&\"",
       "图片":"style=\"background: url('&&') no-repeat;",
        "副标题": "<time>&&</time>",
- 
-         "链接":"https://swdivazxwfsd.buzz/play/id/+href=\"/info/id/&&/\"+/",
+       "链接": "href=\"&&\"",
 	    "搜索模式": "1", 
 	   "搜索url": "https://swdivazxwfsd.buzz/lookup/{wd}/L/{pg}.html",
        "分类url": "https://swdivazxwfsd.buzz/type/id/{cateId}/{catePg}.html",
 	    "分类数组": "<a&&/a>",
         "分类标题": ">&&<",
         "分类ID": "/type/id/&&.html",
-		//"跳转播放链接": "var playUrl='&&'",
-        //"直接播放": "1",
+		"跳转播放链接": "var playUrl=\'&&\'",
+        "直接播放": "1",
          "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
       }},
  
