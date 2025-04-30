@@ -4,22 +4,7 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
   
-      { "key": "600老司机","name": "600司机😍影视",
-       "type": 3,"api": "csp_XBPQ",
-        "ext": {
-        "分类url": "https://lsj5430.600gc.top/index.php/vodtype/{cateId}-{catePg}.html",    
-		"分类数组": "<a&&a>",
-        "分类标题": ">&&</",
-        "分类ID": "/index.php/vodtype/&&.html",
-        "搜索模式": "1",
-		"搜索url": "https://lsj5430.600gc.top/index.php/vodsearch/{wd}----------1---.html",
-		"数组": "<li><article><a class=\"cover&&</li></article>",
-        "标题": "alt=\"&&\"",
-        "图片": "src=\"&&\"",
-		"链接": "href=\"&&\"",
-        "直接播放":"1"
-      } },		
-	
+ 
   
   
   
