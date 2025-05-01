@@ -21,15 +21,15 @@
       "链接":"href=\"&&\"",
       "搜索url":"https://www.hdgwt36.buzz/index.php/vod/search.html?wd={wd}",
       "搜索模式":"1",
-    "线路数组":"<ul class=\"detail-tab&&</ul>",
+     "线路数组":"<ul class=\"detail-tab&&</ul>",
     "线路标题":">&&</a>",
     "播放数组":"<ul class=\"detail-play-list clearfix&&</ul>",
     "播放列表":"<li><a&&/a>",
     "播放标题":">&&<",
     "播放链接":"href=\"&&\"",
-    "免嗅":"1",
-    "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-     "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
+    //"免嗅":"1",
+   // "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+    // "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
    "分类":"歌舞团一$1#歌舞团二$2#歌舞团三$3",
    "分类url":"https://www.hdgwt36.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
       }},
@@ -54,11 +54,12 @@
        "标题": "<span class=\"title\">&&</span>",
       "图片":"style=\"background-image: url(&&);\"",
 	    "搜索模式": "1", 
+		"直接播放": "1",
+        //"嗅探词": "index.m3u8",
 	   "搜索url": "https://javday.app/search/page/1/wd/{wd}/",
        "分类url": "https://javday.app/{cateId}/page/{catePg}/",
-	    "分类": "新作上市$category/new-release#骑兵$category/censored#國產AV$category/chinese-av#步兵$category/uncensored-leaked#糖心VLOG$category/txvlog#蘿莉社$category/luolisheus#HongKongDoll$category/hongkongdoll",
-        "直接播放": "1",
-        "嗅探词": "index.m3u8"
+	    "分类": "新作上市$category/new-release#骑兵$category/censored#國產AV$category/chinese-av#步兵$category/uncensored-leaked#糖心VLOG$category/txvlog#蘿莉社$category/luolisheus#HongKongDoll$category/hongkongdoll"
+        
       }},
   
   
@@ -728,7 +729,7 @@
 	   "搜索url":"https://oicyienj.9cai.online/search/-------------.html?wd={wd}&submit=",
        "搜索模式":"1",
 	   "分类url":"https://oicyienj.9cai.online/9cai/{cateId}-{catePg}.html",
-      "分类":"传媒精品$1#中字$30#国产$3#日韩🈚️🐎$44#伦理$5",
+      "分类":"传媒精品$1#中字$30#国产$3#日韩步兵$44#伦理$5",
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1"  }},
   
@@ -900,11 +901,9 @@
         "直接播放":"1"
       } },		
 	
-	   { "key": "欢淫光临",
-      "name": "👏欢迎👏光临👏",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
+	   {"key": "欢淫光临","name": "👏欢迎👏光临👏",
+        "type": 3,"api": "csp_XBPQ",
+       "ext": {
         "分类url": "https://q1r2s3t4.huanygl22.buzz/vodtype/{cateId}-{catePg}/",
 	    "分类": "日本🈶️🐎$43#🀄️文字幕$41#强奸乱伦$46#日本🈚️🐎$44#制服诱惑$47#AV解说$55#网暴黑料$53#抖阴视频$51#女友明星$52#网红头条$60#极品媚黑$58#萝莉少女$57#VR视角$63#国产精品$71#华语AV$64#黑料吃瓜$69#学生集合$65#探花约炮$70",
         "搜索模式": "1",
@@ -913,12 +912,12 @@
         "图片": "data-original=\"&&\"",
 		"链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
         "直接播放":"1"
-      } },		
+       }},		
 
-     {"key":"暗网禁区","name":"🫂暗网禁区🫂","type":3,"api":"csp_XBPQ",
-        "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
-		//"主页url": "https://awjqub.sbs/layout.html",
-    "数组": "class=\"myui-vodlist__box&&</div>",
+     {"key":"暗网禁区","name":"🫂暗网禁区🫂",
+	 "type":3,"api":"csp_XBPQ",
+     "searchable":1,"quickSearch":1,"filterable":1,
+	 "ext":{ "数组": "class=\"myui-vodlist__box&&</div>",
     "图片": "style=\"background: url('&&')",
     "标题": "title=\"&&\"",
     "副标题": "<time>&&</time>",
@@ -931,29 +930,31 @@
     "分类标题": "title=\"&&\"",
     "分类ID": "/sort/id/&&.html",
     "分类url": "https://ncvawjqtv.buzz/type/{cateId}/{catePg};;z"
-}},
+    }},
 
     
 	 
-               {"key": "dabaobei","name": "🐚大宝贝🐚","type": 3,"api": "csp_XBPQ","style":{"type": "rect","ratio": 1.5},"ext": {
-                "主页url": "https://ass.dabaobei.sbs/",
-                "数组": "<div class=\"puremag-list-post-thumbnail\">&&</div></div>",
-                "图片": "src=\"&&\"",
-                "标题": "rel=\"bookmark\">&&</a>",
-                "副标题": "<span class=\"puremag-list-post-date puremag-list-post-meta\">&&</span> ",
-                "简介": "少看点，再看你就废了！！！",
-                "链接": "href=\"&&\"",
-				"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-		        "直接播放": "1",
-                "分类url": "https://ass.dabaobei.sbs/{cateId}/page/{catePg};;z",
-                "分类": "美乳巨乳$美乳巨乳#萝莉少女$萝莉少女#强奸乱伦$强奸乱伦#麻豆传媒$麻豆传媒#AV解说$AV解说#中文字幕$中文字幕#制服诱惑$制服诱惑"}},
+           {"key": "dabaobei","name": "🐚大宝贝🐚",
+			 "type": 3,"api": "csp_XBPQ",
+			 "style":{"type": "rect","ratio": 1.5},"ext": {
+             "主页url": "https://ass.dabaobei.sbs/",
+            "数组": "<div class=\"puremag-list-post-thumbnail\">&&</div></div>",
+            "图片": "src=\"&&\"",
+            "标题": "rel=\"bookmark\">&&</a>",
+            "副标题": "<span class=\"puremag-list-post-date puremag-list-post-meta\">&&</span> ",
+            "简介": "少看点，再看你就废了！！！",
+            "链接": "href=\"&&\"",
+	       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+		    "直接播放": "1",
+            "分类url": "https://ass.dabaobei.sbs/{cateId}/page/{catePg};;z",
+           "分类": "美乳巨乳$美乳巨乳#萝莉少女$萝莉少女#强奸乱伦$强奸乱伦#麻豆传媒$麻豆传媒#AV解说$AV解说#中文字幕$中文字幕#制服诱惑$制服诱惑"}},
 
 
 	 
-            {"key": "骑行者","name": "🚲骑行者🚲","type": 3,"api": "csp_XBPQ",
+            {"key": "骑行者","name": "🚲骑行者🚲",
+			"type": 3,"api": "csp_XBPQ",
 			"style":{"type": "rect","ratio": 1.5},
-			  "ext": {
-                "主页url": "https://qxsp.qixingsp.fun/",
+			  "ext": {"主页url": "https://qxsp.qixingsp.fun/",
                 "数组": "\"video__container\"&&\"video__container\"",
                 "图片": "src=\"&&\"",
                 "标题": "alt=\"&&\"",
@@ -967,8 +968,10 @@
     
  			
 				
-{"key":"javtree","name":"📀javtree📀","type":3,"api":"csp_XBPQ",
-        "searchable":1,"quickSearch":1,"filterable":1,"ext":{
+      {"key":"javtree","name":"📀javtree📀",
+	  "type":3,"api":"csp_XBPQ",
+        "searchable":1,"quickSearch":1,
+		"filterable":1,"ext":{
         "主页url":"https://javtree.com/last.html",
         "数组":"<div class=\"item&&</a",
         "图片":"src=\"&&\"",
@@ -1008,17 +1011,11 @@
 
 
 
-{"key": "jable",
-            "name": "💃jable| XBPQ💃",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext":
-            {
-            "直接播放":"1",
+      {"key": "jable","name": "💃jable| XBPQ💃",
+            "type": 3,"changeable": 1,
+            "searchable": 1,"quickSearch": 1,
+            "filterable": 1,"api": "csp_XBPQ",
+            "ext":{"直接播放":"1",
             "搜索模式":"1",
             "搜索url":"https://jable.tv/search/{wd}/",
             "数组":"<div class=\"img-box cover-md\">&&</h6>",
@@ -1041,16 +1038,12 @@
 			 
 			 
 			 
-	 {"key":"AV空投军团",
-       "name":"✈️空投军团✈️",
-       "type":3,
-       "api":"csp_XBPQ",
-       "searchable": 1,
-       "quickSearch": 1,
+	 {"key":"AV空投军团","name":"✈️空投军团✈️",
+       "type":3, "api":"csp_XBPQ",
+       "searchable": 1,"quickSearch": 1,
        "filterable": 1,
-       //"style":{"type":"rect","ratio":1.333},
-       "ext":{
-		"主页url":"https://ipornbase.xyz/ch/local",
+       "style":{"type":"rect","ratio":1.333},
+       "ext":{"主页url":"https://ipornbase.xyz/ch/local",
 		"分类url":"https://ipornbase.xyz/ch/{cateId}?page={catePg}",
 	   "分类": "国产所有$local#国产今日🔥$local/today#国产本周🔥$local/weekly#国产本月🔥$local/month#国产2025🔥$local/year#日本新发行$jp/latest#日本所有$jp#日本今日🔥$jp/today#日本本周🔥$jp/weekly#日本今月🔥$jp/month#日本2025🔥$jp/year#日本无码所有$jp-uncensored#日本今日🔥$jp-uncensored/today#日本本周🔥$jp-uncensored/weekly#日本本月🔥$jp-uncensored/month#日本2025🔥$jp-uncensored/year",
 	    //"数组":"<div class=\"imgcover\">&&</a></div>",
