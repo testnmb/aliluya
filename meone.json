@@ -23,6 +23,7 @@
    
     { "key": "樱花影视","name": "樱花🌌影视",
       "type": 3,"api": "csp_XBPQ",
+	   "jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -244,8 +245,10 @@
        "图片": "img=\"&&\"",
        "副标题":"<span class=\"time\">&&</span>",
        "链接": "href=\"&&\"",
-	   "播放数组": "<div class=\"player\">&&</div>",
+	   //"播放数组": "<div class=\"player\">&&</div>",
 	   "跳转播放链接": "<iframe*src=\"&&\"",
+	    "嗅探词":"index.m3u8#.m3u8#p.m3u8#.m3u8?#.mp4?#.m4a#.mp4",
+		"跳转解析":"https://play.dadiapi.com/watch?url=",
        "直接播放":"1",
        "分类url": "https://www.qinav.com/home/site-{cateId}-{catePg}.html",
         "分类": "一站$1#二站$2#三站$3#四站$4#五站$5#六站$6#七站$7#八站$8#九站$9#十站$10"
