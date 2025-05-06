@@ -35,10 +35,104 @@
       }},
   
   
+     	  
+     {"key":"百合TV",
+       "name":"百合🚩在线",
+       "type":3,
+       "api":"csp_XBPQ",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+	   
+       "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
+	    "防封地址": "bh81.xyz",
+	   "图片": "src=\"&&\"",
+      "标题":"title=\"&&\"",
+      "链接": "href=\"&&\"",
+      "副标题":"<p class=\"vod-class has-text-grey\">&&</p>",
+	   "搜索url":"https://qq.com.bhtv20742.top/s?k={wd}",
+       "搜索模式":"1",
+	   "分类url":"https://qq.com.bhtv20742.top/t?t_id={cateId}&page={catePg}",
+      "分类":"视频一区$1#视频二区$2#视频三区$3#视频四区$4#视频五区$5",
+	 
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1"  
+   }
+    },
+	  
+	  
+ 
+  
+    	  
+     {"key":"火焰世界",
+       "name":"火焰🔥世界",
+       "type":3,
+       "api":"csp_XBPQ",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+	   
+       "ext":{"数组":" <div class=\"relative\">&&</div></div>",
+	  
+	   "图片": "src=\"&&\"",
+      "标题":"  class=\"mb-1 font-bold text-basic-heading dark:text-dark-heading leading-5 line-clamp-2 text-sm\">&&</a>",
+      //"链接": "https://www.nfcr1504.buzz/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
+	  "链接": "href=\"&&\"",
+      "副标题":"<span class=\"absolute right-1 bottom-1 w-12 py-1 text-xs text-white text-center font-bold rounded bg-black bg-opacity-60\">&&</span>",
+	   "搜索url":"https://huoyanhyh.site/index.php/vod/search/page/{pg}/wd/{wd}.html",
+       "搜索模式":"1",
+	   "分类url":"https://huoyanhyh.site/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+      "分类":"明星换脸$45#探花$51#传媒$53#中文$35#调教$31",
+	 
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1"  
+   }
+    },
+	  
   
    
-   
-     
+       {"key":"百花会",
+       "name":"➕百花会➕",
+       "type":3,
+       "api":"csp_XBPQ",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+	   
+       "ext":{ 
+		"数组": "<a class=\"uzimg&&</a>",
+        "标题": "title=\"&&\"",
+		"副标题":"class=\"title\">&&</span>",
+        "图片": "data-original=\"&&\"",
+		"链接": "href=\"&&\"",
+	   "搜索url":"https://f_iy_6f_i.bhhuixo.icu/index.php/vod/search.html?wd={wd}",
+       "搜索模式":"1",
+	   "分类url":"https://f_iy_6f_i.bhhuixo.icu/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+      "分类":"日本$4#国产$3",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1"  
+   } },
+	  
+           {"key": "猫咪视频 ","name": "猫咪🐱视频",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": {  
+	 "数组": "<a class=\"thumbnail-link&&<a class=\"thumbnail-link",
+	 "图片": "src=\"&&\"",
+     "标题":"alt=\"&&\"",
+	"副标题": "<font color=\"red\">&&</font>", 
+	"简介": "description\" content=\"&&\"",  
+	 "链接": "href=\"&&\"",
+	 "播放数组": "<div class=\"entry-content\">&&</div>",
+	 "播放列表": "<a&&a>",
+     "播放标题":">&&</",
+	 "播放链接":"href=\"&&\"",
+	  "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	"分类":"骑兵$52#日本精品$30#中字$23#精品推荐$43", 
+	"搜索模式": "1", 
+	"搜索url": "https://33.creatchina.com/public/api.php?app=search&q={wd}",
+	"分类url":"https://33.creatchina.com/tag.php?id={cateId}&page={catePg}"
+	}},
+  
   
   
    
@@ -865,7 +959,7 @@
 }},
 	
 	
-	{"key":"jav36","name":"jav❸❻❸❻","type":3,"api":"csp_XBPQ",
+	{"key":"jav36","name":"JAV💤三十六","type":3,"api":"csp_XBPQ",
         "searchable":1,
 		"quickSearch":1,
 		"filterable":1,
