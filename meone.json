@@ -79,23 +79,7 @@
    "分类url":"https://www.hdgwt.top/index.php/vod/type/id/{cateId}/page/{catePg}.html"
       }},
   
-  
-  
-     {"key":"骑士视频", "name":"骑士🐎视频",
-       "type":3,"api":"csp_XBPQ","searchable":1,
-       "quickSearch":1, "filterable":1,
-	   "ext":{"数组":"<a class=\"js-gallery-stats&&</a>",
-	   "图片": "src=\"&&\"",
-      "标题":" <h3 class=\"thumb-item__title\">&&</h3>",
-	  "链接": "href=\"&&\"",
-	   "搜索url":"https://qisuvaabb.xyz/index.php/vod/search/page/{pg}/wd/{wd}.html",
-       "搜索模式":"1",
-	   "分类url":"https://qisuvaabb.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-      "分类":"国产视频$42#国产剧情$50#中文字幕$34#日本步兵$32",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1"  
-   }},
-
+ 
 	  
 	  
  
@@ -205,7 +189,7 @@
       }},
   
      
-    { "key": "kiss99","name": "kiss99影视",
+    { "key": "kiss99","name": "KISS99影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
