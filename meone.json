@@ -84,7 +84,7 @@
      {"key":"骑士视频", "name":"骑士🐎视频",
        "type":3,"api":"csp_XBPQ","searchable":1,
        "quickSearch":1, "filterable":1,
-	   "ext":{"数组":"<article class=\"thumb-item js-thumb\">&&</article>",
+	   "ext":{"数组":"<a class=\"js-gallery-stats&&</a>",
 	   "图片": "src=\"&&\"",
       "标题":" <h3 class=\"thumb-item__title\">&&</h3>",
 	  "链接": "href=\"&&\"",
