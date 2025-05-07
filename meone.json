@@ -59,6 +59,25 @@
 	  
   
   
+       {"key":"XDXX9","name":"XDXX9",
+   "type":3,"api":"csp_XBPQ",
+   "searchable":1,"quickSearch":1,"filterable":1,
+   "ext":{
+   "直接播放": "1",
+   "数组":"	<li class=\"madou1\">&&</li>",
+   "图片":"data-src=\"&&\"",
+   "标题":"<h2>&&</h2>","副标题":"duration\">&&<",
+   "简介":"<div class=\"desc\">&&</div>",
+    "链接":"href=\"&&\"",
+	"跳转播放链接":"urlDecode(var player_*url\":\"&&\")",
+    "搜索url":"https://xdxx9.icu/tags/page/{pg}/wd/{wd}.html",
+   "分类url":"https://xdxx9.icu/type/{cateId}/{catePg}.html",
+   "分类":"解说$20077#中文字幕$112#角色剧情$101#制服诱惑$108#丝袜美腿$104"}},
+  
+  
+  
+  
+  
   
         { "key": "小树AV","name": "小树🌳影视",
       "type": 3,"api": "csp_XBPQ",
@@ -141,17 +160,18 @@
    {"key":"啪啪影院","name":"啪啪✅影院",
    "type":3,"api":"csp_XBPQ",
    "searchable":1,"quickSearch":1,"filterable":1,
-   "ext":{"发布地址":"https://www.ppxy.xyzhttps://www.ppx22y.xyzhttps://www.ppxy33.xyz",
+   "ext":{"发布地址":"https://www.ppxy.xyz，https://www.ppx22y.xyz，https://www.ppxy33.xyz",
    "免嗅": "1",
-    "直接播放": "1",//"二次截取":"<div class=\"list_box&&</div>",
-   "数组":"<ul&&</span></li></ul>[不包含:私房自拍]","图片":"img=\"&&\"",
+    "直接播放": "1",
+   "数组":"<ul&&</span></li></ul>[不包含:私房自拍]",
+   "图片":"img=\"&&\"",
    "标题":"title\">&&</li","副标题":"icon icon-time\"></i>&&<",
    "简介":"description\" content=\"&&\"",
     "链接":"href=\"&&\"",
 	"跳转播放链接":"urlDecode(var player_*url\":\"&&\")",
     "搜索url":"https://pzk.ppxy33.com/max/vodsearch/{wd}----------{pg}---.html",
    "分类url":"https://pzk.ppxy33.com/max/vodtype/{cateId}-{catePg}.html",
-   "分类":"私房自拍$sifangzipai#午夜探花$wuyetanhua#中文字幕$zhongwenzimu#日本无码$ribenwuma#卡通动画$katongdonghua"}},
+   "分类":"私房自拍$sifangzipai#午夜探花$wuyetanhua#中文字幕$zhongwenzimu#日本步兵$ribenwuma#卡通动画$katongdonghua"}},
    
    
    
@@ -959,7 +979,7 @@
    
       {
       "key": "12av",
-      "name": "12影视",
+      "name": "12🌪️🌬️影视",
       "type": 3,
       "api": "csp_XBPQ",
    
