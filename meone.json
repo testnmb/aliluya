@@ -21,7 +21,7 @@
         "分类": "亞洲情色$亞洲情色#國產視頻$國產視頻#中文字幕$中文字幕#巨乳肥臀$巨乳肥臀#強姦亂倫$強姦亂倫#無碼專區$無碼專區"
       }},
    
-     {"key":"CCAV","name":"📺CCAV📺",
+     {"key":"CCAV","name":"📺CCTV📺",
        "type":3, "api":"csp_XBPQ",
        "searchable":1, "quickSearch":1, "filterable":1,
        "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
@@ -40,7 +40,7 @@
 	  
  
  
-        {"key":"奈飞成人","name":"奈飞🍬电影",
+        {"key":"奈飞成人","name":"🍬小奈飞🍬",
        "type":3, "api":"csp_XBPQ",
        "searchable":1, "quickSearch":1, "filterable":1,
        "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
@@ -52,7 +52,6 @@
 	   "搜索url":"https://www.nfcr10498.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
        "搜索模式":"1",
 	   "分类url":"https://www.nfcr10498.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-     
 	  "分类":"骑兵$29#步兵$30#金发$31#伦理$32#中字$36#破解$37",
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1"  
@@ -73,8 +72,8 @@
       "链接":"href=\"&&\"",
       "搜索url":"https://xsav7.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
       "搜索模式":"1",
-	  "线路数组": "href=\"#playlist&&/a>",
-      "线路标题": "</i></span>&&<",
+	 "线路数组": "href=\"#playlist&&/a>",
+     "线路标题": "</i></span>&&<",
     "播放数组":"playlistlink-&&</ul>",
     "播放列表":"<a&&/a>",
     "播放标题":">&&<",
@@ -139,7 +138,7 @@
    }},
 	  
   
-   {"key":"啪啪影院","name":"啪啪影院",
+   {"key":"啪啪影院","name":"啪啪✅影院",
    "type":3,"api":"csp_XBPQ",
    "searchable":1,"quickSearch":1,"filterable":1,
    "ext":{"发布地址":"https://www.ppxy.xyzhttps://www.ppx22y.xyzhttps://www.ppxy33.xyz",
@@ -222,7 +221,7 @@
 	}},
   
    
-    { "key": "popjav","name": "popjav影视",
+    { "key": "popjav","name": "POPJAV☀️影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -242,7 +241,7 @@
       }},
   
      
-    { "key": "kiss99","name": "KISS99影视",
+    { "key": "kiss99","name": "KISS99💋影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -309,7 +308,7 @@
   
   
   
-         { "key": "hornyjav","name": "hornyjav影视",
+         { "key": "hornyjav","name": "HORNYJAV🚖影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -682,10 +681,7 @@
 	 "直接播放":"1",
     "搜索模式": "1",
     "搜索url": "https://xcc.ytys2.buzz/s/{wd}/page/{pg}.html",
-     // "分类":"角色扮演$20#亚洲$25#制服丝袜$31#丝袜美腿$10#强+伦$33#人妻熟女$34#中字$28#童颜$32#步兵$26#少女$35",
-	 "分类数组": "<a&&a>",
-     "分类标题": ">&&</",
-      "分类ID": "/vodtype/&&.html",
+    "分类":"强+伦$1#绿帽$2#制服$3#自搞$4#偷拍$5#自拍$20#国产$21#日韩$23#步兵$26#少女$35",
    "分类url": "https://xcc.ytys2.buzz/vodtype/{cateId}-{catePg}.html"
    }},
 	
