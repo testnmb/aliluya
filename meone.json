@@ -21,33 +21,42 @@
         "分类": "亞洲情色$亞洲情色#國產視頻$國產視頻#中文字幕$中文字幕#巨乳肥臀$巨乳肥臀#強姦亂倫$強姦亂倫#無碼專區$無碼專區"
       }},
    
-    { "key": "樱花影视","name": "樱花🌌影视",
-      "type": 3,"api": "csp_XBPQ",
-	   "jar":"http://mgz.eoes.top/down.php/fd3cefc7302f3a39a442682f802b11e5.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "数组":"<a class=\"ulink&&<a class=\"ulink",
-      "图片":"src=\"&&\"",
-      "标题":" class=\"ulink\" title=\"&&\"",
-      "链接":"href=\"&&\"",
-      "搜索url":"https://www.xmsxt.net/search?q={wd}&Submit=&page=3",
-      "搜索模式":"1",
-	  "线路数组":"<p style=\"margin:&&</p>",
-    "线路标题":">&&</font>",
-    "播放数组":"<div class=\"player_list\">&&</ul>",
-    "播放列表":"<li><a&&/a>",
-    "播放标题":">&&<",
-    "播放链接":"href=\"&&\"",
-    //"免嗅":"1",
-   // "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-    // "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
-   "分类":"微光纪事$7#骰子剧场$3#拼图影院$5#能量放映$2#月蚀剧场$1",
-   "分类url":"https://www.xmsxt.net/6323c48f/vod-{cateId}/{catePg}.html"
-      }},
-  
+     {"key":"CCAV","name":"📺CCTV📺",
+       "type":3, "api":"csp_XBPQ",
+       "searchable":1, "quickSearch":1, "filterable":1,
+       "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
+	   "图片": "data-original=\"&&\"",
+      "标题":"alt=\"&&\"",
+      "链接": "https://www.ccav10544.sbs/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+      "副标题":"<p class=\"vod-class has-text-grey\">&&</p>",
+	   "搜索url":"https://www.ccav10544.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
+       "搜索模式":"1",
+	   "分类url":"https://www.ccav10544.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+      "分类":"视频一区$1#视频二区$2#视频三区$3",
+	  "类型":"制服丝袜$6#SWAG$7#中文字幕$8#日本有码$9#日本无码$10#AV解说$11#cosplay$12#自拍偷拍$13#激情动漫$14#网红主播$15#探花系列$16#三级伦理$20#VR视角$21#国产传媒$22#素人搭讪$23#门事件$24",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1"  
+   }},
+	  
  
+ 
+        {"key":"奈飞成人","name":"奈飞🍬电影",
+       "type":3, "api":"csp_XBPQ",
+       "searchable":1, "quickSearch":1, "filterable":1,
+       "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
+	   "图片": "data-original=\"&&\"",
+      "标题":"alt=\"&&\"",
+      "链接": "https://www.nfcr10498.sbs/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+      "副标题":"<p class=\"vod-class has-text-grey\">&&</p>",
+	   "搜索url":"https://www.nfcr10498.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
+       "搜索模式":"1",
+	   "分类url":"https://www.nfcr10498.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+     
+	  "分类":"骑兵$29#步兵$30#金发$31#伦理$32#中字$36#破解$37",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1"  
+   }},
+	  
   
   
   
@@ -817,30 +826,7 @@
   
 	  
 	  
-     {"key":"CCAV",
-       "name":"📺CCTV📺",
-       "type":3,
-       "api":"csp_XBPQ",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-	   
-       "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
-	   
-	   "图片": "data-original=\"&&\"",
-      "标题":"alt=\"&&\"",
-      "链接": "https://www.ccav10544.sbs/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
-      "副标题":"<p class=\"vod-class has-text-grey\">&&</p>",
-	   "搜索url":"https://www.ccav10544.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
-       "搜索模式":"1",
-	   "分类url":"https://www.ccav10544.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-      "分类":"视频一区$1#视频二区$2#视频三区$3",
-	  "类型":"制服丝袜$6#SWAG$7#中文字幕$8#日本有码$9#日本无码$10#AV解说$11#cosplay$12#自拍偷拍$13#激情动漫$14#网红主播$15#探花系列$16#三级伦理$20#VR视角$21#国产传媒$22#素人搭讪$23#门事件$24",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1"  
-   }
-    },
-	  
+
 	  
 	  
 	   
