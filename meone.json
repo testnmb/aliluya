@@ -51,6 +51,30 @@
   
   
   
+        { "key": "小树AV","name": "小树🌳影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "数组":"<a class=\"videopic lazy&&</a></h5>",
+      "图片":"data-original=\"&&\"",
+      "标题":"title=\"&&\"",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://xsav7.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
+      "搜索模式":"1",
+    "播放数组":"playlistlink-&&</ul>",
+    "播放列表":"<a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"href=\"&&\"",
+    //"免嗅":"1",
+   // "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+    // "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
+   "分类":"国产视频$index25#中文字幕$index26#国产传媒$index27#日本骑兵$index28#日本步兵$index29#解说$index40#制服诱惑$index32",
+   "分类url":"https://xsav7.cfd/frim/{cateId}-{catePg}.html"
+      }},
+  
+  
       
   
   
@@ -103,6 +127,22 @@
    }},
 	  
   
+   {"key":"啪啪影院","name":"啪啪影院",
+   "type":3,"api":"csp_XBPQ",
+   "searchable":1,"quickSearch":1,"filterable":1,
+   "ext":{"发布地址":"https://www.ppxy.xyzhttps://www.ppx22y.xyzhttps://www.ppxy33.xyz",
+   "免嗅": "1",
+    "直接播放": "1",//"二次截取":"<div class=\"list_box&&</div>",
+   "数组":"<ul&&</span></li></ul>[不包含:私房自拍]","图片":"img=\"&&\"",
+   "标题":"title\">&&</li","副标题":"icon icon-time\"></i>&&<",
+   "简介":"description\" content=\"&&\"",
+    "链接":"href=\"&&\"",
+	"跳转播放链接":"urlDecode(var player_*url\":\"&&\")",
+    "搜索url":"https://pzk.ppxy33.com/max/vodsearch/{wd}----------{pg}---.html",
+   "分类url":"https://pzk.ppxy33.com/max/vodtype/{cateId}-{catePg}.html",
+   "分类":"私房自拍$sifangzipai#午夜探花$wuyetanhua#中文字幕$zhongwenzimu#日本无码$ribenwuma#卡通动画$katongdonghua"}},
+   
+   
    
      
 	  
