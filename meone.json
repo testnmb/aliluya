@@ -21,7 +21,7 @@
         "分类": "亞洲情色$亞洲情色#國產視頻$國產視頻#中文字幕$中文字幕#巨乳肥臀$巨乳肥臀#強姦亂倫$強姦亂倫#無碼專區$無碼專區"
       }},
    
-     {"key":"CCAV","name":"📺CCTV📺",
+     {"key":"CCAV","name":"📺CCAV📺",
        "type":3, "api":"csp_XBPQ",
        "searchable":1, "quickSearch":1, "filterable":1,
        "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
@@ -44,6 +44,7 @@
        "type":3, "api":"csp_XBPQ",
        "searchable":1, "quickSearch":1, "filterable":1,
        "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
+	   "发布页": "https://fuliwz.neocities.org/nfcrz/",
 	   "图片": "data-original=\"&&\"",
       "标题":"alt=\"&&\"",
       "链接": "https://www.nfcr10498.sbs/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
@@ -669,7 +670,31 @@
 	
 	
 	
-	 {"key":"樱桃视频","name":"樱桃🍒影视",
+	 {"key":"樱桃影视","name":"樱桃🍒影视A版",
+	 "type":3,"api":"csp_XBPQ",
+      "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
+    "数组": "class=\"grid_item&&</a>",
+	  "图片":"src=\"&&\"",
+    "标题": "<span class=\"span\">&&</span>",
+	  "副标题":"<span class=\"num\">&&</span>",
+    "简介": "description\"*content=\"&&",
+     "链接": "href=\"&&\"",
+	 "直接播放":"1",
+    "搜索模式": "1",
+    "搜索url": "https://xcc.ytys2.buzz/s/{wd}/page/{pg}.html",
+     // "分类":"角色扮演$20#亚洲$25#制服丝袜$31#丝袜美腿$10#强+伦$33#人妻熟女$34#中字$28#童颜$32#步兵$26#少女$35",
+	 "分类数组": "<a&&a>",
+     "分类标题": ">&&</",
+      "分类ID": "/vodtype/&&.html",
+   "分类url": "https://xcc.ytys2.buzz/vodtype/{cateId}-{catePg}.html"
+   }},
+	
+	
+	
+	
+	
+	
+	 {"key":"樱桃视频","name":"樱桃🍒影视B版",
 	 "type":3,"api":"csp_XBPQ",
       "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
     "数组": "class=\"myui-vodlist__box&&</div>",
