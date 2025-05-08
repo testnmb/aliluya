@@ -30,9 +30,75 @@
 	"分类url":"https://hg.mimigirl12.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
   
   
+       {"key": "蜜汁TV","name": "📺蜜汁TV📺",
+      "type": 3,"api": "csp_XBPQ","searchable": 1,
+      "quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://mizhitv142.buzz/",
+       "数组": "<figure class=\"figure\">&&</figure>",
+       "标题": "title=\"&&\"",
+      "图片": "src=\"&&\"",
+       "副标题": "<time>&&</time>",
+       "链接": "https://mizhitv142.buzz/video/play/+/video/info/&&.html",
+	    "搜索模式": "1", 
+	   "搜索url": "https://mizhitv142.buzz/video/lookup/{wd}/L/{pg}.html",
+       "分类url": "https://mizhitv142.buzz/video/type/{cateId}/{catePg}.html[https://mizhitv142.buzz/video/type/{cateId}.html]",
+	    "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/video/type/&&.html",
+		"跳转播放链接": "var playUrl=\'&&\'",
+        "直接播放": "1",
+         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
+      }},
   
   
   
+  
+  
+  
+    
+	   { "key": "帝国av","name": "帝国☀️影院",
+       "type": 3,"api": "csp_XBPQ",
+       "ext": {"主页url": "https://dd.diguo23.live/",
+        "分类url": "https://dd.diguo23.live/123/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+	    "分类数组": "<a&&</a>",
+        "分类标题": ">&&<",
+        "分类ID": "/123/index.php/vod/type/id/&&.html",
+        "搜索模式": "1",
+		"搜索url": "https://dd.diguo23.live/123/index.php/vod/search.html?wd={wd}",
+		"数组": "<dl>&&</dl>",
+        "标题": "<h3>&&</h3>",
+        "图片": "data-src=\"&&\"",
+		 "副标题": "<i>&&</i>",
+		"链接": "href=\"&&\"",
+		 "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+		 "跳转播放链接": "var player_aaaa*url\":\"&&\"",
+        "直接播放":"1"
+      } },		
+
+  
+      { "key": "快播AV","name": "快播🏃‍♀TV",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://sskuaiboavbz.lat/",
+       "数组": "class=\"video-pic loading\"&&</a>",
+       "标题": "title=\"&&\"",
+       "图片": " style=\"background: url('&&') no-repeat;",
+       "副标题": "<time>&&</time>",
+       "链接": "href=\"&&\"",
+       "直接播放":"1",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/list/&&.html",
+       "分类url": "https://sskuaiboavbz.lat/list/{cateId}/{catePg}.html"
+       
+      }},
+  
+  
+  
+   
   
       { "key": "青年视频","name": "青年👨影视",
       "type": 3,"api": "csp_XBPQ",
