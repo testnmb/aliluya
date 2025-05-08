@@ -58,23 +58,27 @@
    }},
 	  
   
+        {"key": "精品阁","name": "🚎精品阁影视🚎",
+      "type": 3,"api": "csp_XBPQ","searchable": 1,
+      "quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://jingpinge533.click/",
+       "数组": "<figure class=\"figure\">&&</figure>",
+       "标题": "title=\"&&\"",
+      "图片": "src=\"&&\"",
+       "副标题": "<time>&&</time>",
+       "链接": "https://swdivazxwfsd.buzz/play/+/info/&&.html",
+	    "搜索模式": "1", 
+	   "搜索url": "https://jingpinge533.click/hunt/{wd}/h/{pg}.html",
+       "分类url": "https://jingpinge533.click/type/{cateId}/{catePg}.html[https://jingpinge533.click/type/{cateId}.html]",
+	    "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/type/&&.html",
+		"跳转播放链接": "var playUrl=\'&&\'",
+        "直接播放": "1",
+         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
+      }},
   
-       {"key":"XDXX9","name":"XDXX9",
-   "type":3,"api":"csp_XBPQ",
-   "searchable":1,"quickSearch":1,"filterable":1,
-   "ext":{
-   "直接播放": "1",
-   "数组":"	<li class=\"madou1\">&&</li>",
-   "图片":"data-src=\"&&\"",
-   "标题":"<h2>&&</h2>","副标题":"duration\">&&<",
-   "简介":"<div class=\"desc\">&&</div>",
-    "链接":"href=\"&&\"",
-	"跳转播放链接":"urlDecode(var player_*url\":\"&&\")",
-    "搜索url":"https://xdxx9.icu/tags/page/{pg}/wd/{wd}.html",
-   "分类url":"https://xdxx9.icu/type/{cateId}/{catePg}.html",
-   "分类":"解说$20077#中文字幕$112#角色剧情$101#制服诱惑$108#丝袜美腿$104"}},
-  
-  
+    
   
   
   
@@ -366,6 +370,34 @@
         "直接播放": "1",
          "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
       }},
+ 
+ 
+    
+      {"key": "好莱污","name": "好莱坞🚽影院",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://haolw27.buzz/",
+       "数组": "class=\"video-pic loading\"&&</a>",
+       "标题": "title=\"&&\"",
+      "图片":"style=\"background: url('&&') no-repeat;",
+      
+       "链接": "https://swdivazxwfsd.buzz/play/+/info/&&.html",
+	    "搜索模式": "1", 
+	   "搜索url": "https://haolw27.buzz/hunt/{wd}/h/{pg}.html",
+       "分类url": "https://haolw27.buzz/type/{cateId}/{catePg}.html",
+	    "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/type/&&.html",
+		"跳转播放链接": "var playUrl=\'&&\'",
+        "直接播放": "1",
+         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
+      }},
+ 
+ 
+ 
+ 
  
  
  
