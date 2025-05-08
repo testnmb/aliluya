@@ -399,8 +399,6 @@
  
  
  
- 
- 
      	{"key":"色女儿","name":"👧女儿国👧","type":3,
 	"api":"csp_XBPQ","searchable":1,
 	"quickSearch":1,"filterable":1,"ext":{
@@ -852,6 +850,24 @@
 	    
 	
 	  
+	  
+      {"key":"茄子视频","name":"茄子🍆影视",
+       "type":3,"api":"csp_XBPQ",
+       "searchable":1,
+       "quickSearch":1, "filterable":1,
+       "ext":{"主页url": "https://qiezi.riben.baby/",
+		"数组":"<div class=\"video-item\">&&</a>",
+	  "图片": "data-src=\"&&\"",
+      "标题":"title=\"&&\"",
+       "链接":"href=\"&&\"",
+       "副标题":"<div class=\"duration\">&&</div>",
+	   "搜索url":"https://qiezi.riben.baby/index.php/vod/search.html?wd={wd}",
+       "搜索模式":"1",
+	   "分类url":"https://qiezi.riben.baby/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+      "分类":"国产视频$1#日韩$2#萝莉$20#港台$6#东南亚$26#综艺$27",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1"  }},	
+	   
 	
 	
 	  
