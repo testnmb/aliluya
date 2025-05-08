@@ -4,6 +4,33 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
   
+      {"key": "飞机吧","name": "飞机✈️影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
+	 "图片":"style=\"background-image: url(&&)\"",
+	 "标题": "title=\"&&\"", 
+     "链接": "https://5x.feiji12.shop/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+	"直接播放":"1", 
+	"分类": "少女萝莉$21#视频伦理$22#制服诱惑$25#中文字幕$26#巨乳美乳$27#强奸乱伦$28#熟女人妻$29#步兵专区$31#国产自拍$32",
+	"分类url":"https://5x.feiji12.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+  
+  
+    {"key": "咪咪女孩","name": "咪咪👧女孩",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<li class=\"list-item slick-item\">&&</li>", 
+	"图片": "data-original=\"&&\"", 
+	 "标题": "title=\"&&\"", 
+     "链接": "https://hg.mimigirl12.shop/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+	"直接播放":"1", 
+	"分类": "少女萝莉$21#视频伦理$22#制服诱惑$25#中文字幕$26#巨乳美乳$27#强奸乱伦$28#熟女人妻$29#步兵专区$31#国产自拍$32",
+	"分类url":"https://hg.mimigirl12.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+  
+  
+  
+  
+  
   
       { "key": "青年视频","name": "青年👨影视",
       "type": 3,"api": "csp_XBPQ",
@@ -864,7 +891,7 @@
 	   "搜索url":"https://qiezi.riben.baby/index.php/vod/search.html?wd={wd}",
        "搜索模式":"1",
 	   "分类url":"https://qiezi.riben.baby/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-      "分类":"国产视频$1#日韩$2#萝莉$20#港台$6#东南亚$26#综艺$27",
+      "分类":"国产视频$1#日韩$2#东南亚$26#水果派$27",
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1"  }},	
 	   
