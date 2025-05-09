@@ -365,6 +365,25 @@
       }},
   
      
+	   { "key": "cowmm.com","name": "🌰COWMM🌰",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://cowmm.com/",
+       "数组": "<article id=\"post-&&</article>",
+        "标题":"alt=\"&&\"",
+      "图片": "data-src=\"&&\""
+	    "搜索模式": "1", 
+		"直接播放": "1",
+	   "搜索url": "https://cowmm.com/?s={wd}", 
+       "分类url": "https://cowmm.com/category/{cateId}/page/{catePg}",
+	    "分类": "骑兵$censored#素人$amateur#步兵$uncensored#中文$chinese-subtitles#破解$un-leak#國產$local"
+        
+      }},
+	 
+	 
+	 
   
   
   
