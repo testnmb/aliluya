@@ -3,6 +3,19 @@
  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",   
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
+
+
+     {"key": "国产老司机","name": "司机🔋影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
+	"图片": "data-original=\"&&\"",
+	"标题": "title=\"&&\"", 
+    "链接": "href=\"&&\"",
+	"直接播放":"1", 
+	"分类": "国产传媒$21#国产视频$22#日本骑兵$23#中文字幕$24#步兵专区$27",
+	"分类url":"https://droispod56asjdho46.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+
   
       {"key": "飞机吧","name": "飞机✈️影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
@@ -55,7 +68,7 @@
        "type": 3,"api": "csp_XBPQ",
        "ext": {"主页url": "http://www.bprjt.com/",
         "分类url": "http://www.bprjt.com/{cateId}p{catePg}.html",
-	    "分类":"日本骑兵$t25#中文字幕$t26#灯泡$t27#人妻$t28#不道德$t29#萝莉$t31#制服丝袜$t35#颜🐍$t36#步兵$t37",
+	    "分类":"骑兵$t25#中字$t26#美👀👀$t27#人妻$t28#不道德$t29#萝莉$t31#制服$t35#颜🐍$t36#精品$t37",
 		"数组": "<li class=\"mb15\">&&</li>",
         "标题": "title=\"&&\"",
         "图片": "data-original=\"&&\"",
@@ -70,7 +83,7 @@
        "type": 3,"api": "csp_XBPQ",
        "ext": {"主页url": "http://www.splyjx.com/",
         "分类url": "http://www.splyjx.com/{cateId}p{catePg}.html",
-	    "分类":"日本骑兵$t25#中文字幕$t26#灯泡$t27#人妻$t28#不道德$t29#萝莉$t31#制服丝袜$t35#颜🐍$t36#步兵$t37",
+	    "分类":"骑兵$t25#中字$t26#美👀👀$t27#人妻$t28#不道德$t29#萝莉$t31#制服$t35#颜🐍$t36#精品$t37",
 		"数组": "<li class=\"mb15&&</li>",
         "标题": "title=\"&&\"",
         "图片": "data-original=\"&&\"",
@@ -86,7 +99,7 @@
        "type": 3,"api": "csp_XBPQ",
        "ext": {"主页url": "http://www.hyhspx.com/",
         "分类url": "http://www.hyhspx.com/{cateId}p{catePg}.html",
-	    "分类":"日本骑兵$t25#中文字幕$t26#灯泡$t27#人妻$t28#不道德$t29#萝莉$t31#制服丝袜$t35#颜🐍$t36#步兵$t37",
+	    "分类":"骑兵$t25#中字$t26#美👀👀$t27#人妻$t28#不道德$t29#萝莉$t31#制服$t35#颜🐍$t36#精品$t37",
 		"数组": "<li class=\"mb15&&</li>",
         "标题": "title=\"&&\"",
         "图片": "data-original=\"&&\"",
@@ -414,6 +427,42 @@
        "分类url": "https://www.kiss99.cc/category/{cateId}/page/{catePg}/",
         "分类": "日本同步$jpav#中文字幕$subtitle#台灣女優$twav#台灣自拍$amateur"
       }},
+  
+     
+	 
+	     { "key": "jav777","name": "JAV777💋字幕",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://www.jav777.cc",
+       "数组": "\"post-container\"&&\"post-container\"",
+       "标题": " rel=\"bookmark\">&&</a></h2>",
+       "图片": "src=\"&&\"",
+       "副标题":"class=\"post-date\"><a href=\"*\">&&</a>",
+       "链接": "href=\"&&\"",
+      "直接播放":"1",
+       "分类url": "https://www.jav777.cc/category/{cateId}/page/{catePg}/",
+        "分类": "字幕あり$字幕あり"
+      }},
+  
+  	     { "key": "jav777.cc","name": "JAV777💋最新",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+       "数组": "\"post-container\"&&\"post-container\"",
+       "标题": " rel=\"bookmark\">&&</a></h2>",
+       "图片": "src=\"&&\"",
+       "副标题":"class=\"post-date\"><a href=\"*\">&&</a>",
+       "链接": "href=\"&&\"",
+      "直接播放":"1",
+       "分类url": "https://www.jav777.cc/page/{catePg}/",
+        "分类": "最新$空"
+      }},
+  
+  
   
   
   
