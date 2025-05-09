@@ -373,7 +373,7 @@
       "ext": {"主页url": "https://cowmm.com/",
        "数组": "<article id=\"post-&&</article>",
         "标题":"alt=\"&&\"",
-      "图片": "data-src=\"&&\""
+      "图片": "data-src=\"&&\"",
 	    "搜索模式": "1", 
 		"直接播放": "1",
 	   "搜索url": "https://cowmm.com/?s={wd}", 
