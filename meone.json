@@ -348,6 +348,25 @@
 	"分类url":"https://33.creatchina.com/tag.php?id={cateId}&page={catePg}"
 	}},
   
+    
+	   { "key": "goodav17","name": "🥊正妹全集🥊",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://goodav17.com/",
+       "数组": "\'movie\'&&\'movie\'",
+       "标题":"alt=\"&&\"",
+       "图片": "src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "直接播放":"1",
+       "分类url": "https://goodav17.com/actor/{cateId}/{catePg}/[https://goodav17.com/actor/{cateId}/]",
+        "分类": "波多野結衣$波多野結衣#宇都宮紫苑$宇都宮紫苑#天海翼$天海翼#吉澤明步$吉澤明步"
+      }},
+  
+     
+  
+  
   
   
    
@@ -430,7 +449,7 @@
   
      
 	 
-	     { "key": "jav777","name": "JAV777💋字幕",
+	     { "key": "jav777","name": "JAV777👌字幕",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -446,7 +465,7 @@
         "分类": "字幕あり$字幕あり"
       }},
   
-  	     { "key": "jav777.cc","name": "JAV777💋最新",
+  	     { "key": "jav777.cc","name": "JAV777⛈️最新",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -459,7 +478,7 @@
        "链接": "href=\"&&\"",
       "直接播放":"1",
        "分类url": "https://www.jav777.cc/page/{catePg}/",
-        "分类": "最新$空"
+        "分类": ""
       }},
   
   
