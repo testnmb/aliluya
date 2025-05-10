@@ -349,20 +349,7 @@
 	}},
   
     
-	   { "key": "goodav17","name": "🥊正妹全集🥊",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://goodav17.com/",
-       "数组": "\"movie_image\"&&\"movie_image\"",
-       "标题":"alt=\"&&\"",
-       "图片": "src=\"&&\"",
-       "链接": "href=\"&&\"",
-       "直接播放":"1",
-       "分类url": "https://goodav17.com/actor/{cateId}/{catePg}",
-        "分类": "波多野結衣$波多野結衣#宇都宮紫苑$宇都宮紫苑#天海翼$天海翼#吉澤明步$吉澤明步"
-      }},
+	
   
     
 	 
@@ -484,6 +471,7 @@
 		"播放标题":">&&</",
 		"播放链接":"href=\"&&\"",
 		"嗅探词": "index.m3u8#p.m3u8#.mp4#.m3u8#.flv",
+		  "直接播放":"1",
 		"跳转播放链接": "var player_*url\":\"&&\"",	
 	    "搜索模式":"1",
         "搜索url":"https://motv.app/vodsearch/-------------/?wd={wd}",
@@ -529,7 +517,8 @@
        "标题": "title=\"&&\"",
        "图片": "data-src=\"&&\"",
        "链接": "href=\"&&\"",
-      "直接播放":"1",
+	    "播放数组":"<div id=\"content&&<div class=\"box-server\">",
+      //"直接播放":"1",
        "分类url": "https://hornyjav.com/{cateId}/page/{catePg}/",
         "分类": "actors$actors#studios$studios#骑兵$category/censored#reducing-mosaic$category/reducing-mosaic#english$category/english-subtitle"
       }},
