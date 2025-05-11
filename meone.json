@@ -225,7 +225,7 @@
          "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
       }},
   
-      {"key": "https://javhd.icu/","name": "javhd📚icu/",
+      {"key": "https://javhd.icu/","name": "JAVHD📚ICU",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -240,7 +240,7 @@
       "搜索模式":"1",
     "播放数组":"pagination&&</ul>",
     "播放列表":"<a&&/a>",
-    "播放标题":">&&<",
+    "播放标题":">&&<[不包含:2#3#4#5#下一页]",
     "播放链接":"href=\"&&\"",
     "跳转播放链接": "<iframe src=\"&&\"",
    "分类":"Censored$Censored#censored$uncensored-jav#Uncensored Leaked$uncensored-leaked-xxx#English Subtitles$english-subtitles#Chinese Porn$chinese-porn",
@@ -249,7 +249,53 @@
   
   
 	
+	   {"key": "javopen.co","name": "javopen🌧️co",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "数组": "\"item-img\"&&\"item-img\"",
+      "图片":"src=\"&&\"",
+      "标题":"title=\"&&\"",
+	  "副标题":"<span class=\"date\">&&</span>",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://javopen.co/?s={wd}",
+      "搜索模式":"1",
+    "播放数组":"pagination&&</ul>",
+    "播放列表":"<a&&/a>",
+    "播放标题":">&&<[不包含:2#3#4#5#下一页]",
+    "播放链接":"href=\"&&\"",
+    "跳转播放链接": "<iframe src=\"&&\"",
+   "分类":"JAV Censored$jav-censored#Hot JAV Movies$hot-jav-movies#JAV Uncensored$jav-uncensored#JAV Reupload$Asia Uncensored#Chinese Porn$asia-uncensored-hd",
+   "分类url":"https://javopen.co/{cateId}/page/{catePg}/"
+      }},
+  
+  
 	
+	 
+	 {"key": "javhd.today","name": "javhd🦊today",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "数组": "<li id=\"video-&&</li>",
+      "图片":"src=\"&&\"",
+      "标题":"title=\"&&\"",
+	  "副标题":"<span class=\"left\">&&</span>",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://javhd.today/search/video/?s={wd}",
+      "搜索模式":"1",
+    "播放数组":"<div class=\"button_style\">&&</div>",
+    "播放列表":"<button&&</button>",
+    "播放标题":"</i>&&</span>",
+    "播放链接":"onclick=\"selectServer(this, atob('&&'))\"",
+    "跳转播放链接": "<iframe src=\"&&\"",
+   "分类":"JAV Censored$jav-censored#Hot JAV Movies$hot-jav-movies#JAV Uncensored$jav-uncensored#JAV Reupload$Asia Uncensored#Chinese Porn$asia-uncensored-hd",
+   "分类url":"https://javhd.today/{cateId}/recent/{catePg}/"
+      }},
+  
 	
 	
   
