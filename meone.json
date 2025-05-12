@@ -4,6 +4,26 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+    
+        { "key": "javgg","name": "javgg",
+       "type": 3,"api": "csp_XBPQ",
+       "ext": {"主页url": "https://javgg.net/",
+        "分类url": "https://javgg.net/{cateId}/page/{catePg}/",
+	    "分类":"random$random#uncensored-leak$uncensored-leak#decensored$decensored#censored$censored#chinese-subtitle$chinese-subtitle#english-subtitle$english-subtitle",
+		"数组": "<article id=\"post-&&</article>",
+        "标题": "title=\"&&\"",
+        "图片": "src=\"&&\"",
+		"链接": "href=\"&&\"",
+		 "搜索url":"https://javgg.net/?s={wd}",
+         "搜索模式":"1",
+		"嗅探词":".m3u8#index.m3u8#.m3u8?#.mp4?#.m4a",
+        "直接播放":"1"
+      } },		
+  
+
+
+
+
 
     {"key": "avtoday.io","name": "avtoday☂️io",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
