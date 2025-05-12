@@ -5,6 +5,60 @@
 "sites":[
 
 
+    {"key": "avtoday.io","name": "avtoday☂️io",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "\"thumbnail col\"&&\"thumbnail col\"", 
+	"图片": "src=\"&&\"",
+	"标题": "<div class=\"video-title truncate\">&&</a>", 
+	"副标题": "<div class=\"video-date\">&&</div>",
+    "链接": "href=\"&&\"",
+	"直接播放":"1", 
+	 "跳转播放链接":"<source src=\"&&\"",
+	  "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	 "搜索url":"https://avtoday.io/search?s={wd}",
+     "搜索模式":"1",
+	 
+	"分类": "步兵$無碼#FC2$FC2#中出$中出#絲襪$絲襪#蘿莉$蘿莉#多人$多人#長腿$長腿#巨乳$巨乳#自慰$自慰#素人$素人#潮吹$潮吹#痴女$痴女#熟女$熟女#制服$制服",
+	"分类url":"https://avtoday.io/catalog/{cateId}?page={catePg}"}},
+   
+
+     
+    {"key": "禁片天堂","name": "禁片💗天堂",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "\"col oneVideo\"&&\"col oneVideo\"", 
+	"图片": "src=\"&&\"",
+	"标题": "alt=\"&&\"",
+	"简介": "<div class=\"oneVideo-fotter\">&&</p>",
+    "链接": "href=\"&&\"",
+	"直接播放":"1", 
+	 "搜索url":"https://avtoday.io/search?s={wd}",
+     "搜索模式":"1",
+	"分类": "国产传媒$21#国产视频$22#日本骑兵$23#中文字幕$24#步兵专区$27",
+	"分类url":"https://jptt.tv/list?idx={catePg}&sort={cateId}"}},
+   
+
+
+
+
+
+     {"key": "花丛视频","name": "花丛🔋影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
+	"图片": "data-original=\"&&\"",
+	"标题": "title=\"&&\"", 
+    "链接": "href=\"&&\"",
+	"直接播放":"1", 
+	 "搜索url":"https://hsflog53whudus47.xyz/index.php/vod/search/page/{pg}/wd/{wd}.html",
+     "搜索模式":"1",
+	"分类": "新发行$2#新加入$1#今日🔥$3#本周🔥$4#本月🔥$5#总数🔥$6",
+	"分类url":"https://hsflog53whudus47.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+   
+
+
+
      {"key": "国产老司机","name": "司机🔋影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { 
@@ -267,7 +321,7 @@
     "播放标题":">&&<",
     "播放链接":"href=\"&&\"",
     "跳转播放链接": "<iframe src=\"&&\"",
-	 "直接播放": "1",
+	// "直接播放": "1",
    "分类":"JAV Censored$jav-censored#Hot JAV Movies$hot-jav-movies#JAV Uncensored$jav-uncensored#JAV Reupload$Asia Uncensored#Chinese Porn$asia-uncensored-hd",
    "分类url":"https://javopen.co/{cateId}/page/{catePg}/"
       }},
@@ -288,11 +342,9 @@
       "链接":"href=\"&&\"",
       "搜索url":"https://javhd.today/search/video/?s={wd}",
       "搜索模式":"1",
-    "播放数组":"<div class=\"modal-body\">&&</div>",
-    "播放列表":"<video &&</video >",
-    "播放标题":"",
-    "播放链接":"<source src=\"&&\"",
-    
+      "跳转播放链接":"<source src=\"&&\"",
+     "直接播放": "1",
+	  "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4#.m4a",
    "分类":"JAV Censored$jav-censored#Hot JAV Movies$hot-jav-movies#JAV Uncensored$jav-uncensored#JAV Reupload$Asia Uncensored#Chinese Porn$asia-uncensored-hd",
    "分类url":"https://javhd.today/{cateId}/recent/{catePg}/"
       }},
