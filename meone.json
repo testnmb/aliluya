@@ -8,7 +8,7 @@
     {"key": "avtoday.io","name": "avtoday☂️io",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { 
-	"数组": "\"thumbnail col\"&&\"thumbnail col\"", 
+	"数组": "<div class=\"thumbnail&&</div></div>", 
 	"图片": "src=\"&&\"",
 	"标题": "<div class=\"video-title truncate\">&&</a>", 
 	"副标题": "<div class=\"video-date\">&&</div>",
@@ -33,9 +33,10 @@
 	"简介": "<div class=\"oneVideo-fotter\">&&</p>",
     "链接": "href=\"&&\"",
 	"直接播放":"1", 
-	 "搜索url":"https://avtoday.io/search?s={wd}",
+	 "搜索url":"https://jptt.tv/search?kw={wd}",
      "搜索模式":"1",
-	"分类": "国产传媒$21#国产视频$22#日本骑兵$23#中文字幕$24#步兵专区$27",
+	 "分类": "新发行$2#新加入$1#今日🔥$3#本周🔥$4#本月🔥$5#总数🔥$6",
+	
 	"分类url":"https://jptt.tv/list?idx={catePg}&sort={cateId}"}},
    
 
@@ -43,7 +44,7 @@
 
 
 
-     {"key": "花丛视频","name": "花丛🔋影院",
+     {"key": "花丛视频","name": "花丛🌸影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { 
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
@@ -53,7 +54,7 @@
 	"直接播放":"1", 
 	 "搜索url":"https://hsflog53whudus47.xyz/index.php/vod/search/page/{pg}/wd/{wd}.html",
      "搜索模式":"1",
-	"分类": "新发行$2#新加入$1#今日🔥$3#本周🔥$4#本月🔥$5#总数🔥$6",
+	"分类": "国产传媒$21#国产视频$22#日本骑兵$23#中文字幕$24#步兵专区$27",
 	"分类url":"https://hsflog53whudus47.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
    
 
