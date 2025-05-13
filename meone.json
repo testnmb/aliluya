@@ -759,7 +759,7 @@
 	      "跳转播放链接":"var player_*\"url\":\"&&\"",
 		   "搜索url": "https://boutiquefire.xyz/index.php/vod/search.html?wd={wd}",
 	      "分类url": "https://boutiquefire.xyz/index.php/vod//type/id/{cateId}/page/{catePg}.html",
-		  "排序": "最近更新$time#最受欢迎$hits#最高评分$score",
+		
           "分类": "国产视频$20#中文字幕$21"}},
 
  
