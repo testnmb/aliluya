@@ -706,7 +706,7 @@
   
   
   
-         { "key": "hornyjav","name": "HORNYJAV🚖影视",
+      { "key": "hornyjav","name": "HORNYJAV🚖影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -747,8 +747,27 @@
       }},
  
  
+      {"key": "好莱污A","name": "好莱坞🚽影院A版",
+		   "type": 3,
+		   "api": "csp_XBPQ","ext": {
+           "主页url": "https://boutiquefire.xyz/",
+           "直接播放": "1",
+           "数组": "class=\"colVideoList\">&&</div></div>",
+	      "图片":"style=\"background-image: url('&&')\"",
+          "标题":"<a href=\"*\">&&</a>",
+          "链接": "href=\"&&\"",
+	      "跳转播放链接":"var player_*\"url\":\"&&\"",
+		   "搜索url": "https://boutiquefire.xyz/index.php/vod/search.html?wd={wd}",
+	      "分类url": "https://boutiquefire.xyz/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+		  "排序": "最近更新$time#最受欢迎$hits#最高评分$score"
+          "分类": "国产视频$20#中文字幕$21"}},
+
+ 
+ 
+ 
+ 
     
-      {"key": "好莱污","name": "好莱坞🚽影院",
+      {"key": "好莱污B","name": "好莱坞🚽影院B版",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -774,7 +793,7 @@
  
  
  
-     	{"key":"色女儿","name":"👧女儿国👧","type":3,
+    {"key":"色女儿","name":"👧女儿国👧","type":3,
 	"api":"csp_XBPQ","searchable":1,
 	"quickSearch":1,"filterable":1,"ext":{
       "主页url":"https://wosesenvwo1.sbs/",
@@ -835,9 +854,7 @@
    "搜索模式":"1",
    "搜索url":"https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
    "分类url":"https://69.69avw9.buzz/69/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-    "分类数组": "<a&&</a>",
-    "分类标题": ">&&<",
-    "分类ID": "/69/index.php/vod/show/id/&&.html"}},
+     "分类": "优选$1#传媒$2#AI换脸$3#日韩$76#推荐$79"}},
   
   
   
@@ -1591,7 +1608,7 @@
           "分类": "骑兵$6#国产$4#步兵$5#中文$8#欧美$7"}},
 
 
-
+     
 
 
 
