@@ -68,7 +68,7 @@
 	"副标题": "<div class=\"video-date\">&&</div>",
     "链接": "href=\"&&\"",
 	"直接播放":"1", 
-	 "跳转播放链接": "<iframe*src=\"&&\"",
+	
 	 
 	 "搜索url":"https://avtoday.io/search?s={wd}",
      "搜索模式":"1",
