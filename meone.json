@@ -443,11 +443,8 @@
       "链接":"href=\"&&\"",
       "搜索url":"https://javseen.tv/search/video/?s={wd}",
       "搜索模式":"1",
-       "播放数组":"<div class=\"button_style\">&&</div>",
-      "播放列表":"<button&&/button>",
-      "播放标题":">&&<",
-      "播放链接":"onclick=\"playEmbed('&&')\"",
-	  "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4#.m4a",
+       "跳转播放链接":"<iframe src=\"&&\"",
+     "直接播放": "1",
    "分类":"missav$missav#uncensored$uncensored#chinese-subtitle$chinese-subtitle#reducing-mosaic$reducing-mosaic#Jav Sub$eng-jav-sub",
    "分类url":"https://javseen.tv/{cateId}/recent/{catePg}/"
       }},
