@@ -26,13 +26,13 @@
         "播放链接":"src=\"&&\"",
 		"搜索url":"https://javgg.net/?s={wd}",
 		
-         "搜索模式":"1"
+         "搜索模式":"1",
 		
-        //"直接播放":"1"
+        "直接播放":"1"
       } },		
   
 
-        { "key": "国产情色","name": "老东西🙂影院",
+     { "key": "国产情色","name": "老东西🙂影院",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -67,12 +67,9 @@
 	"标题": "<div class=\"video-title truncate\">&&</a>", 
 	"副标题": "<div class=\"video-date\">&&</div>",
     "链接": "href=\"&&\"",
-	"直接播放":"1", 
-	
-	 
+	"直接播放":"1",
 	 "搜索url":"https://avtoday.io/search?s={wd}",
      "搜索模式":"1",
-	 
 	"分类": "步兵$無碼#FC2$FC2#中出$中出#絲襪$絲襪#蘿莉$蘿莉#多人$多人#長腿$長腿#巨乳$巨乳#自慰$自慰#素人$素人#潮吹$潮吹#痴女$痴女#熟女$熟女#制服$制服",
 	"分类url":"https://avtoday.io/catalog/{cateId}?page={catePg}"}},
    
@@ -433,6 +430,30 @@
   
 	
 	
+     
+	 {"key": "javseen.tv","name": "javseen.tv",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "数组": "<li id=\"video-&&</li>",
+      "图片":"src=\"&&\"",
+      "标题":"title=\"&&\"",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://javseen.tv/search/video/?s={wd}",
+      "搜索模式":"1",
+       "播放数组":"<div class=\"button_style\">&&</div>",
+      "播放列表":"<button&&/button>",
+      "播放标题":">&&<",
+      "播放链接":"onclick=\"playEmbed('&&')\"",
+	  "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4#.m4a",
+   "分类":"missav$missav#uncensored$uncensored#chinese-subtitle$chinese-subtitle#reducing-mosaic$reducing-mosaic#Jav Sub$eng-jav-sub",
+   "分类url":"https://javseen.tv/{cateId}/recent/{catePg}/"
+      }},
+  
+  
+  
   
   
   
@@ -2179,7 +2200,7 @@
 	// "分类ID": "新片日韩AV$20#字幕精选$21#短片国产$22#酥胸外露$23#剧情强暴$24#制服扮演$25#熟女御姐$26#无码转载$27"
 	}},
 
-{"key": "纤纤影视福利版","name": "©️纤纤影视😍版©️","type": 3,"api": "csp_XBPQ","playerType": 1,"searchable": 1,
+{"key": "纤纤影视福利版","name": "©️纤纤影视H版©️","type": 3,"api": "csp_XBPQ","playerType": 1,"searchable": 1,
                 "quickSearch": 1,"filterable": 1,"ext": {
                 "主页url": "https://m.xian372.top/L/26.html",
                 "请求头": "手机",
