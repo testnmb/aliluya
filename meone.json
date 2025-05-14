@@ -400,7 +400,7 @@
     "播放标题":">&&<",
     "播放链接":"href=\"&&\"",
     "跳转播放链接": "<iframe src=\"&&\"",
-	// "直接播放": "1",
+	 "直接播放": "1",
    "分类":"JAV Censored$jav-censored#Hot JAV Movies$hot-jav-movies#JAV Uncensored$jav-uncensored#JAV Reupload$Asia Uncensored#Chinese Porn$asia-uncensored-hd",
    "分类url":"https://javopen.co/{cateId}/page/{catePg}/"
       }},
@@ -424,7 +424,7 @@
       "跳转播放链接":"<source src=\"&&\"",
      "直接播放": "1",
 	  "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4#.m4a",
-   "分类":"JAV Censored$jav-censored#Hot JAV Movies$hot-jav-movies#JAV Uncensored$jav-uncensored#JAV Reupload$Asia Uncensored#Chinese Porn$asia-uncensored-hd",
+   "分类":"JAV Censored$jav-censored#Hot JAV Movies$hot-jav-movies#JAV Uncensored$jav-uncensored#JAV Reupload$Asia Uncensored#Chinese Porn$asia-uncensored-hd#missav$missav",
    "分类url":"https://javhd.today/{cateId}/recent/{catePg}/"
       }},
   
@@ -445,7 +445,7 @@
       "搜索模式":"1",
        "跳转播放链接":"<iframe src=\"&&\"",
      "直接播放": "1",
-   "分类":"missav$missav#uncensored$uncensored#chinese-subtitle$chinese-subtitle#reducing-mosaic$reducing-mosaic#Jav Sub$eng-jav-sub",
+   "分类":"playlists$playlists#chinese-subtitle$chinese-subtitle#reducing-mosaic$reducing-mosaic#Jav Sub$eng-jav-sub",
    "分类url":"https://javseen.tv/{cateId}/recent/{catePg}/"
       }},
   
