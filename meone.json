@@ -5,6 +5,24 @@
 "sites":[
 
    
+   
+     
+    {"key": "supjav.com","name": "supjav🆚com",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<div class=\"post\">&&</div></div>", 
+	 "标题": "title=\"&&\"",
+      "图片": "data-original=\"&&\"", 
+	"副标题": "<div class=\"meta\">&&<",
+    "链接": "href=\"&&\"",
+	"直接播放":"1",
+	 "搜索url":"https://supjav.com/zh/?s={wd}",
+     "搜索模式":"1",
+	"分类": "热门$popular#骑兵$category/censored-jav#步兵$category/uncensored-jav#素人$category/amateur#中文字幕$category/chinese-subtitles#破解$category/reducing-mosaic#英文字幕$category/english-subtitles",
+	"分类链接": "https://supjav.com/zh/{cateId}/page/{catePg}?sort={by}"}},
+   
+   
+     
 
 
 
