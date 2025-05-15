@@ -10,7 +10,7 @@
     {"key": "supjav.com","name": "supjav🆚com",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { 
-	"数组": "<div class=\"post\">&&</div></div>", 
+	"数组": "\"post\"&&\"post\"", 
 	 "标题": "title=\"&&\"",
       "图片": "data-original=\"&&\"", 
 	"副标题": "<div class=\"meta\">&&<",
