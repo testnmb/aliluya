@@ -6,22 +6,7 @@
 
    
    
-     
-    {"key": "supjav.com","name": "supjav🆚com",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "\"post\"&&\"post\"", 
-	 "标题": "title=\"&&\"",
-      "图片": "data-original=\"&&\"", 
-	"副标题": "<div class=\"meta\">&&<",
-    "链接": "href=\"&&\"",
-	"直接播放":"1",
-	 "搜索url":"https://supjav.com/zh/?s={wd}",
-     "搜索模式":"1",
-	"分类": "热门$popular#骑兵$category/censored-jav#步兵$category/uncensored-jav#素人$category/amateur#中文字幕$category/chinese-subtitles#破解$category/reducing-mosaic#英文字幕$category/english-subtitles",
-	"分类链接": "https://supjav.com/zh/{cateId}/page/{catePg}"}},
-   
-   
+ 
      
 
 
@@ -36,16 +21,9 @@
         "标题": "title=\"&&\"",
         "图片": "src=\"&&\"",
 		"链接": "href=\"&&\"",
-		"线路数组":"<div class=\"dooplay_player\">&&</ul>",
-        "线路标题":"class=\"title\">&&</span>",
-        "播放数组":"<div class=\"dooplay_player\">&&</ul>",
-		"播放列表":"<iframe&&</iframe>",
-        "播放标题":"",
-        "播放链接":"src=\"&&\"",
+		"跳转播放链接": "<iframe*src=\"&&\"",
 		"搜索url":"https://javgg.net/?s={wd}",
-		
          "搜索模式":"1",
-		
         "直接播放":"1"
       } },		
   
@@ -80,8 +58,8 @@
     {"key": "avtoday.io","name": "avtoday☂️io",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { 
-	"数组": "<div class=\"thumbnail&&</div></div>", 
-	"图片": "src=\"&&\"",
+	"数组": "\"thumbnail col\"&&\"thumbnail col\"", 
+	"图片": "src=\"https://avtoday.io/pic/&&\",
 	"标题": "<div class=\"video-title truncate\">&&</a>", 
 	"副标题": "<div class=\"video-date\">&&</div>",
     "链接": "href=\"&&\"",
