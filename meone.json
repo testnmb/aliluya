@@ -4,6 +4,26 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+   
+   
+     
+    {"key": "supjav.com","name": "supjav🆚com",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "\"post\"&&\"post\"", 
+	 "标题": "title=\"&&\"",
+      "图片": "data-original=\"&&\"", 
+	"副标题": "<div class=\"meta\">&&<",
+    "链接": "href=\"&&\"",
+	"直接播放":"1",
+	 "搜索url":"https://supjav.com/zh/?s={wd}",
+     "搜索模式":"1",
+	"分类": "热门$popular#骑兵$category/censored-jav#步兵$category/uncensored-jav#素人$category/amateur#中文字幕$category/chinese-subtitles#破解$category/reducing-mosaic#英文字幕$category/english-subtitles",
+	"分类链接": "https://supjav.com/zh/{cateId}/page/{catePg}"}},
+   
+   
+     
+
 
 
     
@@ -422,8 +442,8 @@
       "跳转播放链接":"<iframe src=\"&&\"",
      "直接播放": "1",
 	  "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4#.m4a",
-   "分类":"JAV Censored$jav-censored#Hot JAV Movies$hot-jav-movies#JAV Uncensored$jav-uncensored#JAV Reupload$Asia Uncensored#Chinese Porn$asia-uncensored-hd#missav$missav#beautiful-girl$beautiful-girl#squirting$squirting",
-   "分类url":"https://javhd.today/{cateId}/recent/{catePg}/"
+   "分类":"releaseday$releaseday#recent$recent#popular/today$popular/today#popular/week$popular/week",
+   "分类url":"https://javhd.today/{cateId}/{catePg}/"
       }},
   
 	
@@ -434,8 +454,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-      "数组": "\"video\"&&\"video\"",
+      "ext": {  "数组": "<li id=\"video-&&</li>",
+      //"数组": "\"video\"&&\"video\"",
       "图片":"src=\"&&\"",
       "标题":"title=\"&&\"",
       "链接":"href=\"&&\"",
