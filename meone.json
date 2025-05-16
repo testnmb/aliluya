@@ -60,10 +60,10 @@
 	"ext": { 
 	"数组": "\"thumbnail col\"&&\"thumbnail col\"", 
 	 "图片":"src=\"&&\"",
-	
 	"标题": "<div class=\"video-title truncate\">&&</a>", 
 	"副标题": "<div class=\"video-date\">&&</div>",
     "链接": "href=\"&&\"",
+	"跳转播放链接": "<iframe*src=\"&&\"",
 	"直接播放":"1",
 	 "搜索url":"https://avtoday.io/search?s={wd}",
      "搜索模式":"1",
