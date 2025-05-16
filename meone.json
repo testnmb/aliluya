@@ -60,7 +60,7 @@
 	"ext": { 
 	"数组": "\"thumbnail col\"&&\"thumbnail col\"", 
 	 "图片":"src=\"&&\"",
-	"图片链接前缀":"https://avtoday.io/pic/",
+	
 	"标题": "<div class=\"video-title truncate\">&&</a>", 
 	"副标题": "<div class=\"video-date\">&&</div>",
     "链接": "href=\"&&\"",
