@@ -17,12 +17,8 @@
       "链接":"href=\"&&\"",
       "搜索url":"https://javleak.com/?s={wd}",
       "搜索模式":"1",
-
-    "播放数组":"<ul class=\"idTabs\">&&</ul>",
-    "播放列表":"<a&&/a>",
-    "播放标题":">&&<",
-    "播放链接":"href=\"&&\"",
     "跳转播放": "<iframe src=\"&&\"",
+	   "直接播放":"1",
    "分类":"attacker$attacker#madonna$madonna#oppai$oppai#dasutsu$dasutsu#hunter$hunter#venus$venus",
    "分类url":"https://javleak.com/director/{cateId}/page/{catePg}/"
       }},
