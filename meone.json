@@ -1052,7 +1052,34 @@
 	"分类url":"https://junmatv.com/vodtype/{cateId}-{catePg}.html"}},
 	
  
-    
+    	 {"key": "12av","name": "🌁十二┃影视🌁",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://www.12av.me/",
+       "数组":"<div class=\"col-style d-4 m-2 lazy loaded\">&&</div></a></div>",
+       "图片":"src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	    "副标题": "<span class=\"number\">&&</span>",
+	   "播放数组":">线路选择：&&<section class=\"sectionContent below_path_content\">",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://www.12av.me/vodsearch/{wd}/page/{pg}.html",
+		  "搜索后缀":"/vodplay/",
+       "分类url": "https://www.12av.me/vodtype/{cateId}-{catePg}.html",
+        "分类": "步兵$11#骑兵$10#🀄️字$14#madou$9#制服$23#萝莉$25#美乳$20#熟女$24#探花$4#强伦$21"
+      }},
+	
+	
+	
+	
+	
+	
+	
 	
   
    
