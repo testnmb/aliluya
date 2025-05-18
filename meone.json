@@ -1052,7 +1052,7 @@
 	"分类url":"https://junmatv.com/vodtype/{cateId}-{catePg}.html"}},
 	
  
-    	 {"key": "12av","name": "🌁十二┃影视🌁",
+    	 {"key": "12av","name": "十二🦎影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -1063,7 +1063,7 @@
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
 	    "副标题": "<span class=\"number\">&&</span>",
-		 "线路数组":">线路选择：&&<section class=\"sectionContent below_path_content\">",
+		"线路数组":">线路选择：&&<section class=\"sectionContent below_path_content\">",
 	   "播放数组":">线路选择：&&<section class=\"sectionContent below_path_content\">",
 	   "播放列表": "<a&&a>",
 	   "播放标题": ">&&</",
@@ -1072,9 +1072,30 @@
         "搜索url":"https://www.12av.me/vodsearch/{wd}/page/{pg}.html",
 		  "搜索后缀":"/vodplay/",
        "分类url": "https://www.12av.me/vodtype/{cateId}-{catePg}.html",
-        "分类": "步兵$11#骑兵$10#🀄️字$14#madou$9#制服$23#萝莉$25#美乳$20#熟女$24#探花$4#强伦$21"
+        "分类": "步兵$11#骑兵$10#🀄️字$14#madou$9#制服$23#萝莉$25#美乳$20#熟女$24#探花$4#不道德$21#绿帽$6#颜色$29#国产学生$33"
       }},
 	
+	    {"key": "光棍影院","name": "光棍🎦影院",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://www.ggyy.app",
+       "数组":"<section class=\"item-box\">&&</a>",
+       "图片":"src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	   "副标题": "<small>&&</small>",
+	   "播放数组":"<div class=\"v_con_box\">&&</div>",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	
+        "搜索url":"https://www.ggyy.app/vodsearch/{wd}/page/{pg}.html",
+		
+       "分类url": "https://www.ggyy.app/vodtype/{cateId}-{catePg}.html",
+        "分类": "步兵$23#骑兵$20#🀄️字$25#国产精品$2#制服$31#人妻$9#美乳$32#熟女$34#萝莉$35#强伦$33#欧美三级$29#韩国三级$27"
+      }},
 	
 	
 	
