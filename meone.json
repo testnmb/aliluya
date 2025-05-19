@@ -26,48 +26,10 @@
    "分类url":"https://javleak.com/director/{cateId}/page/{catePg}/"
       }},
  
- 
-      {"key":"AvHentai","name":"🎬AvHentai🎬",
-     "type":3, "api":"csp_XBPQ","searchable":1,
-    "quickSearch":1, "filterable":1,
-    "ext":{"数组":"\"stui-vodlist__box\"&&\"stui-vodlist__box\"",
-	"发布页":"https://www.firsthentai.cc",
-	 "图片": "data-original=\"&&\"",
-     "标题":"title=\"&&\"",
-    "副标题":"<p>&&</p>",
-    "简介":"description\" content=\"&&剧情",
-	"线路数组": "<ul class=\"tab-top play-tab clearfix\">&&</ul>",
-	"线路标题": ">&&</a>",
-	"播放数组": "<ul class=\"stui-play__list sort-list clearfix\">&&</ul>",
-    "播放列表": "<a&&a>",
-	"播放标题": ">&&</",
-	"播放链接": "href=\"&&\"",
-   "搜索模式":"1",
-   "搜索url":"https://www.avhentai.xyz/vodsearch/-------------.html?wd={wd}&submit=",
-   "分类url":"https://www.avhentai.xyz/vodshow/{cateId}--{by}---{letter}---{catePg}---.html",
-   "分类":"乳乳$11#中文字幕$19#制服$14#人妻$12#不道德$10#解说$128翘臀$815#骑兵$120#明星$18#颜色$133#探花$124"
-   }},
- 
+
  
     
-    {"key":"av嗨嗨岛","name":"嗨嗨岛👀影视",
-     "type":3, "api":"csp_XBPQ","searchable":1,
-    "quickSearch":1, "filterable":1,
-    "ext":{"数组":"item\">&&</div></div>",
-	"发布页":"发布网址回家不迷路:https://www.hihidao.cc",
-	 "图片": "data-src=\"&&\"",
-     "标题":"title=\"&&\"",
-    "副标题":"</i>&&</span>",
-    "简介":"description\" content=\"&&剧情",
-	"播放数组": "<div class=\"itemplay\">>&&</div>",
-    "播放列表": "<a&&a>",
-	"播放标题": ">&&</",
-	"播放链接": "href=\"&&\"",
-   "搜索模式":"1",
-   "搜索url":"https://www.hihidao.com/vodsearch/-------------.html?wd={wd}",
-   "分类url":"https://www.hihidao.com/vodsearch/---{cateId}-------{catePg}---.html",
-   "分类":"最新$time#热门$hits#点赞$up#评分$score"
-   }},
+ 
      
   
 
