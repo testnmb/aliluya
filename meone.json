@@ -5,6 +5,31 @@
 "sites":[
 
    
+      
+    { "key": "岛国视频","name": "岛国📱专属",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://q_kd_w.daoguoav.top/",
+       "数组": "class=\"video-pic loading\"&&</a>",
+       "标题": "title=\"&&\"",
+       "图片": "data-original=\"&&\"",
+       "副标题": "subtitle text-time text-overflow\">&&<",
+       "链接": "/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
+       "直接播放":"1",
+	   "搜索模式": "1", 
+	   "搜索url": "https://q_kd_w.daoguoav.top/index.php/vod/search.html?wd={wd}",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+       "分类url": "https://q_kd_w.daoguoav.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "综合$24#🀄️字$23#步兵$25#人妻$26#传媒$27#乳乳$28"
+      }},
+   
+   
+   
+   
+   
+   
       {"key": "javleak.com","name": "javleak🛀com",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
@@ -24,7 +49,49 @@
       }},
  
  
+      {"key":"AvHentai","name":"🎬AvHentai🎬",
+     "type":3, "api":"csp_XBPQ","searchable":1,
+    "quickSearch":1, "filterable":1,
+    "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
+	 "图片": "data-original=\"&&\"",
+     "标题":"title=\"&&\"",
+    "副标题":"<p>&&</p>",
+    "简介":"description\" content=\"&&剧情",
+	"线路数组": "<ul class=\"tab-top play-tab clearfix\">&&</ul>",
+	"线路标题": ">&&</a>",
+	"播放数组": "<ul class=\"stui-play__list sort-list clearfix\">&&</ul>",
+    "播放列表": "<a&&a>",
+	"播放标题": ">&&</",
+	"播放链接": "href=\"&&\"",
+   "搜索模式":"1",
+   "搜索url":"https://www.firsthentai.com/vodsearch/-------------.html?wd={wd}&submit=",
+   "分类url":"https://www.firsthentai.com/vodtype/{cateId}-{catePg}.html;;z",
+    "分类数组": "<a&&/a>",
+     "分类标题": ">&&<",
+     "分类ID": "https://www.firsthentai.com/vodtype/&&.html"
+   //"分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码精选$27#动漫卡通$28#换脸系列$29#欧美大片$30"
+   }},
  
+ 
+    
+    {"key":"av嗨嗨岛","name":"嗨嗨岛👀影视",
+     "type":3, "api":"csp_XBPQ","searchable":1,
+    "quickSearch":1, "filterable":1,
+    "ext":{"数组":"item\">&&</div></div>",
+	"发布页":"发布网址回家不迷路:https://www.hihidao.cc",
+	 "图片": "data-src=\"&&\"",
+     "标题":"title=\"&&\"",
+    "副标题":"</i>&&</span>",
+    "简介":"description\" content=\"&&剧情",
+	"播放数组": "<div class=\"itemplay\">>&&</div>",
+    "播放列表": "<a&&a>",
+	"播放标题": ">&&</",
+	"播放链接": "href=\"&&\"",
+   "搜索模式":"1",
+   "搜索url":"https://www.hihidao.com/vodsearch/-------------.html?wd={wd}",
+   "分类url":"https://www.hihidao.com/vodtype/{cateId}-{catePg}.html;;z",
+   "分类":"精品哦$1#国产精品$2#高清步兵$3#欧美哦$4"
+   }},
      
   
 
@@ -1016,6 +1083,10 @@
 	"搜索url": "https://shayug.shayusp.fun/search/{wd}----------1---.html",
 	"搜索后缀":"/play/",  
 	"分类url":"https://shayug.shayusp.fun/mv/{cateId}-{catePg}.html"}},
+	
+	
+	
+
 	
 	
 	
