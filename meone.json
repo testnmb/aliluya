@@ -679,7 +679,7 @@
       }},
   
  
-  
+    
   
   
   
@@ -788,7 +788,7 @@
            "直接播放": "1",
            "数组": "\"colVideoList\"&&\"colVideoList\"",
 	      "图片":"style=\"background-image: url('&&')\"",
-          "标题":">&&</a>",
+          "标题":"class=\"title text-sub-title mt-2 mb-3*>&&</a>",
           "链接": "href=\"&&\"",
 	      "跳转播放链接":"var player_*\"url\":\"&&\"",
 		   "搜索url": "https://boutiquefire.xyz/index.php/vod/search.html?wd={wd}",
