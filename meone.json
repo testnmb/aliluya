@@ -36,10 +36,10 @@
     
     "请求头": "User-Agent$MOBILE_UA",
     "主页url": "https://www.wulangys.top/",
-    "数组": " <li class=\"content-item\">&&</li>",
+    "数组": "class=\"video-pic loading\"&&</a>",
     "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
     "直接播放": "1",
-    "图片": "data-original=\"&&\"",
+    "图片": " class=\"content-img lazy\" data-original=\"&&\"",
     "标题":"title=\"&&\"",
     "副标题": "🍁",
     "简介": "description\" content=\"&&\"",
