@@ -679,38 +679,7 @@
   
   
   
-      {"key": "24HJAV","name": "24HJ🍇影视",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { "主页url": "https://24hjav.com/", 
-	 "数组": "\"video-thumb\"&&\"video-thumb\"",
-	 "图片": "src=\"&&\"",
-     "标题":"alt=\"&&\"",
-	"副标题": "<div class=\"video-duration\">&&</div>", 
-	"简介": "description\" content=\"&&\"",  
-	 "链接": "href=\"&&\"",
-	  "跳转播放链接": "<iframe*src=\"&&\"",
-	   "直接播放":"1",
-	"分类":"骑兵$676#步兵$677#中字$679#FC2-PPV$680", 
-	"搜索模式": "1", 
-	"搜索url": "https://24hjav.com/search?keyword={wd}",
-	"分类url":"https://24hjav.com/videos/category/{cateId}?page_id={catePg}"
-	}},
-  
-   
-    { "key": "popjav","name": "POPJAV☀️影视",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1, "quickSearch": 1,"filterable": 1,
-      "ext": {"主页url": "https://popjav.in/",
-       "数组": "<a&&</span></a>",
-       "标题": "alt=\"&&\"",
-       "图片": "src=\"&&\"",
-       "副标题": "<div class=\"post-list-time\">&&</div>",
-       "链接": "href=\"&&\"",
-	   "直接播放":"1",
-       
-       "分类url": "https://popjav.in/{cateId}/page/{catePg}/",
-        "分类": "PLAYLIST$playlist#CENSORED$censored#UNCENSORED$uncensored#AMATURE$amature"
-      }},
+    
   
      
     { "key": "kiss99","name": "KISS99💋影视",
@@ -769,7 +738,7 @@
 		//"播放标题":">&&</",
 		//"播放链接":"href=\"&&\"",
 		"嗅探词": "index.m3u8#p.m3u8#.mp4#.m3u8#.flv",
-		 // "直接播放":"1",
+		  "直接播放":"1",
 		//"跳转播放链接": "var player_*url\":\"&&\"",	
 	    "搜索模式":"1",
         "搜索url":"https://motv.app/vodsearch/-------------/?wd={wd}",
