@@ -4,7 +4,32 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
-   {"key":"csp_XYQHiker_91","name": "🔞91手机(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/91手机.json","style": {"type": "rect","ratio": 1.6}},
+     {"key": "Niceav","name": "nice🍅影视",
+            "type": 3,"changeable": 1,
+            "searchable": 1,"quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext":{
+            "直接播放":"1",
+            "搜索模式":"1",
+            "搜索url":"/index.php/vod/search/wd/{wd}",
+            "数组":"<div class=\"img-box cover-md\">&&</h6>",
+            "图片":"data-src=\"&&\"",
+            "标题":"class=\"title\">&&</a>",
+            "链接":"href=\"&&\"",
+            "链接前缀":"https://www.nice10415.cyou/",
+            "播放数组":"<h6&&</h6>",
+            "播放列表":"<a&&/a>",
+            "播放标题":">&&<",
+            "播放链接":"href=\"&&\"",
+            "分类":"中字$1#骑兵$2#步兵$3#解说$4#黑丝$6#swag$7#探花$11#传媒$14#素人$15",
+            "分类url":"https://www.nice10415.cyou/index.php/vod/show/by/{pg}/id/{cateId}/page/{catePg}.html",
+            "免嗅":"0",
+            "嗅探词":".m3u8#.mp4"
+            //"页面代理":"127.0.0.1:10072"
+             }},
+	
+
 
 
 
