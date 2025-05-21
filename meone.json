@@ -4,21 +4,7 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
-      {"key": "91手机视频","name": "91手机📱影院",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "<a href=\"/play/&&class=\"module-item\">&&</a>", 
-	"图片": "src=\"&&\"", 
-	  "标题": "<div class=\"module-item-titlebox\">&&</div>", 
-	"副标题": "class=\"time\">&&</span>", 
-	 "链接": "href=\"&&\"",
-	"搜索模式": "1", 
-	 "分类数组": "<a&&</a>",
-     "分类标题": ">&&<",
-     "分类ID": "/type/&&.html",
-	 "直接播放":"1",
-	"搜索url": "https://sjmv.shouji91.fun/vodsearch/{wd}----------1---.html",
-	"分类url":"https://sjmv.shouji91.fun/type/{cateId}-{catePg}.html"}},
+   {"key":"csp_XYQHiker_91","name": "🔞91手机(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/91手机.json","style": {"type": "rect","ratio": 1.6}},
 
 
 
