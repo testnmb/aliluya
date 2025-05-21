@@ -4,7 +4,7 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
    
-     {"key": "Niceav","name": "nice🍅影视",
+     {"key": "Niceav","name": "nice🎈papa",
             "type": 3,"changeable": 1,
             "searchable": 1,"quickSearch": 1,
             "filterable": 1,
@@ -30,13 +30,26 @@
              }},
 	
 
-       
-  
-  
+      {"key": "奔跑吧","name": "🏃‍♀️奔跑吧🏃‍♀️",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"发布url": "https://www.rundizhi.sbs/",
+      "数组": "\"thumb-block\"&&\"thumb-block\"",
+      "图片":"src=\"&&\"",
+      "标题":"alt=\"&&\"",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://www.runtv3.cc/search/?k={wd}",
+	   "直接播放":"1",
+   "分类":"国产$国产#日本$日本#中文$中文#无码$无码#萝莉$萝莉#制服$制服#巨乳$巨乳#女仆$女仆#黑丝$黑丝#白丝$白丝#中出$中出",
+   "分类url":"https://www.runtv3.cc/search/?k={cateId}&p={catePg}"
+      }},
+ 
 
 
    
-       { "key": "小米酥妻","name": "小米✅酥妻",
+       { "key": "小米酥妻","name": "小米🍚酥妻",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1, "quickSearch": 1,
       "filterable": 1,
@@ -1902,7 +1915,10 @@
                 "分类url": "https://soav888.cfd/{cateId}/page/{catePg}/?filter={by};;z",
                 "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"}},
  
-{"key": "NiceAv1","name": "🥔Nice😍-A","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
+     {"key": "NiceAv1","name": "🥔Nice😍-A",
+     "type": 3,"api": "csp_XBPQ",
+      "style": {"type": "rect","ratio": 1.5}, 
+	  "ext": { "地址发布url": "https://fuliwz.neocities.org/niceav/",
         "主页url": "https://www.nicetv820.cyou/",
         "图片": "data-src=\"&&\"",
         "简介": "⚠️慢点撸，皮要掉了！！！",
