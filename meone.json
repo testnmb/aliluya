@@ -37,7 +37,7 @@
     "请求头": "User-Agent$MOBILE_UA",
     "主页url": "https://www.wulangys.top/",
     "数组": "class=\"video-pic loading\"&&</a>",
-    "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
+    "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
     "直接播放": "1",
     "图片": " class=\"content-img lazy\" data-original=\"&&\"",
     "标题":"title=\"&&\"",
