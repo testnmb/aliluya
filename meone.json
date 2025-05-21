@@ -7,7 +7,7 @@
       {"key": "91手机视频","name": "91手机📱影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { 
-	"数组": "<a href=\"/play/&&</a>", 
+	"数组": "<a href=\"/play/&&class=\"module-item\">&&</a>", 
 	"图片": "src=\"&&\"", 
 	  "标题": "<div class=\"module-item-titlebox\">&&</div>", 
 	"副标题": "class=\"time\">&&</span>", 
