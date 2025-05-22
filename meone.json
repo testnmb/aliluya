@@ -769,23 +769,7 @@
   
   
   
-  
-      { "key": "hornyjav","name": "HORNYJAV🚖影视",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://hornyjav.com/",
-       "数组": "<article data-video-uid=&&</article>",
-       "标题": "title=\"&&\"",
-       "图片": "data-src=\"&&\"",
-       "链接": "href=\"&&\"",
-	   "直接播放":"1",
-       "二次跳转播放":"1",
-       "分类url": "https://hornyjav.com/{cateId}/page/{catePg}/",
-        "分类": "actors$actors#studios$studios#骑兵$category/censored#reducing-mosaic$category/reducing-mosaic#english$category/english-subtitle"
-      }},
-  
+
   
   
       {"key": "Diva在线","name": "🪁Diva在线🪁",
