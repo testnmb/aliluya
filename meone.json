@@ -725,7 +725,7 @@
       "ext": {"主页url": "https://motv.app",
        "数组":"<div class=\"movie-list-item\">&&</a>",
 		"图片": "data-original=\"&&\"",
-       "链接": "href=\"/vodplay/&&.html\"", 
+       "链接": "href=\"&&\"",
        "标题": "title=\"&gt;&&\"",
 	   "线路数组":"swiper-wrapper\"&&</div",
 	   "线路标题": "💢简影👉+>&&</",
