@@ -23,16 +23,15 @@
 			麻豆传媒$麻豆传媒#无码专区$无码专区#熟女人妻$熟女人妻#强奸乱伦$强奸乱伦#巨乳美乳$巨乳美乳#中文字幕$中文字幕#制服诱惑$制服诱惑#国产自拍$国产自拍#萝莉少女$萝莉少女#多人群交$多人群交#女优明星$女优明星#三级伦理$三级伦理",
     
 	"排序": "时间$time#人气$hits#评分$score",
-	"线路二次截取":"<ul class=\"item\">&&</ul>",
-	 "线路数组":"data-toggle=\"tab\"&&/a>",
+	"线路二次截取":"<ul class=\"nav&&</ul>",
+	 "线路数组":"data-toggle=\"tab\">&&/a>",
      "线路名标题":">&&<",
     "播放数组":"<ul class=\"myui-content__list&&</ul>",
     "播放列表":"<a&&/a>",
     "播放标题":">&&<",
     "播放链接":"href=\"&&\"",
     "跳转播放": "<iframe src=\"&&\"",
-   //"分类url": "https://javhuge.com/vod/show/by/{by}/class/{class}/id/{cateId}/letter/{letter}/page/{catePg}/"
-   "分类url": "https://javhuge.com/vod/show/by/{by}/class/{class}/id/{cateId}/page/{catePg}/"
+   "分类url": "https://javhuge.com/vod/show/by/{by}/class/{class}/id/{cateId}/letter/{letter}/page/{catePg}/"
    }},
 	
 
@@ -67,8 +66,9 @@
     "剧情": "国产视频$国产视频#无码中文字幕$无码中文字幕#有码中文字幕$有码中文字幕#日本有码$日本有码#日本无码$日本无码||亚洲无码$亚洲无码#亚洲有码$亚洲有码#中文字幕$中文字幕#人妻熟女$人妻熟女||日本AV$日本AV",
     
 	"排序": "时间$time#人气$hits#评分$score",
-	 "线路数组":"<a href=\"#player1&&/a>",
-     "线路名标题":">&&<",
+	"线路二次截取":"<ul class=\"nav&&</ul>",
+	 "线路数组":"data-toggle=\"tab\">&&a>",
+     "线路名标题":">&&</",
     "播放数组":"<ul class=\"myui-content__list&&</ul>",
     "播放列表":"<a&&/a>",
     "播放标题":">&&<",
