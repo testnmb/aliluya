@@ -3,6 +3,27 @@
  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",   
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
+
+
+      {"key": "蜜桃视频","name": "蜜桃🍑视频",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "数组": "\"item\"&&\"item\"",
+     "图片":"src=\"&&\"",
+      "标题":"alt=\"&&\"",
+	  "副标题":"<em>&&</em>",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://mtav.art/vod/search.html?wd={wd}",
+	   "直接播放":"1",
+     "分类":"视频一区$1#视频二区$2#视频三区$3",
+      "分类url":"https://mtav.art/vod/show/id/{cateId}/page/{catePg}",
+      }},
+ 
+
+
    
      {"key": "Niceav","name": "nice🎈papa",
             "type": 3,"changeable": 1,
