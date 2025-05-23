@@ -14,16 +14,17 @@
 	 "图片":"data-original=\"&&\"",
     "标题": "title=\"&&\"",
     "简介": "description\"*content=\"&&",
+	   "直接播放":"1",
     "链接":"https://javhuge.com/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
     "搜索模式": "1",
     "搜索url": "https://javhuge.com/vod/search/?wd={wd}&submit=",
     "分类": "视频1️⃣区$1#视频2️⃣区$2#视频3️⃣区$3#视频4️⃣区$4#视频5️⃣区$5",
-   
+    "跳转播放": "<iframe src=\"&&\"",
    "分类url": "https://javhuge.com/vod/show/by/{by}/class/{class}/id/{cateId}/letter/{letter}/page/{catePg}/"
    }},
 	
 
-
+ 
 
     {"key":"javroot.com","name":"🍈javroot🍈",
 	"type":3,"api":"csp_XBPQ",
@@ -34,6 +35,7 @@
     "标题": "alt=\"&&\"",
     "简介": "description\"*content=\"&&",
     "链接":"https://javroot.com/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+	
     "搜索模式": "1",
     "搜索url": "https://javroot.com/vod/search/page/1/wd/{wd}/",
 	"分类":"视频一区$22#视频二区$23",
