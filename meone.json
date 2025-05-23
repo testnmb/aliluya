@@ -19,9 +19,9 @@
     "搜索url": "https://javhuge.com/vod/search/?wd={wd}&submit=",
     "分类": "视频1️⃣区$1#视频2️⃣区$2#视频3️⃣区$3#视频4️⃣区$4#视频5️⃣区$5",
 	"线路二次截取":"<ul class=\"item\">&&</ul>",
-	"线路数组":"href=\"#player&&</li>",
-    "线路标题":">&&</a>",
-    "播放数组":"<ul class=\"myui-content__list playlist clearfix&&</ul>",
+	 "线路数组":"data-toggle=\"tab\"&&/a>",
+     "线路名标题":">&&<",
+    "播放数组":"<ul class=\"myui-content__list&&</ul>",
     "播放列表":"<a&&/a>",
     "播放标题":">&&<",
     "播放链接":"href=\"&&\"",
@@ -32,7 +32,7 @@
 
  
 
-    {"key":"javroot.com","name":"🍈javroot🍈",
+    {"key":"javroot.com","name":"🍈艾薇影院🍈",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
     "主页url": "https://javroot.com/",
@@ -50,7 +50,28 @@
    }},
 	
 
-
+      {"key": "javzz.com","name": "javzz🐝com",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "数组": "\"item-thumbnail\"&&\"item-thumbnail\"",
+     "图片":"data-src=\"&&\"",
+      "标题":"alt=\"&&\"",
+	  "副标题":"class=\"ml6\">&&</span>",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://javzz.com/vod/search.html?wd={wd}",
+	   "直接播放":"1",
+    "分类":"视频一区$1#视频二区$2",
+    "类型": "骑兵有码$骑兵有码#步兵无码$步兵无码#金发幼齿$金发幼齿#三级剧情$三级剧情#名优中字不更新$名优中字#无码破解$无码破解||亚洲无码$亚洲无码#亚洲🈶️码$亚洲有码#中文字幕$中文字幕#日本精品$日本精品",
+   "分类url": "https://javzz.com/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
+      }},
+ 
+	
+	
+	
+	
 
       {"key": "蜜桃视频","name": "蜜桃🍑视频",
       "type": 3,"api": "csp_XBPQ",
