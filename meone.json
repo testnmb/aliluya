@@ -19,7 +19,7 @@
       "搜索url":"https://mtav.art/vod/search.html?wd={wd}",
 	   "直接播放":"1",
      "分类":"视频一区$1#视频二区$2#视频三区$3",
-      "分类url":"https://mtav.art/vod/show/id/{cateId}/page/{catePg}",
+      "分类url":"https://mtav.art/vod/show/id/{cateId}/page/{catePg}"
       }},
  
 
