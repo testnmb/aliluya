@@ -78,10 +78,10 @@
         "图片": "data-src=\"&&\"",
         "标题": "alt=\"&&\"",
         "链接": "href=\"&&\"",
-        //"分类url": "https://bbbsss.org/vodtype/{cateId}-{catePg}.html",
-		"分类url": "https://bbbsss.org/vodshow/{cateId}--{by}------{catePg}---.html",
-        "分类": "国产自拍$1#麻豆$2#步兵$3#中字$4",
-		 "排序": "最近更新$time#今日浏览数$hits_day#本周浏览数$hits_week#本月浏览数$hits_month#总浏览数$hits"
+        "分类url": "https://bbbsss.org/vodtype/{cateId}-{catePg}.html",
+		
+        "分类": "国产自拍$1#麻豆$2#步兵$3#中字$4"
+		
       }},
 	
 
