@@ -51,6 +51,31 @@
    "分类url": "https://ttav.pw/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
    }},
  
+    
+	
+	 {"key":"肚兜成人網","name":"肚兜影院",
+	"type":3,"api":"csp_XBPQ",
+     "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
+    "主页url": "https://dudou.pw/",
+    "数组": "<article id=\"post&& </article>",
+	 "图片":"data-src=\"&&\"",
+    "标题": "alt=\"&&\"",
+	 "链接":"href=\"&&\"",
+	 "播放数组":"<div class=\"article-copyright\">&&</div>",
+    "播放列表":"<a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"href=\"&&\"",
+   
+    //"链接":"https://ttav.pw/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+    "搜索模式": "1",
+    "搜索url": "https://dudou.pw/vod/search/page/1/wd/{wd}/",
+	"分类":"视频1️⃣ 区$1",
+    "剧情": "熟女人妻$熟女人妻#日本无码$日本无码#日本有码$日本有码#强奸乱伦$强奸乱伦#中文字幕$中文字幕#巨乳美乳$巨乳美乳#制服诱惑$制服诱惑#精品推荐$精品推荐#中文有码$中文有码#传媒拍摄$传媒拍摄#探花约炮$探花约炮",
+   "分类url": "https://dudou.pw/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
+   }},
+ 
+ 
+ 
       {"key":"tmav.art","name":"天美🌟影视🌟",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
