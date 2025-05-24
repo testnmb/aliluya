@@ -35,7 +35,7 @@
    }},
 	
 
-     {"key":"天天看AV","name":"天天看📺",
+     {"key":"天天看AV","name":"天天📺看TV",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
     "主页url": "https://ttav.pw/",
@@ -61,6 +61,7 @@
 	 "图片":"data-src=\"&&\"",
     "标题": "alt=\"&&\"",
     "链接":"https://dudou.pw/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+	"跳转播放": "var mm=\"&&\"",
     "搜索模式": "1",
     "搜索url": "https://dudou.pw/vod/search/page/1/wd/{wd}/",
 	"分类":"视频1️⃣ 区$1",
