@@ -4,6 +4,29 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+      {"key": "444.coffee","name": "444中文字幕咖啡",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "数组": "<li id=\"post-&&</li>",
+     "图片":"data-src=\"&&\"",
+      "标题":"title=\"&&\"",
+	  "副标题":"class=\"added\">&&</span>",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://www.444.coffee/?post_type=post&s={wd}",
+	   "直接播放":"1",
+     "分类":"中文字幕$中文字幕",
+     "排序": "最新$newest#人气$views#评分$rate#讨论$discussed",
+     "分类url": "https://www.444.coffee/category/{cateId}/page/{catePg}?order={by}"
+      }},
+   
+   
+
+
+
+
   
     {"key":"javhuge.com","name":"🍄javhuge🍄",
 	"type":3,"api":"csp_XBPQ",
