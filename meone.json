@@ -4,12 +4,12 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
-      {"key": "444.coffee","name": "444中文字幕咖啡",
+      {"key": "444.coffee","name": "444☕️咖啡",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
+      "ext": {"主页url": "https://www.444.coffee/",
       "数组": "<li id=\"post-&&</li>",
      "图片":"data-src=\"&&\"",
       "标题":"title=\"&&\"",
@@ -83,9 +83,9 @@
     "数组": "<article id=\"post&& </article>",
 	 "图片":"data-src=\"&&\"",
     "标题": "alt=\"&&\"",
-     "链接": "https://dudou.pw/vod/play/id/&&+/vod/detail/id/&&+/sid/1/nid/1/",
-	//"链接":"https://dudou.pw/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
-	"跳转播放": "var mm=\"&&\"",
+    
+	"链接":"https://dudou.pw/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+	"直接播放":"1",
     "搜索模式": "1",
     "搜索url": "https://dudou.pw/vod/search/page/1/wd/{wd}/",
 	"分类":"视频1️⃣ 区$1",
