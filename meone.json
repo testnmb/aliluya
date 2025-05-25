@@ -26,7 +26,39 @@
       }},
    
    
+       {"key": "极乐AV天堂","name": "😄极乐天堂😄",
+		   "type": 3,
+		   "api": "csp_XBPQ","ext": {
+           "主页url": "https://d8f7e76s.kpplarge.buzz/index.php/",
+           "直接播放": "1",
+           "数组": "class=\"list-item slick-item\">&&</a>",
+	      "图片":"style=\"background-image:url(&&)\"",
+          "标题":"title=\"&&\"",
+          "链接": "href=\"&&\"",
+	      "跳转播放链接":"var player_*\"url\":\"&&\"",
+	      "分类url": "https://d8f7e76s.kpplarge.buzz/index.php/vodtype/{cateId}-{catePg}.html",
+          //"分类": "骑兵$6#国产$4#步兵$5#中文$8#欧美$7"
+		  "分类数组": "<a&&/a>",
+          "分类标题": ">&&<",
+          "分类ID": "/index.php/vodtype/&&.html"
+		  }},
 
+
+    {"key": "纯欲女神","name": "纯欲🌧️女神",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": {   "主页url": "https://cyns5.mom/",
+	"数组": "<a class=\"thumbnail&&</li>", 
+	"图片": "src=\"&&\"", 
+	 "标题": "alt=\"&&\"", 
+	"副标题": "class=\"video-grade\">&&</span>", 
+    "链接": "https://cyns5.mom/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+	"搜索模式": "1", 
+	"分类数组": "<a&&/a>",
+      "分类标题": ">&&<",
+      "分类ID": "/index.php/vod/type/id/&&.html",
+	 //"分类": "国产在线$1#女优在线$3#精选视频$4#中文字幕$5#传媒剧情$12#在线女星$7#精品日韩1️$2#精品日韩️2$6",
+	"搜索url": "https://cyns5.mom/index.php/vod/search/page/1/wd/{wd}",
+	"分类url":"https://cyns5.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
 
 
 
@@ -311,7 +343,7 @@
             "分类url":"https://www.nice10415.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
             "免嗅":"0",
             "嗅探词":".m3u8#.mp4"
-            //"页面代理":"127.0.0.1:10072"
+           
              }},
 	
 
