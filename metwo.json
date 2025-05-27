@@ -348,9 +348,9 @@
             "filterable": 1,
             "api": "csp_XBPQ",
             "ext":{
-            "直接播放":"1",
+            //"直接播放":"1",
             "搜索模式":"1",
-            "搜索url":"/index.php/vod/search/wd/{wd}",
+            "搜索url":"https://www.nice10415.cyou/index.php/vod/search.html?wd={wd}",
             "数组":"<div class=\"img-box cover-md\">&&</h6>",
             "图片":"data-src=\"&&\"",
             "标题":"class=\"title\">&&</a>",
