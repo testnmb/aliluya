@@ -5,7 +5,7 @@
 "sites":[
 
 
-      {"key": "亚洲AV攻略","name": "亚洲🍚攻略",
+      {"key": "亚洲AV攻略","name": "亚洲👰攻略",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -65,7 +65,7 @@
 		  }},
 
 
-    {"key": "纯欲女神","name": "纯欲🌧️女神",
+    {"key": "纯欲女神","name": "纯欲🌡女神",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": {   "主页url": "https://cyns5.mom/",
 	"数组": "<a class=\"thumbnail&&</li>", 
@@ -132,7 +132,7 @@
  
     
 	
-	 {"key":"肚兜成人網","name":"肚兜影院",
+	 {"key":"肚兜成人網","name":"肚兜影院🔑🀄字",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
     "主页url": "https://dudou.pw/",
@@ -182,7 +182,7 @@
  
  
 
-    {"key":"javroot.com","name":"🍈艾薇影院🍈",
+    {"key":"艾薇影院","name":"艾薇🍈影院",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
     "主页url": "https://javroot.com/",
@@ -1150,11 +1150,11 @@
       "ext": {"主页url": "https://haolw27.buzz/",
        "数组": "class=\"video-pic loading\"&&</a>",
        "标题": "title=\"&&\"",
-      "图片":"style=\"background: url('&&') no-repeat;",
-      
+       "图片":"style=\"background: url('&&') no-repeat;",
        "链接": "https://swdivazxwfsd.buzz/play/+/info/&&.html",
 	    "搜索模式": "1", 
-	   "搜索url": "https://haolw27.buzz/hunt/{wd}/h/{pg}.html",
+	   "搜索url": "https://haolw27.buzz/hunt/{wd}",
+	   "搜索后缀":"",
        "分类url": "https://haolw27.buzz/type/{cateId}/{catePg}.html",
 	    "分类数组": "<a&&/a>",
         "分类标题": ">&&<",
@@ -2146,7 +2146,8 @@
     "分类url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
 	
 
-{"key": "AV影视","name": "🎬vv影视🎬","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
+   {"key": "AV影视","name": "🎬vv影视🎬","type": 3,
+ "api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
       "图片": "data-src=\"&&\"",
       "直接播放": "1",
       "分类url":"https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
