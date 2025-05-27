@@ -132,7 +132,7 @@
  
     
 	
-	 {"key":"肚兜成人網","name":"肚兜影院🔑🀄字",
+	 {"key":"肚兜成人網","name":"肚兜影院🀄字",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
     "主页url": "https://dudou.pw/",
@@ -304,7 +304,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-      "数组": "\"item-thumbnail\"&&\"item-thumbnail\"",
+      "数组": <div class=\"item-thumbnail\">&&</a>",
      "图片":"data-src=\"&&\"",
       "标题":"alt=\"&&\"",
 	  "副标题":"class=\"ml6\">&&</span>",
