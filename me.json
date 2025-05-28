@@ -460,14 +460,14 @@
       "链接":"href=\"&&\"",
       "搜索url":"https://javgg.net/?s={wd}",
       "搜索模式":"1",
-	 "线路数组":"<ul id=\'playeroptionsul&&</ul>",
+	 "线路数组":"<ul id=\"playeroptionsul&&</ul>",
     "线路标题":"class=\'title\'>&&<",
-    "播放数组":"<div id=\'source-player-&&</div>",
+    "播放数组":"<div id=\"source-player-&&</div>",
     "播放列表":"<iframe&&</iframe>",
     "播放标题":"",
     "播放链接":"src=\"&&\"",
 	  
-     "跳转播放链接": "var urlPlay =\ '&&\';",
+     "跳转播放链接": "var urlPlay =\"&&\"",
 	   //"直接播放":"1",
    "分类":"HD Uncensored$hd-uncensored#Uncensored Leak$uncensored-leak#decensored$decensored#censored$censored#chinese-subtitle$chinese-subtitle",
    "分类url":"https://javgg.net/tag/{cateId}/page/{catePg}/"
