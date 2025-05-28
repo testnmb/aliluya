@@ -22,7 +22,7 @@
       }},
  
 
-	  {"key": "qavav.my","name": "9️⃣1️⃣传媒仓库qavav",
+	  {"key": "qavav.my","name": "9️⃣1️⃣传媒仓库",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.qavav.my/",
@@ -483,6 +483,21 @@
       }},
   
    
+      {"key": "memojav.com","name": "memojav.com",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "数组二次截取": "class=\"flexw\">&&<ul class=\"pageNav-main flexjw\">",
+      "数组": "<a&&</a>",
+      "图片":"src=\"&&\"",
+      "标题":"alt=\"&&\"",
+      "链接":"href=\"&&\"",
+      "跳转播放": "<iframe src=\"&&\"",
+	  "直接播放":"1",
+   "分类":"4K$4k#Abandoned$abandoned#Abuse$abuse#Action/fighting$actionfighting#Adultery$adultery",
+   "分类url":"https://memojav.com/categories/{cateId}/page-{catePg}"
+      }},
  
 	
 	
