@@ -4,6 +4,27 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+       {"key":"黄色仓库","name":"🧎‍♀️黄色仓库55ck🧎‍♀️",
+       "type":3,"api":"csp_XBPQ",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "ext":{"数组":"<li><div class=\"stui-vodlist__box\">&&<</li>",
+	   "图片":"data-original=\"&&\"",
+      "标题":"title=\"&&\"",
+       "链接":"href=\"&&\"",
+       "副标题":"</span>&&</p>",
+	   "搜索url":"http://444355.xyz/vodsearch/{wd}----------{pg}---.html",
+       "搜索模式":"1",
+	   "分类url":"http://444353.xyz/vodtype/{cateId}-{catePg}.html",
+      "分类":"无码中文字幕$8#有码中文字幕$9#日本无码$10#日本有吗$7#国产视频$15",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "直接播放":"1"  
+   }},
+
+
+
+
 
       {"key": "亚洲AV攻略","name": "亚洲👰攻略",
       "type": 3,"api": "csp_XBPQ",
@@ -473,23 +494,7 @@
  
 
 
-      {"key": "javclass.com","name": "javclass🛀com",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "数组": "\"item movies\"&&\"item movies\"",
-      "图片":"src=\"&&\"",
-      "标题":"<h3 class=\"title\">&&</h3>",
-      "链接":"href=\"&&\"",
-      "搜索url":"https://javclass.com/?s={wd}",
-      "搜索模式":"1",
-    "跳转播放": "<iframe src=\"&&\"",
-	   "直接播放":"1",
-   "分类":"moodyz$moodyz#Idea Pocket$idea-pocket#Madonna$madonna#FALENO$faleno#attacker$attacker#prestige$prestige#dasutsu$dasutsu#wanz-factory$wanz-factory#premium$premium#oppai$oppai#kawaii$kawaii",
-   "分类url":"https://javclass.com/studio/{cateId}/page/{catePg}/"
-      }},
+  
  
     
  
@@ -2469,13 +2474,7 @@
 
 
 
-{"key": "色最色","name": "色色⚽️影院","type": 3,"api": "csp_XBPQ","ext": {
-                "发布页": "https://helpfindgoodsite.com/",
-				"主页url": "https://xn--zovv42dba.com/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "分类url": "https://xn--zovv42dba.com/list-read-id-{cateId}-p-{catePg}",
-                "分类": "国产精品$19#偷拍自拍$20#中文步兵$23#中文字幕$22#骑兵$21#伦理$25"}},
+
 				
 				
 {"key": "18j.tv","name": "🌳18j.tv🌳","type": 3,"api": "csp_XBPQ","ext": {
