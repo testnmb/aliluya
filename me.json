@@ -447,7 +447,7 @@
       }},
   
    
-
+ 
 	
 	
 	
@@ -467,11 +467,29 @@
       "搜索模式":"1",
     "跳转播放": "<iframe src=\"&&\"",
 	   "直接播放":"1",
-   "分类":"attacker$attacker#madonna$madonna#oppai$oppai#dasutsu$dasutsu#hunter$hunter#venus$venus",
+   "分类":"attacker$attacker#madonna$madonna#oppai$oppai#dasutsu$dasutsu#hunter$hunter#venus$venus#akinori$akinori#fitch$fitch#honnaka$honnaka#hibino$hibino#muteki$muteki",
    "分类url":"https://javleak.com/director/{cateId}/page/{catePg}/"
       }},
  
 
+
+      {"key": "javleak.com","name": "javleak🛀com",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "数组": "\"item movies\"&&\"item movies\"",
+      "图片":"src=\"&&\"",
+      "标题":"<h3 class=\"title\">&&</h3>",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://javclass.com/?s={wd}",
+      "搜索模式":"1",
+    "跳转播放": "<iframe src=\"&&\"",
+	   "直接播放":"1",
+   "分类":"moodyz$moodyz#Idea Pocket$idea-pocket#Madonna$madonna#FALENO$faleno#attacker$attacker#prestige$prestige#dasutsu$dasutsu#wanz-factory$wanz-factory#premium$premium#oppai$oppai#kawaii$kawaii",
+   "分类url":"https://javclass.com/studio/{cateId}/page/{catePg}/"
+      }},
  
     
  
