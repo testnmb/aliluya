@@ -447,7 +447,28 @@
       }},
   
    
-    
+      {"key": "javgg","name": "javgg🛀net",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://javgg.net/",
+      "数组": "<article id=\"post-&&</article>",
+      "图片":"src=\"&&\"",
+      "标题":"alt=\"&&\"",
+	   "副标题":"</h3><span>&&</span>",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://javgg.net/?s={wd}",
+      "搜索模式":"1",
+    "跳转播放": "<iframe src=\"&&\"",
+	   "直接播放":"1",
+   "分类":"HD Uncensored$hd-uncensored#Uncensored Leak$uncensored-leak#decensored$decensored#censored$censored#chinese-subtitle$chinese-subtitle",
+   "分类url":"https://javgg.net/tag/{cateId}/page/{catePg}/"
+      }},
+ 
+	
+	
+	
    
    
       {"key": "javleak.com","name": "javleak🛀com",
