@@ -5,6 +5,38 @@
 "sites":[
 
     
+	  
+      {"key": "蒂娜影视","name": "蒂娜🌽影视️",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "数组": "\"thmbclck\"&&\"thmbclck\"",
+     "图片":"src=\"&&\"",
+      "标题":"alt=\"&&\"",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://dina9988.vip/index.php/vod/search/wd/{wd}",
+	  "直接播放":"1",
+   "分类":"国产视频$11#日本视频$21#三级视频$71",
+   "分类url":"https://dina9988.vip/index.php/vod/type/id/{cateId}/by/{by}/page/{catePg}.html"
+      }},
+ 
+
+	  {"key": "qavav.my","name": "9️⃣1️⃣传媒仓库qavav",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://www.qavav.my/",
+       "数组": "class=\"video-pic loading\"&&</table>",
+       "标题": "title=\"&&\"",
+	   "副标题": "<div align=\"left\">&&</div>",
+       "图片":"style=\"background: url(&&) no-repeat;",
+       "链接":"href=\"&&\"",
+       "分类url": "https://www.qavav.my/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+	    "分类":"国产视频$1#女友在线$3#精选视频$4#中文字幕$5#探花$12#精品日韩$2",
+        "直接播放": "1",
+         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
+      }},
+ 
 
 
 
