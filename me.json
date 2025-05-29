@@ -4,6 +4,28 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+       { "key": "免费看黄","name": "免费🪵涩涩",
+      "type": 3,"api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://mfkan1.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+		"分类数组": "<a&&a>",
+        "分类标题": ">&&</",
+        "分类ID": "/index.php/vod/type/id/&&.html",
+        "搜索模式": "1",
+		"搜索url": "https://mfkan1.mom/index.php/vod/search.html?wd={wd}.html",
+		 "搜索后缀":"",
+		"数组": "<a class=\"uzimg&&</a>",
+        "标题": "title=\"&&\"",
+		"副标题":"class=\"title\">&&</span>",
+        "图片": "data-original=\"&&\"",
+		"链接": "href=\"&&\"",
+        "直接播放":"1"
+      } },		
+	
+
+
+
+
      {"key": "兴趣院","name": "兴趣🐂影视","type": 3,
     "api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
     "主页url": "https://x1.xingqu6.top/",
@@ -40,7 +62,6 @@
     "播放列表":"<a&&/a>",
     "播放标题":">&&<",
     "播放链接":"href=\"&&\"",
-	 //"直接播放":"1", 
 	"搜索模式": "1", 
 	"搜索url": "https://www.sebaa.mom/index.php/vod/search.html?wd={wd}",
 	"分类url":"https://www.sebaa.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
@@ -86,7 +107,7 @@
       }},
  
 
-	  {"key": "OWOAV视频","name": "🍂OWOAV🍂",
+	  {"key": "OWOAV视频","name": "🍂OWO🍂",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.owo10.cc/",
@@ -99,11 +120,9 @@
        "链接":"href=\"&&\"",
       "分类url": "https://www.owo10.cc/{cateId}/{catePg}/",
 	    "分类":"最新的$latest-updates#最受欢迎的$top-rated#流行的$most-popular",
-		//"分类url": "https://www.owo10.cc/categories/{cateId}/{catePg}/",
-		//"分类":"中文字幕$e9e2cf61b2d2de7cac4b69af42fd7ad2#日韩$av",
         "直接播放": "1",
-		 "播放链接": "video_url: \'&&\'",
-         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4#p.mp4"
+		"播放链接": "video_url: \'&&\'",
+        "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4#p.mp4"
       }},
  
 
@@ -124,7 +143,7 @@
       }},
  
 
-
+    
 
 
       {"key": "亚洲AV攻略","name": "亚洲👰攻略",
