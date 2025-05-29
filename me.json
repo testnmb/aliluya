@@ -4,7 +4,25 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
-  
+       
+   {"key": "桃源AV","name": "桃源🍑影视","type": 3,
+    "api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
+    "主页url": "https://tyav8.cfd/",
+    "数组": "class=\"myui-vodlist__box&&</div>",
+    "图片": "style=\"background: url(&&)",
+    "标题": "title=\"&&\"",
+    "副标题": "<span class=\"text-muted\">更新：</span>&&</p>",
+   	 "链接": "href=\"&&\"",
+    "搜索模式": "1",
+    "搜索url": "https://tyav8.cfd/search.php?searchword={wd}&submit=",
+	"线路数组":"<a href=\"#playlist&&</ul>",
+    "线路标题":">&&</a>",
+    "播放数组":"<ul class=\"stui-content__playlist&&</ul>",
+    "播放列表":"<a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"href=\"&&\"",
+	"分类":"日韩步兵$index25#强奸乱伦$index26#国产精品$index28#人妻系列$index29#不道德$index29#中文字幕$index30#伦理影片$index32#日韩精品$index33#制服诱惑$index34",
+    "分类url": "https://tyav8.cfd/frim/{cateId}-{catePg}.html"}},
 	
 	  
       {"key": "蒂娜影视","name": "蒂娜🌽影视️",
