@@ -81,7 +81,8 @@
 		"分类url": "https://www.owo10.cc/categories/{cateId}/{catePg}/",
 		"分类":"中文字幕$e9e2cf61b2d2de7cac4b69af42fd7ad2#日韩$av",
         "直接播放": "1",
-         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
+		 "播放链接": "video_url: \'&&\'",
+         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4#p.mp4"
       }},
  
 
