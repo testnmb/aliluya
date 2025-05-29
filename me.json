@@ -4,6 +4,29 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+     {"key": "兴趣院","name": "兴趣🐂影视","type": 3,
+    "api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
+    "主页url": "https://x1.xingqu6.top/",
+    "数组": "class=\"myui-vodlist__box&&</div>",
+     "图片":"data-original=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "<span class=\"text-muted\">更新：</span>&&</p>",
+   	 "链接": "href=\"&&\"",
+    "搜索模式": "1",
+    "搜索url": "https://x1.xingqu6.top/vodsearch/{wd}----------{pg}---.html",
+	"线路数组":"<a href=\"#playlist&&</ul>",
+    "线路标题":">&&</a>",
+    "播放数组":"<ul class=\"stui-content__playlist&&</ul>",
+    "播放列表":"<a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"href=\"&&\"",
+	"分类":"全部$1#日韩视频$8#国产精品$10#国产视频$9#不道德$12#中文字幕$11#熟女人妻$40#精品综合$47#制服诱惑$44#三级伦理$45#巨乳美乳$46#少女萝莉$43",
+ 
+    "分类url": "https://x1.xingqu6.top/vodshow/{cateId}--{by}------{catePg}---.html"}},
+
+
+
+
        
    {"key": "桃源AV","name": "桃🍑源影视","type": 3,
     "api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
