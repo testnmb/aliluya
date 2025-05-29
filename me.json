@@ -12,13 +12,13 @@
 	 "图片": "data-original=\"&&\"",
      "标题":"title=\"&&\"",
 	"简介": "description\" content=\"&&",  
-	"链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
-   
-	"分类":"骑兵$1#步兵$4#国产$2#中文骑兵$7#日本骑兵$8中文步兵$6#日本步兵$9#精品视频$10#糖心vlog$13",
-	"排序": "时间$time#人气$hits#评分$score",
+	"链接": "https://d.thyys.com/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
+   	  "直接播放":"1",
+	"分类":"骑兵$1#步兵$4#国产$2#中文骑兵$7#日本骑兵$8中文步兵$6#日本步兵$9#国产视频$10#糖心vlog$13",
+	
 	"搜索模式": "1", 
 	"搜索url": "https://d.thyys.com/vodsearch/-------------.html?wd={wd}&submit=",
-	"分类url":"https://d.thyys.com/vodshow/{cateId}--{by}------{catePg}---.html"
+	"分类url":"https://d.thyys.com/vodtype/{cateId}-{catePg}.html"
 	}},
 	
 	
