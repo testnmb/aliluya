@@ -25,6 +25,27 @@
     "分类url": "https://x1.xingqu6.top/vodshow/{cateId}--{by}------{catePg}---.html"}},
 
 
+     {"key": "sebaa.mom","name": "SEBAA😮‍💨影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { "主页url": "https://www.sebaa.mom/", 
+	"数组": "<a class=\"thumbnail&&</li>", 
+	"图片": "src=\"&&\"", 
+	 "标题": "ait=\"&&\"",
+	"副标题": "<p>&&</p>",  
+	 "分类数组": "<a&&a>",
+     "分类标题": ">&&</",
+     "分类ID": "/index.php/vod/type/id/&&.html",
+	"线路数组":"<ul class=\"detail-play-list&&</ul>",
+    "播放数组":"<ul class=\"detail-play-list&&</ul>",
+    "播放列表":"<a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"href=\"&&\"",
+	 //"直接播放":"1", 
+	"搜索模式": "1", 
+	"搜索url": "https://www.sebaa.mom/index.php/vod/search.html?wd={wd}",
+	"分类url":"https://www.sebaa.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+	    
+
 
 
        
@@ -65,7 +86,7 @@
       }},
  
 
-	  {"key": "OWOAV视频","name": "OWO🍎视频",
+	  {"key": "OWOAV视频","name": "🍂OWOAV🍂",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.owo10.cc/",
@@ -86,7 +107,7 @@
       }},
  
 
-        {"key": "qavav.my","name": "9️⃣1️⃣仓库",
+        {"key": "qavav.my","name": "9️⃣ 1️⃣传媒仓库",
         "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.qavav.my/",
