@@ -17,10 +17,10 @@
 		"数组": "<li class=\"article&&</li>",
         "标题": "alt=\"&&\"",
         "图片": "src=\"&&\"",
-		"链接": "href=\"&&\"",
-		"跳转播放链接": "<iframe src=\"&&\"",
-	    "视频解析链接": "https://ww522hub.xyz/Static/Home/VideoJS/?Play=",
-		//"链接": "https://ww522hub.xyz/?m=video_conter*+/?m=video_detail*&&",
+		//"链接": "href=\"&&\"",
+		//"跳转播放链接": "<iframe src=\"&&\"",
+	   // "视频解析链接": "https://ww522hub.xyz/Static/Home/VideoJS/?Play=",
+		"链接": "https://ww522hub.xyz/?m=video_conter*+/?m=video_detail*&&",
         "直接播放":"1"
       } },		
 	
