@@ -47,11 +47,9 @@
 	  
 	  
 	  
-	 {"key": "129av.app","name": "129♣️污污视频",
+	 {"key": "129av.app","name": "129🧾视频",
       "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "searchable": 1, "quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.129av.app/",
        "数组":"\"item-box\"&&\"item-box\"",
        "图片":"src=\"&&\"",
@@ -64,7 +62,7 @@
 	   "播放链接": "href=\"&&\"",
 	    "搜索模式":"1",
         "搜索url":"https://www.129av.app/vodsearch/-.html?wd={wd}",
-       "分类url": "www.129av.app/vodtype/{cateId}-{catePg}.html",
+       "分类url": "https://www.129av.app/vodtype/{cateId}-{catePg}.html",
 	    //"分类数组": "<a&&</a>",
        //"分类标题": "<p>&&</p>",
        // "分类ID": "/vodtype/&&.html"
@@ -96,6 +94,31 @@
       }},
 	  
 	  
+	   {"key": "3av.co","name": "三哥🧾视频",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1, "quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://www.3av.co/",
+       "数组":"\"item-box\"&&\"item-box\"",
+       "图片":"data-original=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	    "副标题": "<span>&&</span>",
+	   "播放数组":"<ul class=\"nav nav-tabs active &&</ul>",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://www.3av.co/vodsearch/-.html?wd={wd}",
+       "分类url": "https://www.3av.co/vodtype/{cateId}-{catePg}.html",
+	    "分类数组": "<a&&</a>",
+       "分类标题": ">&&</",
+        "分类ID": "/vodtype/&&.html"
+       // "分类": "日韩步兵$9#亚洲骑兵$10#🀄️字$14#国产精品$6#制服$18#国产自拍$7#美乳$21#熟女$16#潮吹$20#不道德$17#萝莉$19#三级$12"
+      }},
+	  
+	  
+	  
+	  
 	  {"key": "4av.app","name": "小四🈲影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -105,11 +128,11 @@
        "链接": "href=\"&&\"",
        "标题": "alt=\"&&\"",
 	    "副标题": "<span class=\"font-medium\">&&</span>",
-		"线路数组":"选线路:&&<div class=\"space-y-2 mb-2\">",
+		"线路数组":"选线路:&&<div class=\"space-y-2 mb-2\">[排序:1080p>2k>4k]",
 		"线路标题": ">爽歪歪<",
-	   "播放数组":"选线路:&&<div class=\"space-y-2 mb-2\">",
+	   "播放数组":"选线路:&&<div class=\"space-y-2 mb-2\">[排序:1080p>2k>4k]",
 	    "播放列表": "<a&&a>",
-	    "播放标题": ">&&</[替换:1080p>>2k>>4k]",
+	    "播放标题": ">&&</",
 	   "播放链接": "href=\"&&\"",
 	    "搜索模式":"1",
         "搜索url":"https://www.4av.app/vodsearch/-.html?wd={wd}",
