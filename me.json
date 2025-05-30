@@ -4,40 +4,7 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
-        { "key": "旺旺片库","name": "旺旺🐶片库",
-      "type": 3,"api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://ww522hub.xyz/?m=video_list*{cateId}*{catePg}",
-		"分类数组": "<a&&a>",
-        "分类标题": ">&&</",
-        "分类ID": "/?m=video_list*&&*1",
-        "搜索模式": "1",
-		"搜索url": "https://ww522hub.xyz/?m=video_search*{wd}*1",
-		 "搜索后缀":"",
-		"数组": "<li class=\"article&&</li>",
-        "标题": "alt=\"&&\"",
-        "图片": "src=\"&&\"",
-		 "链接": "href=\"&&\"",
-		 "播放数组":"<div class=\"player\">&&</div>",
-        "播放列表":"<iframe&&/iframe>",
-        "播放标题":"",
-        "播放链接":"src=\"&&\"",
-		"视频解析链接": "https://ww522hub.xyz/Static/Home/VideoJS/?Play="
-      } },		
-	  
-	  
-	  
-     {"key": "javsky.tv","name": "javsky🙂tv",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组":"<article id=\"post-&&</article>", 
-	"图片": "data-src=\"&&\"",
-	"标题": "title=\"&&\"", 
-    "链接": "href=\"&&\"",
-	"直接播放":"1", 
-	"分类": "Uncensored$uncensored#Censored$censored#Reducing Mosaic$reducing#中文字幕$chinese-sub",
-	"分类url":"https://javsky.tv/category/{cateId}/page-{catePg}"}},
-	  
+      
 	  
   
 
