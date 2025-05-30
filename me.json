@@ -30,7 +30,7 @@
      {"key": "javsky.tv","name": "javsky🙂tv",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { 
-	"数组": "<article id=\post-&&</article>", 
+	"数组":"<article id=\"post-&&</article>", 
 	"图片": "data-src=\"&&\"",
 	"标题": "title=\"&&\"", 
     "链接": "href=\"&&\"",
