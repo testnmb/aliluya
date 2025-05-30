@@ -4,7 +4,30 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
-       { "key": "免费看黄","name": "免费🪵涩涩",
+        { "key": "旺旺片库","name": "旺旺🐶片库",
+      "type": 3,"api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://ww522hub.xyz/?m=video_list*{cateId}*{catePg}",
+		"分类数组": "<a&&a>",
+        "分类标题": ">&&</",
+        "分类ID": "/?m=video_list*&&*1",
+        "搜索模式": "1",
+		"搜索url": "https://ww522hub.xyz/?m=video_search*{wd}*1",
+		 "搜索后缀":"",
+		"数组": "<li class=\"article&&</li>",
+        "标题": "alt=\"&&\"",
+        "图片": "src=\"&&\"",
+		"链接": "href=\"&&\"",
+		"跳转播放链接": "<iframe src=\"&&\"",
+	    "视频解析链接": "https://ww522hub.xyz/Static/Home/VideoJS/?Play=",
+		//"链接": "https://ww522hub.xyz/?m=video_conter*+/?m=video_detail*&&",
+        "直接播放":"1"
+      } },		
+	
+  
+
+
+       { "key": "免费看黄","name": "免费🪵涩涩(网站不能播放:跟进)",
       "type": 3,"api": "csp_XBPQ",
       "ext": {
         "分类url": "https://mfkan1.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html",
