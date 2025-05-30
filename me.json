@@ -4,6 +4,25 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+      { "key": "九色视频","name": "九色👗视频",
+       "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://www.lvsemianfeiav.my/",
+       "数组": "\"resent-grid-img recommended-grid-img\"&&\"resent-grid-img recommended-grid-img\"",
+       "标题": "class=\"title\">&&</a></h5>",
+       "图片": "data-original=\"&&\"",
+       "链接": "/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
+       "直接播放":"1",
+	   "搜索模式": "1", 
+	   "搜索url": "https://www.lvsemianfeiav.my/index.php/vod/search/page/{pg}/wd/{wd}.html",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+       "分类url": "https://www.lvsemianfeiav.my/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "剧情AV$6#国内AV$7#女优AV$8#明星AV$9#制服AV$11#三级AV$12"
+      }},
+  
+
+
+
       
 	   {"key": "QKAV","name": "OK🐣影视",
       "type": 3,"api": "csp_XBPQ",
