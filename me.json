@@ -5,34 +5,136 @@
 "sites":[
 
       
-	  
-  
-
-
-       { "key": "免费看黄","name": "免费🪵涩涩(网站不能播放:跟进)",
+	   {"key": "QKAV","name": "OK🐣影视",
       "type": 3,"api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://mfkan1.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-		"分类数组": "<a&&a>",
-        "分类标题": ">&&</",
-        "分类ID": "/index.php/vod/type/id/&&.html",
-        "搜索模式": "1",
-		"搜索url": "https://mfkan1.mom/index.php/vod/search.html?wd={wd}.html",
-		 "搜索后缀":"",
-		"数组": "<a class=\"uzimg&&</a>",
-        "标题": "title=\"&&\"",
-		"副标题":"class=\"title\">&&</span>",
-        "图片": "data-original=\"&&\"",
-		"链接": "href=\"&&\"",
-        "直接播放":"1"
-      } },		
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://qkav.xyz/",
+       "数组":" <a class=\"hl-item-thumb hl-lazy&&</a>",
+       "图片":"data-original=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	    "线路数组":"href=\"javascript:void(0);&&a>",
+	    "线路标题": "</i>&nbsp;&&</",
+	   "播放数组":"hl-plays-list&&</ul>",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://qkav.xyz/index.php/vod/search.html?wd={wd}&submit=",
+	
+       "分类url": "https://qkav.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "日韩步兵$22#亚洲骑兵$21#中文字幕$20#其他作品$24"
+      }},
+	  
+	  
+	  
+	 {"key": "129av.app","name": "🌁129┃影视🌁",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://www.129av.app/",
+       "数组":"<section class=\"item-box\">&&</a>",
+       "图片":"src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	    "副标题": "<small>&&</small>",
+	   "播放数组":"<div class=\"v_con_box\">&&</div>",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://www.129av.app/vodsearch/-.html?wd={wd}",
+	
+       "分类url": "www.129av.app/vodtype/{cateId}-{catePg}.html",
+        "分类": "日韩步兵$9#亚洲骑兵$10#🀄️字$14#国产精品$6#制服$18#国产自拍$7#美乳$21#熟女$16#潮吹$20#不道德$17#萝莉$19#三级$12"
+      }},
+	
+	  	 {"key": "11av.app","name": "十一🦎影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://www.11av.app/",
+       "数组":"<div class=\"col-style d-4 m-2 lazy loaded\">&&</div></a></div>",
+       "图片":"src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	    "副标题": "<span class=\"number\">&&</span>",
+		"线路数组":">线路选择：&&<section class=\"sectionContent below_path_content\">",
+	   "播放数组":">线路选择：&&<section class=\"sectionContent below_path_content\">",
+	   "播放列表": "<a&&a>",
+	   "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://www.11av.app/vodsearch/{wd}/page/{pg}.html",
+		  "搜索后缀":"",
+       "分类url": "https://www.11av.app/vodtype/{cateId}-{catePg}.html",
+	    "分类数组": "<a&&a>",
+       "分类标题": ">&&</",
+        "分类ID": "/vodtype/&&.html"
+        //"分类": "步兵$11#骑兵$10#🀄️字$14#madou$9#制服$23#萝莉$25#美乳$20#熟女$24#探花$4#不道德$21#绿帽$6#颜色$29#国产学生$33"
+      }},
+	  
+	  
+	  {"key": "4av.app","name": "小四🍺影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://www.4av.app/",
+       "数组":"	<div class=\"thumbnail group\">&&</a></div>",
+       "图片":"data-src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "alt=\"&&\"",
+	    "副标题": "<span class=\"font-medium\">&&</span>",
+	   "播放数组":"<span>选线路:</span>&&</div>",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://www.4av.app/vodsearch/-.html?wd={wd}",
+       "分类url": "https://www.4av.app/vodshow/{cateId}-{by}/page/{catePg}.html",
+	   "排序": "最近更新$time#今日浏览数$hits_day#本周浏览数$hits_week#本月浏览数$hits_month#总数浏览$hits",
+	     "分类数组": "<a&&a>",
+       "分类标题": ">&&</",
+        "分类ID": "/vodtype/&&.html"
+        //"分类": "亚洲一区$23#日韩步兵$24#🀄️字$26#三级伦理$28#制服$29#不道德$31#美乳$30#熟女$32#萝莉$33#高清$34#解说$38#原色$37"
+      }},
+	
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	 {"key": "9av.app","name": "小九🍺影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://www.9av.app/",
+       "数组":"<li class=\"mb15\">&&</li>",
+       "图片":"src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	    "副标题": "<span class=\"ico-left\">&&</span>",
+	   "播放数组":"<div class=\"clearfix\">&&</div>",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://www.9av.app/vodsearch/-.html?wd={wd}",
+       "分类url": "https://www.9av.app/vodshow/{cateId}-{by}/page/{catePg}.html",
+	   "排序": "最新$time#热门$hits_week#点赞$up",
+        "分类": "亚洲一区$23#日韩步兵$24#🀄️字$26#三级伦理$28#制服$29#不道德$31#美乳$30#熟女$32#萝莉$33#高清$34#解说$38#原色$37"
+      }},
+	
 	
 
 
 
 
      {"key": "兴趣院","name": "兴趣🐂影视","type": 3,
-    "api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
+    "api": "csp_XBPQ","style": {"ratio": 1.7},
+	"ext": { "发布页url": "https://www.fxy222.top/index.html?timestamp=1748605011806
+	https://fxy333.top/index.html?timestamp=1748605063580  找回邮箱：qiqiwuqi7757@gmail.com",
     "主页url": "https://x1.xingqu6.top/",
     "数组": "class=\"myui-vodlist__box&&</div>",
      "图片":"data-original=\"&&\"",
@@ -1409,7 +1511,7 @@
   
   
   
-     {"key":"视色","name":"⌛️视色⌛️","type":3,"api":"csp_XBPQ",
+     {"key":"视色","name":"⌛️视色（特殊）⌛️","type":3,"api":"csp_XBPQ",
 	 "playerType":"0","searchable":1,"quickSearch":1,
 	 "filterable":1,"ext":{"嗅探词":"https://s1.playhls.com/m3u8.php?",  "免嗅": "",
 	 "数组":"\"video\"&&\"video\"",
