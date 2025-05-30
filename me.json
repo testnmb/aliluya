@@ -20,7 +20,7 @@
 		//"链接": "href=\"&&\"",
 		//"跳转播放链接": "<iframe src=\"&&\"",
 	   // "视频解析链接": "https://ww522hub.xyz/Static/Home/VideoJS/?Play=",
-		  "链接": "href='&&'[替换:video_conter>>video_detail]",
+		  "链接": "href=\"&&\"[替换:video_conter>>video_detail]",
 		//"链接": "https://ww522hub.xyz/?m=video_conter*+href=\"/?m=video_detail*&&",
         "直接播放":"1"
       } },		
