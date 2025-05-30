@@ -24,7 +24,21 @@
         "播放链接":"src=\"&&\"",
 		"视频解析链接": "https://ww522hub.xyz/Static/Home/VideoJS/?Play="
       } },		
-	
+	  
+	  
+	  
+     {"key": "javsky.tv","name": "javsky🙂tv",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<article id=\post-&&</article>", 
+	"图片": "data-src=\"&&\"",
+	"标题": "title=\"&&\"", 
+    "链接": "href=\"&&\"",
+	"直接播放":"1", 
+	"分类": "Uncensored$uncensored#Censored$censored#Reducing Mosaic$reducing#中文字幕$chinese-sub",
+	"分类url":"https://javsky.tv/category/{cateId}/page-{catePg}"}},
+	  
+	  
   
 
 
