@@ -94,7 +94,7 @@
       }},
 	  
 	  
-	   {"key": "3av.co","name": "印度阿三🧾视频",
+	    {"key": "3av.co","name": "小三🧾视频",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1, "quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.3av.co/",
@@ -103,9 +103,7 @@
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
 	    "副标题": "<span>&&</span>",
-	   "导演":"三哥",
-       "主演":"印巴",
-       "简介":"刚买的飞机 刚买的飞机 刚买的飞机被打啦,打下来撸一撸",
+       "简介":"飞机被打啦,打下来撸一撸",
 	   "播放数组":"<ul class=\"nav nav-tabs active &&</ul>[排序:高清>超清>1080p]",
 	    "线路数组":"<ul class=\"nav nav-tabs active &&</ul>",
 	    "线路标题": ">✈️打飞机✈️<",
@@ -113,13 +111,12 @@
 	    "播放标题": ">&&</",
 	   "播放链接": "href=\"&&\"",
 	    "搜索模式":"1",
-        "搜索url":"https://www.3av.co/vodsearch/-.html?wd={wd}",
+        "搜索url":"https://www.3av.co/vodsearch/-.html?wd={wd}&submit=",
        "分类url": "https://www.3av.co/vodtype/{cateId}-{catePg}.html",
 	    "分类数组": "<a&&</a>",
        "分类标题": ">&&</",
         "分类ID": "/vodtype/&&.html"
       }},
-	  
 	  
 	  
 	  
