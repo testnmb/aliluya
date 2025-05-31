@@ -20,18 +20,18 @@
         "分类": "剧情AV$6#国内AV$7#女优AV$8#明星AV$9#制服AV$11#三级AV$12"
       }},
   
-      {"key": " FFY4.COM - 飞飞影视","name": "飞飞♠️影视",
+      {"key": "FFY4.COM - 飞飞影视","name": "飞飞♠️影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {
-       "数组":"<li class=\"p1\">&&</li>[不包含:广告词]",
+       "数组":"<li class=\"p1\">&&</li>",
        "图片":"data-original=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
 	    "搜索模式":"1",
 		"播放数组二次截取":"class=\"playlist&&</div>",
 		"播放数组": "<ul>&&</ul>",
-	    "播放标题": "title=\"&&\"",
+	    "播放标题": "title=\"线路&&\"",
 		"播放链接": "href=\"&&\"",
 		"播放列表": "<a&&a>",
 		//"直接播放":"1",
