@@ -28,11 +28,8 @@
        "图片":"data-original=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
-	   "播放数组":"class=\"videourl clearfix\">&&</div>[不包含:黑科技#广告位招租]",
-	    "播放列表": "<a&&a>",
-	    "播放标题": ">线路&&</",
-	   "播放链接": "href=\"&&\"",
 	    "搜索模式":"1",
+		"直接播放":"1",
         "搜索url":"https://aunzwus8.ffy4.sbs/index.php/vod/search.html?wd={wd}",
        "分类url": "https://aunzwus8.ffy4.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
         "分类": "亚洲日韩$1#中文字幕$2#偷拍自拍$4"
