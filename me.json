@@ -5,36 +5,7 @@
 "sites":[
 
      
-     { "key": "seajav视频","name": "seajav视频",
-       "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,"quickSearch": 1,"filterable": 1,
-      "ext": {"直接播放":"1",
-     "站名":"seajav视频",
-    "主页url":"https://seajav.com/",
-    "热门推荐":"",
-    "起始页":"1",
-    "数组":"class=\"thumbnail group&&</div>",
-    "图片":"src=\"&&\"",
-    "标题":"alt=\"&&\"",
-    "链接":"href=\"&&\"",
-    //"线路数组":"<div class=\"module-tab-item tab-item selected\"&&</div>",
-   //"线路标题":"<span>&&</span>",
-   "搜索url":"https://seajav.com/search.html?wd={wd}",
-    "搜索模式":"1",
-    "搜索数组":"class=\"thumbnail group&&</div>",
-    "搜索图片":"src=\"&&\"",
-    "搜索标题":"alt=\"&&\"",
-     "搜索链接":"href=\"&&\"",
-    //"搜索后缀":"/video/",
-   //"搜索链接前缀":"https://seajav.com",
-   //"搜索链接后缀":"-1-1.html",
-
-   "免嗅":"1",
-   "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-   "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
-   "分类": "国产传媒$6#国产自拍$21#解说$24#中文$8#有码/无码$7#人妻制服$14#女优萝莉$15#巨乳高潮$17#亚洲伦理$10#欧美肉番$5#色情动漫$12#AI扮演$11#SM调教$26#强奸乱伦$27#变态捆绑$28#男同女同$29#其他重口$30",
-    "分类url":"https://seajav.com/categories/{cateId}-{catePg}.html"
-      }},
+    
 
 
 
@@ -694,13 +665,18 @@
 	  "标题": "alt=\"&&\"", 
 	"副标题": "class=\"continu\">&&</i>", 
 	 "链接": "href=\"&&\"",
-
 	"搜索模式": "1", 
 	 "分类数组": "<a&&</a>",
      "分类标题": ">&&<",
      "分类ID": "/mv/&&.html",
-	 "直接播放":"1",
-	"搜索url": "https://shayug.shayusp.fun/search/{wd}----------1---.html",
+	  "播放数组": "<div class=\"play-list\">&&</div>",
+     "播放列表":"<a&&/a>",
+     "播放标题":">&&<",
+    "播放链接":"href=\"&&\"",
+	 //"直接播放":"1",
+	 "搜索链接前缀":"https://shayug.shayusp.fun/play/",
+     "搜索链接后缀":"-1-1.html",
+	"搜索url": "https://shayug.shayusp.fun/search/{wd}----------{pg}---.html",
 	"搜索后缀":"/play/",  
 	"分类url":"https://shayug.shayusp.fun/mv/{cateId}-{catePg}.html"}},
 	
@@ -719,7 +695,7 @@
 	  "副标题":"class=\"ml6\">&&</span>",
       "链接":"href=\"&&\"",
       "搜索url":"https://niba.site/vod/search.html?wd={wd}",
-	   "直接播放":"1",
+	  "直接播放":"1",
     "分类":"午夜情色$1#视频二区$2",
     "剧情": "国产情色$国产情色#日本无码$日本无码#AV明星$AV明星#中文字幕$中文字幕||国产自拍$国产自拍#主播诱惑$主播诱惑#探花约炮$探花约炮#偷拍偷窥$偷拍偷窥#网曝吃瓜$网曝吃瓜#传媒剧情$传媒剧情#抖阴短片$抖阴短片#日韩无码$日韩无码#中文字幕$中文字幕#AV解说$AV解说#强奸乱伦$强奸乱伦#女优明星$女优明星",
    "分类url": "https://niba.site/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
