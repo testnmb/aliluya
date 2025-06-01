@@ -4,6 +4,41 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+     
+     { "key": "seajav视频","name": "seajav视频",
+       "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"直接播放":"1",
+     "站名":"seajav视频",
+    "主页url":"https://seajav.com/",
+    "热门推荐":"",
+    "起始页":"1",
+    "数组":"class=\"thumbnail group&&</div>",
+    "图片":"src=\"&&\"",
+    "标题":"alt=\"&&\"",
+    "链接":"href=\"&&\"",
+    //"线路数组":"<div class=\"module-tab-item tab-item selected\"&&</div>",
+   //"线路标题":"<span>&&</span>",
+   "搜索url":"https://seajav.com/search.html?wd={wd}",
+    "搜索模式":"1",
+    "搜索数组":"class=\"thumbnail group&&</div>",
+    "搜索图片":"src=\"&&\"",
+    "搜索标题":"alt=\"&&\"",
+     "搜索链接":"href=\"&&\"",
+    //"搜索后缀":"/video/",
+   //"搜索链接前缀":"https://seajav.com",
+   //"搜索链接后缀":"-1-1.html",
+
+   "免嗅":"1",
+   "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+   "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
+   "分类": "国产传媒$6#国产自拍$21#解说$24#中文$8#有码/无码$7#人妻制服$14#女优萝莉$15#巨乳高潮$17#亚洲伦理$10#欧美肉番$5#色情动漫$12#AI扮演$11#SM调教$26#强奸乱伦$27#变态捆绑$28#男同女同$29#其他重口$30",
+    "分类url":"https://seajav.com/categories/{cateId}-{catePg}.html"
+      }},
+
+
+
+
       { "key": "九色视频","name": "九色👗视频",
        "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -395,9 +430,7 @@
       "标题":"title=\"&&\"",
 	  "副标题":"class=\"added\">&&</span>",
       "链接":"href=\"&&\"",
-	   "简介": "<p>中文字幕<br/>&&<br/>",
-	   "番号": "<br/>【番號】︰&&<br/>",
-	   "主角": "<br/>【主角】︰&&<br/>",
+	  "简介": "<div class=\"embed-responsive embed-responsive-16by9\">&&</div>",
       "搜索url":"https://www.444.coffee/?post_type=post&s={wd}",
 	  "直接播放":"1",
      "分类":"中文字幕$中文字幕",
