@@ -670,6 +670,7 @@
 	  "副标题":"class=\"ml6\">&&</span>",
       "链接":"href=\"&&\"",
       "搜索url":"https://shayuav.xyz/vod/search/page/{pg}/wd/{wd}",
+	  "搜索模式": "1", 
       "搜索数组": "<posts class=\"posts-item&&</posts>",
       "搜索图片": "data-src=\"&&\"",
       "搜索标题": "alt=\"&&\"",
