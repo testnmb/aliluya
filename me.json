@@ -138,7 +138,7 @@
 	   "播放链接": "href=\"&&\"",
 	    "搜索链接前缀":"https://shayug.shayusp.fun/vodplay/",
        "搜索链接后缀":"-1-1.html",
-	     "搜索后缀":"/vodplay/",
+	    //"搜索后缀":"/vodplay/",
 	    "搜索模式":"1",
         "搜索url":"https://www.129av.app/vodsearch/{wd}/page/{pg}.html",
        "分类url": "https://www.129av.app/vodtype/{cateId}-{catePg}.html",
