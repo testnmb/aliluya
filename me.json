@@ -1744,6 +1744,7 @@
        "副标题": "<div align=\"left\">&&</div>",
        "链接": "href=\"&&\"",
        "直接播放":"1",
+	    "搜索模式":"1",
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	    "搜索后缀":"/index.php/vod/play/id/",
       "搜索链接前缀":"https://tanspastudio.cfd/",
