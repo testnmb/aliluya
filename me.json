@@ -1814,6 +1814,26 @@
       } },		
 
 
+     {"key": "爱奇遇","name": "🛏iqiyu爱奇遇🛏",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<a class=\"thumbnail&&</li>", 
+	"图片": "src=\"&&\"", 
+	  "标题": "alt=\"&&\"", 
+	"副标题": "<p>&&</p>", 
+	 "链接": "href=\"&&\"",
+	"直接播放":"1", 
+	"嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	"跳转播放链接": "var player_aaaa*url\":\"&&\"",
+	"搜索模式": "1", 
+	 "分类数组": "<a&&</a>",
+     "分类标题": ">&&<",
+     "分类ID": "/type/&&.html",
+	"搜索url": "https://www.yongjiuav.fun/vodsearch/-------------.html?wd={wd}",
+	"搜索链接前缀":"https://www.yongjiuav.fun/play/",
+     "搜索链接后缀":"-1-1.html",
+	"分类url":"https://www.yongjiuav.fun/type/{cateId}-{catePg}.html"}},
+	
      
 
 
@@ -1832,7 +1852,7 @@
 	 "分类数组": "<a&&</a>",
      "分类标题": ">&&<",
      "分类ID": "/shenma/&&.html",
-	"搜索url": "https://91gcav.fun/search/-------------.html?wd={wd}",
+	"搜索url": "https://91gcav.fun/vodsearch/-------------.html?wd={wd}",
 	"搜索链接前缀":"https://91gcav.fun/play/",
      "搜索链接后缀":"-1-1.html",
 	"分类url":"https://91gcav.fun/shenma/{cateId}-{catePg}.html"}},
