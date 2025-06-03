@@ -1800,7 +1800,7 @@
         "分类标题": ">&&<",
         "分类ID": "/pang/&&.html",
         "搜索模式": "1",
-		"搜索url": "https://www.panghuhu.fun/vodsearch/-------------.html?wd={wd}"
+		"搜索url": "https://www.panghuhu.fun/vodsearch/-------------.html?wd={wd}",
 	    "搜索链接前缀":"https://www.panghuhu.fun/hu/",
         "搜索链接后缀":"-1-1.html",
 		"数组": "<dl>&&</dl>",
