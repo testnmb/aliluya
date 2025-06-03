@@ -4,7 +4,56 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
-     
+      { "key": "五狼影视","name": "五狼🐺影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1, "filterable": 1,
+      "ext": {"主页url": "https://www.qqwwee.click/",
+       "数组": "class=\"video-pic loading\"&&</a>",
+       "标题": "title=\"&&\"",
+       "图片": "<img class=\"content-img lazy\" data-original=\"&&\"",
+       "副标题": "date-text-bg text-bg-r\">&&</p>",
+       "链接":"href=\"&&\"",
+	   	"播放数组": "<div class=\"item line\">&&</div>",
+	    "播放标题": ">&&</",
+		"播放链接": "href=\"&&\"",
+		"播放列表": "<a&&a>",
+	   "搜索模式": "1", 
+	   "搜索后缀":"/voddetail/",
+	   "搜索url": "https://www.wulangys.top/vodsearch/{wd}----------{pg}---/",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+       "分类url": "https://www.wulangys.top/vodtype/{cateId}-{catePg}/",
+       "分类数组": "<a&&/a>",
+       "分类标题": ">&&<",
+       "分类ID": "/vodtype/&&/"
+      }},
+
+
+
+   
+
+
+      {"key": "唯美视频","name": "✂️唯美视频✂️",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1, "quickSearch": 1,"filterable": 1,
+      "ext": {"数组": "\"item\"&&\"item\"",
+     "图片":"data-original=\"&&\"",
+      "标题":"title=\"&&\"",
+	  "副标题":"<em>&&</em>",
+      "链接":"href=\"&&\"",
+	  "搜索模式": "1", 
+     "搜索url":"https://wmmv.weimei.lol/vod/search/page/{pg}/wd/{wd}.html",
+	 "搜索数组": "\"item\"&&\"pagination\"",
+     "搜索标题": "title=\"&&\"",
+	 "搜索副标题":"<em>&&</em>",
+     "搜索图片": "data-original=\"&&\"",
+     "搜索链接": "href=\"&&\"",
+	 "直接播放":"1",
+    "分类":"骑兵视频$1#传媒剧情$15#中文字幕$3#解说视频$4#探花极品$7#国产大制作$6",
+    "分类url": "https://wmmv.weimei.lol/type/{cateId}-{catePg}.html"}},
+	 
+	 
+	 
+	 
    
 
       { "key": "九色视频","name": "九色👗视频",
@@ -21,14 +70,12 @@
 	   "搜索url": "https://www.lvsemianfeiav.my/index.php/vod/search/page/{pg}/wd/{wd}.html",
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
        "分类url": "https://www.lvsemianfeiav.my/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "剧情AV$6#国内AV$7#女优AV$8#明星AV$9#制服AV$11#三级AV$12"
-      }},
+       "分类": "剧情AV$6#国内AV$7#女优AV$8#明星AV$9#制服AV$11#三级AV$12"}},
   
       {"key": "FFY4.COM - 飞飞影视","name": "飞飞♠️影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
-      "ext": {
-       "数组":"<li class=\"p1\">&&</li>",
+      "ext": {"数组":"<li class=\"p1\">&&</li>",
        "图片":"data-original=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
@@ -47,8 +94,7 @@
 	    "搜索副标题": "<span class=\"tpsj\">&&</span>",
         "搜索url":"https://aunzwus8.ffy4.sbs/index.php/vod/search.html?wd={wd}",
        "分类url": "https://aunzwus8.ffy4.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "亚洲日韩$1#中文字幕$2#偷拍自拍$4"
-      }},
+        "分类": "亚洲日韩$1#中文字幕$2#偷dao自拍$4"}},
 
        {"key": "887517.xyz-a","name": "幸福⛽️加油站A版",
       "type": 3,"api": "csp_XBPQ",
@@ -73,8 +119,7 @@
         "类型": "国产视频$95#香蕉精品$96#清纯少女$97#辣妹大奶$98#素人专区$100#角色扮演$101#人妻熟女$102#日韩剧情$103#经典伦理$104#制服诱惑$105||一本道$112#FC2专区$113#中文字幕$114#无码破解$115#国产传媒$116#日韩有码$117
 			素人有码$118#HEYZO系列$71#人妻斩$94||制服丝袜$20#美颜巨乳$21#素人颜出$22#中字有码$23#FC2专区$24#Onlyfans$25#调教SM$27#日韩有码$28#自拍偷拍$29#国产传媒$31||
 			日本素人$59#日韩流畅$60#欧美流畅$61#国产流畅$62#日本有码$38||国产自拍$7#华语传媒$9#日韩无码$11#日韩中字$10||空",
-        "分类": "香蕉视频$70#日本精品$78#熊猫仓库$3#流畅资源$13#高清资源$1#中文字幕$4"
-      }},
+        "分类": "香蕉视频$70#日本精品$78#熊猫仓库$3#流畅资源$13#高清资源$1#中文字幕$4" }},
 	
 
         {"key": "887517.xyz-B","name": "幸福⛽️加油站B版",
@@ -93,13 +138,12 @@
 	   "播放链接": "href=\"&&\"",
 	    "搜索模式":"1",
         "搜索url":"https://887517.xyz/vodsearch/-------------.html?wd={wd}&submit=",
-		 "搜索后缀":"/voddetail/",
+       "搜索后缀":"/voddetail/",
        "分类url": "https://887517.xyz/vodshow/{cateId}--{by}-{class}-----{catePg}---.html",
-	     "分类": "久草视频$77#91茄子$76#国产仓库$79#私房资源$124#中文字幕$4",
+	    "分类": "久草视频$77#91茄子$76#国产仓库$79#私房资源$124#中文字幕$4",
 	   "排序": "时间$time#人气$hits#评分$score",
 	   "剧情": "JK制服$JK制服#国产自拍$国产自拍#华人传媒$华人传媒#中文字幕$中文字幕#日韩无码$日韩无码#精品AV解说$精品AV解说||日本AV$日本AV#精品国产$精品国产#巨乳大奶$巨乳大奶#麻豆传媒$麻豆传媒#丝袜美腿$丝袜美腿#蜜桃传媒$蜜桃传媒||
-			国产传媒$国产传媒#有码中字$有码中字#无码中字$无码中字||华语传媒$华语传媒#国产自拍$国产自拍#日韩精品$日韩精品||空"
-  }},
+			国产传媒$国产传媒#有码中字$有码中字#无码中字$无码中字||华语传媒$华语传媒#国产自拍$国产自拍#日韩精品$日韩精品||空"}},
 	  
     
 
@@ -121,10 +165,8 @@
 		"播放列表": "<li&&</li>",
 	    "搜索模式":"1",
         "搜索url":"https://qkav.xyz/index.php/vod/search.html?wd={wd}&submit=",
-	
        "分类url": "https://qkav.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "日韩步兵$22#亚洲骑兵$21#中文字幕$20#其他作品$24"
-      }},
+        "分类": "日韩步兵$22#亚洲骑兵$21#中文字幕$20#其他作品$24"}},
 	  
 	  
 	  
@@ -141,16 +183,12 @@
 	    "播放列表": "<a&&a>",
 	    "播放标题": ">&&</",
 	   "播放链接": "href=\"&&\"",
-	    "搜索链接前缀":"https://shayug.shayusp.fun/vodplay/",
+	   "搜索链接前缀":"https://www.129av.app/vodplay/",
        "搜索链接后缀":"-1-1.html",
-	    "搜索模式":"1",
-        "搜索url":"https://www.129av.app/vodsearch/{wd}/page/{pg}.html",
+	   "搜索模式":"1",
+       "搜索url":"https://www.129av.app/vodsearch/{wd}/page/{pg}.html",
        "分类url": "https://www.129av.app/vodtype/{cateId}-{catePg}.html",
-	    //"分类数组": "<a&&</a>",
-       //"分类标题": "<p>&&</p>",
-       // "分类ID": "/vodtype/&&.html"
-        "分类": "日韩步兵$9#亚洲骑兵$10#🀄️字$14#国产精品$6#制服$18#国产自拍$7#美乳$21#熟女$16#潮吹$20#不道德$17#萝莉$19#三级$12"
-      }},
+       "分类": "日韩步兵$9#亚洲骑兵$10#中文字幕$14#制服丝袜$18#国产自拍$7#美乳好乳$21#熟女人妻$16#潮吹$20#不道德$17#少女萝莉$19#三级伦理$12"}},
 	
 	  	 {"key": "11av.app","name": "🎈十一影视🎈",
       "type": 3,"api": "csp_XBPQ",
@@ -187,7 +225,7 @@
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
 	    "副标题": "<span>&&</span>",
-        "简介":"小撸怡情，大撸伤身🔥",
+        "简介":"🔥小撸怡情🔥大撸伤身🔥",
 	   "播放数组":"<ul class=\"nav nav-tabs active &&</ul>[排序:高清>超清>1080p]",
 	    "线路数组":"<ul class=\"nav nav-tabs active &&</ul>",
 	    "线路标题": ">小三<",
@@ -201,8 +239,7 @@
        "分类url": "https://www.3av.co/vodtype/{cateId}-{catePg}.html",
 	    "分类数组": "<a&&</a>",
        "分类标题": ">&&</",
-        "分类ID": "/vodtype/&&.html"
-      }},
+        "分类ID": "/vodtype/&&.html"}},
 	  
 	  
 	  
@@ -310,18 +347,15 @@
 	  
       {"key": "蒂娜影视","name": "蒂娜🌽影视️",
       "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,"quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "数组": "\"thmbclck\"&&\"thmbclck\"",
-     "图片":"src=\"&&\"",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": { "数组": "\"thmbclck\"&&\"thmbclck\"",
+      "图片":"src=\"&&\"",
       "标题":"alt=\"&&\"",
       "链接":"href=\"&&\"",
       "搜索url":"https://dina9988.vip/index.php/vod/search.html",
 	  "直接播放":"1",
-   "分类":"国产视频$11#日本视频$21#三级视频$71",
-   "分类url":"https://dina9988.vip/index.php/vod/type/id/{cateId}/by/{by}/page/{catePg}.html"
-      }},
+     "分类":"国产视频$11#日本视频$21#三级视频$71",
+     "分类url":"https://dina9988.vip/index.php/vod/type/id/{cateId}/by/{by}/page/{catePg}.html"}},
  
 
 	  {"key": "OWOAV视频","name": "🍂OWO🍂",
@@ -385,8 +419,7 @@
      "搜索链接": "href=\"&&\"",
 	 "直接播放":"1",
     "分类":"骑兵视频$47#步兵视频$48#中文字幕$49#熟女人妻$82#巨乳美乳$84#不道德$83#制服师生$85#丝袜美腿$86#少女萝莉$87",
-   "分类url": "https://1wl6r2ky.ppbzhao.buzz/index.php/vodtype/{cateId}-{catePg}.html"
-      }},
+    "分类url": "https://1wl6r2ky.ppbzhao.buzz/index.php/vodtype/{cateId}-{catePg}.html"}},
 
   
 
@@ -1338,9 +1371,6 @@
       }},
   
  
-	  
-	  
- 
   
     	  
      {"key":"火焰世界", "name":"火焰🔥世界",
@@ -1400,22 +1430,11 @@
 	"分类url":"https://33.creatchina.com/tag.php?id={cateId}&page={catePg}"
 	}},
   
-    
-	
-  
-    
-	 
-	 
-  
-  
-  
-  
+   
    
       { "key": "javday.app","name": "javday💰app",
       "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://javday.app/label/new/",
        "数组": "class=\"col-style d-4 m-2 lazy loaded\"&&</a>",
        "标题": "<span class=\"title\">&&</span>",
@@ -1429,8 +1448,7 @@
        "搜索链接后缀":".html",
        "分类url": "https://javday.app/{cateId}/page/{catePg}/",
 	    "分类": "新作上市$category/new-release#骑兵$category/censored#國產AV$category/chinese-av#步兵$category/uncensored-leaked#糖心VLOG$category/txvlog#蘿莉社$category/luolisheus#HongKongDoll$category/hongkongdoll"
-        
-      }},
+         }},
   
   
   
@@ -1450,8 +1468,7 @@
 		 "搜索模式": "1", 
        "直接播放":"1",
        "分类url": "https://www.kiss99.cc/category/{cateId}/page/{catePg}/",
-        "分类": "日本同步$jpav#中文字幕$subtitle#台灣女優$twav#台灣自拍$amateur"
-      }},
+        "分类": "日本同步$jpav#中文字幕$subtitle#台灣女優$twav#台灣自拍$amateur"}},
   
      
 	 
@@ -1464,12 +1481,11 @@
        "图片": "src=\"&&\"",
        "副标题":"class=\"post-date\"><a href=\"*\">&&</a>",
        "链接": "href=\"&&\"",
-	    "搜索url": "https://www.jav777.xyz/?s={wd}",
-		 "搜索模式": "1", 
+	   "搜索url": "https://www.jav777.xyz/?s={wd}",
+	  "搜索模式": "1", 
       "直接播放":"1",
        "分类url": "https://www.jav777.xyz/category/{cateId}/page/{catePg}/",
-        "分类": "字幕あり$字幕あり"
-      }},
+       "分类": "字幕あり$字幕あり"}},
   
  
     
@@ -1498,8 +1514,7 @@
 	    "搜索模式":"1",
         "搜索url":"https://motv.app/vodsearch/-------------/?wd={wd}",
        "分类url": "https://motv.app/vodshow/{cateId}--{by}------{catePg}---/",
-        "分类": "HD步兵$51#HD欧美$52#骑兵$20#日本步兵$50#欧美风情$25#国产原创$41#水果解说$35#雜燴(字幕不全)$30#经典4️⃣4️⃣ $47"
-      }},
+        "分类": "HD步兵$51#HD欧美$52#骑兵$20#日本步兵$50#欧美风情$25#国产原创$41#水果解说$35#雜燴(字幕不全)$30#经典4️⃣4️⃣ $47"}},
 	
   
    
@@ -1523,8 +1538,7 @@
 		"跳转解析":"https://play.dadiapi.com/watch?url=",
        "直接播放":"1",
        "分类url": "https://www.qinav.com/home/site-{cateId}-{catePg}.html",
-        "分类": "一站$1#二站$2#三站$3#四站$4#五站$5#六站$6#七站$7#八站$8#九站$9#十站$10"
-      }},
+        "分类": "一站$1#二站$2#三站$3#四站$4#五站$5#六站$6#七站$7#八站$8#九站$9#十站$10"}},
   
   
   
@@ -1550,8 +1564,7 @@
         "分类ID": "/type/id/&&.html",
 		"跳转播放链接": "var playUrl=\'&&\'",
         "直接播放": "1",
-         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
-      }},
+         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"}},
  
  
       {"key": "好莱污A","name": "好莱坞🚽影院A版",
@@ -1593,8 +1606,7 @@
         "分类ID": "/type/&&.html",
 		"跳转播放链接": "var playUrl=\'&&\'",
         "直接播放": "1",
-         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
-      }},
+         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"}},
  
  
  
@@ -1715,7 +1727,6 @@
 	"图片": "src=\"&&\"", 
 	  "标题": "alt=\"&&\"", 
 	"副标题": "<p>&&</p>", 
-	
      "链接": "https://www.zuixinav.shop/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
 	"直接播放":"1", 
 	"搜索模式": "1", 
@@ -1740,8 +1751,7 @@
        "直接播放":"1",
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
        "分类url": "https://www.cztv1419.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "步兵$35#骑兵$34#🀄️字$33#素人$36#怀旧$39#解说$40#探花$8"
-      }},
+        "分类": "步兵$35#骑兵$34#🀄️字$33#素人$36#怀旧$39#解说$40#探花$8"}},
   
   
         { "key": "春凤楼视频","name": "春凤🪁影视",
@@ -1764,33 +1774,13 @@
 	   "分类数组": "<a&&</a>",
         "分类标题": ">&&<",
         "分类ID": "/index.php/vod/type/id/&&.html",
-       "分类url": "https://tanspastudio.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-       
-      }},
+       "分类url": "https://tanspastudio.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
   
   
   
-    { "key": "猛男专属","name": "猛男📱专属",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://wwww.69av.my/",
-       "数组": "class=\"video-pic loading\"&&</a>",
-       "标题": "title=\"&&\"",
-       "图片": "data-original=\"&&\"",
-       "副标题": "note text-bg-r\">&&<",
-       "链接": "/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
-       "直接播放":"1",
-	   "搜索模式": "1", 
-	   "搜索url": "https://wwww.69av.my/index.php/vod/search.html?wd={wd}",
-	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-       "分类url": "https://wwww.69av.my/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "国产传媒$1#🀄️字$5#日韩$12#精选$4#女优$3#偷拍$9"
-      }},
-  
+
     
-	   { "key": "胖虎视频","name": "胖虎🐯影院",
+	   {"key": "胖虎视频","name": "胖虎🐯影院",
       "type": 3,"api": "csp_XBPQ",
       "ext": {"主页url": "https://www.panghuhu.fun/",
 	    "备用1url": "https://hu.panghuhu.fun/",
@@ -1809,16 +1799,12 @@
         "图片": "data-src=\"&&\"",
 		"副标题": "<i>&&</i>",
 		"链接": "href=\"&&\"",
-		"嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-		"跳转播放链接": "var player_aaaa*url\":\"&&\"",
 		"线路数组": "<div class=\"ptop\">&&div>",
 	    "线路标题": "&&</",
 	    "播放数组": "<div class=\"ptop\">&&</div><style>",
         "播放列表": "<a&&a>",
 	    "播放标题": ">&&</",
-	   "播放链接": "href=\"&&\""
-       // "直接播放":"1"
-      } },		
+	   "播放链接": "href=\"&&\""}},		
 
 
      {"key": "爱奇遇","name": "🛏iqiyu爱奇遇🛏",
