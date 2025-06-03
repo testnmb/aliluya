@@ -2851,7 +2851,6 @@
 		// "链接": "/dmnplay/+href=\"/dmndetail/&&.html\"+-1-1.html",
 		 "直接播放": "1",
 		 "链接":"href=\"&&\"[替换:dmndetail>>dmnplay#.html>>-1-1.html]",
-		  "链接": "href=\"&&\"",
          "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 		"跳转播放链接":"var player_*\"url\":\"&&\"",
         "搜索url": "https://dmnio.com/dmnsearch/{wd}----------{pg}---.html",
