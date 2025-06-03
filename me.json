@@ -5,10 +5,7 @@
 "sites":[
 
      
-    
-
-
-
+   
 
       { "key": "九色视频","name": "九色👗视频",
        "type": 3,"api": "csp_XBPQ",
@@ -35,10 +32,10 @@
        "图片":"data-original=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
-	    "副标题": "<span class=\"tpsj\">&&</span>",
+	   "副标题": "<span class=\"tpsj\">&&</span>",
 	   "简介":"撸一撸，注意身体！！",
-	    "搜索模式":"1",
-		"播放数组二次截取":"class=\"playlist&&</div>",
+	   "搜索模式":"1",
+	   "播放数组二次截取":"class=\"playlist&&</div>",
 		"播放数组": "<ul>&&</ul>",
 	    "播放标题": "title=\"线路&&\"",
 		"播放链接": "href=\"&&\"",
@@ -47,11 +44,8 @@
        "搜索图片":"data-original=\"&&\"",
        "搜索链接": "href=\"&&\"",
        "搜索标题": "title=\"&&\"",
-	     "搜索副标题": "<span class=\"tpsj\">&&</span>",
+	    "搜索副标题": "<span class=\"tpsj\">&&</span>",
         "搜索url":"https://aunzwus8.ffy4.sbs/index.php/vod/search.html?wd={wd}",
-      // "搜索后缀":"/index.php/vod/play/id/",
-      // "搜索链接前缀":"https://aunzwus8.ffy4.sbs",
-      // "搜索链接后缀":"/sid/1/nid/1.html",
        "分类url": "https://aunzwus8.ffy4.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
         "分类": "亚洲日韩$1#中文字幕$2#偷拍自拍$4"
       }},
@@ -72,7 +66,7 @@
 	   "播放链接": "href=\"&&\"",
 	    "搜索模式":"1",
         "搜索url":"https://887517.xyz/vodsearch/-------------.html?wd={wd}&submit=",
-		  "搜索后缀":"/voddetail/",
+		 "搜索后缀":"/voddetail/",
        "分类url": "https://887517.xyz/vodshow/{cateId}--{by}------{catePg}---.html",
 	   "排序": "时间$time#人气$hits#评分$score",
 	   "筛选": "1",
@@ -193,10 +187,10 @@
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
 	    "副标题": "<span>&&</span>",
-       "简介":"飞机被打啦,打下来撸一撸",
+        "简介":"小撸怡情，大撸伤身🔥",
 	   "播放数组":"<ul class=\"nav nav-tabs active &&</ul>[排序:高清>超清>1080p]",
 	    "线路数组":"<ul class=\"nav nav-tabs active &&</ul>",
-	    "线路标题": ">✈️打飞机✈️<",
+	    "线路标题": ">小三<",
 	    "播放列表": "<a&&a>",
 	    "播放标题": ">&&</",
 	   "播放链接": "href=\"&&\"",
@@ -267,7 +261,7 @@
 
 
 
-     {"key": "兴趣院","name": "兴趣⬛️影视","type": 3,
+     {"key": "兴趣院","name": "⚽️兴趣影视⚽️","type": 3,
     "api": "csp_XBPQ","style": {"ratio": 1.7},
 	"ext": { "发布页url": "https://www.fxy222.top/index.html?timestamp=1748605011806
 	https://fxy333.top/index.html?timestamp=1748605063580  找回邮箱：qiqiwuqi7757@gmail.com",
@@ -290,30 +284,10 @@
     "分类url": "https://x1.xingqu6.top/vodshow/{cateId}--{by}------{catePg}---.html"}},
 
 
-     {"key": "sebaa.mom","name": "SEBAA😮‍💨影院",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { "主页url": "https://www.sebaa.mom/", 
-	"数组": "<a class=\"thumbnail&&</li>", 
-	"图片": "src=\"&&\"", 
-	 "标题": "ait=\"&&\"",
-	"副标题": "<p>&&</p>",  
-	 "分类数组": "<a&&a>",
-     "分类标题": ">&&</",
-     "分类ID": "/index.php/vod/type/id/&&.html",
-	"线路数组":"<ul class=\"detail-play-list&&</ul>",
-    "播放数组":"<ul class=\"detail-play-list&&</ul>",
-    "播放列表":"<a&&/a>",
-    "播放标题":">&&<",
-    "播放链接":"href=\"&&\"",
-	"搜索模式": "1", 
-	"搜索url": "https://www.sebaa.mom/index.php/vod/search.html?wd={wd}",
-	"分类url":"https://www.sebaa.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
-	    
-
 
 
        
-   {"key": "桃源AV","name": "桃🍑源影视","type": 3,
+   {"key": "桃源AV","name": "🍑桃源影视🍑","type": 3,
     "api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
     "主页url": "https://tyav8.cfd/",
     "数组": "class=\"myui-vodlist__box&&</div>",
@@ -373,7 +347,7 @@
         "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.qavav.my/",
-	  
+	    
        "数组": "class=\"video-pic loading\"&&</table>",
        "标题": "title=\"&&\"",
 	   "副标题": "<div align=\"left\">&&</div>",
@@ -385,6 +359,7 @@
        "分类url": "https://www.qavav.my/index.php/vod/type/id/{cateId}/page/{catePg}.html",
 	    "分类":"国产传媒$1#女友在线$3#精选视频$4#中文字幕$5#探花$12#精品日韩$2#欧美激情$13#重口激情$14",
         "直接播放": "1",
+		 "搜索模式": "1", 
         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
       }},
  
@@ -392,7 +367,7 @@
     
 
 
-      {"key": "亚洲AV攻略","name": "亚洲👰攻略",
+      {"key": "亚洲AV攻略","name": "🌍亚洲攻略🌍",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -403,9 +378,12 @@
       "标题":"title=\"&&\"",
 	  "副标题":"<em>&&</em>",
       "链接":"href=\"&&\"",
-      "搜索url":"https://1wl6r2ky.ppbzhao.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
+	  "搜索模式": "1", 
+     "搜索url":"https://1wl6r2ky.ppbzhao.buzz/index.php/vodsearch/{wd}----------{pg}---.html",   
+     "搜索链接前缀":"https://1wl6r2ky.ppbzhao.buzz/index.php/vodplay/",
+     "搜索链接后缀":"-1-1.html",
 	  "直接播放":"1",
-    "分类":"有码视频$47#无码视频$48#中文字幕$49#熟女人妻$82#巨乳美乳$84#强奸乱伦$83#制服师生$85#丝袜美腿$86#少女萝莉$87",
+    "分类":"骑兵视频$47#步兵视频$48#中文字幕$49#熟女人妻$82#巨乳美乳$84#不道德$83#制服师生$85#丝袜美腿$86#少女萝莉$87",
    "分类url": "https://1wl6r2ky.ppbzhao.buzz/index.php/vodtype/{cateId}-{catePg}.html"
       }},
 
@@ -632,7 +610,7 @@
 	  "副标题":"<em>&&</em>",
       "链接":"href=\"&&\"",
       "搜索url":"https://jvod.xyz/vod/search/?wd={wd}",
-	//"搜索后缀":"/vod/play/id/",
+	
       "搜索链接前缀":"https://jvod.xyz/vod/play/id/",
       "搜索链接后缀":"/sid/1/nid/1.html",
 	  "搜索模式": "1",
@@ -1814,13 +1792,17 @@
 	   { "key": "胖虎视频","name": "胖虎🐯影院",
       "type": 3,"api": "csp_XBPQ",
       "ext": {"主页url": "https://www.panghuhu.fun/",
-        "分类url": "https://vwzla77x.panghusp.fun/pang/{cateId}-{catePg}/",
+	    "备用1url": "https://hu.panghuhu.fun/",
+		"备用2url": "https://pang.panghu1.fun/",
+		"备用3url": "https://www.panghu1.fun/",
+        "分类url": "https://www.panghuhu.fun/pang/{cateId}-{catePg}/",
 	    "分类数组": "<a&&</a>",
         "分类标题": ">&&<",
         "分类ID": "/pang/&&.html",
         "搜索模式": "1",
-		"搜索url": "https://vwzla77x.panghusp.fun/vodsearch/-------------.html?wd={wd}",
-		"搜索后缀": "/hu/",
+		"搜索url": "https://www.panghuhu.fun/vodsearch/-------------.html?wd={wd}"
+	    "搜索链接前缀":"https://www.panghuhu.fun/hu/",
+        "搜索链接后缀":"-1-1.html",
 		"数组": "<dl>&&</dl>",
         "标题": "<h3>&&</h3>",
         "图片": "data-src=\"&&\"",
@@ -1832,7 +1814,10 @@
       } },		
 
 
-	  {"key": "夜色资源网","name": "夜色🌃影院",
+     
+
+
+	  {"key": "国产视频站","name": "🪟91国产视频站🪟",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { 
 	"数组": "<a class=\"thumbnail&&</li>", 
@@ -1847,11 +1832,32 @@
 	 "分类数组": "<a&&</a>",
      "分类标题": ">&&<",
      "分类ID": "/shenma/&&.html",
-	"搜索url": "https://se.yesezyw.fun/search/-------------.html?wd={wd}",
-	"分类url":"https://se.yesezyw.fun/shenma/{cateId}-{catePg}.html"}},
+	"搜索url": "https://91gcav.fun/search/-------------.html?wd={wd}",
+	"搜索链接前缀":"https://91gcav.fun/play/",
+     "搜索链接后缀":"-1-1.html",
+	"分类url":"https://91gcav.fun/shenma/{cateId}-{catePg}.html"}},
 	
 	
 	
+   {"key": "91在线","name": "🔔91在线🔔",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<a class=\"thumbnail&&</li>", 
+	"图片": "src=\"&&\"", 
+	  "标题": "alt=\"&&\"", 
+	"副标题": "<p>&&</p>", 
+	 "链接": "href=\"&&\"",
+	"直接播放":"1", 
+	"嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	"跳转播放链接": "var player_aaaa*url\":\"&&\"",
+	"搜索模式": "1", 
+	 "分类数组": "<a&&</a>",
+     "分类标题": ">&&<",
+     "分类ID": "/shenma/&&.html",
+	"搜索url": "https://91zaixian.fun/search/-------------.html?wd={wd}",
+	"搜索链接前缀":"https://91zaixian.fun/play/",
+     "搜索链接后缀":"-1-1.html",
+	"分类url":"https://91zaixian.fun/shenma/{cateId}-{catePg}.html"}},
 	
 
 	
@@ -2257,17 +2263,14 @@
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1" }},
 	  
-
-   	   { "key": "今日热门",
-      "name": "今日🔥热门",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://e5f6g7h8.mnsq18.buzz/vodtype/{cateId}-{catePg}/",
-	    
+   
+   	   { "key": "不伦片库",  "name": "🔥不伦片库🔥",
+      "type": 3,"api": "csp_XBPQ",
+      "ext": {"分类url": "https://e5f6g7h8.mnsq18.buzz/vodtype/{cateId}-{catePg}/",
 		"分类": "国产精品$71#华语AV$64#黑料吃瓜$69#学生集合$65#探花$70#主播网红$68#乱伦精品$67#必射精品$3#日本有码$43#中文字幕$41#国产视频$40#强奸乱伦$46#日本🈚️🐎$44#国产传媒$42#制服诱惑$47#AV解说$55#女友明星$52#网暴黑料$53",
         "搜索模式": "1",
 		"搜索url": "https://e5f6g7h8.mnsq18.buzz/vodsearch/-------------.html?wd={wd}",
+		 "搜索后缀":"/voddetail/",
         //"数组": "class=\"video-pic loading\"&&</a>[不包含:'+ myWord +']",
 		"数组": "<dl>&&</dl>",
         "标题": "<h3>&&</h3>",
@@ -2845,7 +2848,7 @@
 		
 	
 
-    { "key": "多米尼奥", "name": "🎦多米尼奥🎦",
+    { "key": "多米尼奥", "name": "🌟多米尼奥🌟",
       "type": 3, "api": "csp_XBPQ","searchable": 1,
       "quickSearch": 1, "filterable": 1,
       "ext": {"数组": "<div class=\"v-pic\">&&</li>",
@@ -2854,15 +2857,18 @@
        "简介": "description\" content=\"&&\"",
 		// "链接": "/dmnplay/+href=\"/dmndetail/&&.html\"+-1-1.html",
 		 //"直接播放": "1",
-		 "链接":"href=\"&&\"[替换:dmndetail>>dmnplay#.html>>-1-1.html]",
+		 //"链接":"href=\"&&\"[替换:dmndetail>>dmnplay#.html>>-1-1.html]",
+		  "链接": "href=\"&&\"",
          "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "线路数组":"<a href=\"javascript:zush&&a>",
-		"线路标题":">&&</",
-		"播放数组":"class=\"xjn_ul play-list\"&&</ul>",
+       
+		"播放数组":"<ul class=\"play_num_list clearfix&&</ul>",
 		"播放列表":"<a&&a>",
 		"跳转播放链接":"var player_*\"url\":\"&&\"",
-		"播放链接":"href=\"&&\"","播放标题":">&&</",
+		"播放链接":"href=\"&&\"",
+		"播放标题":">&&</",
         "搜索url": "https://dmnio.com/dmnsearch/{wd}----------{pg}---.html",
+		  "搜索模式": "1",
+		  "搜索后缀":"/dmndetail/",
         "分类url": "https://dmnio.com/dmnshow/{cateId}--{by}------{catePg}---.html;;z",
         "分类": "新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#素人视角$27#动漫卡通$28#名人系列$29"
       }},
@@ -2895,6 +2901,7 @@
   "数组":"<div class=\"card mb-0\">&&</a",
   "标题":"atl=\"&&\"",
   "副标题":"img-tag\">&&</div>",
+   "链接": "href=\"&&\"",
   "简介":"document.title=\'&&\'",
   "直接播放":"1",
   "搜索模式":"1",
