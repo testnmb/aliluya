@@ -369,9 +369,7 @@
 
       {"key": "亚洲AV攻略","name": "🌍亚洲攻略🌍",
       "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "searchable": 1, "quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://1wl6r2ky.ppbzhao.buzz/",
       "数组": "\"item\"&&\"item\"",
      "图片":"data-original=\"&&\"",
@@ -380,10 +378,12 @@
       "链接":"href=\"&&\"",
 	  "搜索模式": "1", 
      "搜索url":"https://1wl6r2ky.ppbzhao.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
-	  "搜索后缀":"/index.php/vodplay/",
-     "搜索链接前缀":"https://1wl6r2ky.ppbzhao.buzz",
-     "搜索链接后缀":"-1-1.html",
-	  "直接播放":"1",
+	 "搜索数组": "\"item\"&&\"pagination\"",
+     "搜索标题": "title=\"&&\"",
+	 "搜索副标题":"<em>&&</em>",
+     "搜索图片": "data-original=\"&&\"",
+     "搜索链接": "href=\"&&\"",
+	 "直接播放":"1",
     "分类":"骑兵视频$47#步兵视频$48#中文字幕$49#熟女人妻$82#巨乳美乳$84#不道德$83#制服师生$85#丝袜美腿$86#少女萝莉$87",
    "分类url": "https://1wl6r2ky.ppbzhao.buzz/index.php/vodtype/{cateId}-{catePg}.html"
       }},
@@ -1813,7 +1813,7 @@
 		"跳转播放链接": "var player_aaaa*url\":\"&&\"",
 		"线路数组": "<div class=\"ptop\">&&div>",
 	    "线路标题": "&&</",
-	    "播放数组": " <div class=\"ptop\">&&</div><style>",
+	    "播放数组": "<div class=\"ptop\">&&</div><style>",
         "播放列表": "<a&&a>",
 	    "播放标题": ">&&</",
 	   "播放链接": "href=\"&&\""
@@ -1832,6 +1832,7 @@
 	"直接播放":"1", 
 	"嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	"跳转播放链接": "var player_aaaa*url\":\"&&\"",
+	
 	"搜索模式": "1", 
 	"分类数组二次截取": "<dl>&&</dl>",
 	 "分类数组": "<a&&</a>",
@@ -1884,7 +1885,7 @@
      "分类标题": ">&&<",
      "分类ID": "/shenma/&&.html",
 	"搜索url": "https://91zaixian.fun/search/-------------.html?wd={wd}",
-	"搜索链接前缀":"https://91zaixian.fun/play/",
+	"搜索链接前缀":"https://91zaixian.fun/sm/",
      "搜索链接后缀":"-1-1.html",
 	"分类url":"https://91zaixian.fun/shenma/{cateId}-{catePg}.html"}},
 	
@@ -2212,9 +2213,7 @@
 	   "直接播放":"1"  }},
   
 	  
-	  
 
-	  
 	  
 	   
   
@@ -2253,13 +2252,9 @@
     },
  
  
-     {"key":"黄精影院",
-       "name":"黄精🌼影院",
-       "type":3,
-       "api":"csp_XBPQ",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
+     {"key":"黄精影院", "name":"黄精🌼影院",
+       "type":3,"api":"csp_XBPQ",
+       "searchable":1, "quickSearch":1,"filterable":1,
        "ext":{"数组":"vid_thumbainl\">&&</div>",
 	   "图片": "src=\"&&\"",
       "标题":"title=\"&&\"",
@@ -2273,13 +2268,9 @@
 	   "直接播放":"1" }},
   
    
-     {"key":"品茶影院",
-       "name":"品茶🍵影院",
-       "type":3,
-       "api":"csp_XBPQ",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
+     {"key":"品茶影院", "name":"品茶🍵影院",
+       "type":3,"api":"csp_XBPQ",
+       "searchable":1, "quickSearch":1,"filterable":1,
        "ext":{"数组":"resent-grid-img recommended-grid-img\">&&</div>",
 	   "图片": "src=\"&&\"",
       "标题":" alt=\"&&\"",
@@ -2300,12 +2291,16 @@
         "搜索模式": "1",
 		"搜索url": "https://e5f6g7h8.mnsq18.buzz/vodsearch/-------------.html?wd={wd}",
 		 "搜索后缀":"/voddetail/",
-        //"数组": "class=\"video-pic loading\"&&</a>[不包含:'+ myWord +']",
 		"数组": "<dl>&&</dl>",
         "标题": "<h3>&&</h3>",
         "图片": "data-original=\"&&\"",
-		"链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
-        "直接播放":"1"
+		"播放数组":"<main class=\"main11\"&&</main>",
+        "播放列表":"<a&&a>",
+        "播放链接":"href=\"&&\"",
+        "播放标题":">&&</"
+		
+		//"链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
+        //"直接播放":"1"
       } },		
 
    
@@ -2797,7 +2792,7 @@
     "简介": "description\" content=\"&&\"",
     "搜索模式": "1",
 	"搜索链接前缀":"https://o3p4q5r6.djyz51.buzz",
-     "搜索链接后缀":".html",
+    "搜索链接后缀":".html",
 	"搜索后缀":"/voddetail/",
     "搜索url": "https://o3p4q5r6.djyz51.buzz/vodsearch/-------------.html?wd={wd}",
     "分类url": "/vodtype/{cateId}-{catePg}.html",
@@ -2830,41 +2825,40 @@
 	
 	
 	
-	  { "key": "路透射","name": "📰路透社📰",
-            "type": 3,"api": "csp_XBPQ", "playerType": 2,
-            "searchable": 1, "quickSearch": 1,
-            "filterable": 1,
-            "ext": { "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
-                "副标题": "span class=\"pic-text text-right\">&&</p",
-                "线路名二次截取":"class=\"nav&&</ul>",
-                "线路数组":"data-toggle=\"tab\"&&/a>",
-                "线路名标题":">&&<",
-               "播放数组": "stui-content__playlist clearfix&&</ul>",
-	            "播放列表": "<a&&a>",
-	           "播放链接": "href=\"&&\"",
-	           "播放标题": ">&&</",
-	           "嗅探词": "index.m3u8",
-               
-                "搜索url": "https://lu-tou-she.381112.com/vod/search.html",
-                "分类数组": "<li&&</li>",
-                "分类标题": ">&&</a",
-                "分类ID": "/vod/type/id/&&.html",
-                "分类链接": "https://lu-tou-she.381112.com/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"
-            }},
+	   {"key": "路透射","name": "📰路透社📰",
+        "type": 3,"api": "csp_XBPQ", "playerType": 2,
+        "searchable": 1, "quickSearch": 1, "filterable": 1,
+        "ext": { "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
+        "副标题": "span class=\"pic-text text-right\">&&</p",
+        "线路名二次截取":"class=\"nav&&</ul>",
+        "线路数组":"data-toggle=\"tab\"&&/a>",
+       "线路名标题":">&&<",
+        "播放数组": "stui-content__playlist clearfix&&</ul>",
+	    "播放列表": "<a&&a>",
+	    "播放链接": "href=\"&&\"",
+	    "播放标题": ">&&</",
+	    "嗅探词": "index.m3u8",
+        "搜索url": "https://lu-tou-she.381112.com/vod/search.html",
+		 "搜索后缀": "/vod/detail/id/",
+		 "搜索模式": "1",
+        "分类数组": "<li&&</li>",
+        "分类标题": ">&&</a",
+        "分类ID": "/vod/type/id/&&.html",
+        "分类链接": "https://lu-tou-she.381112.com/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"
+         }},
   
   
   
 	  
-	  {"key": "omoav","name": "🏠OMO😍🏠","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {  
-       
-	  "主页url": "https://omoav.com/",  
+	  {"key": "omoav","name": "🏠OMO😍🏠","type": 3,
+	  "api": "csp_XBPQ","searchable":1,"quickSearch":1,
+	  "filterable":1,"ext": { "主页url": "https://omoav.com/",  
 	  "数组": "<div class=\"item thumb&&</a",  
 	  "图片": "data-original=\"&&\"",  
 	  "标题": "alt=\"&&\"",  
 	  "副标题": "class=\"icon-calendar\"&&</span>", 
 	  "简介": "description\" content=\"&&剧情", 
-	
-	    "链接": "https://omoav.com/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
+	   "链接": "https://omoav.com/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
 	  //"链接": "https://omoav.com/index.php/vod/play/id/&&/\"+/sid/1/nid/1.html", 
 	  "跳转播放链接": "urlDecode(var player_*url\":\"&&\")", 
 	  "搜索模式": "1", 
@@ -2891,9 +2885,14 @@
          "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 		"跳转播放链接":"var player_*\"url\":\"&&\"",
         "搜索url": "https://dmnio.com/dmnsearch/{wd}----------{pg}---.html",
-		  "搜索模式": "1",
-		  "搜索后缀":"/dmndetail/",
+		 "搜索数组": "<div class=\"item clearfix\">&&<div class=\"v-page clearfix\">",
+         "搜索图片": "src=\"&&\"",
+         "搜索标题": "alt=\"&&\"",
+         "搜索链接": "href=\"&&\"",
+		 "搜索模式": "1",
+		 "搜索后缀":"/dmndetail/",
         "分类url": "https://dmnio.com/dmnshow/{cateId}--{by}------{catePg}---.html;;z",
+		 "排序": "按更新$time#按人气$hits#按推荐$score",
         "分类": "新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#素人视角$27#动漫卡通$28#名人系列$29"
       }},
 		
