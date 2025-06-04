@@ -4,31 +4,6 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
-      { "key": "五狼影视","name": "五狼🐺影视",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,"quickSearch": 1, "filterable": 1,
-      "ext": {"数组": "class=\"video-pic loading\"&&</a>",
-       "标题": "title=\"&&\"",
-       "图片": "<img class=\"content-img lazy\" data-original=\"&&\"",
-       "副标题": "date-text-bg text-bg-r\">&&</p>",
-       "链接":"href=\"&&\"",
-	   "线路数组": "<div class=\"item line\">&&</div>",
-	    "线路标题": ">五狼<",
-	   	"播放数组": "<div class=\"item line\">&&</div>",
-	    "播放标题": ">&&</",
-		"播放链接": "href=\"&&\"",
-		"播放列表": "<a&&a>",
-	   "搜索模式": "1", 
-	   "搜索后缀":"/voddetail/",
-	   "搜索url": "https://www.wulangys.top/vodsearch/{wd}----------{pg}---/",
-	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-       "分类url": "https://www.wulangys.top/vodtype/{cateId}-{catePg}/",
-       "分类":"剧情片场$6#自拍$7#萝莉$8#制服$9#主播$10#伦理$11#中文字幕$20#无码专区$13#欧美性爱$17#强奸乱伦$14#巨型大奶$15#精品影视$16"}},
-
-
-
-   
-
 
       {"key": "唯美视频","name": "✂️唯美视频✂️",
       "type": 3,"api": "csp_XBPQ",
