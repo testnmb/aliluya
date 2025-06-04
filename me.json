@@ -7,12 +7,12 @@
       { "key": "五狼影视","name": "五狼🐺影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1, "filterable": 1,
-      "ext": {"主页url": "https://www.qqwwee.click/",
-       "数组": "class=\"video-pic loading\"&&</a>",
+      "ext": {"数组": "class=\"video-pic loading\"&&</a>",
        "标题": "title=\"&&\"",
        "图片": "<img class=\"content-img lazy\" data-original=\"&&\"",
        "副标题": "date-text-bg text-bg-r\">&&</p>",
        "链接":"href=\"&&\"",
+	   "线路数组": "<div class=\"item line\">&&</div>",
 	    "线路标题": ">五狼<",
 	   	"播放数组": "<div class=\"item line\">&&</div>",
 	    "播放标题": ">&&</",
@@ -23,10 +23,7 @@
 	   "搜索url": "https://www.wulangys.top/vodsearch/{wd}----------{pg}---/",
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
        "分类url": "https://www.wulangys.top/vodtype/{cateId}-{catePg}/",
-       "分类数组": "<a&&/a>",
-       "分类标题": ">&&<",
-       "分类ID": "/vodtype/&&/"
-      }},
+       "分类":"剧情片场$6#自拍$7#萝莉$8#制服$9#主播$10#伦理$11#中文字幕$20#无码专区$13#欧美性爱$17#强奸乱伦$14#巨型大奶$15#精品影视$16"}},
 
 
 
@@ -778,7 +775,7 @@
 
 
    
-     {"key": "Niceav","name": "nice🎈papa",
+          {"key": "Niceav","name": "nice🎈papa",
             "type": 3,"changeable": 1,
             "searchable": 1,"quickSearch": 1,
             "filterable": 1,
@@ -794,27 +791,9 @@
             "分类":"中字$1#骑兵$2#步兵$3#解说$4#黑丝$6#swag$7#探花$11#传媒$14#素人$15",
             "分类url":"https://www.nice10415.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
             "免嗅":"0",
-            "嗅探词":".m3u8#.mp4"
-             }},
+            "嗅探词":".m3u8#.mp4" }},
 	
 
-      {"key": "奔跑吧","name": "🏃‍♀️奔跑吧🏃‍♀️",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"发布url": "https://www.rundizhi.sbs/",
-      "数组": "\"thumb-block\"&&\"thumb-block\"",
-     "图片":"src=\"&&\"",
-	 "图片代理":"1",
-      "标题":"alt=\"&&\"",
-      "链接":"href=\"&&\"",
-      "搜索url":"https://www.runtv3.cc/search/?k={wd}",
-	   "直接播放":"1",
-   "分类":"国产$国产#日本$日本#中文$中文#无码$无码#萝莉$萝莉#制服$制服#巨乳$巨乳#女仆$女仆#黑丝$黑丝#白丝$白丝#中出$中出",
-   "分类url":"https://www.runtv3.cc/search/?k={cateId}&p={catePg}"
-      }},
- 
 
       
 
@@ -908,57 +887,6 @@
  
 
 
-  
- 
-    
- 
-     
-  
-
-     { "key": "国产情色","name": "老东西🙂影院",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "数组":"<a class=\"thum&&</a></h5>",
-      "图片":"src=\"&&\"",
-      "标题":"title=\"&&\"",
-      "链接":"href=\"&&\"",
-      "搜索url":"https://www.xmldc4.buzz/index.php/vod/search.html?wd={wd}",
-      "搜索模式":"1",
-     "线路数组":"<ul class=\"detail-tab&&</ul>",
-    "线路标题":">&&</a>",
-    "播放数组":"<ul class=\"detail-play-list clearfix&&</ul>",
-    "播放列表":"<li><a&&/a>",
-    "播放标题":">&&<",
-    "播放链接":"href=\"&&\"",
-     "分类数组": "<a&&/a>",
-     "分类标题": ">&&<",
-     "分类ID": "/index.php/vod/type/id/&&.html",
-   "分类url":"https://www.xmldc4.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-      }},
-  
-
-
-
-  
-
-     
-    {"key": "禁片天堂","name": "禁片💗天堂",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "\"col oneVideo\"&&\"col oneVideo\"", 
-	"图片": "src=\"&&\"",
-	"标题": "alt=\"&&\"",
-	"简介": "<div class=\"oneVideo-fotter\">&&</p>",
-    "链接": "href=\"&&\"",
-	"直接播放":"1", 
-	 "搜索url":"https://jptt.tv/search?kw={wd}",
-     "搜索模式":"1",
-	 "分类": "新发行$2#新加入$1#今日🔥$3#本周🔥$4#本月🔥$5#总数🔥$6",
-	
-	"分类url":"https://jptt.tv/list?idx={catePg}&sort={cateId}"}},
    
 
      
@@ -1067,54 +995,10 @@
         "分类ID": "/video/type/&&.html",
 		"跳转播放链接": "var playUrl=\'&&\'",
         "直接播放": "1",
-         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
-      }},
+         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a" }},
   
   
-        { "key": "男人本色A","name": "男人📍本色A版",
-       "type": 3,"api": "csp_XBPQ",
-       "ext": {"主页url": "http://www.bprjt.com/",
-        "分类url": "http://www.bprjt.com/{cateId}p{catePg}.html",
-	    "分类":"骑兵$t25#中字$t26#美👀👀$t27#人妻$t28#不道德$t29#萝莉$t31#制服$t35#颜🐍$t36#精品$t37",
-		"数组": "<li class=\"mb15\">&&</li>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-		"链接": "href=\"&&\"",
-		 "嗅探词":".m3u8#index.m3u8#.m3u8?#.mp4?#.m4a",
-		 "跳转播放链接": "\"contentUr\": \"&&\"",
-        "直接播放":"1"
-      } },		
-  
-      
-	    { "key": "男人本色B","name": "男人📍本色B版",
-       "type": 3,"api": "csp_XBPQ",
-       "ext": {"主页url": "http://www.splyjx.com/",
-        "分类url": "http://www.splyjx.com/{cateId}p{catePg}.html",
-	    "分类":"骑兵$t25#中字$t26#美👀👀$t27#人妻$t28#不道德$t29#萝莉$t31#制服$t35#颜🐍$t36#精品$t37",
-		"数组": "<li class=\"mb15&&</li>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-		"链接": "href=\"&&\"",
-		 "嗅探词":".m3u8#index.m3u8#.m3u8?#.mp4?#.m4a",
-		 "跳转播放链接": "\"contentUr\": \"&&\"",
-        "直接播放":"1"
-      } },		
-  
-  
-  
-        { "key": "男人本色C","name": "男人📍本色C版",
-       "type": 3,"api": "csp_XBPQ",
-       "ext": {"主页url": "http://www.hyhspx.com/",
-        "分类url": "http://www.hyhspx.com/{cateId}p{catePg}.html",
-	    "分类":"骑兵$t25#中字$t26#美👀👀$t27#人妻$t28#不道德$t29#萝莉$t31#制服$t35#颜🐍$t36#精品$t37",
-		"数组": "<li class=\"mb15&&</li>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-		"链接": "href=\"&&\"",
-		 "嗅探词":".m3u8#index.m3u8#.m3u8?#.mp4?#.m4a",
-		 "跳转播放链接": "\"contentUr\": \"&&\"",
-        "直接播放":"1"
-      } },		
+       
   
     
 	   { "key": "帝国av","name": "帝国☀️影院",
@@ -1131,8 +1015,7 @@
 		"链接": "href=\"&&\"",
 		 "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 		 "跳转播放链接": "var player_aaaa*url\":\"&&\"",
-        "直接播放":"1"
-      } },		
+        "直接播放":"1"} },		
 
   
       { "key": "快播AV","name": "快播🏃‍♀TV",
@@ -1157,9 +1040,7 @@
 	   "分类数组": "<a&&/a>",
         "分类标题": ">&&<",
         "分类ID": "/list/&&.html",
-       "分类url": "https://vcdkuaiboavrrq.lat/list/{cateId}/{catePg}.html"
-       
-      }},
+       "分类url": "https://vcdkuaiboavrrq.lat/list/{cateId}/{catePg}.html"}},
   
   
   
@@ -2718,25 +2599,7 @@
   
   
   
-	  
-	  {"key": "omoav","name": "🏠OMO😍🏠","type": 3,
-	  "api": "csp_XBPQ","searchable":1,"quickSearch":1,
-	  "filterable":1,"ext": { "主页url": "https://omoav.com/",  
-	  "数组": "<div class=\"item thumb&&</a",  
-	  "图片": "data-original=\"&&\"",  
-	  "标题": "alt=\"&&\"",  
-	  "副标题": "class=\"icon-calendar\"&&</span>", 
-	  "简介": "description\" content=\"&&剧情", 
-	   "链接": "https://omoav.com/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
-	  //"链接": "https://omoav.com/index.php/vod/play/id/&&/\"+/sid/1/nid/1.html", 
-	  "跳转播放链接": "urlDecode(var player_*url\":\"&&\")", 
-	  "搜索模式": "1", 
-	  "直接播放": "1",
-	  "搜索url": "https://omoav.com/index.php/vod/search.html?wd=",
-	   //"搜索url": "https://yudiewfed-82.luanlxsf001.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
 	 
-	  "分类": "精品推荐$1#日韩精品$2#国产视频$20#中文字幕$13#日本有🐎$14#日本🈚️🐎$15#AV解说$16#国产精品$26#网暴泄密$21#伦理三级$27#传媒影像$22#探花🥉$7#网暴泄密$21#伦理三级$27", 
-	  "分类url": "https://omoav.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"}},	
 		
 	
 
