@@ -355,6 +355,8 @@
       "图片":"data-original=\"&&\"",
        "链接":"href=\"&&\"",
       "分类url": "https://www.owo10.cc/{cateId}/{catePg}/",
+	    "搜索模式": "1",
+	  "搜索链接": "https://www.owo10.com/search/{wd}/",
 	    "分类":"最新的$latest-updates#最受欢迎的$top-rated#流行的$most-popular",
         "直接播放": "1",
 		"播放链接": "video_url: \'&&\'",
@@ -660,6 +662,8 @@
 	  "搜索副标题":"class=\"ml6\">&&</span>",
       "搜索链接": "href=\"&&\"",
 	  "直接播放":"1",
+	  "搜索片单链接加前缀": "https://shayuav.xyz/vod/play/id/",
+      "搜索片单链接加后缀": "/sid/1/nid/1.html",
      "分类":"视频一区$1",
      "剧情": "精品推荐$精品推荐#国产情色$国产情色#网红主播$网红主播#国模私拍$国模私拍#中文字幕$中文字幕#日本无码$日本无码#日本YOU码$日本有码#长腿丝袜$长腿丝袜#邻家人妻$邻家人妻#韩国伦理$韩国伦理#精品推荐$精品推荐",
      "分类url": "https://shayuav.xyz/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
