@@ -11,7 +11,8 @@
        "style":{"type":"rect","ratio":1.333},
        "ext":{"主页url":"https://iporn01.xyz/",
 		"分类url":"https://iporn01.xyz/ch/{cateId}?page={catePg}",
-	   "分类": "日本新发行$jp/latest#日本所有$jp#日本今日🔥$jp/today#日本本周🔥$jp/weekly#日本今月🔥$jp/month#日本2025🔥$jp/year",
+	   "分类": "日本新发行$jp/latest#日本所有$jp#日本今日🔥$jp/today#日本本周🔥$jp/weekly#日本今月🔥$jp/month#日本2025🔥$jp/year
+	        #国产新发行$ocal/news#国产最新$local/latest#国产今日🔥$local/today#国产本周🔥$local/weekly#国产今月🔥$local/month#国产2025🔥$local/year",
 		"数组":"\"imgcover\"&&\"imgcover\"",
 		"图片":"src=\"&&\"",
 	   "简介":"★本站公告★：合理安排时间看片，享受健康生活。撸一撸可以  但是注意身体！！",
@@ -390,6 +391,8 @@
 	 "搜索副标题":"<em>&&</em>",
      "搜索图片": "data-original=\"&&\"",
      "搜索链接": "href=\"&&\"",
+     "搜索链接前缀":"https://1wl6r2ky.ppbzhao.buzz/index.php/vodplay/",
+     "搜索链接后缀":"-1-1.html",
 	 "直接播放":"1",
     "分类":"骑兵视频$47#步兵视频$48#中文字幕$49#熟女人妻$82#巨乳美乳$84#不道德$83#制服师生$85#丝袜美腿$86#少女萝莉$87",
     "分类url": "https://1wl6r2ky.ppbzhao.buzz/index.php/vodtype/{cateId}-{catePg}.html"}},
@@ -622,10 +625,43 @@
 	  "搜索副标题":"<em>&&</em>",
 	  "搜索模式": "1",
 	  "直接播放":"1",
+	  "搜索后缀":"/vod/play/id/",
+      "搜索链接前缀":"https://jvod.xyz/vod/play/id/",
+      "搜索链接后缀":"/sid/1/nid/1/",
     "分类":"视频一区$1#视频二区$2#视频三区$3",
     "剧情": "传媒精品$传媒精品||淫乱学生妹$淫乱学生妹#高清无码$高清无码#中文字幕$中文字幕#为国争光$为国争光#激情中字$激情中字||中文字幕$中文字幕",
     "分类url": "https://jvod.xyz/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
       }},
+ 
+ 
+ 
+        {"key": "蜜视频 - mevod.cyou","name": "➕蜜视频➕",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://jvod.xyz/",
+      "数组":"<div class=\"item\">&&</a>",
+     "图片":"data-original=\"&&\"",
+      "标题":"title=\"&&\"",
+	  "副标题":"<em>&&</em>",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://mevod.cyou/vod/search/?wd={wd}",
+      "搜索数组": "<div class=\"item\">&&</a>",
+      "搜索标题": "title=\"&&\"",
+      "搜索图片": "data-original=\"&&\"",
+      "搜索链接": "href=\"&&\"",
+	  "搜索副标题":"<em>&&</em>",
+	  "搜索模式": "1",
+	  "直接播放":"1",
+	  "搜索后缀":"/vod/play/id/",
+      "搜索链接前缀":"https://mevod.cyou/vod/play/id/",
+      "搜索链接后缀":"/sid/1/nid/1/",
+    "分类":"视频二区$2#视频三区$3",
+    "剧情": "日本骑兵$日本有码#日本无码$日本无码#中文字幕$中文字幕#AV解说$AV解说#黑丝诱惑$黑丝诱惑||中文字幕$中文字幕",
+    "分类url": "https://mevod.cyou/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
+      }},
+ 
+ 
+ 
  
  
        {"key": "AV岛","name": "岛国🥭影业",
