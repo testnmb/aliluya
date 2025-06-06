@@ -25,30 +25,30 @@
        "搜索url":"https://iporn01.xyz/se/result?keyword={wd}.html"}},
 
 
-
- 
-     
-       { "key": "老北京TV","name": "老北京☯️影视",
+  
+       {"key": "破晓视频","name": "🔪破晓视频🔪",
       "type": 3,"api": "csp_XBPQ",
-      "searchable": 1, "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"数组": "<a class=\"thumbnail&&</li>", 
-      "图片":"data-original=\"&&\"",
-      "标题":" target=\"_blank\">&&</a>",
+      "searchable": 1, "quickSearch": 1,"filterable": 1,
+      "ext": {"数组二次截取":"<div class=\"module-items\">&&<div class=\"module-page\">",
+	  "数组": "<a&&</a>",
+     "图片":"src=\"&&\"",
+      "标题":"<div class=\"module-item-titlebox\">&&</div>",
+	  "副标题":"<span class=\"time\">&&</span>",
       "链接":"href=\"&&\"",
-	  "副标题":" <p>&&</p>",
-      "搜索url":"https://www.lbj-tv.buzz/vodsearch/{wd}----------{pg}---.html",
-      "搜索模式":"1",
-     "线路数组":"<ul class=\"detail-tab&&</ul>",
-    "线路标题":">&&</a>",
-    "播放数组":"<ul class=\"detail-play-list clearfix&&</ul>",
-    "播放列表":"<li><a&&/a>",
-    "播放标题":">&&<",
-    "播放链接":"href=\"&&\"",
-    "分类":"女优明星$31#在线二区$1#骑兵$14#少女萝莉$24",
-   "分类url":"https://www.lbj-tv.buzz/vodtype/{cateId}-{catePg}.html"
-      }},
-
+	  "简介":"来到破晓就撸了吧  但是注意身体！！",
+	  "搜索模式": "1", 
+     "搜索url":"https://ppxx.poxiaoav.fun/vod/search/page/{pg}/wd/{wd}.html",
+	 "搜索链接前缀":"https://ppxx.poxiaoav.fun/play/",
+     "搜索链接后缀":"-1-1.html",
+	 "直接播放":"1",
+	  \\"分类数组二次截取": "\"module-items\"&&\"links wrapper_inner\"",
+	  "分类数组": "<a&&a>",
+       "分类标题": ">&&</",
+       "分类ID": "/type/&&.html",
+     //"分类":"骑兵视频$1#传媒剧情$15#中文字幕$3#解说视频$4#探花极品$7#国产大制作$6",
+     "分类url": "https://ppxx.poxiaoav.fun/type/{cateId}-{catePg}.html"}},
+	 
+     
 	
 	 
    
