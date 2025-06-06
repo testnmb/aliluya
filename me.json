@@ -25,37 +25,8 @@
 
 
 
-       {"key":"乳香影院", "name":"乳香👀影院",
-       "type":3,"api":"csp_XBPQ",
-       "searchable":1, "quickSearch":1,"filterable":1,
-       "ext":{"数组":"excerpt\">&&</article>",
-	   "图片": "data-src=\"&&\"",
-      "标题":"title=\"&&\"",
-       "链接":"href=\"&&\"",
-	   "搜索url":"https://qhc.rxyy6.boats/s/index.html?wd={wd}",
-       "搜索模式":"1",
-	   "分类url":"https://qhc.rxyy6.boats/vodtype/{cateId}-{catePg}.html",
-       "分类数组": "<a&&a>",
-       "分类标题": ">&&</",
-       "分类ID": "/vodtype/&&.html",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1" }},
-
-       {"key":"1024核工厂", "name":"🍄1024核工厂🍄",
-       "type":3,"api":"csp_XBPQ",
-       "searchable":1, "quickSearch":1,"filterable":1,
-       "ext":{"数组":"<dt>&&</dt>",
-	   "图片": "src=\"&&\"",
-      "标题":"title=\"&&\"",
-       "链接":"href=\"&&\"",
-	   "搜索url":"https://swp.1024hgc7.fit/s/index.html?wd={wd}",
-       "搜索模式":"1",
-	   "分类url":"https://swp.1024hgc7.fit/vodtype/{cateId}-{catePg}.html",
-       "分类数组": "<a&&a>",
-       "分类标题": ">&&</",
-       "分类ID": "/vodtype/&&.html",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1" }},
+ 
+     
 
 	
 	 
