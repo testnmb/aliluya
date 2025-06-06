@@ -37,7 +37,7 @@
 	   "分类url":"https://qhc.rxyy6.boats/vodtype/{cateId}-{catePg}.html",
        "分类数组": "<a&&a>",
        "分类标题": ">&&</",
-       "分类ID": "/vodtype/&&.html"
+       "分类ID": "/vodtype/&&.html",
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1" }},
 
@@ -53,7 +53,7 @@
 	   "分类url":"https://swp.1024hgc7.fit/vodtype/{cateId}-{catePg}.html",
        "分类数组": "<a&&a>",
        "分类标题": ">&&</",
-       "分类ID": "/vodtype/&&.html"
+       "分类ID": "/vodtype/&&.html",
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1" }},
 
