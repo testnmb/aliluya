@@ -28,6 +28,28 @@
 
  
      
+       { "key": "老北京TV","name": "老北京☯️影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1, "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"数组":"<li><a class=\"thum&&</li>",
+      "图片":"data-original=\"&&\"",
+      "标题":" target=\"_blank\">&&</a>",
+      "链接":"href=\"&&\"",
+	  "副标题":" <p>&&</p>",
+      "搜索url":"https://www.lbj-tv.buzz/vodsearch/{wd}----------{pg}---.html",
+      "搜索模式":"1",
+     "线路数组":"<ul class=\"detail-tab&&</ul>",
+    "线路标题":">&&</a>",
+    "播放数组":"<ul class=\"detail-play-list clearfix&&</ul>",
+    "播放列表":"<li><a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"href=\"&&\"",
+     "分类数组": "<a&&/a>",
+     "分类标题": ">&&<",
+     "分类ID": "/vodtype/&&.html",
+   "分类url":"https://www.lbj-tv.buzz/vodtype/{cateId}-{catePg}.html"
+      }},
 
 	
 	 
@@ -865,24 +887,6 @@
 	
    
    
-      {"key": "javleak.com","name": "javleak🛀com",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "数组": "\"item\"&&\"item\"",
-      "图片":"src=\"&&\"",
-      "标题":"alt=\"&&\"",
-      "链接":"href=\"&&\"",
-      "搜索url":"https://javleak.com/?s={wd}",
-      "搜索模式":"1",
-    "跳转播放": "<iframe src=\"&&\"",
-	   "直接播放":"1",
-   "分类":"attacker$attacker#madonna$madonna#oppai$oppai#dasutsu$dasutsu#hunter$hunter#venus$venus#akinori$akinori#fitch$fitch#honnaka$honnaka#hibino$hibino#muteki$muteki",
-   "分类url":"https://javleak.com/director/{cateId}/page/{catePg}/"
-      }},
- 
 
 
    
