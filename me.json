@@ -41,7 +41,7 @@
 	 "搜索链接前缀":"https://ppxx.poxiaoav.fun/play/",
      "搜索链接后缀":"-1-1.html",
 	 "直接播放":"1",
-	//"分类数组二次截取": "\"module-items\"&&\"links wrapper_inner\"",
+	"分类数组二次截取": "\"module-items\"&&\"links wrapper_inner\"",
 	  "分类数组": "<a&&a>",
        "分类标题": ">&&</",
        "分类ID": "/type/&&.html",
