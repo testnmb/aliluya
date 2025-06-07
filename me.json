@@ -24,7 +24,7 @@
        "搜索后缀":"/video/", 	   
        "搜索url":"https://iporn01.xyz/se/result?keyword={wd}.html"}},
 
-
+  
   
        {"key": "破晓视频","name": "🔪破晓视频🔪",
       "type": 3,"api": "csp_XBPQ",
@@ -42,7 +42,7 @@
      "搜索链接后缀":"-1-1.html",
 	 "直接播放":"1",
 	
-     "分类":"少女萝莉$40#制服丝袜$43#角色扮演$44#口交颜射$45#强奸乱伦$49#人妻系列$52#中文字幕$53#日韩精品$56#制服诱惑$57#AV明星$59",
+     "分类":"少女萝莉$40#制服丝袜$43#角色扮演$44#口交颜射$45#强奸乱伦$49#人妻系列$52#中文字幕$53#水果派π$56#制服诱惑$57#AV明星$59",
      "分类url": "https://ppxx.poxiaoav.fun/type/{cateId}-{catePg}.html"}},
 	 
      
@@ -1202,32 +1202,7 @@
    "分类url":"https://xsav7.cfd/frim/{cateId}-{catePg}.html"
       }},
   
-  
-      
- 
- 
-  
-    	  
-     {"key":"火焰世界", "name":"火焰🔥世界",
-       "type":3,"api":"csp_XBPQ","searchable":1,
-       "quickSearch":1, "filterable":1,
-	   "ext":{"数组":" <div class=\"relative\">&&</div></div>",
-	   "图片": "src=\"&&\"",
-      "标题":"  class=\"mb-1 font-bold text-basic-heading dark:text-dark-heading leading-5 line-clamp-2 text-sm\">&&</a>",
-	  "链接": "href=\"&&\"",
-      "副标题":"<span class=\"absolute right-1 bottom-1 w-12 py-1 text-xs text-white text-center font-bold rounded bg-black bg-opacity-60\">&&</span>",
-	   "搜索url":"https://huoyanhyh.site/index.php/vod/search/page/{pg}/wd/{wd}.html",
-       "搜索模式":"1",
-	   "分类url":"https://huoyanhyh.site/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-      "分类":"明星换脸$45#探花$51#传媒$53#中文$35#调教$31",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1"  
-   }},
-	  
-  
 
-   
-   
      
 	  
     {"key": "猫咪视频 ","name": "猫咪🐱视频",
