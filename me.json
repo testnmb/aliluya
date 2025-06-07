@@ -208,7 +208,8 @@
        "分类url": "https://www.129av.app/vodtype/{cateId}-{catePg}.html",
        "分类": "日韩步兵$9#亚洲骑兵$10#中文字幕$14#制服丝袜$18#国产自拍$7#美乳好乳$21#熟女人妻$16#潮吹$20#不道德$17#少女萝莉$19#三级伦理$12"}},
 	
-	  {"key": "11av.app","name": "🎈十一影视🎈",
+	
+	{"key": "11av.app","name": "🎈十一影视🎈",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.11av.app/",
@@ -232,6 +233,33 @@
         "分类ID": "/vodtype/&&.html"
         //"分类": "步兵$11#骑兵$10#🀄️字$14#madou$9#制服$23#萝莉$25#美乳$20#熟女$24#探花$4#不道德$21#绿帽$6#颜色$29#国产学生$33"
       }},
+	  
+	  {"key": "17av.app","name": "🦀十七影视🦀",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://www.17av.app/",
+       "数组":"<div class=\"col-style d-4 m-2 lazy loaded\">&&</div></a></div>",
+       "图片":"src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	    "简介":"小撸怡情，大撸伤身！！",
+	    "副标题": "<span class=\"number\">&&</span>",
+		"线路数组":">线路：&&<section class=\"sectionContent below_path_content\">",
+	   "播放数组":">线路：&&<section class=\"sectionContent below_path_content\">",
+	   "播放列表": "<a&&a>",
+	   "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://www.17av.app/vodsearch/{wd}/page/{pg}.html",
+	   "搜索链接前缀":"https://www.17av.app/vodplay/",
+       "搜索链接后缀":"-1-1.html",
+       "分类url": "https://www.17av.app/vodtype/{cateId}-{catePg}.html",
+	    "分类数组": "<a&&a>",
+       "分类标题": ">&&</",
+        "分类ID": "/vodtype/&&.html"}},
+	  
+	  
+	  
 	  
 	  
 	   {"key": "3av.co","name": "小三🧾视频",
@@ -261,7 +289,7 @@
 	  
 	  
 	  
-	  {"key": "4av.app丝瓜视频","name": "小四🈲影视",
+	  {"key": "4av.app丝瓜视频","name": "丝瓜🈲影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.4av.app/",
@@ -291,7 +319,7 @@
 
 	  
 	  
-	 {"key": "9av.app","name": "小九🍺影视",
+	 {"key": "9av.app草莓视频","name": "草莓🍓视频",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.9av.app/",
@@ -1650,11 +1678,9 @@
  
 	
  
-      {"key": "12av","name": "十二🦎影视",
+      {"key": "12av榴莲视频","name": "榴莲😭视频",
       "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.12av.me/",
        "数组":"<div class=\"col-style d-4 m-2 lazy loaded\">&&</div></a></div>",
        "图片":"src=\"&&\"",
