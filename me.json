@@ -4,31 +4,7 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
-        {"key": "魔气影视-九州影院-全能影视-天天影院","name": "🍎魔气影视🍎首页割接",
-        "type": 3, "api": "csp_XBPQ",
-		  
-        "ext": {"数组": "<div class=\"stui-vodlist__box stui-vodlist__bg\">&&</li>",
-          "图片": "data-original=\"&&\"",
-          "标题": "title=\"&&\"",
-		  "副标题": "pic-text text-right\">&&</span>",
-          "链接": "href=\"&&\"",
-		  "简介": "description\"*content=\"&&",
-	      "导演": "导演:target=\"_blank\">&&</a>",
-		  "年份": "年份:target=\"_blank\">&&</a>",
-		  "地区": "导演:target=\"_blank\">&&</a>",
-		  "更新时间": "更新：&&</p>",
-		  "主演": "<p class=\"text text-overflow text-muted hidden-xs\">&&</p>",
-          "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
-          "播放列表": "<a&&a>",
-          "播放链接": "href=\"&&\"",
-          "播放标题": ">&&</",
-          "线路数组": "<h3&&h3>	",
-          "线路标题": "class=\"title\">&&</",
-		  "搜索模式":"1",
-           "搜索url":"https://moqitv.ink/index.php/vod/search.html?wd={wd}&submit=",
-          "分类url": "https://moqitv.ink/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-          "分类": "短剧$26#电视剧$2#电影$1#动漫$4#综艺$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#剧情片$11#战争片$12#记录片$20#理论剧$24#国产剧$13#港台剧$21#日韩剧$22#欧美剧$23#泰国剧$28"
-        } }, 
+      
 		
 
 
@@ -146,7 +122,7 @@
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://887517.xyz/",
-       "数组":"\"myui-vodlist__box\"&&\"myui-vodlist__box\"",
+       "数组":"<div class=\"myui-vodlist__box\">&&</a>",
        "图片":"data-original=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
@@ -172,7 +148,7 @@
        "type": 3,"api": "csp_XBPQ",
        "searchable": 1,"quickSearch": 1,"filterable": 1,
        "ext": {"主页url": "https://887517.xyz/",
-       "数组":"\"myui-vodlist__box\"&&\"myui-vodlist__box\"",
+       "数组":"<div class=\"myui-vodlist__box\">&&</a>",
        "图片":"data-original=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
