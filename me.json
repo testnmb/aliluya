@@ -672,7 +672,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"数组":"<posts class=\"posts-item&&</posts>",
-      //"数组": "\"item-thumbnail\"&&\"item-thumbnail\"",
+     
      "图片":"data-src=\"&&\"",
       "标题":"alt=\"&&\"",
 	  "副标题":"class=\"ml6\">&&</span>",
