@@ -7,7 +7,7 @@
       
   {"key": "唐人影视","name": "🥣唐人影视🥣",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
+	"ext": { "发布页url":"https://www.51tr.cc/",
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"&&\"",
 	"标题": "title=\"&&\"", 
@@ -20,9 +20,10 @@
     "搜索链接前缀":"https://www.577tr.cc/index.php/voddetail/",
     "搜索链接后缀":".html",
     "搜索模式":"1",
+	 "分类数组二次截取": "<li class=\"nav-item\">&&</li>",
 	 "分类数组": "<a&&a>",
      "分类标题": ">&&</",
-     "分类ID": "/index.php/vodtype/&&.html",
+     "分类ID": "/vodtype/&&.html",
 	"分类url":"https://www.577tr.cc/index.php/vodtype/{cateId}/page/{catePg}.html"}},
 		
 		
