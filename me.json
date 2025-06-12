@@ -20,7 +20,7 @@
     "搜索链接前缀":"https://www.577tr.cc/index.php/voddetail/",
     "搜索链接后缀":".html",
     "搜索模式":"1",
-	 "分类数组二次截取": "<li class=\"nav-item\">&&</li>",
+	 //"分类数组二次截取": "<li class=\"nav-item\">&&</li>",
 	 "分类数组": "<a&&a>",
      "分类标题": ">&&</",
      "分类ID": "/vodtype/&&.html",
