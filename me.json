@@ -5,6 +5,27 @@
 "sites":[
 
       
+  {"key": "唐人影视","name": "🥣唐人影视🥣",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
+	"图片": "data-original=\"&&\"",
+	"标题": "title=\"&&\"", 
+    "链接": "href=\"&&\"",
+	"播放数组": "<dt class=\"playur&&</dt>",
+    "播放标题": ">&&</",
+    "播放链接": "href=\"&&\"",
+    "播放列表": "<a&&a>",
+	"搜索url":"https://www.577tr.cc/index.php/vodsearch/wd/{wd}/page/{pg}.html",
+    "搜索链接前缀":"https://www.577tr.cc/index.php/voddetail/",
+    "搜索链接后缀":".html",
+    "搜索模式":"1",
+	 "分类数组": "<a&&a>",
+     "分类标题": ">&&</",
+     "分类ID": "/index.php/vodtype/&&.html",
+	"分类url":"https://www.577tr.cc/index.php/vodtype/{cateId}/page/{catePg}.html"}},
+		
+		
 		
 
 
