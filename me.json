@@ -4,6 +4,28 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+
+      {"key": "444.coffee","name": "444☕️咖啡",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1, "filterable": 1,
+      "ext": {"主页url": "https://www.444.coffee/",
+      "数组": " <li><a&&</a></li>",
+     "图片":"src=\"&&\"",
+      "标题":"title=\"&&\"",
+	  "副标题":">&&</time>",
+      "链接":"href=\"&&\"",
+	  "直接播放":"1",
+     "分类":"大平台獨家$exclusive0#人妻$wife#大咪咪$big-boobs#中出$cumshot#中文$type/jav",
+   
+     "分类url": "https://av92.co/tw/video/{cateId}?page={catePg}"
+      }},
+   
+   
+
+
+
+
+
       
   {"key": "唐人影视","name": "🥣唐人影视🥣",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
@@ -2770,8 +2792,12 @@
 {"name":"解析","type":0,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
 {"name":"思古3","type":0,"url":"https://jsap.attakids.com/?url="},
 {"name":"云端1","type":0,"url":"https://js.52jx.top:2525/?url="},
-{"name":"云端2","type":0,"url":"https://sb.5gseo.net/?url="}
-
+{"name":"云端2","type":0,"url":"https://sb.5gseo.net/?url="},
+{"name":"茅台资源站P2P商业加速解析","type":0,"url":"https://mtjiexi.cc:966/?url="},
+{"name":"X细胞资源网加速播放器","type":0,"url":"https://www.xxibaozyw.com/player.php?url="},
+{"name":"豆瓣资源采集站P2P商业加速解析","type":0,"url":"https://www.dbjiexi.com:966/jx/?url="},
+{"name":"玉兔资源网解析接口","type":0,"url":"https://yutujx.com/?url="},
+{"name":"杏吧资源采集站解析接口","type":0,"url":"https://xbww888.com/?url="}
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
