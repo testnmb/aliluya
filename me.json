@@ -343,6 +343,7 @@
    {"key": "桃源AV","name": "🍑桃源影视🍑","type": 3,
     "api": "csp_XBPQ","style": {"ratio": 1.7},
 	"ext": {"主页url": "https://tyav8.cfd/",
+	"数组二次截取": "<ul class=\"myui-vodlist clearfix\">&&</ul>",
     "数组": "class=\"myui-vodlist__box&&</div>",
      "图片":"data-original=\"&&\"",
     "标题": "title=\"&&\"",
@@ -1645,6 +1646,8 @@
 	"分类url":"https://huaduys.com/vodshow/{cateId}--{by}------{catePg}---.html"
 	}},
 	
+	
+	  
 	
  
 	
