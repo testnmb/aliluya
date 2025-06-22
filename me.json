@@ -1047,7 +1047,8 @@
        "type":3, "api":"csp_XBPQ",
        "searchable":1, "quickSearch":1, "filterable":1,
        "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
-	   "图片": "data-original=\"&&\"",
+	  	   "CCAV地址页": "https://fuliwz.neocities.org/ccav/",
+	  "图片": "data-original=\"&&\"",
       "标题":"alt=\"&&\"",
       "链接": "https://www.ccav10544.sbs/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
       "副标题":"<p class=\"vod-class has-text-grey\">&&</p>",
@@ -1055,7 +1056,7 @@
        "搜索模式":"1",
 	   "分类url":"https://www.ccav10544.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
       "分类":"视频一区$1#视频二区$2#视频三区$3",
-	  "类型":"制服丝袜$6#SWAG$7#中文字幕$8#日本有码$9#日本无码$10#AV解说$11#cosplay$12#自拍偷拍$13#激情动漫$14#网红主播$15#探花系列$16#三级伦理$20#VR视角$21#国产传媒$22#素人搭讪$23#门事件$24",
+	  "类型":"制服丝袜$6#SWAG$7#中文字幕$8#日本有码$9#日本无码$10#AV解说$11#cosplay$12||自拍偷拍$13#激情动漫$14#网红主播$15#探花系列$16#三级伦理$20#VR视角$21#国产传媒$22||素人搭讪$23#门事件$24",
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1"  }},
 	  
