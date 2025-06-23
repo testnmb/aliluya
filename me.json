@@ -1426,7 +1426,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
+    "ext":{"数组":"stui-vodlist__box\">&&</a>",
 	 "图片": "data-original=\"&&\"",
      "标题":"title=\"&&\"",
     "简介":"description\" content=\"&&",
@@ -1440,10 +1440,8 @@
    "搜索url":"https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
    "分类url":"https://69.69avw9.buzz/69/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
     "排序": "时间$time#人气$hits#评分$score",
-	"分类数组": "<a&&/a>",
-     "分类标题": "class=\"text-muted\">&&<",
-     "分类ID": "/69/index.php/vod/show/id/&&.html"
-    // "分类": "优选$1#传媒$2#AI换脸$3#日韩$76#推荐$79"
+	
+     "分类": "优选$1#传媒$2#AI换脸$3#日韩$76#推荐$79"
 	 }},
   
   
