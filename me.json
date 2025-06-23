@@ -1426,9 +1426,10 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":{"数组":"stui-vodlist__box\">&&</a>",
+    "ext":{"数组":"<div class=\"stui-vodlist__box\">>&&</a>",
 	 "图片": "data-original=\"&&\"",
      "标题":"title=\"&&\"",
+	  "副标题":"<span class=\"pic-text text-right\">&&</span>",
     "简介":"description\" content=\"&&",
 	"线路数组": "<ul class=\"tab-top&&</ul>",
 	"线路标题": ">&&</a>",
@@ -1441,7 +1442,7 @@
    "分类url":"https://69.69avw9.buzz/69/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
     "排序": "时间$time#人气$hits#评分$score",
 	
-     "分类": "优选$1#传媒$2#AI换脸$3#日韩$76#推荐$79"
+     "分类": "解说$40#国产不道德$42#日本1$51#无码中字$26#有码中字$31#强奸乱伦$33#制服诱惑$65#中文字幕$69#女优专区$72#精品素人$73"
 	 }},
   
   
