@@ -1442,7 +1442,7 @@
     "排序": "时间$time#人气$hits#评分$score",
 	"分类数组": "<a&&/a>",
      "分类标题": "class=\"text-muted\">&&<",
-     "分类ID": "/69/index.php/vod/show/id/&&.html",
+     "分类ID": "/69/index.php/vod/show/id/&&.html"
     // "分类": "优选$1#传媒$2#AI换脸$3#日韩$76#推荐$79"
 	 }},
   
