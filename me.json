@@ -4,10 +4,38 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+      {"key":"大魔王", "name":"🪣大魔王影院",
+       "type":3,"api":"csp_XBPQ",
+       "searchable":1, "quickSearch":1, "filterable":1,
+       "ext":{"主页url": "https://o3p4q5r6.avboss003.top/",
+	  "数组":"<a class=\"thumbnail\"&&</li>",
+	  "图片": "data-original=\"&&\"",
+      "标题":"alt=\"&&\"",
+       "链接":"href=\"&&\"",
+       "副标题":"<span class=\"title\">&&</span>",
+	   "搜索url":"https://o3p4q5r6.avboss003.top/vodsearch/-------------.html?wd={wd}",
+       "搜索模式":"1",
+	   "分类url":"https://o3p4q5r6.avboss003.top/vodtype/{cateId}-{catePg}.html",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "分类数组二次截取": "	<dl class=\"first\">&&</dl>",
+	   "分类数组": "<a&&a>",
+       "分类标题": ">&&</",
+       "分类ID": "/vodtype/&&.html",
+	"线路数组":"<ul class=\"detail-tab&&</ul>",
+    "线路标题":"<a>大魔王</a>",
+    "播放数组":"<ul class=\"detail-play-list clearfix&&</li>",
+    "播放列表":"<a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"href=\"&&\""
+	   }},	
+	   
 
     
+	
+	
+	
    
-     {"key":"百花宫影院", "name":"百花宫影院",
+     {"key":"百花宫影院", "name":"🌸百花宫影院",
        "type":3,"api":"csp_XBPQ",
        "searchable":1, "quickSearch":1, "filterable":1,
        "ext":{"主页url": "https://meihuago.cfd/",
