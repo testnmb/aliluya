@@ -7,7 +7,30 @@
 
     
    
-
+     {"key":"百花宫影院", "name":"百花宫影院",
+       "type":3,"api":"csp_XBPQ",
+       "searchable":1, "quickSearch":1, "filterable":1,
+       "ext":{"主页url": "https://meihuago.cfd/",
+	  "数组":"<a class=\"thumbnail\"&&</li>",
+	  "图片": "src=\"&&\"",
+      "标题":"alt=\"&&\"",
+       "链接":"href=\"&&\"",
+       "副标题":"<p>&&</p>",
+	   "搜索url":"https://meihuago.cfd/index.php/vod/search.html?wd={wd}",
+       "搜索模式":"1",
+	   "分类url":"https://meihuago.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	     "分类数组": "<a&&a>",
+       "分类标题": ">&&</",
+        "分类ID": "/index.php/vod/type/id/&&.html",
+		"线路数组":"<ul class=\"detail-tab&&</ul>",
+    "线路标题":"<a>&&</a>",
+    "播放数组":"<ul class=\"detail-play-list clearfix&&</ul>",
+    "播放列表":"<li><a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"href=\"&&\""
+	   }},	
+	   
 
 
 
@@ -1421,35 +1444,13 @@
   
   
   
-      {"key":"69avwang","name":"🎬69影院🎬",
-     "type":3, "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{"数组":"<div class=\"stui-vodlist__box\">>&&</a>",
-	 "图片": "data-original=\"&&\"",
-     "标题":"title=\"&&\"",
-	  "副标题":"<span class=\"pic-text text-right\">&&</span>",
-    "简介":"description\" content=\"&&",
-	"线路数组": "<ul class=\"tab-top&&</ul>",
-	"线路标题": ">&&</a>",
-	"播放数组": "<ul class=\"stui-play__list clearfix\">&&</ul>",
-    "播放列表": "<a&&a>",
-	"播放标题": ">&&</",
-	"播放链接": "href=\"&&\"",
-   "搜索模式":"1",
-   "搜索url":"https://69.69avw9.buzz/69/index.php/vod/search.html?wd={wd}",
-   "分类url":"https://69.69avw9.buzz/69/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
-    "排序": "时间$time#人气$hits#评分$score",
-	
-     "分类": "解说$40#国产不道德$42#日本1$51#无码中字$26#有码中字$31#强奸乱伦$33#制服诱惑$65#中文字幕$69#女优专区$72#精品素人$73"
-	 }},
-  
+    
   
   
      {"key":"视色","name":"⌛️视色（特殊）⌛️","type":3,"api":"csp_XBPQ",
 	 "playerType":"0","searchable":1,"quickSearch":1,
-	 "filterable":1,"ext":{"嗅探词":"https://s1.playhls.com/m3u8.php?",  "免嗅": "",
+	 "filterable":1,"ext":{"嗅探词":"https://s1.playhls.com/m3u8.php?",  
+	 "免嗅": "",
 	 "数组":"\"video\"&&\"video\"",
 	 "图片":"style=\"background-image: url('&&');\"",
 	 "标题":"class=\"title\"><a href=\"*\">&&</a>",
@@ -1467,23 +1468,7 @@
 	 "分类url":"https://shise.me/series.html?id={cateId}&page={catePg};;z",
 	 "分类":"情色电影$61c4d9b653b6d#中文AV$63824a975d8ae#日本AV$6206216719462#模特私拍$6030196781d85#业余拍摄$617d3e7acdcc8#糖心Vlog$61014080dbfde#其他影片$60192e83c9e05"}},
   
-   
-     {"key": "撸片视频","name": "🐰撸片视频🐰",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "<a class=\"thumbnail&&</li>", 
-	"图片": "src=\"&&\"", 
-	 "标题": "alt=\"&&\"", 
-	"副标题": "<p>&&</p>", 
-	
-    "链接": "https://www.8kk1gqu.buzz/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
-	"直接播放":"1", 
-	"搜索模式": "1", 
-	"简介":"★本站公告★：合理安排时间看片，享受健康生活。撸一撸可以  但是注意身体！！",
-	 "搜索后缀": "/index.php/vod/detail/id/",
-	"分类": "日韩欧美$2#女优在线$22#日本骑兵$23#中文字幕$21#日本步兵$24#制服黑丝$25#人妻熟女$26#不道德$27#其他综合$28",
-	"搜索url": "https://www.8kk1gqu.buzz/index.php/vod/search/page/{pg}/wd/{wd}",
-	"分类url":"https://www.8kk1gqu.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+  
   
   
   
