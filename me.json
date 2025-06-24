@@ -22,7 +22,7 @@
        "分类标题": ">&&</",
        "分类ID": "/vodtype/&&.html",
 	"线路数组":" <a href=\"javascript:playload('list1');\"&&</li>",
-    "线路标题":"</i>&&</a>",
+    "线路标题":"title=\"&&\"",
     "播放数组":"<table class=\"playlistlink-&&</table>",
     "播放列表":"<a&&/a>",
     "播放标题":">&&<",
