@@ -4,6 +4,36 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+      {"key":"七色谷", "name":"🪣七色谷影院",
+       "type":3,"api":"csp_XBPQ",
+       "searchable":1, "quickSearch":1, "filterable":1,
+       "ext":{"主页url": "https://o3p4q5r6.avboss003.top/",
+	  "数组":"<li class=\"content-item\">&&</li>",
+	  "图片": "<img class=\"content-img lazy\" data-original==\"&&\"",
+      "标题":"title=\"&&\"",
+       "链接":"href=\"&&\"",
+       "副标题":"<span class=\"note text-bg-r\">&&</span>",
+	   "搜索url":"https://o3p4q5r6.qisegu30.buzz/vodsearch/-------------.html?wd={wd}",
+       "搜索模式":"1",
+	   "分类url":"https://o3p4q5r6.qisegu30.buzz/vodtype/{cateId}-{catePg}.html",
+       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	  
+	   "分类数组": "<a&&a>",
+       "分类标题": ">&&</",
+       "分类ID": "/vodtype/&&.html",
+	"线路数组":" <a href=\"javascript:playload('list1');\"&&</li>",
+    "线路标题":"</i>&&</a>",
+    "播放数组":"<table class=\"playlistlink-&&</table>",
+    "播放列表":"<a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"href=\"&&\""
+	   }},	
+	   
+
+
+
+
+
       {"key":"大魔王", "name":"🪣大魔王影院",
        "type":3,"api":"csp_XBPQ",
        "searchable":1, "quickSearch":1, "filterable":1,
