@@ -25,8 +25,8 @@
        "分类标题": ">&&</",
        "分类ID": "/index.php/vod/type/id/&&.html",
 	"线路数组":"<ul class=\"detail-tab&&</ul>",
-    "线路标题":"<a>&&</a>",
-    "播放数组":"<ul class=\"detail-play-list clearfix&&</ul>",
+    "线路标题":"<a>百花宫影院</a>",
+    "播放数组":"<ul class=\"detail-play-list clearfix&&</li>",
     "播放列表":"<a&&/a>",
     "播放标题":">&&<",
     "播放链接":"href=\"&&\""
