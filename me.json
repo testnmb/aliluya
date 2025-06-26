@@ -4,6 +4,29 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
+     { "key": "家庭视频","name": "家庭🧍‍♂️视频",
+       "type": 3,"api": "csp_XBPQ",
+       "ext": {
+        "分类url": "https://www.jiatll9.sbs/vodtype/{cateId}-{catePg}/",
+	    "分类数组": "<a&&a>",
+        "分类标题": ">&&</",
+        "分类ID": "/vodtype/&&.html",
+        "搜索模式": "1",
+		"搜索url": "https://www.jiatll9.sbs/vodsearch/-------------.html?wd={wd}",
+		 "搜索后缀":"/voddetail/",
+		"数组": "<li class=\"article\"&&</li>",
+        "标题": "<h2 style=\"font-size: 14px;\">&&<br></h2>",
+        "图片": "src=\"&&\"",
+		"链接": "href=\"&&\"",
+        "播放数组":"<div class=\"video_list&&</div>",
+       "播放列表":"<a&&/a>",
+       "播放标题":">&&<",
+       "播放链接":"href=\"&&\""
+      } },		
+
+
+
+
    
        { "key": "dexllhsps.cfd","name": "dexllhsps.cfd",
       "type": 3,"api": "csp_XBPQ",
