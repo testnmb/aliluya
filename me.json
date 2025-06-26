@@ -5,6 +5,33 @@
 "sites":[
 
    
+       { "key": "dexllhsps.cfd","name": "dexllhsps.cfd",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+       "数组": "<li class=\"col-md-&&</li>",
+       "标题": "title=\"&&\"",
+       "图片": "style=\"background: url('&&') no-repeat;",
+       "副标题": "<time>&&</time>",
+	   "链接": "href=\"&&\"",
+	   "播放数组":"<div class=\"bgcolor\">&&</div>",
+      "播放列表":"<a&&/a>",
+      "播放标题":">&&<",
+      "播放链接":"href=\"&&\"",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+	   "搜索url":"https://dexllhsps.cfd/search/{wd}/{pg}.html",
+	    "搜索后缀":"/detail/",
+       "搜索模式":"1",
+	   "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/list/&&.html",
+       "分类url": "https://dexllhsps.cfd/list/{cateId}/{catePg}.html;;z"}},
+  
+   
+   
+   
    
      {"key": "猫咪视频 ","name": "猫咪🐱视频",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
