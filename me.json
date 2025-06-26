@@ -10,7 +10,7 @@
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": {  
 	 "数组": "<a class=\"thumbnail-link&&</div></div>",
-	 //"数组": "<a class=\"thumbnail-link&&<a class=\"thumbnail-link",
+	
 	 "图片": "src=\"&&\"",
      "标题":"alt=\"&&\"",
 	"副标题": "<font color=\"red\">&&</font>", 
@@ -1081,7 +1081,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"主页url": "https://zxckuaiboavtv.xyz/",
-       "数组": "class=\"video-pic loading\"&&</a>",
+       "数组": "<li class=\"col-md-&&</li>",
        "标题": "title=\"&&\"",
        "图片": "style=\"background: url('&&') no-repeat;",
        "副标题": "<time>&&</time>",
@@ -1097,7 +1097,7 @@
 	   "分类数组": "<a&&/a>",
         "分类标题": ">&&<",
         "分类ID": "/list/&&.html",
-       "分类url": "https://zxckuaiboavtv.xyz/list/{cateId}/{catePg}.html"}},
+       "分类url": "https://zxckuaiboavtv.xyz/list/{cateId}/{catePg}.html;;z"}},
   
   
   
