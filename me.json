@@ -14,7 +14,7 @@
 	 "图片": "src=\"&&\"",
      "标题":"alt=\"&&\"",
 	"副标题": "<font color=\"red\">&&</font>", 
-	"简介": "description\" content=\"&&\"",  
+	"简介": "<span class=\"entry-date\">&&</span>",  
 	 "链接": "href=\"&&\"",
 	 "播放数组": "<div class=\"entry-content\">&&</div>",
 	 "播放列表": "<a&&a>",
