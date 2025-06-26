@@ -9,7 +9,7 @@
      {"key": "猫咪视频 ","name": "猫咪🐱视频",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": {  
-	 "数组": "<a class=\"thumbnail-link&&</font>",
+	 "数组": "<a class=\"thumbnail-link&&</div></div>",
 	 //"数组": "<a class=\"thumbnail-link&&<a class=\"thumbnail-link",
 	 "图片": "src=\"&&\"",
      "标题":"alt=\"&&\"",
