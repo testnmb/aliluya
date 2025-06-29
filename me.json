@@ -28,27 +28,7 @@
 
 
    
-       { "key": "dexllhsps.cfd","name": "dexllhsps.cfd",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-       "数组": "<li class=\"col-md-&&</li>",
-       "标题": "title=\"&&\"",
-       "图片": "style=\"background: url('&&') no-repeat;",
-       "副标题": "<time>&&</time>",
-	   "链接": "https://dexllhsps.cfd/vodplay/+/voddetail/&&.html",
-	   //"链接":"/vodplay/+href=\"/voddetail/&&.html\",
-	   "直接播放":"1",
-	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "搜索url":"https://dexllhsps.cfd/search/{wd}/{pg}.html",
-	    "搜索后缀":"/detail/",
-      "分类":"熟女人妻1$ff808081750298e801752e1c5a8d52d5#强奸乱伦1$ff808081750298e801752e1c5a9e52d6#中文无码1$ff808081750298e801752e1c5ac152d8#制服诱惑1$ff808081750298e801752e1c5ad252d9#中文精品1$ff80808172b90a110172b90dca97001e
-	  #长腿丝袜1$ff80808172b90a110172b90dcac7002d#邻家人妻$ff80808172b90a110172b90dcace0030#韩国乱伦$ff80808172b90a110172b90dcad60033#精品推荐$ff80808172b90a110172b90dcae80038
-	  #巨乳偷拍$ff80808174d0fd350174d94a5004014d#萝莉少女$ff80808174d0fd350174d94a50720153#无码极品$ff80808174d0fd350174d94a4fa70148#中文字幕2$20250523050940377#熟女专区$20230202101613132", 
-       "分类url": "https://dexllhsps.cfd/list/{cateId}/{catePg}.html;;z"}},
-  
+     
    
    
    
@@ -441,7 +421,7 @@
      {"key": "兴趣院","name": "⚽️兴趣影视⚽️","type": 3,
     "api": "csp_XBPQ","style": {"ratio": 1.7},
 	"ext": { "发布页url": "https://www.fxy222.top/index.html?timestamp=1748605011806
-	https://fxy333.top/index.html?timestamp=1748605063580  找回邮箱：qiqiwuqi7757@gmail.com",
+	https://fxy333.top/index.html?timestamp=1748605063580 发布页:xingquy.com 发布页:xqy789.com 找回邮箱：qiqiwuqi7757@gmail.com",
     "主页url": "https://x1.xingqu6.top/",
     "数组": "class=\"myui-vodlist__box&&</div>",
      "图片":"data-original=\"&&\"",
@@ -450,6 +430,11 @@
    	 "链接": "href=\"&&\"",
     "搜索模式": "1",
     "搜索url": "https://x1.xingqu6.top/vodsearch/{wd}----------{pg}---.html",
+	"搜索数组": "<div class=\"thumb\">&&</li>",
+	"搜索标题": "title=\"&&\"",
+	"搜索图片": "data-original=\"&&\"",
+	"搜索副标题": "<span class=\"text-muted\">更新：</span>&&</p>",
+	"搜索链接": "href=\"&&\"",
 	"线路数组":"<a href=\"#playlist&&</ul>",
     "线路标题":">&&</a>",
     "播放数组":"<ul class=\"myui-content__list&&</ul>",
