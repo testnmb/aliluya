@@ -7,10 +7,10 @@
      { "key": "家庭视频","name": "家庭🧍‍♂️视频",
        "type": 3,"api": "csp_XBPQ",
        "ext": {
-        "分类url": "https://www.jiatll9.sbs/vodtype/{cateId}-{catePg}/",
+        "分类url": "https://www.jiatll9.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
 	    "分类数组": "<a&&a>",
         "分类标题": ">&&</",
-        "分类ID": "/vodtype/&&.html",
+        "分类ID": “/index.php/vod/type/id/&&.html",
         "搜索模式": "1",
 		"搜索url": "https://www.jiatll9.sbs/vodsearch/-------------.html?wd={wd}",
 		 "搜索后缀":"/voddetail/",
