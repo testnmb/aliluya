@@ -2699,18 +2699,21 @@
                 "数组": "<li class=\"content-item\">&&</a></h5>",
                 "标题": "title=\"&&\"",
                 "图片": "data-original=\"&&\"",
-                "播放数组": "<td>&&</td>",
+                "播放数组": "<table class=\"playlistlink-&&</tbody>",
+				"播放列表": "<td>&&</td>",
+                "播放标题": ">&&</a>",
                 "播放链接": "href=\"&&\"",
-                //"跳转播放链接": "urlDecode(var player*url\":\"&&\")",
-                //"免嗅": "0",
+				"线路数组": "<table class=\"playlistlink-&&</tbody>",
+                "线路标题": "title=\"&&\"",
+                
                 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
                 "搜索url": "https://www.xiaoyg3.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
                 "嗅探词": ".m3u8#.mp4",
                 "分类url": "https://www.xiaoyg3.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-				 "分类": "少女萝莉$52#国产二区$76#国产传媒$98#日韩区$87#精品推荐$78#必看福利$80#宅男必看$107"
-               // "分类数组": "<li&&</li>",
-               // "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
-                //"分类ID": "/index.php/vod/type/id/&&.html"
+				 //"分类": "少女萝莉$52#国产二区$76#国产传媒$98#日韩区$87#精品推荐$78#必看福利$80#宅男必看$107"
+               "分类数组": "<a&&</a>",
+                "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
+                "分类ID": "/index.php/vod/type/id/&&.html"
             }},
 
     
