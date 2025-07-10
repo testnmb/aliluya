@@ -1868,15 +1868,29 @@
 	{ "key": "地瓜", "name": "地瓜🍠视频", 
      "type":3,"api":"csp_XBPQ",  
      "searchable": 1,"quickSearch": 0,"filterable": 1,                                                                       
-     "ext": {"播放数组":"v_con_box&&</div>",
+     "ext": {
+	"数组":"<section class=\"item-box\">&&</a>",
+       "图片":"src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	   "副标题": "<small>&&</small>",
+	    "简介": "★本站公告★：合理安排时间看片，享受健康生活。撸一撸  注意身体",
+	   "播放数组":"<div class=\"v_con_box\">&&</div>",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
      "搜索模式":"1",
      "搜索url":"https://www.112vv.me/vodsearch/{wd}-/page/{pg}.html",
      "主页url":"https://www.112vv.me/",
      "分类url":"https://www.112vv.me/vodtype/{cateId}-{catePg}.html",
 	 "搜索链接前缀":"https://www.112vv.me/vodplay",
      "搜索链接后缀":"-1-1.html",
-      "分类":"国产视频$6#国产自拍$7#国产偷拍$8#网红主播$9#清纯学生$10#国产探花$36#少妇淫妻$21#明星换脸$11#国产传媒$12#亚洲专区$22#日韩无码$23#欧美无码$24#中文字幕$25#三级伦理$26#卡通动漫$27#巨乳美乳$28#强奸乱伦$29#制服丝袜$30#少女萝莉$31#人妻熟女$32#群交口交$33#日本素人$37#高清名优$38"},
-     "jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/spider.jar"},
+	  "分类数组": "<a&&</a>",
+     "分类标题": "<p>&&</p>",
+     "分类ID": "/vodtype/&&.html"
+     // "分类":"国产视频$6#国产自拍$7#国产偷拍$8#网红主播$9#清纯学生$10#国产探花$36#少妇淫妻$21#明星换脸$11#国产传媒$12#亚洲专区$22#日韩无码$23#欧美无码$24#中文字幕$25#三级伦理$26#卡通动漫$27#巨乳美乳$28#强奸乱伦$29#制服丝袜$30#少女萝莉$31#人妻熟女$32#群交口交$33#日本素人$37#高清名优$38"},
+     //"jar": "https://github.moeyy.xyz/https://github.com/lishuncai8881/c/blob/jar/spider.jar"
+	 },
 	
 	
 	  
