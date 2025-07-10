@@ -1912,22 +1912,7 @@
 	  
 	  
 	  	
-    {"key": "探探视频","name": "探探⚡️影院",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { "主页url": "https://ttttav.tantan666.xyz/", 
-	"数组": "<a class=\"thumbnail&&</li>", 
-	"图片": "data-original=\"&&\"", 
-	"标题": "<h5>&&</a></h5>", 
-	"副标题": "<span class=\"title\">&&</span></p>", 
-	"简介": "description\" content=\"&&剧情",  
-	"链接": "/play/+href=\"/tan/&&.html\"+-1-1.html",  
-	 "分类数组": "<a&&</a>",
-     "分类标题": ">&&<",
-     "分类ID": "/tantan/&&.html",
-	 "直接播放":"1", 
-	"搜索模式": "1", 
-	"搜索url": "https://ttttav.tantan666.xyz/vodsearch/-------------.html?wd={wd}",
-	"分类url":"https://ttttav.tantan666.xyz/tantan/{cateId}-{catePg}.html"}},
+
 	    
 	
 	  
@@ -1987,40 +1972,6 @@
   
 	  
 
-	  
-	   
-  
-    {"key":"韭菜视频", "name":"割韭🍺菜啦",
-       "type":3,"api":"csp_XBPQ",
-       "searchable":1,"quickSearch":1,"filterable":1,
-       "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
-	  "图片": "style=\"background: url(&&) no-repeat;",
-      "标题":"title=\"&&\"",
-       "链接":"href=\"&&\"",
-        "副标题":"<p class=\"sub\">&&</p>",
-	   "搜索url":"https://oicyienj.9cai.online/search/-------------.html?wd={wd}&submit=",
-       "搜索模式":"1",
-	   "分类url":"https://oicyienj.9cai.online/9cai/{cateId}-{catePg}.html",
-      "分类":"传媒精品$1#中字$30#国产$3#日韩步兵$44#伦理$5",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1"  }},
-  
-  
-  
-     {"key":"媚人AV", "name":"媚人🥬影视",
-       "type":3,"api":"csp_XBPQ",
-       "searchable":1,"quickSearch":1, "filterable":1,
-       "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
-	   "图片": "data-original=\"&&\"",
-      "标题":"title=\"&&\"",
-       "链接":"href=\"&&\"",
-      // "副标题":"<span class=\"pic-text text-right\">&&</span>",
-	   "搜索url":"https://crf.mrav4.cyou/cn/home/web/index.php/vod/search.html",
-       "搜索模式":"1",
-	   "分类url":"https://crf.mrav4.cyou/cn/home/web/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
-      "分类":"制服丝袜$21#强++$22#学生教师$23#素人系列$24#人妻熟女$25#🈚️🐎$26#🈶️🐎$27#中文字幕$28#经典伦理$30",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1"  }},
  
  
      {"key":"黄精影院", "name":"黄精🌼影院",
