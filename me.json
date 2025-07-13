@@ -1390,7 +1390,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"主页url": "https://swdivazxwfsd.buzz/",
-       "数组": "<li class=\"col-md-2 col-sm-3 col-xs-4\">"&&</li>",
+       "数组": "<li class=\"col-md-2 col-sm-3 col-xs-4\">&&</li>",
        "标题": "title=\"&&\"",
       "图片":"style=\"background: url('&&') no-repeat;",
        "副标题": "<time>&&</time>",
