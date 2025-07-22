@@ -23,7 +23,31 @@
       } },		
 
 
-
+        {"key": "爱优阁","name": "爱优阁😭视频",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {
+       "数组":"<span class=\"img-box\">&&</li>",
+       "图片":"src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "alt=\"&&\"",
+	   "副标题":"<small>&&</small>",
+	   "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
+	   "线路数组":"<div class=\"mb15\">&&/h2>",
+	   "线路标题": ">爱优阁<",
+	   "播放数组":"<div class=\"play-list\"&&</div>",
+	   "播放列表": "<a&&a>",
+	   "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://ayg9.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
+		
+       "分类url": "https://ayg9.cfd/frim/{cateId}-{catePg}.html",
+	    "分类数组": "<li class=\"col-m-6\">&&</li>",
+        "分类标题": "<p class=\"txt-ov\">&&</",
+        "分类ID":"/frim/&&.html"
+        //"分类": "步兵$11#骑兵$10#🀄️字$14#madou$9#制服$23#萝莉$25#美乳$20#熟女$24#探花$4#不道德$21#绿帽$6#颜色$29#国产学生$33"
+      }},
 
    
      
