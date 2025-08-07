@@ -241,83 +241,38 @@
        "搜索url":"https://iporn01.xyz/se/result?keyword={wd}.html"}},
 
   
-  
-       {"key": "破晓视频","name": "🔪破晓视频🔪",
+        {"key": "91视频","name": "91视频🎦影院",
       "type": 3,"api": "csp_XBPQ",
-      "searchable": 1, "quickSearch": 1,"filterable": 1,
-      "ext": {"数组二次截取":"<div class=\"module-items\">&&<div class=\"module-page\">",
-	  "数组": "<a&&</a>",
-     "图片":"src=\"&&\"",
-      "标题":"<div class=\"module-item-titlebox\">&&</div>",
-	  "副标题":"<span class=\"time\">&&</span>",
-      "链接":"href=\"&&\"",
-	  "简介":"一个吃香肠  一个吃鲍鱼   一群吃货",
-	  "搜索模式": "1", 
-     "搜索url":"https://ppxx.poxiaoav.fun/vod/search/page/{pg}/wd/{wd}.html",
-	 "搜索链接前缀":"https://ppxx.poxiaoav.fun/play/",
-     "搜索链接后缀":"-1-1.html",
-	 "直接播放":"1",
-	
-     "分类":"少女萝莉$40#制服丝袜$43#角色扮演$44#口交颜射$45#强奸乱伦$49#人妻系列$52#中文字幕$53#水果派π$56#制服诱惑$57#AV明星$59",
-     "分类url": "https://ppxx.poxiaoav.fun/type/{cateId}-{catePg}.html"}},
-	 
-     
-	
-	
-   
-
-
-      {"key": "唯美视频","name": "✂️唯美视频✂️",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1, "quickSearch": 1,"filterable": 1,
-      "ext": {"数组": "\"item\"&&\"item\"",
-     "图片":"data-original=\"&&\"",
-      "标题":"title=\"&&\"",
-	  "副标题":"<em>&&</em>",
-      "链接":"href=\"&&\"",
-	  "简介":"来到唯美就撸了吧  注意身体！！",
-	  "搜索模式": "1", 
-     "搜索url":"https://wmmv.weimei.lol/vod/search/page/{pg}/wd/{wd}.html",
-	 "搜索链接前缀":"https://wmmv.weimei.lol/play/",
-     "搜索链接后缀":"-1-1.html",
-	 "直接播放":"1",
-     "分类":"骑兵视频$1#传媒剧情$15#中文字幕$3#解说视频$4#探花极品$7#国产大制作$6",
-     "分类url": "https://wmmv.weimei.lol/type/{cateId}-{catePg}.html"}},
-	 
-	 
-	 
-	 
-   
-
-    
-  
-      {"key": "FFY4.COM - 飞飞影视","name": "飞飞♠️影视",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,"quickSearch": 1,"filterable": 1,
-      "ext": {"数组":"<li class=\"p1\">&&</li>",
-       "图片":"data-original=\"&&\"",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+       "数组":"<section class=\"item-box\">&&</a>",
+       "图片":"src=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
-	   "副标题": "<span class=\"tpsj\">&&</span>",
-	   "简介":"撸一撸，注意身体！！",
-	   "搜索模式":"1",
-	   "播放数组二次截取":"class=\"playlist&&</div>",
-		"播放数组": "<ul>&&</ul>",
-	    "播放标题": "title=\"线路&&\"",
-		"播放链接": "href=\"&&\"",
-		"播放列表": "<a&&a>",
-		"搜索数组":"<li class=\"p1\">&&</li>",
-       "搜索图片":"data-original=\"&&\"",
-       "搜索链接": "href=\"&&\"",
-       "搜索标题": "title=\"&&\"",
-	    "搜索副标题": "<span class=\"tpsj\">&&</span>",
-        "搜索url":"https://aunzwus8.ffy4.sbs/index.php/vod/search.html?wd={wd}",
-       "分类url": "https://aunzwus8.ffy4.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "亚洲日韩$1#中文字幕$2#偷dao自拍$4"}},
-
-      
-	  
+	   "副标题": "<small>&&</small>",
+	    "简介": "★本站公告★：合理安排时间看片，享受健康生活。撸一撸  注意身体",
+	   "播放数组":"<div class=\"v_con_box\">&&</div>",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	
+        "搜索url":"https://www.15av.me/vodsearch/{wd}/page/{pg}.html",
+		 "搜索链接前缀":"https://www.15av.me/vodplay/",
+       "搜索链接后缀":"-1-1.html",
+       "分类url": "https://www.15av.me/vodtype/{cateId}-{catePg}.html",
     
+	   "分类数组": "<li class=\"col-3 col-m-6 mb15\">&&</li>",
+       "分类标题": "<p>&&</p>",
+       "分类ID": "/vodtype/&&.html"
+      }},
+  
+  
+  
+  
+     
+	 
 
 
       
@@ -343,25 +298,30 @@
 	  
 	  
 	  
-	 {"key": "129av.app","name": "129🧾视频",
+	 {"key": "55av.app","name": "菠萝🍍视频",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1, "quickSearch": 1,"filterable": 1,
-      "ext": {"主页url": "https://www.129av.app/",
-       "数组":"\"item-box\"&&\"item-box\"",
+      "ext": {"主页url": "https://www.55av.app/",
+       "数组":"<li class=\"mb15\">&&</li>",
        "图片":"src=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
 	    "副标题": "<small>&&</small>",
-	   "播放数组":"<div class=\"v_con_box\">&&</div>",
+	   "播放数组":"<div class=\"clearfix\">&&</div>",
 	    "播放列表": "<a&&a>",
 	    "播放标题": ">&&</",
 	   "播放链接": "href=\"&&\"",
-	   "搜索链接前缀":"https://www.129av.app/vodplay/",
+	   "搜索链接前缀":"https://www.55av.app/vodplay/",
        "搜索链接后缀":"-1-1.html",
 	   "搜索模式":"1",
-       "搜索url":"https://www.129av.app/vodsearch/{wd}/page/{pg}.html",
-       "分类url": "https://www.129av.app/vodtype/{cateId}-{catePg}.html",
-       "分类": "日韩步兵$9#亚洲骑兵$10#中文字幕$14#制服丝袜$18#国产自拍$7#美乳好乳$21#熟女人妻$16#潮吹$20#不道德$17#少女萝莉$19#三级伦理$12"}},
+       "搜索url":"https://www.55av.app/vodsearch/{wd}/page/{pg}.html",
+       "分类url": "https://www.55av.app/vodtype/{cateId}-{catePg}.html",
+	   "分类数组二次截取": "<ul class=\"row row-space10 row-m-space8 tx-column-20 tx-column-20 mb5\">&&</ul>",
+	   "分类数组": "<a&&</a>",
+       "分类标题": "<p>&&</p>",
+       "分类ID": "/vodtype/&&.html"
+       //"分类": "日韩步兵$9#亚洲骑兵$10#中文字幕$14#制服丝袜$18#国产自拍$7#美乳好乳$21#熟女人妻$16#潮吹$20#不道德$17#少女萝莉$19#三级伦理$12"
+	   }},
 	
 	
 	  {"key": "11av.app","name": "🎈十一影视🎈",
