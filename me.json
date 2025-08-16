@@ -193,8 +193,8 @@
       
   {"key": "唐人影视","name": "🥣唐人影视🥣",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { "发布页url":"https://www.51tr.cc/",
-	"主页url":"https://www.577tr.cc/",
+	"ext": { "发布页url":"https://www.51tr.top/",
+	"主页url":"https://www.52tr.top/x",
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"&&\"",
 	"标题": "title=\"&&\"", 
@@ -203,8 +203,8 @@
     "播放标题": ">&&</",
     "播放链接": "href=\"&&\"",
     "播放列表": "<a&&a>",
-	"搜索url":"https://www.577tr.cc/index.php/vodsearch/wd/{wd}/page/{pg}.html",
-    "搜索链接前缀":"https://www.577tr.cc/index.php/voddetail/",
+	"搜索url":"https://www.52tr.top/index.php/vodsearch/wd/{wd}/page/{pg}.html",
+    "搜索链接前缀":"https://www.52tr.top/voddetail/",
     "搜索链接后缀":".html",
     "搜索模式":"1",
 	
@@ -217,7 +217,7 @@
 	 //#精品推荐$108#骑兵系列$111#人妻系列$118#中文字幕4$112
 	// #制服丝袜$121#群飞乱舞$122#咪咪系列$128#萝莉系列3$134#中文字幕5$126
 	// #精品推荐2$137#骑兵系列$141#咪咪系列$144#道德系列3$145#萝莉系列$146#中文字幕6$142#人妻系列3$148#制服诱惑$147#群飞乱舞$152",
-	"分类url":"https://www.577tr.cc/index.php/vodtype/{cateId}/page/{catePg}.html"}},
+	"分类url":"https://www.52tr.top/vodtype/{cateId}/page/{catePg}.html"}},
 		
 		
 		
