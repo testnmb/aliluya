@@ -2158,7 +2158,7 @@
        "分类url":"https://javtree.com/tag/{cateId}-{catePg}.html;;z"}},
 				
 			
-           {"key": "爱看视频","name": "😄爱看lol😄",
+           {"key": "爱看视频","name": "😄爱看lol😄（无法播放）",
 		   "type": 3,
 		   "api": "csp_XBPQ","ext": {
            "主页url": "https://iporn5.life/",
@@ -2282,7 +2282,7 @@
     "分类url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
 	
 
-   {"key": "AV影视","name": "🎬AV影视🎬","type": 3,
+   {"key": "AV影视","name": "🎬AV影视🎬(失效)","type": 3,
    "api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},
    "ext": {  "图片": "data-src=\"&&\"",
       "直接播放": "1",
@@ -2307,28 +2307,18 @@
 
         
  
-     {"key": "NiceAv1","name": "nicetv🐑820A",
-     "type": 3,"api": "csp_XBPQ",
-      "style": {"type": "rect","ratio": 1.5}, 
-	  "ext": { "地址发布url": "https://fuliwz.neocities.org/niceav/",
-        "主页url": "https://www.nicetv820.cyou/",
-        "图片": "data-src=\"&&\"",
-        "简介": "⚠️慢点撸，皮要掉了！！！",
-        "链接": "https://www.nicetv820.cyou/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
-		"直接播放": "1",
-		 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-		"分类url": "https://www.nicetv820.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"}},
+   
 		
-		{"key": "NiceAv2","name": "nicetv🐑820B","type": 3,
+		{"key": "NiceAv","name": "niceav🐑820","type": 3,
 		"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},
-		"ext": {"主页url": "https://www.nicetv820.cyou/",
+		"ext": {"主页url": "https://www.niceav1010.sbs/",
+		"地址发布url": "https://fuliwz.neocities.org/niceav/",
         "图片": "data-src=\"&&\"",
         "简介": "⚠️慢点撸，皮要掉了！！！",
-		"链接": "https://www.nicetv820.cyou/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
+		"链接": "https://www.niceav1010.sbs/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
 		"直接播放": "1",
 		 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "分类url": "https://www.nicetv820.cyou/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+        "分类url": "https://www.niceav1010.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
 	
         "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"}},
 		
@@ -2337,7 +2327,7 @@
 		
 		{"key": "AVgle","name": "🚀AVgle🚀",
 			"type": 3,"api": "csp_XBPQ",
-			"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/xyqxbpq.jar",
+			"jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/xyqxbpq.jar",
 			"style": {"type": "rect","ratio": 1.5},
 			"ext": {
 			"主页url": "https://av.gl/",
@@ -2475,7 +2465,7 @@
 		
 	
 
-   {"key": "暗网色库","name": "📚暗网📚","type": 3,
+   {"key": "暗网色库","name": "📚暗网📚(失效)","type": 3,
     "api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
     "主页url": "https://awjqub.sbs/layout.html",
     "数组": "class=\"myui-vodlist__box&&</div>",
@@ -2660,8 +2650,8 @@
                 "嗅探词": ".m3u8#.mp4",
                 "分类url": "https://www.xiaoyg3.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
 				 //"分类": "少女萝莉$52#国产二区$76#国产传媒$98#日韩区$87#精品推荐$78#必看福利$80#宅男必看$107"
-               "分类数组": "<a&&</a>",
-                "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
+               "分类数组": " <div class=\"row-item-title bg_red\">&&</div>",
+                "分类标题": "target=\"_blank\">&&</a>",
                 "分类ID": "/index.php/vod/type/id/&&.html"
             }},
 
