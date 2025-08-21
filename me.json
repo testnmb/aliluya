@@ -922,30 +922,6 @@
 
 
 
-   
-       { "key": "小米酥妻","name": "小米🍚酥妻",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1, "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "数组":"<li><a class=\"thum&&</li>",
-      "图片":"src=\"&&\"",
-      "标题":"title=\"&&\"",
-      "链接":"href=\"&&\"",
-	  "副标题":" <p>&&</p>",
-      "搜索url":"https://www.xmsqq.buzz/index.php/vod/search.html?wd={wd}",
-      "搜索模式":"1",
-     "线路数组":"<ul class=\"detail-tab&&</ul>",
-    "线路标题":">&&</a>",
-    "播放数组":"<ul class=\"detail-play-list clearfix&&</ul>",
-    "播放列表":"<li><a&&/a>",
-    "播放标题":">&&<",
-    "播放链接":"href=\"&&\"",
-     "分类数组": "<a&&/a>",
-     "分类标题": ">&&<",
-     "分类ID": "/index.php/vod/type/id/&&.html",
-   "分类url":"https://www.xmsqq.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-      }},
   
     { "key": "黑虎影院","name": "黑虎🐯影院",
       "type": 3,"api": "csp_XBPQ",
@@ -1115,7 +1091,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"主页url": "https://zxckuaiboavtv.xyz/",
-       "数组": "<li class=\"col-md-&&</li>",
+       "数组": "<li class=\"col-md-2 col-sm-3 col-xs-4\">&&</li>",
        "标题": "title=\"&&\"",
        "图片": "style=\"background: url('&&') no-repeat;",
        "副标题": "<time>&&</time>",
@@ -1172,21 +1148,6 @@
 	  
  
  
-        {"key":"奈飞成人","name":"🍬小奈飞🍬",
-       "type":3, "api":"csp_XBPQ",
-       "searchable":1, "quickSearch":1, "filterable":1,
-       "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
-	   "发布页": "https://fuliwz.neocities.org/nfcrz/",
-	   "图片": "data-original=\"&&\"",
-      "标题":"alt=\"&&\"",
-      "链接": "https://www.nfcr10498.sbs/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
-      "副标题":"<p class=\"vod-class has-text-grey\">&&</p>",
-	   "搜索url":"https://www.nfcr10498.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
-       "搜索模式":"1",
-	   "分类url":"https://www.nfcr10498.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-	  "分类":"骑兵$29#步兵$30#金发$31#伦理$32#中字$36#破解$37",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1"   }},
 	  
   
        {"key": "精品阁","name": "🚎精品阁影视🚎",
@@ -1257,27 +1218,6 @@
   
 	
 	 
-	 {"key": "javhd.today","name": "javhd🦊today",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "数组": "<li id=\"video-&&</li>",
-      "图片":"src=\"&&\"",
-      "标题":"title=\"&&\"",
-	  "副标题":"<span class=\"left\">&&</span>",
-      "链接":"href=\"&&\"",
-      "搜索url":"https://javhd.today/search/video/?s={wd}",
-      "搜索模式":"1",
-	  "简介":"description\" content=\"&&\"",
-      "跳转播放链接":"<iframe src=\"&&\"",
-     "直接播放": "1",
-	  "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4#.m4a",
-   "分类":"releaseday$releaseday#recent$recent#popular/today$popular/today#popular/week$popular/week",
-   "分类url":"https://javhd.today/{cateId}/{catePg}/"
-      }},
-  
 	
 
 	
@@ -1407,7 +1347,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"主页url": "https://swdivazxwfsd.buzz/",
-       "数组": "<li class=\"col-md-2 col-sm-3 col-xs-4\">&&</li>",
+       "数组": "<a class=\"video-pic loading\"&&</a>",
        "标题": "title=\"&&\"",
       "图片":"style=\"background: url('&&') no-repeat;",
        "副标题": "<time>&&</time>",
@@ -2207,19 +2147,6 @@
 
 
 
-       {"key":"BJ老司机","name":"🚚BJ老司机🚚","type":3,
-       "api":"csp_XBPQ","filterable": 1, "searchable": 1,
-       "quickSearch": 1,"ext":{"主页url":"https://bjav.xyz/",
-		"分类url":"https://bjav.xyz/{cateId}?page={catePg}",
-	   "分类": "国产今日🔥$china/today#国产本周🔥$china/weekly#国产本月🔥$china/month#国产T100🔥$china-top100#日本新发行$japan/release#日本新入库$japan/news#日本中文$japan/cht-sub#日本今日🔥$japan/today#日本本周🔥$japan/weekly#日本今月🔥$japan/month#日本TOO🔥$jp-top100#日本无码$japan/uncensored#AV 解說視頻$commentary#中指通推薦$japan/youtuber",
-	   "数组":"<div class=\"col-6 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3\">&&</a></div>[不包含:AdProvider]",
-		"图片":"src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "链接":"href=\"&&\"",
-        "直接播放": "1",
-       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	   
-       "搜索url":"https://bjav.xyz/search?fulltext={wd}" }},
-		
 		
 			 
 			 
@@ -2628,32 +2555,7 @@
 
 
    
-        {"key": "csp_顶级网曝", "name": "🧒小银棍🧒",
-            "type": 3,"api": "csp_XBPQ",            
-            "playerType": 2, "searchable": 1,
-            "quickSearch": 1,"filterable": 0,
-            "ext": {"请求头": "手机",
-                "站名": "顶级网曝",
-                "主页url": "https://www.xiaoyg3.sbs/",
-                "数组": "<li class=\"content-item\">&&</a></h5>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "播放数组": "<table class=\"playlistlink-&&</tbody>",
-				"播放列表": "<td>&&</td>",
-                "播放标题": ">&&</a>",
-                "播放链接": "href=\"&&\"",
-				"线路数组": "<table class=\"playlistlink-&&</tbody>",
-                "线路标题": "title=\"&&\"",
-                
-                "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-                "搜索url": "https://www.xiaoyg3.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "嗅探词": ".m3u8#.mp4",
-                "分类url": "https://www.xiaoyg3.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-				 //"分类": "少女萝莉$52#国产二区$76#国产传媒$98#日韩区$87#精品推荐$78#必看福利$80#宅男必看$107"
-               "分类数组": " <div class=\"row-item-title bg_red\">&&</div>",
-                "分类标题": "target=\"_blank\">&&</a>",
-                "分类ID": "/index.php/vod/type/id/&&.html"
-            }},
+  
 
     
  
