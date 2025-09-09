@@ -923,7 +923,7 @@
 
 
   
-    { "key": "黑虎影院","name": "黑虎🐯影院",
+    { "key": "黑虎影院","name": "黑虎🐯影院（失效 备着）",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -965,42 +965,7 @@
 	
 	
    
-   
-
-
-   
-
-     
-     {"key": "国产x站","name": "国产❌站",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
-	"图片": "data-original=\"&&\"",
-	"标题": "title=\"&&\"", 
-    "链接": "href=\"&&\"",
-	"直接播放":"1", 
-	"搜索url":"https://cpeurdh53rui97.xyz/index.php/vod/search/page/{pg}/wd/{wd}.html",
-    "搜索链接前缀":"https://cpeurdh53rui97.xyz/index.php/vod/play/id/",
-    "搜索链接后缀":"/sid/1/nid/1.html",
-    "搜索模式":"1",
-	"搜索链接是否直接播放": "1",
-	"分类": "国产传媒$21#国产视频$22#日本骑兵$23#中文字幕$24#步兵专区$27",
-	"分类url":"https://cpeurdh53rui97.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
-
-        
-     {"key": "麻豆传媒","name": "麻豆🥔传媒",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
-	"图片": "data-original=\"&&\"",
-	"标题": "title=\"&&\"", 
-    "链接": "href=\"&&\"",
-	"直接播放":"1", 
-	 "搜索url":"https://mtriop86ernf587.xyz/index.php/vod/search/page/{pg}/wd/{wd}.html",
-     "搜索模式":"1",
-	"分类": "国产传媒$21#国产视频$22#日本骑兵$23#中文字幕$24#步兵专区$27",
-	"分类url":"https://mtriop86ernf587.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
-
+  
 
 
 
@@ -1015,7 +980,7 @@
 	 "搜索url":"https://hsflog53whudus47.xyz/index.php/vod/search/page/{pg}/wd/{wd}.html",
      "搜索模式":"1",
 	"分类": "国产传媒$21#国产视频$22#日本骑兵$23#中文字幕$24#步兵专区$27",
-	"分类url":"https://hsflog53whudus47.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+	"分类url":"https://hsflog53whudus47.xyz/vodtype/{cateId}-{catePg}/"}},
    
 
 
@@ -1029,7 +994,7 @@
     "链接": "href=\"&&\"",
 	"直接播放":"1", 
 	"分类": "国产传媒$21#国产视频$22#日本骑兵$23#中文字幕$24#步兵专区$27",
-	"分类url":"https://droispod56asjdho46.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+	"分类url":"https://droispod56asjdho46.xyz/vodtype/{cateId}-{catePg}/"}},
    
   
       {"key": "飞机吧","name": "飞机✈️影院",
@@ -1090,7 +1055,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {"主页url": "https://zxckuaiboavtv.xyz/",
+      "ext": {"主页url": "https://kuaiboav.lol/",
        "数组": "<li class=\"col-md-2 col-sm-3 col-xs-4\">&&</li>",
        "标题": "title=\"&&\"",
        "图片": "style=\"background: url('&&') no-repeat;",
@@ -1101,13 +1066,13 @@
       "播放标题":">&&<",
       "播放链接":"href=\"&&\"",
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "搜索url":"https://zxckuaiboavtv.xyz/search/{wd}/{pg}.html",
+	   "搜索url":"https://kuaiboav.lol/search/{wd}/{pg}.html",
 	    "搜索后缀":"/detail/",
        "搜索模式":"1",
 	   "分类数组": "<a&&/a>",
         "分类标题": ">&&<",
         "分类ID": "/list/&&.html",
-       "分类url": "https://zxckuaiboavtv.xyz/list/{cateId}/{catePg}.html;;z"}},
+       "分类url": "https://kuaiboav.lol/list/{cateId}/{catePg}.html;;z"}},
   
   
   
@@ -2170,10 +2135,11 @@
       "api": "csp_XBPQ", "playerType": 2, "searchable": 1,
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/XBPQ.jar",
      "quickSearch": 1,"filterable": 1,
-      "ext": {"数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
+      "ext": {"二次截取": "<ul class=\"stui-vodlist clearfix\">&&</ul>",
+		  "数组": "<li><div class=\"stui-vodlist__box\">&&</li>",
         "副标题": "span class=\"pic-text text-right\">&&</p",
-        //"线路数组": "<li&&</li>",
-       // "线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
+       // "线路数组": "<li&&</li>",
+       //"线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
         "播放标题": ">&&</a",
         "搜索模式": "1",
 		"直接播放":"1",
@@ -2184,43 +2150,9 @@
         "分类链接": "https://vip.woaav.lol/vodshow/{cateId}--------{catePg}---.html"}},
 	 
 	 
-
-
-
-
-     {"key": "农夫与少妇","name": "农夫👨‍🌾与少妇‍👩",
-     "type": 3,"api": "csp_XBPQ","searchable": 1,
-     "quickSearch": 1,"filterable": 1,"ext":{
-    "二次截取": "<ul class=\"img-list-data&&</ul",
-    "主页url": "https://nfsf8kj.nfsf-a2.buzz/go",
-    "数组": "<li>&&</li>",
-    "图片": "data-original=\"&&\"",
-    "标题": "title=\"&&\"",
-    "副标题": "text-bg-r\">&&</p",
-    "简介": "keywords\"*content=\"&&剧情",
-    "链接": "href=\"&&\"",
-    "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-    "搜索模式": "1",
-    "搜索url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/search/page/{pg}/wd/{wd}.html",
-    "分类二次截取": "<div class=\"row <{menuInfo.key}>-row\">&&激情图区",
-    "分类数组": "<a&&/a",
-    "分类标题": ">&&<",
-    "分类ID": "/go/index.php/vod/type/id/&&.html",
-    "分类url": "https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
 	
 
-   {"key": "AV影视","name": "🎬AV影视🎬(失效)","type": 3,
-   "api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},
-   "ext": {  "图片": "data-src=\"&&\"",
-      "直接播放": "1",
-      "分类url":"https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-	   "搜索模式": "1",
-       "搜索url": "https://wyaslcwgroup.cfd/index.php/vod/search.html?wd={wd}",
-	   "搜索后缀":"/index.php/vod/play/id/",
-      "搜索链接前缀":"https://wyaslcwgroup.cfd/",
-      "搜索链接后缀":"/sid/1/nid/1.html",
-	  "链接是否直接播放": "1",
-      "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16"}},
+   
 
       {"key": "JAVSB","name": "😄JAVSB😄","type": 3,
 	  "api": "csp_XBPQ","ext": {"主页url": "https://jav.sb/",
