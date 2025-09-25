@@ -18,9 +18,8 @@
             "搜索模式":"1",
             "搜索url":"https://www.panda856.sbs/index.php/vod/search/page/1/wd/{wd}.html",
 			 "直接播放": "1",
-            "分类数组":"<li>&&</li> ",
-            "分类标题":">&&</a>",
-            "分类ID":"/index.php/vod/type/id/&&.html",
+             "分类":"国产$1#骑兵$4#日韩$2探花$8#综合$3",
+           
             "分类url":"https://www.panda856.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
 	
 	
