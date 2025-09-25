@@ -4,23 +4,27 @@
  //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
 "sites":[
 
-     { "key": "家庭视频","name": "家庭🧍‍♂️视频",
-       "type": 3,"api": "csp_XBPQ",
-       "ext": {
-        "分类url": "https://www.jiatll9.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-	    "分类数组": "<a&&a>",
-        "分类标题": ">&&</",
-        "分类ID": "/index.php/vod/type/id/&&.html",
-        "搜索模式": "1",
-		"搜索url": "https://www.jiatll9.sbs/vodsearch/-------------.html?wd={wd}",
-		 "搜索后缀":"/voddetail/",
-		"数组": "<li class=\"article\"&&</li>",
-        "标题": "<h2 style=\"font-size: 14px;\">&&<br></h2>",
-        "图片": "src=\"&&\"",
-		 "直接播放":"1",
-		"链接": "https://www.jiatll9.sbs/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html"
-       
-      } },		
+  	
+	   
+      {"key":"PandaAV-熊猫","name":"🔥PandaAV-熊猫🔥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+            
+            "主页url":"https://www.panda856.sbs/",
+            "数组":"class=\"item-box\">&&</a",
+            "图片":"src=\"&&\"",
+			"标题": "title=\"&&\"",
+            "副标题":"<small>&&</small>",
+            "简介":"description\" content=\"&&|全站免费",
+             "链接": "href=\"&&\"",
+            "搜索模式":"1",
+            "搜索url":"https://www.panda856.sbs/index.php/vod/search/page/1/wd/{wd}.html",
+			 "直接播放": "1",
+            "分类数组":"<li>&&</li> ",
+            "分类标题":">&&</a>",
+            "分类ID":"/index.php/vod/type/id/&&.html",
+            "分类url":"https://www.panda856.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+	
+	
+	
 
 
           {"key": "广汇女色","name": "广汇女色🙂视频",
@@ -132,7 +136,7 @@
   
    
    
-
+   
     
 
         {"key": "黑咖啡","name": "☕️黑咖啡TV",
@@ -170,7 +174,7 @@
   {"key": "唐人影视","name": "🥣唐人影视🥣",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { "发布页url":"https://www.51tr.top/",
-	"主页url":"https://www.52tr.top/x",
+	"主页url":"https://www.521tr.top/x",
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"&&\"",
 	"标题": "title=\"&&\"", 
@@ -179,8 +183,8 @@
     "播放标题": ">&&</",
     "播放链接": "href=\"&&\"",
     "播放列表": "<a&&a>",
-	"搜索url":"https://www.52tr.top/index.php/vodsearch/wd/{wd}/page/{pg}.html",
-    "搜索链接前缀":"https://www.52tr.top/voddetail/",
+	"搜索url":"https://www.521tr.top/index.php/vodsearch/wd/{wd}/page/{pg}.html",
+    "搜索链接前缀":"https://www.521tr.top/voddetail/",
     "搜索链接后缀":".html",
     "搜索模式":"1",
 	
