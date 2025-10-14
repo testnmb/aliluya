@@ -28,7 +28,7 @@
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {
        "数组":"<div class=\"list_mov_poster img-responsive\">&&</em>",
-       "图片":"data-original=\"&&\"",
+       "图片":"src=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "alt=\"&&\"",
 	   
