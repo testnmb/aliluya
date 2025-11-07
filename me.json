@@ -16,17 +16,14 @@
 			"标题": "alt=\"&&\"",
             "副标题":"<p class=\"vod-class has-text-grey\">&&</p>",
             "简介":"description\" content=\"&&|全站免费",
-            "链接": "href=\"&&\"",
-			 //"链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html];;z",
+            
+			 "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html];;z",
             "搜索模式":"1",
             "搜索url":"https://www.mmck1508.sbs/index.php/vod/search/page/1/wd/{wd}.html",
-			 //"直接播放": "1",
+			 "直接播放": "1",
              "分类":"中字$11#骑兵$10#美乳$12人妻$20#强奸$13#萝莉$15#制服$23#射源$24#精品$25#凌辱$32#女优1$39练腿$49",
-            "分类url":"https://www.mmck1508.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
-			 "播放数组": "<div class=\"group-box2\"&&</div>",
-            "线路标题": "精品专线",
-           
-            "播放标题": ">&&</a>"
+            "分类url":"https://www.mmck1508.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
+		
 			}},
 
 
