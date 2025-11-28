@@ -1985,7 +1985,7 @@
        "searchable":1,
        "quickSearch":1, "filterable":1,
        "ext":{"主页url": "https://qiezi.riben.baby/",
-		"数组":"<div class=\"video-item\">&&</a>",
+		"数组":"<div class=\"van-col van-col--12 madou_item\">&&</a>",
 	  "图片": "data-src=\"&&\"",
       "标题":"title=\"&&\"",
        "链接":"href=\"&&\"",
