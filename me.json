@@ -7,7 +7,7 @@
 
 
         
-      {"key":"精品推荐","name":"🈴精品推荐🙂","type":3,
+      {"key":"精品推荐","name":"🈴精品推荐🈴","type":3,
 	  "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	  "ext":{
            
@@ -21,11 +21,12 @@
             "搜索模式":"1",
             "搜索url":"https://www.mmck1508.sbs/index.php/vod/search/page/1/wd/{wd}.html",
 			 "直接播放": "1",
-             "分类":"中字$11#骑兵$10#美乳$12人妻$20#强奸$13#萝莉$15#制服$23#射源$24#精品$25#凌辱$32#女优1$39练腿$49",
+             "分类":"中字$11#骑兵$10#美乳$12人妻$20#强奸$13#萝莉$15#制服$23#射源$24#精品$25#凌辱$32#女优$39练腿$49",
             "分类url":"https://www.mmck1508.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
 		
 			}},
 
+  
 
 
      	
@@ -49,7 +50,7 @@
       }},
 
 
-
+   
   	    
 	 {"key": "初の体验","name": "🌟初の体验🌟",
       "type": 3,"api": "csp_XBPQ",
@@ -114,7 +115,9 @@
 	
 	
 	   
-      {"key":"PandaAV-熊猫","name":"🔥PandaAV-熊猫🔥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+      {"key":"PandaAV-熊猫","name":"🔥PandaAV-熊猫🔥","type":3,
+	  "api":"csp_XBPQ","searchable":1,"quickSearch":1,
+	  "filterable":1,"ext":{
             
             "主页url":"https://www.panda856.sbs/",
             "数组":"class=\"item-box\">&&</a",
@@ -1195,7 +1198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {"主页url": "https://kuaiboav.lol/",
+      "ext": {"主页url": "https://brxkuaiboavxiw.buzz/",
        "数组": "<li class=\"col-md-2 col-sm-3 col-xs-4\">&&</li>",
        "标题": "title=\"&&\"",
        "图片": "style=\"background: url('&&') no-repeat;",
@@ -1206,13 +1209,13 @@
       "播放标题":">&&<",
       "播放链接":"href=\"&&\"",
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "搜索url":"https://kuaiboav.lol/search/{wd}/{pg}.html",
+	   "搜索url":"https://brxkuaiboavxiw.buzz/search/{wd}/{pg}.html",
 	    "搜索后缀":"/detail/",
        "搜索模式":"1",
 	   "分类数组": "<a&&/a>",
         "分类标题": ">&&<",
         "分类ID": "/list/&&.html",
-       "分类url": "https://kuaiboav.lol/list/{cateId}/{catePg}.html;;z"}},
+       "分类url": "https://brxkuaiboavxiw.buzz/list/{cateId}/{catePg}.html;;z"}},
   
   
   
