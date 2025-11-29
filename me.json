@@ -1801,7 +1801,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-       "数组":"<li class=\"col-25 col-m-12 mb20\">&&</li>",
+       "数组":"<section class=\"item-box\">&&</section></li>",
        "图片":"src=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "title=\"&&\"",
