@@ -1800,7 +1800,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
+      "ext": {"数组二次截取":"<ul class=\"row row-space8 row-m-space8\">&&</ul>",
        "数组":"<section class=\"item-box\">&&</section></li>",
        "图片":"src=\"&&\"",
        "链接": "href=\"&&\"",
