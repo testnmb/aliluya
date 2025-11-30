@@ -1612,106 +1612,17 @@
     
   
   
-  
 
     
-	   {"key": "胖虎视频","name": "胖虎🐯影院",
-      "type": 3,"api": "csp_XBPQ",
-      "ext": {"主页url": "https://www.panghuhu.fun/",
-	    "备用1url": "https://hu.panghuhu.fun/",
-		"备用2url": "https://pang.panghu1.fun/",
-		"备用3url": "https://www.panghu1.fun/",
-        "分类url": "https://www.panghuhu.fun/pang/{cateId}-{catePg}/",
-	    "分类数组": "<a&&</a>",
-        "分类标题": ">&&<",
-        "分类ID": "/pang/&&.html",
-        "搜索模式": "1",
-		"搜索url": "https://www.panghuhu.fun/vodsearch/-------------.html?wd={wd}",
-	    "搜索链接前缀":"https://www.panghuhu.fun/hu/",
-        "搜索链接后缀":"-1-1.html",
-		"数组": "<dl>&&</dl>",
-        "标题": "<h3>&&</h3>",
-        "图片": "data-src=\"&&\"",
-		"副标题": "<i>&&</i>",
-		"链接": "href=\"&&\"",
-		"线路数组": "<div class=\"ptop\">&&div>",
-	    "线路标题": "&&</",
-	    "播放数组": "<div class=\"ptop\">&&</div><style>",
-        "播放列表": "<a&&a>",
-	    "播放标题": ">&&</",
-	    "播放链接": "href=\"&&\""}},		
-
-
-     {"key": "爱奇遇","name": "🛏iqiyu爱奇遇🛏",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "<a class=\"thumbnail&&</li>", 
-	"图片": "src=\"&&\"", 
-	  "标题": "alt=\"&&\"", 
-	"副标题": "<p>&&</p>", 
-	 "链接": "href=\"&&\"",
-	"直接播放":"1", 
-	"嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	"跳转播放链接": "var player_aaaa*url\":\"&&\"",
-	"搜索模式": "1", 
-	"搜索url": "https://www.yongjiuav.fun/vodsearch/-------------.html?wd={wd}",
-	"搜索后缀": "/play/",
-	"搜索链接前缀":"https://www.yongjiuav.fun/play/",
-    "搜索链接后缀":"-1-1.html",
-	"链接是否直接播放": "1",
-	"分类":"中文字幕一$3#中文字幕二$53#中文字幕❸三$169#中文字幕四$138#中文字幕五$103#中文字幕六$72#中文字幕七$119#中文字幕八$35#
-	  重口激情$23#不道德一$20#不道德二$49#不道德三$136#不道德四$38#不道德五$100#女优明星一$59#女优明星二$21#女优明星三$118#
-     制服诱惑1$57# 制服诱惑2$139# 制服诱惑3$99#制服诱惑4$43#人妻系列1$52#人妻系列2$135#人妻系列3$125#人妻系列4$37#
-	  乳乳系列1$61#乳乳系列2$137#乳乳系列3$101#乳乳系列4$36#教师学生$66#骑兵系列1$71#骑兵系列2$130#骑兵系列3$97", 
-	"分类url":"https://www.yongjiuav.fun/type/{cateId}-{catePg}.html"}},
 	
      
 
 
-   {"key": "国产视频站","name": "🪟91国产视频站🪟",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "<a class=\"thumbnail&&</li>", 
-	"图片": "src=\"&&\"", 
-	  "标题": "alt=\"&&\"", 
-	"副标题": "<p>&&</p>", 
-	 "链接": "href=\"&&\"",
-	"直接播放":"1", 
-	"嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	"跳转播放链接": "var player_aaaa*url\":\"&&\"",
-	"搜索模式": "1", 
-	"分类":"中文字幕一$3#中文字幕二$53#中文字幕❸三$169#中文字幕四$138#中文字幕五$103#中文字幕六$72#中文字幕七$119#中文字幕八$35#
-	         重口激情$23#不道德一$20#不道德二$49#不道德三$136#不道德四$38#不道德五$100#女优明星一$59#女优明星二$21#女优明星三$118#
-			 制服诱惑1$57# 制服诱惑2$139# 制服诱惑3$99#制服诱惑4$43#人妻系列1$52#人妻系列2$135#人妻系列3$125#人妻系列4$37#
-	         乳乳系列1$61#乳乳系列2$137#乳乳系列3$101#乳乳系列4$36#教师学生$66#骑兵系列1$71#骑兵系列2$130#骑兵系列3$97", 
-	"搜索url": "https://91gcav.fun/vodsearch/-------------.html?wd={wd}",
-	"搜索链接前缀":"https://91gcav.fun/play/",
-     "搜索链接后缀":"-1-1.html",
-	 "链接是否直接播放": "1",
-	"分类url":"https://91gcav.fun/type/{cateId}-{catePg}.html"}},
+
 	
 	
 	
-   {"key": "91在线","name": "🔔91在线🔔",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "<a class=\"thumbnail&&</li>", 
-	"图片": "src=\"&&\"", 
-	  "标题": "alt=\"&&\"", 
-	"副标题": "<p>&&</p>", 
-	 "链接": "href=\"&&\"",
-	"直接播放":"1", 
-	"嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	"跳转播放链接": "var player_aaaa*url\":\"&&\"",
-	"搜索模式": "1", 
-	 "分类数组": "<a&&</a>",
-     "分类标题": ">&&<",
-     "分类ID": "/shenma/&&.html",
-	"搜索url": "https://91zaixian.fun/search/-------------.html?wd={wd}",
-	"搜索链接前缀":"https://91zaixian.fun/sm/",
-     "搜索链接后缀":"-1-1.html",
-	"分类url":"https://91zaixian.fun/shenma/{cateId}-{catePg}.html"}},
-	
+ 
 
 	
 	
@@ -2187,8 +2098,8 @@
         "searchable":1,"quickSearch":1,
 		"filterable":1,"ext":{
         "主页url":"https://javtree.com/last.html",
-        "数组":"<div class=\"item&&</a",
-        "图片":"src=\"&&\"",
+        "数组":"<div class=\"item\">&&</a></div></div>",
+        "图片":"data-src=\"&&\"",
         "标题":"alt=\"&&\"",
         "副标题":"<div class=\"volume\">&&</div>",
         "链接": "href=\"&&\"",
