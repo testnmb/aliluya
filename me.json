@@ -11,24 +11,7 @@
 
 
         
-      {"key":"精品推荐","name":"🈴秘密仓库🈴","type":3,
-	  "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	  "ext":{
-           
-            "数组":"class=\"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</a",
-            "图片":"data-original=\"&&\"",
-			"标题": "alt=\"&&\"",
-            "副标题":"<p class=\"vod-class has-text-grey\">&&</p>",
-            "简介":"description\" content=\"&&|全站免费",
-            
-			 "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html];;z",
-            "搜索模式":"1",
-            "搜索url":"https://uuhkd.com/search/?q={wd}",
-			 "直接播放": "1",
-             "分类":"视频一区$1#视频二区$2#视频三区$3视频四区$4#视频五区$5",
-            "分类url":"https://www.mmck1508.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
-		
-			}},
+    
 
   
        	
@@ -36,7 +19,8 @@
 		"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},
 		"ext": {"主页url": "https://kanav.ad/",
 		"地址发布url": "备用地址：https://m1.kanav.fun",
-		
+		"数组":"class=\"col-md-3 col-sm-6 col-xs-6\">&&</div></div>",
+       
        "图片": "src=\"&&\"",
         "标题": "alt=\"&&\"",
      
@@ -69,16 +53,16 @@
     "图片": "src=\"&&\"",
     "标题": "title=\"&&\"",
     "副标题": "<time>&&</time>",
-    //"链接": "href=\"&&\"",
+   "链接": "https://demo1.11133301.xyz/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
     "简介": "description\" content=\"&&\"",
     "分类url": "https://yinwo332.lol/type/id/{cateId}/{catePg}.html;;z",
-	 "链接": "https://yinwo332.lol/play/id/+/info/id/&&.html",
+	
 	  "直接播放": "1",
       "分类": "探花系列$953#人妻熟女$954#日本无码$955#美乳巨乳$956#强制侵犯$957#制服诱惑$958#绝色佳人$959#风俗泡泡浴$960#家庭乱伦$961#AV解说$962#少女萝莉$964#绝顶潮吹$966#电车痴汉$971
 	  #淫欲痴女$972#中文翻译$385#日本有码$386#高清无码$387#精品素人$388#AV解说分类$390"
       }},
 
-
+ 
    
   	    
 	 {"key": "初の体验","name": "🌟初の体验🌟",
