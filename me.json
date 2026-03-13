@@ -235,9 +235,9 @@
 	   "播放标题": ">&&</",
 	   "播放链接": "href=\"&&\"",
 	    "搜索模式":"1",
-        "搜索url":"https://ayg9.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
+        "搜索url":"https://ayg11.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
 		
-       "分类url": "https://ayg9.cfd/frim/{cateId}-{catePg}.html",
+       "分类url": "https://ayg11.cfd/frim/{cateId}-{catePg}.html",
 	    "分类数组": "<li class=\"col-m-6\">&&</li>",
         "分类标题": "<p class=\"txt-ov\">&&</",
         "分类ID":"/frim/&&.html"
@@ -276,90 +276,8 @@
    
     
 
-        {"key": "黑咖啡","name": "☕️黑咖啡TV",
-            "type": 3,"changeable": 1,
-            "searchable": 1,"quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext":{
-            "直接播放":"1",
-            "搜索模式":"1",
-            "搜索url":"https://www.hkf1241.xyz/index.php/vod/search.html?wd={wd}",
-            "数组":"<div class=\"img-box cover-md\">&&</h6>",
-            "图片":"data-src=\"&&\"",
-           "标题":"alt=\"&&\"",
-		     "副标题":"<span class=\"label\">&&</span>",
-            "链接":"href=\"&&\"",
-            "分类":"国产自拍$1#骑兵$4#步兵$2传媒$8#素人$3",
-            "分类url":"https://www.hkf1241.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-            "免嗅":"0",
-            "嗅探词":".m3u8#.mp4" }},
-	
-    
-
-    
-	
-	
-	
    
-     
 
-
-
-
-      
-  {"key": "唐人影视","name": "🥣唐人影视🥣",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { "发布页url":"https://www.51tr.top/",
-	"主页url":"https://www.521tr.top/x",
-	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
-	"图片": "data-original=\"&&\"",
-	"标题": "title=\"&&\"", 
-    "链接": "href=\"&&\"",
-	"播放数组": "<dt class=\"playurl2\">&&</dt>",
-    "播放标题": ">&&</",
-    "播放链接": "href=\"&&\"",
-    "播放列表": "<a&&a>",
-	"搜索url":"https://www.521tr.top/index.php/vodsearch/wd/{wd}/page/{pg}.html",
-    "搜索链接前缀":"https://www.521tr.top/voddetail/",
-    "搜索链接后缀":".html",
-    "搜索模式":"1",
-	
-	   "分类数组": "<a class=\"nav-link\"&&a>",
-       "分类标题": ">&&</",
-       "分类ID": "/vodtype/&&/",
-	 //"分类":"日韩精品1$53#咪咪系列1$64#颜射系列1$65#道德系列1$57#人妻系列1$56#中文字幕1$55#口口系列1$66#制服诱惑1$60#日韩骑兵1$62
-	 //#日韩步兵2$73#日韩骑兵2$74#萝莉系列1$77#道德系列2$80#HEYZO$82#中文字幕2$75#独家DMM$83#HEY诱惑$84#咪咪系列2$85#潮催系列$86#口口系列2$87#绝美少女$88#首次亮相$89
-	// #日韩步兵3$92#人妻系列$97#咪咪系列$99#萝莉系列2$105#中文字幕3$100#制服诱惑2$101
-	 //#精品推荐$108#骑兵系列$111#人妻系列$118#中文字幕4$112
-	// #制服丝袜$121#群飞乱舞$122#咪咪系列$128#萝莉系列3$134#中文字幕5$126
-	// #精品推荐2$137#骑兵系列$141#咪咪系列$144#道德系列3$145#萝莉系列$146#中文字幕6$142#人妻系列3$148#制服诱惑$147#群飞乱舞$152",
-	"分类url":"https://www.52tr.top/vodtype/{cateId}/page/{catePg}.html"}},
-		
-		
-		
-
-
-
-       {"key":"AV空投军团","name":"✈️空投军团✈️",
-       "type":3, "api":"csp_XBPQ",
-       "searchable": 1,"quickSearch": 1,
-       "filterable": 1,
-       "style":{"type":"rect","ratio":1.333},
-       "ext":{"主页url":"https://iporn01.xyz/",
-		"分类url":"https://iporn01.xyz/ch/{cateId}?page={catePg}",
-	   "分类": "日本新发行$jp/latest#日本所有$jp#日本今日🔥$jp/today#日本本周🔥$jp/weekly#日本今月🔥$jp/month#日本2025🔥$jp/year
-	        #国产新发行$ocal/news#国产最新$local/latest#国产今日🔥$local/today#国产本周🔥$local/weekly#国产今月🔥$local/month#国产2025🔥$local/year",
-		"数组":"\"imgcover\"&&\"imgcover\"",
-		"图片":"src=\"&&\"",
-	   "简介":"★本站公告★：合理安排时间看片，享受健康生活。撸一撸可以  注意身体！！",
-	   "标题": "hreflang=\"zh-hant\">&&</a>",
-       "链接":"href=\"&&\"",
-       "副标题":"class=\"datetime\">&&</time>",
-       "直接播放": "1",
-       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",	
-       "搜索后缀":"/video/", 	   
-       "搜索url":"https://iporn01.xyz/se/result?keyword={wd}.html"}},
 
   
         {"key": "91视频","name": "91视频🎦影院",
@@ -390,33 +308,7 @@
       }},
   
   
-  
-  
-     
-	 
-
-
-      
-	   {"key": "QKAV","name": "OKAV🐣影视",
-       "type": 3,"api": "csp_XBPQ",
-       "searchable": 1,"quickSearch": 1,"filterable": 1,
-       "ext": {"主页url": "https://qkav.xyz/",
-       "数组":"<li class=\"vodlist_item num_&&</li>",
-       "图片":"data-original=\"&&\"",
-       "链接": "href=\"&&\"",
-       "标题": "title=\"&&\"",
-	    "副标题": "<span class=\"pic_text text_right\">&&</span>",
-	   "线路数组":"<ul class=\"title_nav\">&&</ul>",
-	   "线路标题":"title=\"&&\"",
-	   "播放数组":" <ul class=\"content_playlist&&</ul>",
-	   "播放标题": ">&&</a>",
-	   "播放链接": "href=\"&&\"",
-	   "播放列表": "<li&&</li>",
-	   "搜索模式":"1",
-       "搜索url":"https://qkav.xyz/index.php/vod/search.html?wd={wd}&submit=",
-       "分类url": "https://qkav.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-       "分类": "日韩步兵$22#亚洲骑兵$21#中文字幕$20#其他作品$24"}},
-	  
+ 
 	  
 	  
 	 {"key": "55av.app","name": "菠萝🍍视频",
@@ -469,7 +361,7 @@
         "分类ID": "/vodtype/&&.html"}},
 		
 	  
-	  {"key": "17av.app","name": "🦀十七影视🦀",
+	  {"key": "17av.app","name": "🍑蜜桃影视🍑",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": { 
@@ -1064,25 +956,23 @@
 
 
   
-    { "key": "黑虎影院","name": "黑虎🐯影院（失效 备着）",
+    { "key": "AAA影院","name": "AAA🐯影院",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {"主页url": "https://www.qqwwee.click/",
+      "ext": {
        "数组": "class=\"video-pic loading\"&&</a>",
        "标题": "title=\"&&\"",
        "图片": "data-original=\"&&\"",
-       "副标题": "subtitle text-time text-overflow\">&&<",
-       "链接": "/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
+       "副标题": "score\">&&</span>",
+       "链接":"href=\"&&\"",
        "直接播放":"1",
 	   "搜索模式": "1", 
-	   "搜索url": "https://www.qqwwee.click/index.php/vod/search/page/{pg}/wd/{wd}.html",
+	   "搜索url": "https://www.dfjj91.com/vod/search/page/{pg}/wd/{wd}.html",
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-       "分类url": "https://www.qqwwee.click/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-         "分类数组": "<a&&/a>",
-         "分类标题": ">&&<",
-         "分类ID": "/index.php/vod/type/id/&&.html"
+       "分类url": "https://www.dfjj91.com/maotype/{cateId}-{catePg}/",
+         "分类":"中字$23#骑兵$22#步兵$21#大灯$25#人妻$26#制服$28#少女$32#日韩$37#萝莉$40"
       }},
   
    
