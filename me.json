@@ -930,28 +930,7 @@
  
 
 
-   
-          {"key": "Niceav","name": "nice🎈papa",
-            "type": 3,"changeable": 1,
-            "searchable": 1,"quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext":{
-            "直接播放":"1",
-            "搜索模式":"1",
-            "搜索url":"https://www.nice10415.cyou/index.php/vod/search.html?wd={wd}",
-            "数组":"<div class=\"img-box cover-md\">&&</h6>",
-            "图片":"data-src=\"&&\"",
-            "标题":"class=\"title\">&&</a>",
-            "链接":"href=\"&&\"",
-            "分类":"中字$1#骑兵$2#步兵$3#解说$4#黑丝$6#swag$7#探花$11#传媒$14#素人$15",
-            "分类url":"https://www.nice10415.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-            "免嗅":"0",
-            "嗅探词":".m3u8#.mp4" }},
-	
-
-
-      
+  
 
 
 
@@ -1000,18 +979,7 @@
 
 
 
-     {"key": "花丛视频","name": "花丛🌸影院",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
-	"图片": "data-original=\"&&\"",
-	"标题": "title=\"&&\"", 
-    "链接": "href=\"&&\"",
-	"直接播放":"1", 
-	 "搜索url":"https://hsflog53whudus47.xyz/index.php/vod/search/page/{pg}/wd/{wd}.html",
-     "搜索模式":"1",
-	"分类": "国产传媒$21#国产视频$22#日本骑兵$23#中文字幕$24#步兵专区$27",
-	"分类url":"https://hsflog53whudus47.xyz/vodtype/{cateId}-{catePg}/"}},
+ 
    
 
 
@@ -1212,44 +1180,7 @@
       }},
   
   
-	
-	 
-	
 
-	
-  
-  
-  
-  
-  
-       {"key": "小树AV","name": "小树🌳影视",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "数组":"<a class=\"videopic lazy&&</a></h5>",
-      "图片":"data-original=\"&&\"",
-      "标题":"title=\"&&\"",
-      "链接":"href=\"&&\"",
-      "搜索url":"https://xsav7.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
-      "搜索模式":"1",
-	 "线路数组": "href=\"#playlist&&/a>",
-     "线路标题": "</i></span>&&<",
-    "播放数组":"playlistlink-&&</ul>",
-    "播放列表":"<a&&/a>",
-    "播放标题":">&&<",
-    "播放链接":"href=\"&&\"",
-    //"免嗅":"1",
-    "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#index.m3u8#.wma",
-    // "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
-   "分类":"国产视频$index25#中文字幕$index26#国产传媒$index27#日本骑兵$index28#日本步兵$index29#解说$index40#制服诱惑$index32",
-   "分类url":"https://xsav7.cfd/frim/{cateId}-{catePg}.html"
-      }},
-  
-
-     
-	  
    
    
    
@@ -1986,7 +1917,8 @@
         "searchable":1,"quickSearch":1,
 		"filterable":1,"ext":{
         "主页url":"https://javtree.com/last.html",
-        "数组":"<div class=\"item\">&&</a></div></div>",
+		"二次截取": "<div class=\"j-list\">&&<div class=\"j-page\"",
+        "数组":"<a class=\"link&&</a>",
         "图片":"data-src=\"&&\"",
         "标题":"alt=\"&&\"",
         "副标题":"<div class=\"volume\">&&</div>",
