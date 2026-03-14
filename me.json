@@ -1937,19 +1937,7 @@
        "分类url":"https://javtree.com/tag/{cateId}-{catePg}.html;;z"}},
 				
 			
-           {"key": "爱看视频","name": "😄爱看lol😄（无法播放）",
-		   "type": 3,
-		   "api": "csp_XBPQ","ext": {
-           "主页url": "https://iporn5.life/",
-           "直接播放": "1",
-           "数组": "class=\"colVideoList\">&&</div></div>",
-	      "图片":"data-original=\"&&\"",
-          "标题":"alt=\"&&\"",
-          "链接": "href=\"&&\"",
-	      "跳转播放链接":"var player_*\"url\":\"&&\"",
-	      "分类url": "https://iporn5.life/vodtype/{cateId}-{catePg}.html",
-          "分类": "骑兵$6#国产$4#步兵$5#中文$8#欧美$7"}},
-
+      
 
      
 
@@ -1991,7 +1979,7 @@
 			 
 	  { "key": "yubanghanzhu", "name": "👀玉蚌含珠👀",
       "type": 3,"api": "csp_XBPQ",
-      "ext": { "分类url": "https://m5n6o7p8.ybhz21.buzz/vodtype/{cateId}-{catePg}/",
+      "ext": { "分类url": "https://a3b4c5d6.ybhz33.cc/vodtype/{cateId}-{catePg}/",
         "分类": "国产传媒$1#国产剧情$2#日本有码$43#中文字幕$41#AV解说$55#欧美无码$45#天美传媒$23#无码中文$144#伦理三级$54",
         "搜索模式": "1",
         //"数组": "class=\"video-pic loading\"&&</a>[不包含:'+ myWord +']",
