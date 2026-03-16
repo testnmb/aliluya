@@ -12,20 +12,17 @@
       "ext": {
        "数组":"<div class=\"stui-vodlist__box\">&&</li>",
        "图片":"data-original=\"&&\"",
-       "链接": "href=\"&&\"",
+     
        "标题": "title=\"&&\"",
 	   
 	   "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
 	   //"线路数组":"<a href=\"#playlist1\"&&</li>",
-	  "线路标数组": "data-toggle=\"tab\">&&</a>",
-	   "播放数组":"<ul class=\"stui-content__playlist clearfix\">&&</ul>",
-	   "播放列表": "<a&&a>",
-	   "播放标题": ">&&</",
-	   "播放链接": "href=\"&&\"",
+	    "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
+       "直接播放":"1",
 	    "搜索模式":"1",
-        "搜索url":"https://e.bwyy1.com/vodsearch/-------------.html?wd={wd}",
+        "搜索url":"https://e.bwyy.org/vodsearch/-------------.html?wd={wd}",
 		
-       "分类url": "https://e.bwyy1.com/vodtype/{cateId}-{catePg}.html",
+       "分类url": "https://e.bwyy.org/vodtype/{cateId}-{catePg}.html",
 	    "分类": "中文字幕$16#一区有码$6#强奸伦理$9#人妻熟女$10#抠脚元射$49#制服丝袜$68#巨乳美乳$61#少女萝莉$69#精品推荐$58#女优合集$59#亚洲🈚️🐎$93"
       }},
 
