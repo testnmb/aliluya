@@ -28,7 +28,7 @@
 
 
       
-  {"key":"csp_xBP色花堂A","name":"🌸好看视频🌸色花堂A版",
+  {"key":"csp_xBP色花堂A","name":"🌸好看视频🌸色花堂A",
     "type":3,"api":"csp_XBPQ","searchable":1,
     "quickSearch":1,"filterable":1,"ext":
    { "站名":"色花堂",
@@ -59,7 +59,7 @@
    "分类url":"https://mlqwnwx.com/typegaokk/{cateId}_{catePg}.html[https://mlqwnwx.com/typegaokk/{cateId}.html]"}},
         
     
-     {"key":"csp_xBP色花堂B","name":"🌸毒蛇电影🌸色花堂B版",
+     {"key":"csp_xBP色花堂B","name":"🌸毒蛇电影🌸色花堂B",
     "type":3,"api":"csp_XBPQ","searchable":1,
     "quickSearch":1,"filterable":1,"ext":
    { "站名":"色花堂",
@@ -88,7 +88,7 @@
    "分类url":"https://duse.ai/vodtype/{cateId}-{catePg}.html[https://duse.ai/vodtype/{cateId}.html]"}},
         
 	
-	{"key":"csp_xBP色花堂C","name":"🌸51视频🌸色花堂C版",
+	{"key":"csp_xBP色花堂C","name":"😯51视频😯色花堂C",
     "type":3,"api":"csp_XBPQ","searchable":1,
     "quickSearch":1,"filterable":1,"ext":
    { "站名":"色花堂",
@@ -119,7 +119,7 @@
    "分类url":"https://m60r2j.com/typegaokk/{cateId}_{catePg}.html[https://m60r2j.com/typegaokk/{cateId}.html]"}},
 	
 	
-	   {"key":"csp_xBP色花堂D","name":"🌸毒蛇电影🌸色花堂D版",
+	   {"key":"csp_xBP色花堂D","name":"🐱猫咪影视🐱色花堂D",
     "type":3,"api":"csp_XBPQ","searchable":1,
     "quickSearch":1,"filterable":1,"ext":
    { "站名":"色花堂",
@@ -162,10 +162,10 @@
 		 "副标题": "</a>&&</div></div>",
         "简介": "⚠️慢点撸，皮要掉了！！！",
 		//"链接": "https://kanav.ad/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
-		 "链接": "href=\\\\\\\"/index.php/vod/play/id/&&/sid/1/nid/1.html\\\\\\\"",
-		 "链接前缀": "https://kanav.ad/index.php/vod/play/id/",
-        "链接后缀": "/sid/1/nid/1.html",
-        "跳转播放链接": "urlDecode(var player*url\\\\\\\":\\\\\\\"&&\\\\\\\")",
+		 "链接": "href=\"/index.php/vod/play/id/&&/sid/1/nid/1.html"",
+		 //"链接前缀": "https://kanav.ad/index.php/vod/play/id/",
+        //"链接后缀": "/sid/1/nid/1.html",
+        //"跳转播放链接": "urlDecode(var player*url\\\\\\\":\\\\\\\"&&\\\\\\\")",
 		 "搜索模式":"1",
          "搜索url":"https://kanav.ad/index.php/vod/search.html?wd={wd}&by=time_add",
 		"直接播放": "1",
@@ -213,6 +213,7 @@
     "标题": "title=\"&&\"",
     "副标题": "✨色即是空，空即是色✨",
   "链接": "https://demo1.11133301.xyz/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
+   "直接播放": "1",
     "简介": "description\" content=\"&&\"",
     "分类url": "https://demo1.11133301.xyz/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
     "分类": "精品推荐$22#国产情色$23#欧美情色$24#中文字幕$25#成人动漫$26#长腿丝袜$28#日韩伦理$30"
