@@ -162,7 +162,7 @@
 		 "副标题": "</a>&&</div></div>",
         "简介": "⚠️慢点撸，皮要掉了！！！",
 		//"链接": "https://kanav.ad/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
-		 "链接": "href=\"/index.php/vod/play/id/&&/sid/1/nid/1.html"",
+		 "链接": "href=\"/index.php/vod/play/id/&&/sid/1/nid/1.html""",
 		 //"链接前缀": "https://kanav.ad/index.php/vod/play/id/",
         //"链接后缀": "/sid/1/nid/1.html",
         //"跳转播放链接": "urlDecode(var player*url\\\\\\\":\\\\\\\"&&\\\\\\\")",
