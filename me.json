@@ -119,6 +119,34 @@
    "分类url":"https://m60r2j.com/typegaokk/{cateId}_{catePg}.html[https://m60r2j.com/typegaokk/{cateId}.html]"}},
 	
 	
+	   {"key":"csp_xBP色花堂D","name":"🌸毒蛇电影🌸色花堂D版",
+    "type":3,"api":"csp_XBPQ","searchable":1,
+    "quickSearch":1,"filterable":1,"ext":
+   { "站名":"色花堂",
+   "主页url":"https://3taoav.com/",
+    //"数组":"<div class=\"img-box cover-md\">&&</h6>",
+  "数组":"\"img-box cover-md\"&&\"img-box cover-md\"",
+  "图片": "data-original=\"&&\"",
+  "标题": "<h6 class=\"title\"><a href=*>&&</a>",
+   
+   "链接":"href=\"&&\"",
+   "副标题": "\"label\">&&</span>",
+  "线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]",
+   "线路标题":">&&</a>",
+   "搜索url":"https://3taoav.com/vodsearch/{wd}----------{pg}---.html",
+  "搜索模式":"1",
+   "搜索副标题":"<span class=\"score\">&&</span>",
+   "搜索后缀":"/vodplay/",
+   "播放数组":"class=\"item line\">&&</div>",
+   "播放列表":"<a&&/a>",
+   "播放标题":">&&<",
+    "播放链接":"href=\"&&\"",
+   "播放链接前缀":"https://3taoav.com/",
+    "分类":"国产精品&日韩有码&自拍偷拍&中文字幕&国产原创&日韩无码&三级综艺",
+    "分类值":"1&2&15&4&8&11&12",
+   "分类url":"https://3taoav.com/vodtype/{cateId}-{catePg}.html[https://3taoav.com/vodtype/{cateId}.html]"}},
+	
+	
 	
   
        	
@@ -134,7 +162,10 @@
 		 "副标题": "</a>&&</div></div>",
         "简介": "⚠️慢点撸，皮要掉了！！！",
 		//"链接": "https://kanav.ad/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
-		 "链接": "href=\"&&\"",
+		 "链接": "href=\\\\\\\"/index.php/vod/play/id/&&/sid/1/nid/1.html\\\\\\\"",
+		 "链接前缀": "https://chaoshi7.xyz/index.php/vod/play/id/",
+        "链接后缀": "/sid/1/nid/1.html",
+        "跳转播放链接": "urlDecode(var player*url\\\\\\\":\\\\\\\"&&\\\\\\\")",
 		 "搜索模式":"1",
          "搜索url":"https://kanav.ad/index.php/vod/search.html?wd={wd}&by=time_add",
 		"直接播放": "1",
