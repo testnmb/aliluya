@@ -667,8 +667,8 @@
       {"key": "444.coffee","name": "444☕️咖啡",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1, "filterable": 1,
-      "ext": {"主页url": "https://www.444.coffee/",
-      "数组": "<li id=\"post-&&</li>",
+      "ext": {"主页url": "https://www.444.coffee/page/1",
+      "数组": "<li id=\"post-*\" class=\"thumi\">&&</li>",
      "图片":"data-src=\"&&\"",
       "标题":"title=\"&&\"",
 	  "副标题":"class=\"added\">&&</span>",
@@ -678,7 +678,7 @@
 	  "直接播放":"1",
      "分类":"中文字幕$中文字幕",
      "排序": "最新$newest#评分$rate",
-     "分类url": "https://www.444.coffee/category/中文字幕/page/{catePg}?order={by}"
+     "分类url": "https://www.444.coffee/category/{cateId}/page/{catePg}?order={by}"
       }},
    
    
