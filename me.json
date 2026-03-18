@@ -252,23 +252,7 @@
 	
 	
 	   
-      {"key":"PandaAV-熊猫","name":"🔥PandaAV-熊猫🔥","type":3,
-	  "api":"csp_XBPQ","searchable":1,"quickSearch":1,
-	  "filterable":1,"ext":{
-            
-            "主页url":"https://www.panda856.sbs/",
-            "数组":"class=\"item-box\">&&</a",
-            "图片":"src=\"&&\"",
-			"标题": "title=\"&&\"",
-            "副标题":"<small>&&</small>",
-            "简介":"description\" content=\"&&|全站免费",
-             "链接": "href=\"&&\"",
-            "搜索模式":"1",
-            "搜索url":"https://www.panda856.sbs/index.php/vod/search/page/1/wd/{wd}.html",
-			 "直接播放": "1",
-             "分类":"国产$1#骑兵$4#日韩$2探花$8#综合$3",
-           
-            "分类url":"https://www.panda856.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+     
 	
 	
 	  {"key": "色物语","name": "色无语👌视频",
@@ -290,10 +274,7 @@
         "搜索url":"https://swy14.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
 		
        "分类url": "https://swy14.cfd/frim/{cateId}-{catePg}.html",
-	    "分类二次数组":" <ul class=\"nav navbar-nav abc\"&&</ul>",
-	    "分类数组": "<li>&&</li>",
-        "分类标题": ">&&</a>",
-        "分类ID":"/frim/&&.html"
+	   "分类": "无码专区$25#制服诱惑$27#中文字幕$30#人妻熟女$35#萝莉少女$36#美乳巨乳$39#强奸乱伦$40#女优明星$46#AV解说$48"
       }},
 
 	
@@ -320,9 +301,9 @@
 	   "播放标题": ">&&</",
 	   "播放链接": "href=\"&&\"",
 	    "搜索模式":"1",
-        "搜索url":"https://ghns8.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
+        "搜索url":"https://ghns9.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
 		
-       "分类url": "https://ghns8.cfd/frim/{cateId}-{catePg}.html",
+       "分类url": "https://ghns9.cfd/frim/{cateId}-{catePg}.html",
 	    "分类数组": "<a class=\"memu-list-link\"&&</li>",
         "分类标题": ">&&</a>",
         "分类ID":"/frim/&&.html"
@@ -2474,7 +2455,9 @@
 
 
 
-{"key":"csp_xBP色花堂","name":"🌸色花堂🌸B版","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
+{"key":"csp_xBP色花堂","name":"🌸色花堂🌸B版","type":3,
+"api":"csp_XBPQ","searchable":1,
+"quickSearch":1,"filterable":1,"ext":
 {"站名":"色花堂",
 "主页url":"https://www.0dzm3d.com/index.html",
 //"数组":"<div class=\"img-box cover-md\">&&</h6>",
