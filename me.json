@@ -294,12 +294,13 @@
        "标题": "title=\"&&\"",
 	   
 	   "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
-	   //"线路数组":"<a href=\"#playlist1\"&&</li>",
-	  //"线路标题": ">广汇女色<",
+	   "线路数组":"<div class=\"operate clearfix\">&&</div>",
+	  "线路标题": ">广汇女色<",
 	   "播放数组":"<div class=\"operate clearfix\">&&</div>",
 	   "播放列表": "<a&&a>",
 	   "播放标题": ">&&</",
 	   "播放链接": "href=\"&&\"",
+	   "跳转播放链接":"var now=\"&&\"",
 	    "搜索模式":"1",
         "搜索url":"https://ghns9.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
 		
