@@ -12,16 +12,21 @@
       "ext": {
        "数组":"<div class=\"stui-vodlist__box\">&&</li>",
        "图片":"data-original=\"&&\"",
-     
+        "链接":"href=\"&&\"",
        "标题": "title=\"&&\"",
 	   
 	   "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
 	   //"线路数组":"<a href=\"#playlist1\"&&</li>",
-	    "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
-       "直接播放":"1",
+	   // "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
+       //"直接播放":"1",
 	    "搜索模式":"1",
         "搜索url":"https://e.bwyy.org/vodsearch/-------------.html?wd={wd}",
-		
+		"线路数组":"<a href=\"#playlist1\"&&</li>",
+	  "线路标题": ">百万影院<",
+		"播放数组":"<ul class=\"stui-content__playlist clearfix\">&&</ul>",
+	   "播放列表": "<a&&a>",
+	   "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
        "分类url": "https://e.bwyy.org/vodtype/{cateId}-{catePg}.html",
 	    "分类": "中文字幕$16#一区有码$6#强奸伦理$9#人妻熟女$10#抠脚元射$49#制服丝袜$68#巨乳美乳$61#少女萝莉$69#精品推荐$58#女优合集$59#亚洲🈚️🐎$93"
       }},
@@ -1080,23 +1085,6 @@
    
   
 
-
-
- 
-   
-
-
-
-     {"key": "国产老司机","name": "司机🔋影院",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
-	"图片": "data-original=\"&&\"",
-	"标题": "title=\"&&\"", 
-    "链接": "href=\"&&\"",
-	"直接播放":"1", 
-	"分类": "国产传媒$21#国产视频$22#日本骑兵$23#中文字幕$24#步兵专区$27",
-	"分类url":"https://droispod56asjdho46.xyz/vodtype/{cateId}-{catePg}/"}},
    
   
       {"key": "飞机吧","name": "飞机✈️影院",
@@ -1844,22 +1832,6 @@
 
 	
 	
-      {"key":"花花世界", "name":"花花🌸影视",
-       "type":3,"api":"csp_XBPQ",
-       "searchable":1, "quickSearch":1, "filterable":1,
-       "ext":{"主页url": "https://lwj.hsyh7.monster/cn/home/web/",
-		   "数组":"<p class=\"img\">&&</li>",
-	  "图片": "src=\"&&\"",
-      "标题":"alt=\"&&\"",
-       "链接":"href=\"&&\"",
-       "副标题":"<i>&&</i>",
-	   "搜索url":"https://lwj.hsyh7.monster/cn/home/web/index.php/vod/search.html",
-       "搜索模式":"1",
-	   "分类url":"https://lwj.hsyh7.monster/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-      "分类":"4K岛国$26#亚洲$20#制服师生$21#丝袜美腿$23#强+伦$24#人妻熟女$29#中字$27#国产$36#日韩🈚️🐎$30#自淫系列$32",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1"  }},	
-	   
 	  
     {"key":"avgle.pro","name":"🍍avgle.pro🍍",
        "type":3,"api":"csp_XBPQ",
@@ -1878,22 +1850,6 @@
 
  
  
-     {"key":"黄精影院", "name":"黄精🌼影院",
-       "type":3,"api":"csp_XBPQ",
-       "searchable":1, "quickSearch":1,"filterable":1,
-       "ext":{"数组":"vid_thumbainl\">&&</div>",
-	   "图片": "src=\"&&\"",
-      "标题":"title=\"&&\"",
-       "链接":"href=\"&&\"",
-      
-	   "搜索url":"https://szo.hjyy6.skin/s/index.html?wd={wd}",
-       "搜索模式":"1",
-	   "分类url":"https://szo.hjyy6.skin/vodtype/{cateId}-{catePg}.html",
-       "分类":"自拍$20#波霸$21#乱++$22#人妻$23#制服$24#花季$25#🈚️🐎$26#日韩$30#其它$33",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1" }},
-  
-   
     
 	  
    
