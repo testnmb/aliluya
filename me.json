@@ -763,6 +763,7 @@
     
 	"链接":"https://mdav.art/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
 	"直接播放":"1",
+	"跳转播放链接": "var player_*\"url\":\"&&\"",
     "搜索模式": "1",
     "搜索url": "https://mdav.art/vod/search/page/1/wd/{wd}/",
 	"分类":"视频1️⃣ 区$1",
