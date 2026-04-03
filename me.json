@@ -609,30 +609,7 @@
 
 
        
-   {"key": "桃源AV","name": "🍑桃源影视🍑","type": 3,
-    "api": "csp_XBPQ","style": {"ratio": 1.7},
-	"ext": {"主页url": "https://tyav12.cfd/",
-	"数组二次截取": "<ul class=\"myui-vodlist clearfix\">&&</ul>",
-    "数组": "class=\"myui-vodlist__box&&</div>",
-     "图片":"data-original=\"&&\"",
-    "标题": "title=\"&&\"",
-    "副标题": "<span class=\"text-muted\">更新：</span>&&</p>",
-	 "链接": "href='&&'[替换:play>>movie]",
-   	 //"链接": "href=\"&&\"",
-    "搜索模式": "1",
-    "搜索url": "https://tyav12.cfd/search.php?searchword={wd}&submit=",
-	//"线路数组":"<a href=\"#playlist&&</ul>",
-    //"线路标题":">&&</a>",
-    //"播放数组":"<ul class=\"stui-content__playlist&&</ul>",
-   // "播放列表":"<a&&/a>",
-   // "播放标题":">&&<",
-   // "播放链接":"href=\"&&\"",
-	 "分类数组":"<a class=\"memu-list-link\"&&</li>",
-     "分类标题": ">&&</a>",
-     "分类ID": "/frim/&&.html",
-	//"分类":"日韩步兵$index25#强奸乱伦$index26#国产精品$index28#人妻系列$index29#不道德$index29#中文字幕$index30#伦理影片$index32#日韩精品$index33#制服诱惑$index34
-   // #AV明星$index36#3P合辑$index37#巨乳系列$index38#颜射系列$index39#口交视频$index40#自慰系列$index41#SM重味$index42#教师学生$index43",
-    "分类url": "https://tyav12.cfd/frim/{cateId}-{catePg}.html"}},
+  
 	
 	  
      
@@ -1509,23 +1486,23 @@
 	    
    
 
-   { "key": "橙子视频","name": "橙子🍊影视",
+   { "key": "饼干姐","name": "饼干姐🍪影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {"主页url": "https://www.cztv1419.cyou/",
-       "数组": "class=\"video-pic loading\"&&</a>",
-       "标题": "title=\"&&\"",
-       "图片": "data-original=\"&&\"",
-       "副标题": "note text-bg-r\">&&<",
+      "ext": {"主页url": "https://qymra.com/",
+       "数组": "<dl itemscope&&</dl>",
+       "标题": "alt=\"&&\"",
+       "图片": "data-src=\"&&\"",
+       "副标题": "uploadDate\">&&</i>",
 	    "简介": "带您走进电影的幕后故事，解读影片的深层含义，让您在观影之余，还能增长知识",
        "链接": "href=\"&&\"",
-	    "分类数组": "<a&&</a>",
+	    "分类数组": "<dd><a&&</a><dd>",
         "分类标题": ">&&<",
-        "分类ID": "/index.php/vod/type/id/&&.html",
+        "分类ID": "/vod/type/id/&&.html",
 	   "直接播放":"1", 
-       "分类url": "https://www.cztv1419.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+       "分类url": "https://qymra.com/vod/type/id/{cateId}/page/{catePg}.html"}},
   
   
     
