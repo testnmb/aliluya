@@ -749,39 +749,25 @@
    }},
 	
 
-     {"key":"天天看AV","name":"天天📺看TV",
-	"type":3,"api":"csp_XBPQ",
-     "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
-    "主页url": "https://ttav.pw/",
-    "数组": "<article id=\"post&& </article>",
-	 "图片":"data-src=\"&&\"",
-    "标题": "alt=\"&&\"",
-    "简介": "description\"*content=\"&&",
-    "链接":"https://ttav.pw/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
-    "搜索模式": "1",
-    "搜索url": "https://ttav.pw/vod/search/page/1/wd/{wd}/",
-	"分类":"视频1️⃣ 区$1",
-    "剧情": "制服丝袜$制服丝袜#群交淫乱$群交淫乱#无码专区$无码专区#偷拍自拍$偷拍自拍#中文字幕$中文字幕#巨乳美乳$巨乳美乳#伦理三级$伦理三级#少女萝莉$少女萝莉#国产自拍$国产自拍",
-   "分类url": "https://ttav.pw/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
-   }},
+
  
     
 	
-	 {"key":"肚兜成人網","name":"肚兜影院🀄字",
+	 {"key":"麻豆传媒","name":"麻豆传媒✅",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
-    "主页url": "https://dudou.pw/",
-    "数组": "<article id=\"post&& </article>",
-	 "图片":"data-src=\"&&\"",
+    "主页url": "https://mdav.art/",
+    "数组": "div class=\"col-sm-4\">&&</h4>",
+	 "图片":"src=\"&&\"",
     "标题": "alt=\"&&\"",
     
-	"链接":"https://dudou.pw/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+	"链接":"https://mdav.art/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
 	"直接播放":"1",
     "搜索模式": "1",
-    "搜索url": "https://dudou.pw/vod/search/page/1/wd/{wd}/",
+    "搜索url": "https://mdav.art/vod/search/page/1/wd/{wd}/",
 	"分类":"视频1️⃣ 区$1",
-    "剧情": "熟女人妻$熟女人妻#日本无码$日本无码#日本有码$日本有码#强奸乱伦$强奸乱伦#中文字幕$中文字幕#巨乳美乳$巨乳美乳#制服诱惑$制服诱惑#精品推荐$精品推荐#中文有码$中文有码#传媒拍摄$传媒拍摄#探花约炮$探花约炮",
-   "分类url": "https://dudou.pw/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
+    "剧情": "精品推荐$精品推荐#日本无码$日本无码#高清传媒$高清传媒#映画传媒$映画传媒#中文字幕$中文字幕",
+   "分类url": "https://mdav.art/vod/show/class/{class}/id/{cateId}/page/{catePg}/"
    }},
  
  
