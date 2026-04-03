@@ -5,6 +5,24 @@
 "sites":[
 
 
+        {"key": "嫩草影院","name": "嫩草👨‍🌾影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<li><a target=\"_blank&&</li>", 
+	"图片": "src=\"&&\"", 
+	  "标题": "title=\"&&\"", 
+	"副标题": "<span>&&</span>", 
+     "链接": "https://hsak17.com/vod/play/id/+href=\"/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+	"直接播放":"1", 
+	"搜索模式": "1", 
+	"简介":"★本站公告★：合理安排时间看片，享受健康生活。撸一撸可以  但是注意身体！！",
+	 "分类": "国产在线$fenlei1#女优在线$jipinnvshen#日韩一区$rihanjiqing#中文字幕$zhongwenzimu#亚洲有码$yazhouyouma#日本无码$ribenwuma#校园制服$xiaoyuanzhifu#日韩二区$rihanerqu#人妻熟女$renqishunv#长腿丝袜$changtuisiwa#爆奶巨乳$baonaijuru",
+	
+	"分类url":"https://hsak17.com/vod/type/id/{cateId}/page/{catePg}.html"}},
+
+
+
+
       	
 	   {"key": "百万影院","name": "百万🙂视频",
       "type": 3,"api": "csp_XBPQ",
@@ -1498,9 +1516,7 @@
        "副标题": "uploadDate\">&&</i>",
 	    "简介": "带您走进电影的幕后故事，解读影片的深层含义，让您在观影之余，还能增长知识",
        "链接": "href=\"&&\"",
-	    "分类数组": "<dd><a&&</a><dd>",
-        "分类标题": ">&&<",
-        "分类ID": "/vod/type/id/&&.html",
+	   "分类":"日本名优$67#乱伦调教$57#国产传媒$21", 
 	   "直接播放":"1", 
        "分类url": "https://qymra.com/vod/type/id/{cateId}/page/{catePg}.html"}},
   
