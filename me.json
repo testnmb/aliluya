@@ -607,6 +607,7 @@
     "标题": "title=\"&&\"",
     "副标题": "<span class=\"text-muted\">更新：</span>&&</p>",
    	 "链接": "href=\"&&\"",
+	  "简介": "style=\"display: none;\">&&</span>",
     "搜索模式": "1",
     "搜索url": "https://eedff12.top/vodsearch/{wd}----------{pg}---.html",
 	"搜索数组": "<div class=\"thumb\">&&</li>",
@@ -1479,9 +1480,39 @@
   
   
     
+     
+   { "key": "大雕哥视频","name": "雕哥🍪影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://sdxbrgc.com/",
+       "数组": "<dl itemscope&&</dl>",
+       "标题": "alt=\"&&\"",
+       "图片": "src=\"&&\"",
+       "副标题": "uploadDate\">&&</i>",
+	    "简介": "带您走进电影的幕后故事，解读影片的深层含义，让您在观影之余，还能增长知识",
+       "链接": "href=\"&&\"",
+	   "分类":"热门视频$20#日本名优$67#乱伦调教$57#国产传媒$21", 
+	   "直接播放":"1", 
+       "分类url": "https://sdxbrgc.com/vod/type/id/{cateId}/page/{catePg}.html"}},
   
   
-
+        { "key": "八度影院","name": "八度🍪影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://kfxssm.com/",
+       "数组": "<article class=\"movie-item\">&&</article>",
+       "标题": "alt=\"&&\"",
+       "图片": "data-src=\"&&\"",
+       "副标题": "uploadDate\">&&</i>",
+	    "简介": "带您走进电影的幕后故事，解读影片的深层含义，让您在观影之余，还能增长知识",
+        "链接": "https://kfxssm.com/vod/play/id/+href=\"/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+	   "分类":"日本名优$67#乱伦调教$57#国产传媒$21", 
+	   "直接播放":"1", 
+       "分类url": "https://kfxssm.com/vod/type/id/{cateId}/page/{catePg}.html"}},
     
 	
  
