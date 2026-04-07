@@ -903,7 +903,7 @@
  
  
      
-      {"key": "鲨鱼成人網","name": "鲨鱼🦈影视A版",
+      {"key": "鲨鱼成人網","name": "鲨鱼🦈影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -930,25 +930,6 @@
       }},
  
 	
-	  {"key": "鲨鱼视频","name": "鲨鱼🦈影院B版",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "<li class=\"multi\">&&</li>", 
-	"图片": "src=\"&&\"", 
-	 "标题": "alt=\"&&\"", 
-	"副标题": "class=\"continu\">&&</i>", 
-	 "链接": "href=\"&&\"",
-	"搜索模式": "1", 
-	 "分类数组": "<a&&</a>",
-     "分类标题": ">&&<",
-     "分类ID": "/mv/&&.html",
-	
-	 "直接播放":"1",
-	 "搜索链接前缀":"https://shayug.shayusp.fun/play/",
-     "搜索链接后缀":"-1-1.html",
-	"搜索url": "https://shayug.shayusp.fun/search/{wd}----------{pg}---.html",
- 
-	"分类url":"https://shayug.shayusp.fun/mv/{cateId}-{catePg}.html"}},
 	
 	
 	
@@ -1068,7 +1049,7 @@
   
   
   
-       {"key": "蜜汁TV","name": "📺蜜汁TV📺",
+       {"key": "蜜汁TV","name": "📺蜜汁TV📺（失效）",
       "type": 3,"api": "csp_XBPQ","searchable": 1,
       "quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://mizhitv142.buzz/",
@@ -1090,22 +1071,7 @@
   
        
   
-    
-	   { "key": "帝国av","name": "帝国☀️影院",
-       "type": 3,"api": "csp_XBPQ",
-       "ext": {"主页url": "https://dd.diguo23.live/123/",
-        "分类url": "https://dd.diguo23.live/123/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-	    "分类":"国产精品$3#日本布兵$4#日本骑兵$5#探花寻花$7#不道德$8#传媒片商$9#网暴吃瓜$10",
-        "搜索模式": "1",
-		"搜索url": "https://dd.diguo23.live/123/index.php/vod/search.html?wd={wd}",
-		"数组": "<dl>&&</dl>",
-        "标题": "<h3>&&</h3>",
-        "图片": "data-src=\"&&\"",
-		 "副标题": "<i>&&</i>",
-		"链接": "href=\"&&\"",
-		 "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-		 "跳转播放链接": "var player_aaaa*url\":\"&&\"",
-        "直接播放":"1"} },		
+    	
 
   
       { "key": "快播AV","name": "快播🏃‍♀TV",
@@ -1120,9 +1086,10 @@
        "图片": "style=\"background: url('&&') no-repeat;",
        "副标题": "<time>&&</time>",
 	   "链接": "href=\"&&\"",
+	   // "链接": "https://brxkuaiboavxiw.buzz/vodplay/+/detail/&&.html",
 	   "播放数组":"<div class=\"bgcolor\">&&</div>",
-      "播放列表":"<a&&/a>",
-      "播放标题":">&&<",
+      "播放列表":"<button class=\"button\">&&</button>",
+      "播放标题":">&&</a>",
       "播放链接":"href=\"&&\"",
 	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "搜索url":"https://brxkuaiboavxiw.buzz/search/{wd}/{pg}.html",
