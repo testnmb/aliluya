@@ -1385,12 +1385,14 @@
 	 "playerType":"0","searchable":1,"quickSearch":1,
 	 "filterable":1,"ext":{"嗅探词":"https://s1.playhls.com/m3u8.php?",  
 	 "免嗅": "",
-	 "数组":"\"video\"&&\"video\"",
+	 "数组":"\"item video\"&&\"item video\"",
 	 "图片":"style=\"background-image: url('&&');\"",
-	 "标题":"class=\"title\"><a href=\"*\">&&</a>",
+	  "标题":"title=\"&&\"",
 	 "副标题":"duration\">&&</div>",
 	 "简介":"简介：</div>&&</div>",
-	 "链接":"player.html?id=+href=\"video.html?id=&&\"",
+	  "直接播放": "1",
+	// "链接":"player.html?id=+href=\"video.html?id=&&\"",
+	  "链接": "href=\"&&\"",
 	 "跳转播放链接": "",
 	 //"链接前缀":"https://shise.me/",
 	 //"线路数组":"class=\"title\">&&</a>",
@@ -1399,8 +1401,8 @@
 	 //"播放数组":"",
 	 //"播放链接":"src=\"&&\"",
 	 //"播放链接前缀":"https://shise.me/",
-	 "分类url":"https://shise.me/series.html?id={cateId}&page={catePg};;z",
-	 "分类":"情色电影$61c4d9b653b6d#中文AV$63824a975d8ae#日本AV$6206216719462#模特私拍$6030196781d85#业余拍摄$617d3e7acdcc8#糖心Vlog$61014080dbfde#其他影片$60192e83c9e05"}},
+	 "分类url":"https://shise.me/videos/series-{cateId}/{catePg}.html;;z",
+	 "分类":"有码AV$6395aba3deb74#🈚️🐎AV$6395ab7fee104#AV解说$6608638e5fcf7"}},
   
   
   
@@ -1725,25 +1727,7 @@
 	 },
 	
 	
-	  
-	    {"key":"韩情剧场","name":"🎦韩情剧场🎦",
-       "type":3,
-       "api":"csp_XBPQ",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "ext":{"数组":"video-item space-sm\">&&</div></div>",
-	   "图片":"data-original=\"&&\"",
-      "标题":"<div class=\"video-item-title\">&&</a>",
-       "链接":"href=\"&&\"",
-       "副标题": "video-time text-shadow-black\">&&</span>",
-	   "搜索url":"https://www.hqjc8.homes/s/index.html?type=pic&wd={wd}",
-       "搜索模式":"1",
-	   "分类url":"https://www.hqjc8.homes/vodtype/{cateId}-{catePg}.html",
-       "分类":"亚洲骑兵1️⃣$20#亚洲骑兵2️⃣$21#亚洲骑兵3️⃣$22#亚洲骑兵$23#亚洲步兵$25#岛国中文$28#岛国步兵$29#其他$27",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1" }},
-	  
+	
 	  
 	  	
 
@@ -1849,7 +1833,7 @@
 	
 			
 
-     {"key":"暗网禁区","name":"🫂暗网禁区🫂",
+     {"key":"暗网禁区11","name":"🫂暗网禁区🫂（失效）",
 	 "type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
 	 "ext":{ "数组": "class=\"myui-vodlist__box&&</div>",
@@ -1871,7 +1855,7 @@
            {"key": "dabaobei","name": "🐚大宝贝🐚",
 			 "type": 3,"api": "csp_XBPQ",
 			 "style":{"type": "rect","ratio": 1.5},"ext": {
-             "主页url": "https://2626.dabaobei1.sbs/",
+             "主页url": "https://dabaobei.8871246.xyz/",
             "数组": "<div class=\"puremag-list-post-thumbnail\">&&</div></div>",
             "图片": "src=\"&&\"",
             "标题": "rel=\"bookmark\">&&</a>",
@@ -1880,7 +1864,7 @@
             "链接": "href=\"&&\"",
 	       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 		    "直接播放": "1",
-            "分类url": "https://2626.dabaobei1.sbs/{cateId}/page/{catePg};;z",
+            "分类url": "https://dabaobei.8871246.xyz/{cateId}/page/{catePg};;z",
            "分类": "美乳巨乳$美乳巨乳#萝莉少女$萝莉少女#强奸乱伦$强奸乱伦#麻豆传媒$麻豆传媒#AV解说$AV解说#中文字幕$中文字幕#制服诱惑$制服诱惑"}},
 
 
@@ -2007,7 +1991,7 @@
  
    
 		
-		{"key": "NiceAv","name": "niceav🐑820","type": 3,
+		{"key": "NiceAv","name": "niceav🐑820(失效)","type": 3,
 		"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},
 		"ext": {"主页url": "https://www.niceav1010.sbs/",
 		"地址发布url": "https://fuliwz.neocities.org/niceav/",
@@ -2023,7 +2007,7 @@
 		
 		
 		
-		{"key": "AVgle","name": "🚀AVgle🚀",
+		{"key": "AVgle","name": "🚀AVgle🚀(失效)",
 			"type": 3,"api": "csp_XBPQ",
 			"jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/xyqxbpq.jar",
 			"style": {"type": "rect","ratio": 1.5},
@@ -2279,7 +2263,7 @@
 	1,"filterable": 1,"ext": {"请求头": "手机",
     "站名": "比卡比卡",
     "主页url": "https://gredy.xyz/",
-    "数组": "post-list-item\">&&<div class=\"item-meta clearfix\">",
+    "数组": "post-list-item\">&& <div class=\"post-list-item\">",
 	"图片": "style=\"background-image: url(&&);\"",
     "标题": ">&&</a>",
 	"链接": "href=\"&&\"",
