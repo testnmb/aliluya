@@ -21,6 +21,27 @@
 	"分类url":"https://hsak17.com/vod/type/id/{cateId}/page/{catePg}.html"}},
 
 
+        
+	 {"key": "星赐影视","name": "🌟星赐影院🌟",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {
+        "主页url": "https://aszyz.xyz/",
+    "数组": " <div class=\"item\">&&</div></a>",
+    "图片": "src=\"&&\"",
+   "链接":"href=\"&&\"",
+     "标题": "title=\"&&\"",
+    "副标题": "✨色即是空，空即是色✨",
+   "直接播放": "1",
+   "跳转播放链接": "var uul=\'&&\'",
+    "分类url": "https://aszyz.xyz/vod/show/id/{cateId}/page/{catePg}/",
+    "分类": "视频一区$1#视频二区$2#视频三区$3"
+      }},
+		
+
+
+
+
 
 
       	
@@ -2240,7 +2261,7 @@
 
 
 
-
+  
 
 
 		
