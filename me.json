@@ -5,6 +5,37 @@
 "sites":[
 
 
+
+      	
+	  {"key": "快播HD","name": "快播👌影视",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {
+       "数组":"<div class=\"card-innovation animate-fadeInUp\">&&</h4>",
+       "图片":"src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	   "副标题": " <span class=\"badge-innovation\">&&</span>",
+	   "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
+       "线路数组":" <div class=\"play-line-list clearfix\">&&</div>",
+	  
+	   "线路标题": "<span>&&</span>",
+	   "播放数组":" <div class=\"play-line-list clearfix\">&&</div>",
+	   "播放列表": "<a&&</a>",
+	   "播放标题": "<span>&&</span>",
+	   "播放链接": "href=\"&&\"",
+	    "跳转播放链接":"var player_*\"url\":\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://www.kuaibojq.com/vod/search/page/{Pg}/wd/{wd}",
+		
+       "分类url": "https://www.kuaibojq.com/maotype/{cateId}-{catePg}/",
+	   "分类": "日本AV$71#制服诱惑$78#中文字幕$77#人妻熟女$85#自拍偷拍$98#美乳巨乳$96#强奸乱伦$94#探花明星$97"
+      }},
+
+
+
+
+
         {"key": "嫩草影院","name": "嫩草👨‍🌾影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { 
