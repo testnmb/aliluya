@@ -6,6 +6,23 @@
 
 
 
+        {"key": "CEOTV-www.ceotv125.sbs","name": "CEOTV👨‍🌾影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<li class=\"col-25&&</li>", 
+	"图片": "src=\"&&\"", 
+	"标题": "title=\"&&\"", 
+	"副标题": "<small>&&</small>", 
+    "链接": "href=\"&&\"",
+	"直接播放":"1", 
+	"搜索模式": "1", 
+	"简介":"★本站公告★：合理安排时间看片，享受健康生活。撸一撸可以  但是注意身体！！",
+	 "分类": "制服诱惑$8#女优在线$13#强奸乱伦$7#中文字幕$2#亚洲有码$4#日本无码$5#AV解说$16",
+	
+	"分类url":"https://ceotv944.click/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+
+
+
       	
 	  {"key": "快播HD","name": "快播👌影视",
       "type": 3,"api": "csp_XBPQ",
