@@ -6,7 +6,7 @@
 
 
 
-        {"key": "CEOTV-www.ceotv125.sbs","name": "CEOTV👨‍🌾影院",
+        {"key": "CEOTV-www.ceotv125.sbs","name": "CEOTV👨🏃‍♀️影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
 	"ext": { 
 	"数组": "<li class=\"col-25&&</li>", 
@@ -241,77 +241,7 @@
 	
 	
   
-       	
-		{"key": "kanav.ad","name": "kanav.ad","type": 3,
-		"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},
-		"ext": {"主页url": "https://kanav.ad/",
-		"地址发布url": "备用地址：https://m1.kanav.fun",
-		"数组":"class=\"col-md-3 col-sm-6 col-xs-6\">&&</div></div>",
        
-       "图片": "src=\"&&\"",
-        "标题": "alt=\"&&\"",
-     
-		 "副标题": "</a>&&</div></div>",
-        "简介": "⚠️慢点撸，皮要掉了！！！",
-		"链接": "https://kanav.ad/index.php/vod/play/id/+href=\"/&&.html\"+/sid/1/nid/1.html", 
-		 //"链接": "href=\"/index.php/vod/play/id/&&/sid/1/nid/1.html",
-		 //"链接前缀": "https://kanav.ad/index.php/vod/play/id/",
-        //"链接后缀": "/sid/1/nid/1.html",
-        //"跳转播放链接": "urlDecode(var player*url\\\\\\\":\\\\\\\"&&\\\\\\\")",
-		 "搜索模式":"1",
-         "搜索url":"https://kanav.ad/index.php/vod/search.html?wd={wd}&by=time_add",
-		"直接播放": "1",
-		 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "分类url": "https://kanav.ad/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-	
-        "分类": "中文字幕$1#日本有码$2#日本无码$3#国产AV$4#流出自拍y$22#探花约炮$31#自拍泄密$30"}},
-		
-		
-     
-	 
-	 
-	 
-	 
-     	
-		
-  {"key": "银窝窝","name": "🚬淫窝窝🚬",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,"quickSearch": 1,"filterable": 1,
-      "ext": {
-      "主页url": "https://yinwo332.lol/",
-    "数组": "<li class=\"col-6 col-sm-6 col-md-4 col-lg-4 col-xl-3 col-xxl-3\">&&</li>",
-    "图片": "src=\"&&\"",
-    "标题": "title=\"&&\"",
-    "副标题": "<time>&&</time>",
-   "链接": "href=\"&&\"",
-    "简介": "description\" content=\"&&\"",
-    "分类url": "https://yinwo332.lol/type/id/{cateId}/{catePg}.html;;z",
-	
-	  "直接播放": "1",
-      "分类": "探花系列$953#人妻熟女$954#日本无码$955#美乳巨乳$956#强制侵犯$957#制服诱惑$958#绝色佳人$959#风俗泡泡浴$960#家庭乱伦$961#AV解说$962#少女萝莉$964#绝顶潮吹$966#电车痴汉$971
-	  #淫欲痴女$972#中文翻译$385#日本有码$386#高清无码$387#精品素人$388#AV解说分类$390"
-      }},
-
- 
-   
-  	    
-	 {"key": "初の体验","name": "🌟初の体验🌟",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,"quickSearch": 1,"filterable": 1,
-      "ext": {
-        "主页url": "https://demo1.11133301.xyz/",
-    "数组": "class=\"aplusexp&&</a>",
-    "图片": "data-original=\"&&\"",
-    "标题": "title=\"&&\"",
-    "副标题": "✨色即是空，空即是色✨",
-  "链接": "https://demo1.11133301.xyz/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
-   "直接播放": "1",
-    "简介": "description\" content=\"&&\"",
-    "分类url": "https://demo1.11133301.xyz/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
-    "分类": "精品推荐$22#国产情色$23#欧美情色$24#中文字幕$25#成人动漫$26#长腿丝袜$28#日韩伦理$30"
-      }},
-		
-	
 		
 		
 		
@@ -376,31 +306,7 @@
 	
     
 
-          {"key": "广汇女色","name": "广汇女色🙂视频",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,"quickSearch": 1,"filterable": 1,
-      "ext": {
-       "数组":"<div class=\"myui-vodlist__box\">&&</li>",
-       "图片":"data-original=\"&&\"",
-       "链接": "href=\"&&\"",
-       "标题": "title=\"&&\"",
-	   
-	   "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
-	   "线路数组":"<div class=\"operate clearfix\">&&</div>",
-	  "线路标题": "</i>立即播放</a>",
-	   "播放数组":"<div class=\"operate clearfix\">&&</div>",
-	   "播放列表": "<a class=\"btn btn-warm\"&&a>",
-	   "播放标题": "</i>&&</",
-	   "播放链接": "href=\"&&\"",
-	    "跳转播放链接":"var player_*\"url\":\"&&\"",
-	    "搜索模式":"1",
-        "搜索url":"https://ghns9.cfd/search.php?page={pg}&searchword={wd}&searchtype=",
-		 "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#dadim3u8",
-       "分类url": "https://ghns9.cfd/frim/{cateId}-{catePg}.html",
-	    "分类数组": "<a class=\"memu-list-link\"&&</li>",
-        "分类标题": ">&&</a>",
-        "分类ID":"/frim/&&.html"
-      }},
+    
 
      
 	 
@@ -1117,58 +1023,7 @@
 	"分类url":"https://5x.feiji12.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
   
   
-  
-       {"key": "蜜汁TV","name": "📺蜜汁TV📺（失效）",
-      "type": 3,"api": "csp_XBPQ","searchable": 1,
-      "quickSearch": 1,"filterable": 1,
-      "ext": {"主页url": "https://mizhitv142.buzz/",
-       "数组": "<figure class=\"figure\">&&</figure>",
-       "标题": "title=\"&&\"",
-      "图片": "src=\"&&\"",
-       "副标题": "<time>&&</time>",
-       "链接": "https://mizhitv142.buzz/video/play/+/video/info/&&.html",
-	    "搜索模式": "1", 
-	   "搜索url": "https://mizhitv142.buzz/video/lookup/{wd}/L/{pg}.html",
-       "分类url": "https://mizhitv142.buzz/video/type/{cateId}/{catePg}.html[https://mizhitv142.buzz/video/type/{cateId}.html]",
-	    "分类数组": "<a&&/a>",
-        "分类标题": ">&&<",
-        "分类ID": "/video/type/&&.html",
-		"跳转播放链接": "var playUrl=\'&&\'",
-        "直接播放": "1",
-        "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a" }},
-  
-  
-       
-  
-    	
 
-  
-      { "key": "快播AV","name": "快播🏃‍♀TV",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://brxkuaiboavxiw.buzz/",
-	  "数组二次截取":"<ul class=\"clearfix\"&&</ul>",
-       "数组": "<a class=\"video-pic loading\"&&</h5>",
-       "标题": "title=\"&&\"",
-       "图片": "style=\"background: url('&&') no-repeat;",
-       "副标题": "<time>&&</time>",
-	   "链接": "href=\"&&\"",
-	   // "链接": "https://brxkuaiboavxiw.buzz/vodplay/+/detail/&&.html",
-	   "播放数组":"<div class=\"bgcolor\">&&</div>",
-      "播放列表":"<button class=\"button\">&&</button>",
-      "播放标题":">&&</a>",
-      "播放链接":"href=\"&&\"",
-	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "搜索url":"https://brxkuaiboavxiw.buzz/search/{wd}/{pg}.html",
-	    "搜索后缀":"/detail/",
-       "搜索模式":"1",
-	   "分类数组": "<li class=\"item\">&&</li>",
-        "分类标题": "title=\"&&\"",
-        "分类ID": "/list/&&.html",
-       "分类url": "https://brxkuaiboavxiw.buzz/list/{cateId}/{catePg}.html;;z"}},
-  
   
   
    
@@ -1390,28 +1245,6 @@
  
  
  
-    
-      {"key": "好莱污B","name": "好莱坞🚽影院",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://haolw27.buzz/",
-       "数组": "class=\"video-pic loading\"&&</a>",
-       "标题": "title=\"&&\"",
-       "图片":"style=\"background: url('&&') no-repeat;",
-       "链接": "https://swdivazxwfsd.buzz/play/+/info/&&.html",
-	    "搜索模式": "1", 
-	   "搜索url": "https://haolw27.buzz/hunt/{wd}",
-	   "搜索后缀":"",
-       "分类url": "https://haolw27.buzz/type/{cateId}/{catePg}.html",
-	    "分类数组": "<a&&/a>",
-        "分类标题": ">&&<",
-        "分类ID": "/type/&&.html",
-		"跳转播放链接": "var playUrl=\'&&\'",
-        "直接播放": "1",
-         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"}},
- 
  
  
  
@@ -1480,24 +1313,7 @@
   
     
   
-      {"key": "最新AV","name": "新新🆕️影院",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": { 
-	"数组": "<a class=\"thumbnail&&</li>", 
-	"图片": "src=\"&&\"", 
-	  "标题": "alt=\"&&\"", 
-	"副标题": "<p>&&</p>", 
-     "链接": "https://www.zuixinav.shop/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
-	"直接播放":"1", 
-	"搜索模式": "1", 
-	"简介":"★本站公告★：合理安排时间看片，享受健康生活。撸一撸可以  但是注意身体！！",
-	 "分类": "国产在线$1#女优在线$3#精选视频$4#中文字幕$5#传媒剧情$12#在线女星$7#精品日韩1️$2#精品日韩️2$6",
-	"搜索url": "https://www.zuixinav.shop/index.php/vod/search/page/{pg}/wd/{wd}",
-	"搜索链接前缀":"https://www.zuixinav.shop/index.php/vod/detail/id/",
-    "搜索链接后缀":".html",
-	"链接是否直接播放": "1",
-	"分类url":"https://www.zuixinav.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
-	    
+   
    
 
    { "key": "饼干姐","name": "饼干姐🍪影视",
@@ -1661,44 +1477,8 @@
       }},
 	
 	
-	  { "key": "藏姬阁视频","name": "藏姬阁🧍‍♂️视频",
-      "type": 3,"api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://qrno013.cangjimv.xyz/cang/{cateId}-{catePg}/",
-	    "分类数组": "<a&&a>",
-        "分类标题": ">&&</",
-        "分类ID": "/cang/&&.html",
-        "搜索模式": "1",
-		"搜索url": "https://qrno013.cangjimv.xyz/vodsearch/-------------.html?wd={wd}",
 	
-		"搜索链接前缀":"https://qrno013.cangjimv.xyz/cjg/",
-       "搜索链接后缀":"-1-1.html",
-	    "数组二次截取": "<div class=\"mod channel-list\">&&</div>",
-		"数组": "<dt>&&</dt>",
-        "标题": "title=\"&&\"",
-        "图片": "data-src=\"&&\"",
-		"链接": "href=\"&&\"",
 	
-        "直接播放":"1"} },		
-
-	    { "key": "羞涩视频","name": "涩涩😍影视",
-      "type": 3,"api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://lvxssp.xiusese.fun/vod/{cateId}-{catePg}.html",
-	    
-		"分类数组": "<a&&a>",
-        "分类标题": ">&&</",
-        "分类ID": "/vod/&&.html",
-        "搜索模式": "1",
-		"搜索url": "https://lvxssp.xiusese.fun/search/{wd}----------{pg}---.html",
-		 "搜索后缀":"/piay/",
-		"数组": "<a class=\"uzimg&&</a>",
-        "标题": "title=\"&&\"",
-		"副标题":"class=\"title\">&&</span>",
-        "图片": "data-original=\"&&\"",
-		"链接": "href=\"&&\"",
-        "直接播放":"1"
-      } },		
 	
 	
 	
@@ -1902,22 +1682,6 @@
 	
 			
 
-     {"key":"暗网禁区11","name":"🫂暗网禁区🫂（失效）",
-	 "type":3,"api":"csp_XBPQ",
-     "searchable":1,"quickSearch":1,"filterable":1,
-	 "ext":{ "数组": "class=\"myui-vodlist__box&&</div>",
-    "图片": "style=\"background: url('&&')",
-    "标题": "title=\"&&\"",
-    "副标题": "<time>&&</time>",
-    "简介": "description\"*content=\"&&火热",
-    "链接": "href='&&'[替换:display>>detail]",
-    "搜索模式": "1",
-    "搜索url": "https://ncvawjqtv.buzz/lookup/{wd}/L/{pg}",
-    "分类二次截取": "",
-    "分类数组": "<a&&/a",
-    "分类标题": "title=\"&&\"",
-    "分类ID": "/sort/id/&&.html",
-    "分类url": "https://ncvawjqtv.buzz/type/{cateId}/{catePg};;z"}},
 
     
 	 
@@ -1933,7 +1697,7 @@
             "链接": "href=\"&&\"",
 	       "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 		    "直接播放": "1",
-            "分类url": "https://dabaobei.8871246.xyz/{cateId}/page/{catePg};;z",
+            "分类url": "https://dabaobei.8871246.xyz/{cateId}/page/{catePg}",
            "分类": "美乳巨乳$美乳巨乳#萝莉少女$萝莉少女#强奸乱伦$强奸乱伦#麻豆传媒$麻豆传媒#AV解说$AV解说#中文字幕$中文字幕#制服诱惑$制服诱惑"}},
 
 
@@ -2327,23 +2091,6 @@
       "直接播放":"1"}},
 
 
-    {"key": "csp_XYBQ","name": "🚛格瑞地🚛","type": 3,
-	"api": "csp_XBPQ","searchable": 1,"quickSearch": 
-	1,"filterable": 1,"ext": {"请求头": "手机",
-    "站名": "比卡比卡",
-    "主页url": "https://gredy.xyz/",
-    "数组": "post-list-item\">&& <div class=\"post-list-item\">",
-	"图片": "style=\"background-image: url(&&);\"",
-    "标题": ">&&</a>",
-	"链接": "href=\"&&\"",
-    "免嗅": "1",
-    //"跳转播放链接": "urlDecode(var player*url\":\"&&\")",
-    "直接播放":"1",
-    "嗅探词": ".m3u8#.mp4",
-    "分类url": "https://gredy.xyz/{cateId}.html/{catePg}/",
-   
-	"分类ID": "字幕$1/zimzim#有码$2/myoua#制服$4/clothscospl#流出$6/befold#故事$3/forcagush"
-	}},
 
        {"key": "纤纤影视福利版","name": "©️纤纤影视H版（失效）",
 	    "type": 3,"api": "csp_XBPQ","playerType": 1,
