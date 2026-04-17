@@ -5,6 +5,32 @@
 "sites":[
 
 
+      	{
+			"key": "弟大勿勃","name": "🧍‍♂️弟大勿勃🧍‍♂️",
+			"type": 3,"api": "csp_XBPQ","searchable": 1,
+			"quickSearch": 1,"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"主页url": "https://ihw.ddwb3.hair/cn/home/web/",
+				"数组": "<li class=\"fed-list-item&&</li>",
+				"标题": "target=\"_self\">&&</a>",
+				"副标题": "actress\">&&</div>",
+				"图片": "data-original=\"&&\"",
+				"链接": "href=\"&&\"",
+				"跳转播放链接": "var player_*\"url\":\"&&\"",
+				"简介": "description\" content=\"&&\"",
+				"直接播放":"1",
+				"搜索url": "https://ihw.ddwb3.hair/cn/home/web/index.php/vod/search.html?wd={wd}",
+				"分类url": "https://ihw.ddwb3.hair/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+				 "分类":"亚洲青涩$26#强奸伦理$24#人妻熟女$25#制服丝袜$27#岛国中文$23#岛国无码$22"
+			}
+		},
+		
+
+
+
+
+
 
         {"key": "CEOTV-www.ceotv125.sbs","name": "CEOTV👨🏃‍♀️影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
@@ -318,7 +344,7 @@
        "数组":"<a class=\"videopic lazy\"&&</a>",
        "图片":"data-original=\"&&\"",
        "链接": "href=\"&&\"",
-       "标题": "title=\"&&\"",
+       "标题": "title=\"&&\"", 
 	   
 	   "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
 	   "线路数组":"<a href=\"#playlist1\"&&</li>",
@@ -565,10 +591,6 @@
 	
  
 	  
-	  
-	 
-	
-
 
 
 
@@ -601,20 +623,6 @@
 
 
 
-
-       
-  
-	
-	  
-     
- 
-
-	
-
-     
- 
-
-    
 
 
       {"key": "亚洲AV攻略","name": "🌍亚洲攻略🌍",
@@ -1226,7 +1234,7 @@
          "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"}},
  
  
-      {"key": "好莱污A","name": "好莱坞🚽影院A版",
+      {"key": "好莱污A","name": "好莱坞🚽影院",
 		   "type": 3,
 		   "api": "csp_XBPQ","ext": {
            "主页url": "https://boutiquefire.xyz/",
@@ -1420,29 +1428,6 @@
         "分类": "步兵$11#骑兵$10#🀄️字$14#madou$9#制服$23#萝莉$25#美乳$20#熟女$24#探花$4#不道德$21#绿帽$6#颜色$29#国产学生$33"
       }},
 	
-	    {"key": "光棍影院","name": "光棍🎦影院",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"主页url": "https://www.ggyy.app",
-       "数组":"<section class=\"item-box\">&&</a>",
-       "图片":"src=\"&&\"",
-       "链接": "href=\"&&\"",
-       "标题": "title=\"&&\"",
-	   "副标题": "<small>&&</small>",
-	    "简介": "★本站公告★：合理安排时间看片，享受健康生活。撸一撸  注意身体",
-	   "播放数组":"<div class=\"v_con_box\">&&</div>",
-	    "播放列表": "<a&&a>",
-	    "播放标题": ">&&</",
-	   "播放链接": "href=\"&&\"",
-	
-        "搜索url":"https://www.ggyy.app/vodsearch/{wd}/page/{pg}.html",
-		 "搜索链接前缀":"https://www.ggyy.app/vodplay/",
-       "搜索链接后缀":"-1-1.html",
-       "分类url": "https://www.ggyy.app/vodtype/{cateId}-{catePg}.html",
-        "分类": "步兵$23#骑兵$20#🀄️字$25#国产精品$2#制服$31#人妻$9#美乳$32#熟女$34#萝莉$35#强伦$33#欧美三级$29#韩国三级$27"
-      }},
 	
 	
 	
@@ -1575,35 +1560,6 @@
      "分类ID": "/vodtype/&&.html"}
 	 },
 	
-	
-	
-	  
-	  	
-
-	    
-	
-	  
-	  
-      {"key":"茄子视频","name":"茄子🍆影视",
-       "type":3,"api":"csp_XBPQ",
-       "searchable":1,
-       "quickSearch":1, "filterable":1,
-       "ext":{"主页url": "https://qiezi.riben.baby/",
-		"数组":"<div class=\"van-col van-col--12 madou_item\">&&</a>",
-	  "图片": "data-src=\"&&\"",
-      "标题":"title=\"&&\"",
-       "链接":"href=\"&&\"",
-       "副标题":"<div class=\"duration\">&&</div>",
-	   "搜索url":"https://qiezi.riben.baby/index.php/vod/search.html?wd={wd}",
-       "搜索模式":"1",
-	   "分类url":"https://qiezi.riben.baby/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-      "分类":"国产视频$1#日韩$2#东南亚$26#水果派$27",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1"  }},	
-	   
-	
-	
-	  
 
 	
 	
@@ -1621,14 +1577,7 @@
        "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
 	   "直接播放":"1"  }},
   
-	  
 
- 
- 
-    
-	  
-   
-   	  
 	
 	 {"key":"javbus.sbs-","name":"🚌javbus🚌","type":3,"api":"csp_XBPQ",
       "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
@@ -1824,32 +1773,11 @@
  
    
 		
-		{"key": "NiceAv","name": "niceav🐑820(失效)","type": 3,
-		"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},
-		"ext": {"主页url": "https://www.niceav1010.sbs/",
-		"地址发布url": "https://fuliwz.neocities.org/niceav/",
-        "图片": "data-src=\"&&\"",
-        "简介": "⚠️慢点撸，皮要掉了！！！",
-		"链接": "https://www.niceav1010.sbs/index.php/vod/play/id/+href=\"/index.php/vod/play/id/&&.html\"+/sid/1/nid/1.html", 
-		"直接播放": "1",
-		 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "分类url": "https://www.niceav1010.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-	
-        "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"}},
 		
 		
 		
 		
-		{"key": "AVgle","name": "🚀AVgle🚀(失效)",
-			"type": 3,"api": "csp_XBPQ",
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/xyqxbpq.jar",
-			"style": {"type": "rect","ratio": 1.5},
-			"ext": {
-			"主页url": "https://av.gl/",
-			"直接播放": "1",
-			"数组": "<div class=\"thumbnail group\">&&</a></div></div>",
-			"分类url": "https://av.gl/avtype/{cateId}-{catePg}.html;;z",
-			"分类": "日本有码$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"}},
+		
 
 
 
