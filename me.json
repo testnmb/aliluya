@@ -5,16 +5,15 @@
 "sites":[
 
 
-      	{
-			"key": "弟大勿勃","name": "🧍‍♂️弟大勿勃🧍‍♂️",
+      	{"key": "弟大勿勃","name": "🧍‍♂️弟大勿勃🧍‍♂️",
 			"type": 3,"api": "csp_XBPQ","searchable": 1,
 			"quickSearch": 1,"filterable": 1,
 			"ext": {
 				"请求头": "User-Agent$MOBILE_UA",
 				"主页url": "https://ihw.ddwb3.hair/cn/home/web/",
 				"数组": "<li class=\"fed-list-item&&</li>",
-				"标题": "target=\"_self\">&&</a>",
-				"副标题": "actress\">&&</div>",
+				"标题": "target=\"_self\">&&</a><span class=\"fed-list-desc fed-font-xii fed-visible fed-part-eone fed-text-muted fed-hide-xs fed-show-sm-block\">",
+				
 				"图片": "data-original=\"&&\"",
 				"链接": "href=\"&&\"",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
@@ -22,7 +21,7 @@
 				"直接播放":"1",
 				"搜索url": "https://ihw.ddwb3.hair/cn/home/web/index.php/vod/search.html?wd={wd}",
 				"分类url": "https://ihw.ddwb3.hair/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-				 "分类":"亚洲青涩$26#强奸伦理$24#人妻熟女$25#制服丝袜$27#岛国中文$23#岛国无码$22"
+				 "分类":"青涩$26#伦理道德$24#人妻$25#制服$27#中文$23#步兵$22"
 			}
 		},
 		
