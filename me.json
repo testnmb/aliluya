@@ -5,28 +5,28 @@
 "sites":[
 
 
-         	{"key": "多多视频","name": "🧍‍♂️多多视频🧍‍♂️",
-			"type": 3,"api": "csp_XBPQ","searchable": 1,
-			"quickSearch": 1,"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"主页url": "https://szk.ddsp9.bond/cn/home/web/",
-				"数组": "<div class=\"video-item\">&&</a>",
-				"标题": "title=\"&&\"", 
-				
-				"图片": "src=\"&&\"",
-				"链接": "href=\"&&\"",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"简介": "description\" content=\"&&\"",
-				"直接播放":"1",
-				"搜索url": "https://szk.ddsp9.bond/cn/home/web/index.php/vod/search.html?wd={wd}",
-				"分类url": "https://szk.ddsp9.bond/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-				
-             "分类数组": "<a class=\"nav-item \"&&</a>",
-             "分类标题": "target=\"_self\">&&<",
-             "分类ID": "/cn/home/web/index.php/vod/type/id/&&.html"
-			}
-		    },
+         
+		
+	 {"key": "闭月羞花","name": "🌁闭月羞花🌁",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"数组二次截取":"<div class=\"group-contents layui-row\">&&</ul>",
+       "数组":"<a&&</a>",
+       "图片":"data-src=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "<p>&&</p>",
+	 
+	    "搜索模式":"1",
+        "搜索url":"https://byxh8.help/s/{wd}/page/{pg}.html",
+		
+       "分类url": "https://byxh8.help/vodtype/{cateId}-{catePg}.html",
+        "分类": "步兵$26#波霸$21#🀄️字$24#制服$24#国产自拍$18#熟女$23#少女$25#强伦$22"
+      }},
+	
+		
+		
 		
 
 
@@ -53,7 +53,7 @@
 		},
 		
 
-
+  
 
 
 
