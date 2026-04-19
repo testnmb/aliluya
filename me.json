@@ -11,9 +11,9 @@
 			"ext": {
 				"请求头": "User-Agent$MOBILE_UA",
 				"主页url": "https://szk.ddsp9.bond/cn/home/web/",
-				"数组": "<li><p class=\"img\">&&</li>",
+				"数组": "<div class=\"video-item\">&&</a>",
 				"标题": "title=\"&&\"", 
-				"副标题": "<i>&&</i>", 
+				
 				"图片": "src=\"&&\"",
 				"链接": "href=\"&&\"",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
@@ -21,9 +21,9 @@
 				"直接播放":"1",
 				"搜索url": "https://szk.ddsp9.bond/cn/home/web/index.php/vod/search.html?wd={wd}",
 				"分类url": "https://szk.ddsp9.bond/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-				 "分类二次截取": "<li class=\"\">&&</li>",
-             "分类数组": "<a&&</a>",
-             "分类标题": "target=\"_self\">&&<span>",
+				
+             "分类数组": "<a class=\"nav-item \"&&</a>",
+             "分类标题": "target=\"_self\">&&<",
              "分类ID": "/cn/home/web/index.php/vod/type/id/&&.html"
 			}
 		    },
