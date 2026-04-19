@@ -5,6 +5,33 @@
 "sites":[
 
 
+         	{"key": "多多视频","name": "🧍‍♂️多多视频🧍‍♂️",
+			"type": 3,"api": "csp_XBPQ","searchable": 1,
+			"quickSearch": 1,"filterable": 1,
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"主页url": "https://szk.ddsp9.bond/cn/home/web/",
+				"数组": "<p class=\"img\">&&</li>",
+				"标题": "title=\"&&\"", 
+				"副标题": "<i>&&</i>", 
+				"图片": "src=\"&&\"",
+				"链接": "href=\"&&\"",
+				"跳转播放链接": "var player_*\"url\":\"&&\"",
+				"简介": "description\" content=\"&&\"",
+				"直接播放":"1",
+				"搜索url": "https://szk.ddsp9.bond/cn/home/web/index.php/vod/search.html?wd={wd}",
+				"分类url": "https://szk.ddsp9.bond/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+				 "分类二次截取": "<li class=\"\">&&</li>",
+           "分类数组": "<a&&</a>",
+         "分类标题": "target=\"_self\">&&<span>",
+         "分类ID": "/cn/home/web/index.php/vod/type/id/&&.html"
+			}
+		},
+		
+
+
+
+
       	{"key": "弟大勿勃","name": "🧍‍♂️弟大勿勃🧍‍♂️",
 			"type": 3,"api": "csp_XBPQ","searchable": 1,
 			"quickSearch": 1,"filterable": 1,
