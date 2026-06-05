@@ -13,7 +13,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"数组二次截取":"<div class=\"group-contents layui-row\">&&</ul>",
-       "数组":"<a&&</a>",
+       "数组":"<a&&</a>","主页url": "https://byxh8.help/cn/home/web/",
        "图片":"data-src=\"&&\"",
        "链接": "href=\"&&\"",
        "标题": "<p>&&</p>",
@@ -140,35 +140,6 @@
 		
 
 
-
-
-
-
-      	
-	   {"key": "百万影院","name": "百万🙂视频",
-      "type": 3,"api": "csp_XBPQ",
-      "searchable": 1,"quickSearch": 1,"filterable": 1,
-      "ext": {
-       "数组":"<div class=\"stui-vodlist__box\">&&</li>",
-       "图片":"data-original=\"&&\"",
-        "链接":"href=\"&&\"",
-       "标题": "title=\"&&\"",
-	   
-	   "简介": "★本站公告★：合理安排时间看片，享受健康生活。小撸怡情，大撸伤身， 注意身体",
-	   //"线路数组":"<a href=\"#playlist1\"&&</li>",
-	   // "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
-       //"直接播放":"1",
-	    "搜索模式":"1",
-        "搜索url":"https://e.bwyy.net/vodsearch/-------------.html?wd={wd}",
-		"线路数组":"<a href=\"#playlist1\"&&</li>",
-	  "线路标题": ">百万影院<",
-		"播放数组":"<ul class=\"stui-content__playlist clearfix\">&&</ul>",
-	   "播放列表": "<a&&a>",
-	   "播放标题": ">&&</",
-	   "播放链接": "href=\"&&\"",
-       "分类url": "https://e.bwyy.net/vodtype/{cateId}-{catePg}.html",
-	    "分类": "中文字幕$16#一区有码$6#强奸伦理$9#人妻熟女$10#抠脚元射$49#制服丝袜$68#巨乳美乳$61#少女萝莉$69#精品推荐$58#女优合集$59#亚洲🈚️🐎$93"
-      }},
 
 
       
@@ -624,7 +595,7 @@
     "api": "csp_XBPQ","style": {"ratio": 1.7},
 	"ext": { "发布页url": "https://www.fxy222.top/confirm.html
 	https://fxy333.top/index.html?timestamp=1748605063580 发布页:xingquy.com 发布页:xqy789.com 找回邮箱：qiqiwuqi7757@gmail.com",
-    "主页url": "https://eedff12.top/",
+    "主页url": "https://m.xxxdd1.top/",
     "数组": "class=\"myui-vodlist__box&&</div>",
      "图片":"data-original=\"&&\"",
     "标题": "title=\"&&\"",
@@ -632,7 +603,7 @@
    	 "链接": "href=\"&&\"",
 	  "简介": "style=\"display: none;\">&&</span>",
     "搜索模式": "1",
-    "搜索url": "https://eedff12.top/vodsearch/{wd}----------{pg}---.html",
+    "搜索url": "https://m.xxxdd1.top/vodsearch/{wd}----------{pg}---.html",
 	"搜索数组": "<div class=\"thumb\">&&</li>",
 	"搜索标题": "title=\"&&\"",
 	"搜索图片": "data-original=\"&&\"",
@@ -645,7 +616,7 @@
     "播放标题":"</i>&&<",
     "播放链接":"href=\"&&\"",
 	"分类":"全部$1#日韩视频$8#国产精品$10#国产视频$9#不道德$12#中文字幕$11#熟女人妻$40#精品综合$47#制服诱惑$44#三级伦理$45#巨乳美乳$46#少女萝莉$43",
-    "分类url": "https://eedff12.top/vodshow/{cateId}--{by}------{catePg}---.html"}},
+    "分类url": "https://m.xxxdd1.top/vodshow/{cateId}--{by}------{catePg}---.html"}},
 
 
 
